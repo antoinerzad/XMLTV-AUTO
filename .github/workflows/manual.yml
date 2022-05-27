@@ -26,14 +26,12 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Runs a single command using the runners shell
-    - name: Mise a jour du systeme
-      run: sudo apt update && sudo apt -y upgrade
 
     - name: Installation des dependances 
       run: sudo apt -y install php php-curl php-zip php-mbstring php-xml php-json
 
     - name: composer 
-      run: sudo composer install 
+      run: composer install 
 
     - name: Téléchargement des programmes
       run: php example/script_all.php
