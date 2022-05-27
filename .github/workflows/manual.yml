@@ -30,7 +30,8 @@ jobs:
 
     - name: Installation des dependances 
       run: sudo apt -y install php php-curl php-zip php-mbstring php-xml php-json
-
+    - name: ls
+      run: ls
 
     - name: Téléchargement des programmes
       run: php example/script_all.php
