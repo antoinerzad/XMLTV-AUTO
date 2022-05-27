@@ -27,7 +27,7 @@ jobs:
     # Runs a single command using the runners shell
 
     - name: Installation des dependances 
-      run: sudo apt -y install php php-curl php-zip php-mbstring php-xml php-json ls
+      run: sudo apt -y install php php-curl php-zip php-mbstring php-xml php-json 
     - name: ls
       run: ls
 
