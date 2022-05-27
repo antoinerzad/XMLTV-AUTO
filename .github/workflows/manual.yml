@@ -27,13 +27,13 @@ jobs:
     steps:
     # Runs a single command using the runners shell
     - name: Mise a jour du systeme
-      run: apt update && apt -y upgrade
+      run: sudo apt update && sudo apt -y upgrade
 
     - name: Installation des dependances 
-      run: apt -y install php php-curl php-zip php-mbstring php-xml php-json
+      run: sudo apt -y install php php-curl php-zip php-mbstring php-xml php-json
 
     - name: composer 
-      run: composer install 
+      run: sudo composer install 
 
     - name: Téléchargement des programmes
       run: php example/script_all.php
