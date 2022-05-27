@@ -1,6 +1,6 @@
 # This is a basic workflow that is manually triggered
 
-name: Manual workflow
+name: Auto grab
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
@@ -30,16 +30,6 @@ jobs:
     - name: Installation des dependances 
       run: sudo apt -y install php php-curl php-zip php-mbstring php-xml php-json
 
-
-    - name: ls 
-      run: ls -al 
-      
-      
-    - name: sudo ls 
-      run: sudo ls  
-      
-    - name: composer 
-      run: composer install 
 
     - name: Téléchargement des programmes
       run: php example/script_all.php
