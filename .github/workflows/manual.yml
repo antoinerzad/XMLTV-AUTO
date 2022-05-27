@@ -35,6 +35,9 @@ jobs:
       run: ls -al 
       
       
+    - name: sudo ls 
+      run: sudo ls  
+      
     - name: composer 
       run: composer install 
 
