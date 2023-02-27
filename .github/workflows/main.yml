@@ -27,7 +27,7 @@ jobs:
         sudo apt -y install git composer php php-curl php-zip php-mbstring php-xml php-json
         sudo git clone https://github.com/racacax/XML-TV-Fr
         cd XML-TV-Fr
-        sudo cp -r * /..
+        sudo cp -r * ../
         cd ..
         sudo rm -rf XML-TV-Fr
         composer install
