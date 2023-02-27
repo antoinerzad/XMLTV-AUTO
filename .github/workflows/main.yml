@@ -22,14 +22,20 @@ jobs:
     - name: Checkout repo
       uses: actions/checkout@v3
         
-    - name: Creer un dossier
-      run: rm -rf *
-      
-
+    - name: Creation des fichiers
+      run: |
+        apt -y install git composer php php-curl php-zip php-mbstring php-xml php-json
+        git clone https://github.com/racacax/XML-TV-Fr
+        cd XML-TV-Fr
+        cp -r * /..
+        cd ..
+        rm -rf XML-TV-Fr
+        composer install
+        
       
     - name: Modifiy the specific files using action
       uses: EndBug/add-and-commit@v9
       with:
-       message: 'Mise à jour des programmes'
+       message: 'Mise en places des fichiers'
       
    
