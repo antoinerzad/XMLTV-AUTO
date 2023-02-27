@@ -27,7 +27,7 @@ jobs:
       run: touch salut/test.sh 
       
     - name: Modifiy the specific files using action
-      uses: antoinerzad/XMLTV-AUTO@ref
+      uses: antoinerzad/XMLTV-AUTO@master
       
     - name: push
       run: |
