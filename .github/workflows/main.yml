@@ -4,7 +4,7 @@ name: Mise à jour des programmes TV
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
-#on:
+on:
   push:
     branches: [ master ]
   pull_request:
