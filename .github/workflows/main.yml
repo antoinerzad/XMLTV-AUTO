@@ -1,0 +1,33 @@
+# This is a basic workflow that is manually triggered
+
+name: Auto grab
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  pull_request:
+  
+
+jobs:
+  # This workflow contains a single job called "greet"
+  TV:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Runs a single command using the runners shell
+
+    - name: Creer un dossier
+      run: mkdir salut
+    - name: Creer un fichier
+      run: touch salut/test.sh 
+    - name: push
+      run: |
+        git config --global user.name "antoinerzad"
+        git config --global user.email "antoinerzad@gmail.com"
+
+        git add -A
+        git commit -m "Mise a jour des des programmes"
+        git push
+   
