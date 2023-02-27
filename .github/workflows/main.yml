@@ -22,8 +22,13 @@ jobs:
 
     - name: Creer un dossier
       run: mkdir salut
+      
     - name: Creer un fichier
       run: touch salut/test.sh 
+      
+    - name: Modifiy the specific files using action
+      uses: action-owner/action-repo@ref
+      
     - name: push
       run: |
         git config --global user.name "antoinerzad"
