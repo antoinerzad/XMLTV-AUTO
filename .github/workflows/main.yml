@@ -27,14 +27,6 @@ jobs:
       run: touch salut/test.sh 
       
     - name: Modifiy the specific files using action
-      uses: antoinerzad/XMLTV-AUTO@main
+      uses: stefanzweifel/git-auto-commit-action@v4
       
-    - name: push
-      run: |
-        git config --global user.name "antoinerzad"
-        git config --global user.email "antoinerzad@gmail.com"
-
-        git add -A
-        git commit -m "Mise a jour des des programmes"
-        git push
    
