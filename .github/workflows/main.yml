@@ -5,11 +5,9 @@ name: Mise à jour des programmes TV
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
 on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]  
-
+  schedule:
+    - cron: "0 6 * * *" # Runs at 06:00 AM (UTC),
+    
 jobs:
   # This workflow contains a single job called "greet"
   TV:
