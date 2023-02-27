@@ -27,7 +27,7 @@ jobs:
       run: touch salut/test.sh 
       
     - name: Modifiy the specific files using action
-      uses: stefanzweifel/git-auto-commit-action@v4
+      uses: stefanzweifel/git-auto-commit-action@v9
       with:
        add: '*'
       
