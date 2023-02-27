@@ -25,11 +25,11 @@ jobs:
     - name: Creation des fichiers
       run: |
         sudo apt -y install git composer php php-curl php-zip php-mbstring php-xml php-json
-        git clone https://github.com/racacax/XML-TV-Fr
-        cd XML-TV-Fr
-        cp -r * /..
-        cd ..
-        rm -rf XML-TV-Fr
+        sudo git clone https://github.com/racacax/XML-TV-Fr
+        sudo cd XML-TV-Fr
+        sudo cp -r * /..
+        sudo cd ..
+        sudo rm -rf XML-TV-Fr
         sudo composer install
         
       
