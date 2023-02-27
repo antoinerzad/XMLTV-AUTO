@@ -1,0 +1,316 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230304044500 +0100" stop="20230304052000 +0100" channel="France3Limousin.fr">
+<title lang="fr">Slam</title>
+<desc lang="fr">Accessible à tous les publics, &quot;Slam&quot; est un jeu de lettres 100% original qui fait la joie des amoureux des mots, des férus de quiz et des adeptes des mots fléchés, en mixant tous les genres, de la géographie aux mathématiques, en passant par la chimie...et bien sûr le français. Au menu: vivacité d'esprit, humour, vocabulaire, orthographe et bien sûr culture générale!</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4D32FD9684DE0CADD2F41387781B767E.jpg" />
+<episode-num system="xmltv_ns">0.3561.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304052000 +0100" stop="20230304060000 +0100" channel="France3Limousin.fr">
+<title lang="fr">Questions pour un champion</title>
+<desc lang="fr">Samuel Etienne anime ce jeu emblématique, qui voit chaque soir s'affronter quatre candidats autour de questions de culture générale.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B555ED3476BF43109E7BEB66CA1B28D6.jpg" />
+<episode-num system="xmltv_ns">0.10097.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304060000 +0100" stop="20230304081500 +0100" channel="France3Limousin.fr">
+<title lang="fr">Okoo</title>
+<desc lang="fr">Une sélection de dessins animés, des reportages, des expériences pour apprendre en s'amusant, des découvertes et des exclus, avec Okoo il y en aura pour tous les goûts et pour tous les enfants de 3 à 12 ans !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/ADE997442D452604028A0932ED4AD9B0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304081500 +0100" stop="20230304100000 +0100" channel="France3Limousin.fr">
+<title lang="fr">Samedi Okoo</title>
+<desc lang="fr">Une sélection de dessins animés, des reportages, des expériences pour apprendre en s'amusant, des découvertes et des exclus, avec Okoo il y en aura pour tous les goûts et pour tous les enfants de 3 à 12 ans !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A0E4E4E7319157C11DDB6CB720028434.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304100000 +0100" stop="20230304103000 +0100" channel="France3Limousin.fr">
+<title lang="fr">Rencontres à XV</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7DCA0F8AD64E480F5F194B63BC6571CB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304103000 +0100" stop="20230304103500 +0100" channel="France3Limousin.fr">
+<title lang="fr">Consomag</title>
+<sub-title lang="fr">Le DPE, un flot d'erreurs trop pénalisantes</sub-title>
+<desc lang="fr">Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Consommation</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F1F37FA731312CF7F1ECCC3E51E83A4F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304103500 +0100" stop="20230304111000 +0100" channel="France3Limousin.fr">
+<title lang="fr">Outremer.gourmand</title>
+<desc lang="fr">(Reprise du 04/03/23)</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B3C092B30AC72AE6F723D13CE7328A66.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304111000 +0100" stop="20230304111500 +0100" channel="France3Limousin.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique du service de presse de France 3-Météo France.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/ED7B0AA64DE592BACEC56DBC3FFBBBA1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304111500 +0100" stop="20230304112900 +0100" channel="France3Limousin.fr">
+<title lang="fr">Outremer.l'info</title>
+<desc lang="fr">Reportages, décryptages, focus... la Rédaction du Pôle Outre-mer propose &quot;Outremer.l'info&quot;, le journal d'information consacré à l'actualité ultramarine. De Saint-Pierre-et-Miquelon à Wallis-et-Futuna, en passant par la Guadeloupe, la Martinique, la Guyane, Mayotte, la Réunion, la Polynésie et la Nouvelle-Calédonie, faites le tour de l'actualité quotidienne des Outre-mer en 9 minutes, 7 jours sur 7, tout au long de l'année !</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/11E78259F8E9EBD5C4A5E518EF452F77.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304112900 +0100" stop="20230304120000 +0100" channel="France3Limousin.fr">
+<title lang="fr">Dans votre région</title>
+<desc lang="fr">Des hommes et des femmes, issus de toutes les régions de France, partagent leurs expériences, leurs passions, et font découvrir leur mode de vie.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7E9DB10AEFBAF2251E45E0E15AAB4BCD.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304120000 +0100" stop="20230304121800 +0100" channel="France3Limousin.fr">
+<title lang="fr">12/13 : Journal régional</title>
+<desc lang="fr">Journal de l'actualité régionale par la rédaction de France 3.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DAC47C1EA044D3005B75592920818C79.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304121800 +0100" stop="20230304122500 +0100" channel="France3Limousin.fr">
+<title lang="fr">12/13 : Météo régionale</title>
+<desc lang="fr">Un aperçu des prévisions météorologiques concernant la région pour la journée et le lendemain.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/22D93FA0A6E5B4882D379928894C1A13.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304122500 +0100" stop="20230304125500 +0100" channel="France3Limousin.fr">
+<title lang="fr">12/13 : Journal national</title>
+<desc lang="fr">Journal national du 12/13 pour connaître l'essentiel de l'actualité nationale à la mi-journée.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9D40B253491BCC119BEC8CD3F1487045.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304125500 +0100" stop="20230304133500 +0100" channel="France3Limousin.fr">
+<title lang="fr">Les nouveaux nomades</title>
+<desc lang="fr">(Reprise du 04/03/23)</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3FCCD16841BB1D2A3640F3A24B9415F4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304133500 +0100" stop="20230304151500 +0100" channel="France3Limousin.fr">
+<title lang="fr">Samedi d'en rire</title>
+<desc lang="fr">(Reprise du 04/03/23)</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Humour</category>
+<icon src="https://img.bouygtel.fr/CMS/images/41CF019DB731FF3B221FE0B87532D8D8.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304151500 +0100" stop="20230304161500 +0100" channel="France3Limousin.fr">
+<title lang="fr">Les carnets de Julie</title>
+<sub-title lang="fr">Paysans d'aujourd'hui en Île-de-France</sub-title>
+<desc lang="fr">Le chef Amandine Chaignot guide Julie à travers l'Ile-de-France. Au menu : - Charcuteries et pain de Thierry - Risotto de Laurent - Focaccia végétale d'Amandine - Plateau de fromages de Pierre - Fontainebleau de Pierre.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C4C95F447649740B04588CC3A6E542CD.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304161500 +0100" stop="20230304170000 +0100" channel="France3Limousin.fr">
+<title lang="fr">Les carnets de Julie</title>
+<sub-title lang="fr">A la table de Georges Simenon</sub-title>
+<desc lang="fr">Julie se rend dans les terres vendéennes, au coeur de la forêt du Mervent, pour partir sur les traces d'un auteur, et non des moindres : Georges Simenon. Les recettes : Tarte au riz, réalisée par John Simenon. - Poulet Bonne femme, réalisé par Sylvie et ses amies. - Fricandeau à l'oseille, réalisé par Didier Gallot.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2AB9618D4294E47F4489A741F0ECE073.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304170000 +0100" stop="20230304170500 +0100" channel="France3Limousin.fr">
+<title lang="fr">Expression directe</title>
+<sub-title lang="fr">La France insoumise</sub-title>
+<desc lang="fr"> Organisations syndicales, partis politiques, mais aussi mouvements d'entrepreneurs prennent la parole.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0DE4FDEC5DFF9A05EC5EFD9918F4039C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304170500 +0100" stop="20230304171000 +0100" channel="France3Limousin.fr">
+<title lang="fr">La p'tite librairie</title>
+<desc lang="fr">François Busnel propose chaque jour de vous faire découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D3A50BA9E4A81C2F346DACF8A4CC1705.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304171000 +0100" stop="20230304175500 +0100" channel="France3Limousin.fr">
+<title lang="fr">Des chiffres et des lettres</title>
+<desc lang="fr">Retrouvez désormais &quot;Des Chiffres et Des Lettres&quot; chaque week-end, animé par Laurent Romejko, entouré de ses deux nouveaux experts : Blandine Maire et Stéphane Crosnier. Maîtrise de l'orthographe et calcul mental sont encore et toujours les maîtres mots de ce célèbre jeu. D'origine Beaujolaise, Blandine Maire est professeure des écoles. Elle a participé à l'offre Lumni en y donnant des cours de français. Originaire de Tours, le lien de Stéphane Crosnier avec &quot;Des Chiffres et des Lettres&quot; est très fort. Il a été une première fois candidat à l'émission en 1988 avec succès. Il a ensuite gagné la Coupe des Champions en 1997, et le Championnat en 2010.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/374A6DC93122E40CE8E5A14E30A0CE22.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304175500 +0100" stop="20230304185000 +0100" channel="France3Limousin.fr">
+<title lang="fr">Questions pour un super champion</title>
+<desc lang="fr">&quot;Questions pour un Super Champion&quot;, la compétition incontournable qui propose, chaque samedi, de retrouver les plus grands champions ayant obtenu plusieurs victoires au cours de l'émission quotidienne, et qui vont s'affronter pour tenter de détrôner le champion en lice au cours d'un face à face final. Avec toujours des matchs de haut niveau et une cagnotte de 50 000€ à remporter toutes les 5 victoires !</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/57BE96F035E3C43017AF4E982D9E8523.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304185000 +0100" stop="20230304185800 +0100" channel="France3Limousin.fr">
+<title lang="fr">Météo des neiges</title>
+<desc lang="fr">Toutes les informations sur l'enneigement dans les stations de ski et sur les chutes de neige dans les villes.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/45BBEFC96DAC8834C01835463CD65F74.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304185800 +0100" stop="20230304190000 +0100" channel="France3Limousin.fr">
+<title lang="fr">19/20 : Météo régionale</title>
+<desc lang="fr">Un aperçu des prévisions météorologiques qui devraient concerner la région pour les jours à venir.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FD779ED425955B90AA1FEC7844A41F50.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304190000 +0100" stop="20230304192300 +0100" channel="France3Limousin.fr">
+<title lang="fr">19/20 : Journal régional</title>
+<desc lang="fr">Toute l'actualité régionale par la rédaction de France 3.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/776CB6DAC26DF484B3661A6A7B318417.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304192300 +0100" stop="20230304193000 +0100" channel="France3Limousin.fr">
+<title lang="fr">19/20 : Météo régionale</title>
+<desc lang="fr">Un aperçu des prévisions météorologiques qui devraient concerner la région pour les jours à venir.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FD779ED425955B90AA1FEC7844A41F50.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304193000 +0100" stop="20230304200000 +0100" channel="France3Limousin.fr">
+<title lang="fr">19/20 : Journal national</title>
+<desc lang="fr">Toute l'actualité nationale par la rédaction de France 3.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/475E1B408E0CBCCB8C718377B9F22E94.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304200000 +0100" stop="20230304201000 +0100" channel="France3Limousin.fr">
+<title lang="fr">Saveurs de saison</title>
+<desc lang="fr">Des recettes avec des produits régionaux.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F451E11DE96825A11F146333D7A432E0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304201000 +0100" stop="20230304201500 +0100" channel="France3Limousin.fr">
+<title lang="fr">Météo régionale</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C9B0DA9BE56DF6CB4EF23457F004A4AA.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304201500 +0100" stop="20230304203000 +0100" channel="France3Limousin.fr">
+<title lang="fr">Tout le sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/78CF86FDA718CFB0D1456994B0691F67.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304203000 +0100" stop="20230304210500 +0100" channel="France3Limousin.fr">
+<title lang="fr">Cuisine ouverte</title>
+<desc lang="fr">(Reprise du 04/03/23)</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/71FB8E9766FA8285E938DA244D5CE4B5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304210500 +0100" stop="20230304211000 +0100" channel="France3Limousin.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique du service de presse de France 3-Météo France.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/ED7B0AA64DE592BACEC56DBC3FFBBBA1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304211000 +0100" stop="20230304224000 +0100" channel="France3Limousin.fr">
+<title lang="fr">Meurtres à...</title>
+<sub-title lang="fr">Meurtres en Béarn</sub-title>
+<desc lang="fr">Au pied des montagnes du Béarn, l'épouse d'un notable est retrouvée noyée sous le pont de la Légende de Sauveterre. Jeanne, la gouailleuse capitaine de la brigade de recherche d'Oloron, se retrouve flanquée d'Héloïse, une élégante bourgeoise. Jadis très amies, les deux quinquagénaires se détestent à présent. La cause de leur dispute : elles sont les mères d'un jeune couple engagé dans un fracassant divorce. Jeanne va devoir mener une enquête difficile et s'occuper en même temps de sa relation avec Héloïse.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4A6587CD5195FC8AD2E1DF47D70A33B4.jpg" />
+<episode-num system="xmltv_ns">9.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304224000 +0100" stop="20230305002000 +0100" channel="France3Limousin.fr">
+<title lang="fr">Meurtres à...</title>
+<sub-title lang="fr">Meurtres au Pays basque</sub-title>
+<desc lang="fr">Dans la région de Saint-Jean-de-Luz, une jeune femme est découverte suppliciée selon un mode d'exécution chrétien, pratiqué au Moyen Age dans la région. Marie Daguerre, 38 ans, inspectrice fraîchement promue au commissariat de Bayonne, est chargée de l'enquête. C'est sa première affaire de meurtre. A Paris, Vincent Becker, 50 ans, figure mythique du 36 quai des Orfèvres, reçoit un appel au secours de son fils Mathias, dont il était sans nouvelles depuis plusieurs années. Le dernier coup de fil de Mathias ayant été passé depuis Saint-Jean-de-Luz, Jean se rend sur place. En plus de son enquête, Marie est chargée, par sa hiérarchie, d'assister Vincent Becker dans ses recherches...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/63D235F2712D9FA0638FF405818D02B4.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230305002000 +0100" stop="20230305002500 +0100" channel="France3Limousin.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique du service de presse de France 3-Météo France.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/241E71B43EBA48E1CD8C51FA9E9FEDE6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305002500 +0100" stop="20230305025500 +0100" channel="France3Limousin.fr">
+<title lang="fr">Roméo et Juliette (Opéra national de Paris)</title>
+<desc lang="fr">Au XVe siècle, à Vérone. Deux des plus riches familles de la ville, les Montaigu et les Capulet, ne cessent de se quereller. Cependant, lors d'un bal, Roméo, des Montaigu, s'éprend de Juliette, fleuron de la famille rivale. Les jeunes gens se vouent un amour éternel et, grâce à divers complices, parviennent à se marier, à l'insu de leurs familles. Les deux tourtereaux n'ont guère le temps de savourer leur union. Au cours d'un duel, Roméo blesse mortellement Tybalt, un cousin de Juliette. Contraint à l'exil par le prince, il abandonne sa belle. La famille de Juliette a tôt fait de lui trouver un bon parti, en la personne de Pâris.</desc>
+<category lang="fr">Ballet</category>
+<category lang="fr">Ballet classique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E3BD93C5512D962A9739E7CF80AB9765.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305025500 +0100" stop="20230305030000 +0100" channel="France3Limousin.fr">
+<title lang="fr">La p'tite librairie</title>
+<desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D3A50BA9E4A81C2F346DACF8A4CC1705.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305030000 +0100" stop="20230305043000 +0100" channel="France3Limousin.fr">
+<title lang="fr">Samedi d'en rire</title>
+<desc lang="fr">Dans une ambiance chaleureuse et conviviale, Jean-Luc Lemoine et ses acolytes vous donnent rendez-vous pour vous faire revivre les moments cultes de l'humour et les tubes légendaires qui ont rythmé nos vies tout en vous faisant jouer avec votre culture musicale et humoristique. Pour l'accompagner, chaque semaine, vos chroniqueurs préférés : - Nadège Beausson-Diagne, avec sa répartie et son esprit pétillant, distille sa bonne humeur et nous fait découvrir de véritables pépites inédites de la chanson française. - Marc Toesca, notre &quot;Monsieur Musique&quot;, retrace la carrière de nos plus grands chanteurs et nous raconte ses meilleurs souvenirs d'artistes et ses plus belles anecdotes. - Yoann Riou, quant à lui, porte un regard candide teinté de bonne humeur et de bienveillance sur ces années-là.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Humour</category>
+<icon src="https://img.bouygtel.fr/CMS/images/41CF019DB731FF3B221FE0B87532D8D8.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305043000 +0100" stop="20230305051000 +0100" channel="France3Limousin.fr">
+<title lang="fr">Les matinales</title>
+<desc lang="fr">Programme de musique classique pour se réveiller en douceur.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/32028F6D5EF94877B0FC38CDCBC90CBD.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

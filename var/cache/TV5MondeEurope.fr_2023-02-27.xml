@@ -1,0 +1,409 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230227062400 +0100" stop="20230227062900 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/11/068877912288acebf5a62380009f0fd2ae46190f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227062900 +0100" stop="20230227065500 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Télématin</title>
+<desc lang="fr">De l'info et de la bonne humeur, 7 jours sur 7 ! Réveils dynamiques garantis avec Thomas Sotto et Julia Vignali du lundi au jeudi, puis Damien Thévenot et Maya Lauqué du vendredi au dimanche.</desc>
+<category lang="fr">Magazine de services</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/08/1fdc2b06f724944b7fa3c4d3adba3b30a1a35dce_1245F8153D49BEA89F8DBA4B297974BF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227065500 +0100" stop="20230227065800 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">La séquence du filmeur</title>
+<sub-title lang="fr">Le filmeur d'avenir</sub-title>
+<desc lang="fr">Tractopelles, puis coffrages et coulage du béton armé, jusqu'à la pose de l'isolation (l'amiante !) : un cinéaste amateur a filmé, entre 1962 et 1965, la construction du lycée professionnel de Fourmies, dans le Nord. Narration : François Morel.</desc>
+<category lang="fr">Documentaire histoire</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/12/29/6a0077cdc92fabf62f335a6cef4a847a6f7f9954.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227065800 +0100" stop="20230227070000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">La minute urbaine</title>
+<desc lang="fr">Un tour des villes d'Europe à travers leurs trésors emblématiques.</desc>
+<category lang="fr">Magazine du tourisme</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/08/899981195a46ec10c54b2a84e638637e9adaef02.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227070000 +0100" stop="20230227072700 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Télématin</title>
+<desc lang="fr">De l'info et de la bonne humeur, 7 jours sur 7 ! Réveils dynamiques garantis avec Thomas Sotto et Julia Vignali du lundi au jeudi, puis Damien Thévenot et Maya Lauqué du vendredi au dimanche.</desc>
+<category lang="fr">Magazine de services</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/08/1fdc2b06f724944b7fa3c4d3adba3b30a1a35dce_1245F8153D49BEA89F8DBA4B297974BF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227072700 +0100" stop="20230227073000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Au détour</title>
+<desc lang="fr">Petites cartes postales envoyées des plus beaux coins de France.</desc>
+<category lang="fr">Magazine de la gastronomie</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/313b942ef548e68d4ca415af0244c1004b20600e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227073000 +0100" stop="20230227075600 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Télématin</title>
+<desc lang="fr">De l'info et de la bonne humeur, 7 jours sur 7 ! Réveils dynamiques garantis avec Thomas Sotto et Julia Vignali du lundi au jeudi, puis Damien Thévenot et Maya Lauqué du vendredi au dimanche.</desc>
+<category lang="fr">Magazine de services</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/08/1fdc2b06f724944b7fa3c4d3adba3b30a1a35dce_1245F8153D49BEA89F8DBA4B297974BF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227075600 +0100" stop="20230227080000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Merci Professeur</title>
+<desc lang="fr">Une chronique sur la langue française, ses curiosités, son actualité et ses accents.</desc>
+<category lang="fr">Magazine éducatif</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/19/f16e7273f578709a20d0f839973421f7a256c395.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227080000 +0100" stop="20230227082700 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Journal Radio Canada</title>
+<desc lang="fr">Le journal télévisé proposé par la rédaction de Radio-Canada.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/31/710f12fd3ceb7d2162e6c76e3363b5defe0122f0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227082700 +0100" stop="20230227083900 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">TV5MONDE, le journal</title>
+<desc lang="fr">Toute l'actualité nationale et internationale proposée par la rédaction de TV5MONDE.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/28/86edb6e019a0a3bf0bf457fe30f62b18d7c0389f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227083900 +0100" stop="20230227090600 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Population d'Afrique</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine politique</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/26/02da278bb898747aa1fc6172a42bd6ee203099b2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227090600 +0100" stop="20230227093800 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Cuisine ouverte</title>
+<sub-title lang="fr">À Nantes, avec Daniel Picouli</sub-title>
+<desc lang="fr">Le chef Mory Sacko met à l'honneur l'héritage et la diversité de la gastronomie française à travers un échange amical et inventif entre une cuisine des terroirs et une cuisine ouverte aux influences du monde. Dans chaque région, il réinterprète une recette et invite chefs et producteurs locaux.</desc>
+<category lang="fr">Magazine culinaire</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/21/830327be8f1f408c3bf1beb3315e06a06e3b9e5d.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227093800 +0100" stop="20230227100300 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Roi des rivières</title>
+<sub-title lang="fr">Rivière Matane</sub-title>
+<desc lang="fr">Saison 3 Episode 9
+La passion d'André pour la pêche au saumon a débuté sur la rivière Matane, il y a plus de quarante ans. Ainsi peut-il constater les changements qui affectent la Gaudreau, l'une de ses fosses mythiques.
+Année de réalisation : 2021</desc>
+<category lang="fr">Documentaire pêche</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/09/16/ebc21229662115792f0958a5d8c957486193392e.jpg" />
+<episode-num system="xmltv_ns">2.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227100300 +0100" stop="20230227103000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">C'est du belge</title>
+<sub-title lang="fr">Richard Ruben en toute intimité</sub-title>
+<desc lang="fr">L'humoriste Richard Ruben ouvre les portes de sa maison et offre un portrait très intime en compagnie de sa famille. Également, l'étonnante histoire du surf en Belgique, les 100 ans du Forum de Liège et une imprimante 3D dans le service de rééducation du CHU de Liège.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/15/a7cf563cde4987dda82ffa4303bc7d8bbeeb77b0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227103000 +0100" stop="20230227105600 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Epicerie fine</title>
+<sub-title lang="fr">Le Médoc Atlantique</sub-title>
+<desc lang="fr">Au sein de la communauté de communes Médoc Atlantique, Élise et Adrien sont à la tête des domaines Uijttewaal, qui proposent le grand cru Château Saint-Hilaire. Bertrand Iung produit des huîtres dans sa ferme Eau Médoc. Découverte de la réserve naturelle de l'étang de Cousseau et du marais d'Hourtin-Carcans.</desc>
+<category lang="fr">Magazine de la gastronomie</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/27/a2f0e98661c6bee663e5882f913020ddf73e79b1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227105600 +0100" stop="20230227110000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Le journal de l'économie : Entreprises</title>
+<desc lang="fr">Focus sur l'histoire d'une entreprise francophone qui se lance dans l'exportation ou réussit sur le marché international. Le site :</desc>
+<category lang="fr">Magazine de l'économie</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/30/9a1f991454b9b3b7888f8d2e2de4c35179ae97a3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227110000 +0100" stop="20230227111400 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">TV5MONDE, le journal</title>
+<desc lang="fr">Toute l'actualité nationale et internationale proposée par la rédaction de TV5MONDE.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/28/86edb6e019a0a3bf0bf457fe30f62b18d7c0389f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227111400 +0100" stop="20230227111700 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/11/068877912288acebf5a62380009f0fd2ae46190f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227111700 +0100" stop="20230227114000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Un si grand soleil</title>
+<desc lang="fr">Après l'autopsie du corps de Sylvie, il devient clair qu'elle a été victime d'un homicide. Guilhem est suspecté et demande un service à Elisabeth. Parallèlement, l'expertise des toiles de Brénas innocente Alix...</desc>
+<category lang="fr">Feuilleton policier</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/17/9a505b5134c08182c7a775dd337dfa0186bcf0af.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227114000 +0100" stop="20230227114500 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Vestiaires</title>
+<sub-title lang="fr">Jeu de main</sub-title>
+<desc lang="fr">Saison 7 Episode 18
+Romy et Orson, deux nageurs handicapés, se retrouvent chaque semaine pour leur entraînement, et font partager leur vision du monde pleine d'humour et de dérision.
+Année de réalisation : 2017</desc>
+<category lang="fr">Série humoristique</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/22/e29d9645dbba7064733bea25a783ab1eded09443.jpg" />
+<episode-num system="xmltv_ns">6.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227114500 +0100" stop="20230227123300 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Tout le monde veut prendre sa place</title>
+<desc lang="fr">Le jeu où tout le monde peut devenir champion. Un quiz, des candidats, et un champion que tous rêvent de déloger !</desc>
+<category lang="fr">Jeu</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/01/f55f32abfd2e1b37e25d58ea4c8b39ad8d4dcb7d.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227123300 +0100" stop="20230227133000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">L'art a du chien et du chat</title>
+<desc lang="fr">Dans les musées et les galeries d'art, les chiens et les chats figurent en bonne place. Pourquoi inspirent-ils tant les créateurs ? Que révèlent ces oeuvres sur le lien qui unit ces animaux domestiques à l'homme ?</desc>
+<category lang="fr">Documentaire découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/06/0c1f8ea510b049ea85ce9266ae1fe1f24797afbb.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227133000 +0100" stop="20230227135900 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">JT 19h30</title>
+<desc lang="fr">Toute l'actualité internationale proposée et présentée par la rédaction de la RTBF.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/29/25b6181fc1b4e89feb09126b67a2879cddef174f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227135900 +0100" stop="20230227153500 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">L'oubliée d'Amboise</title>
+<desc lang="fr">Après avoir donné un concert au château d'Amboise, un violoniste virtuose est retrouvé assassiné à quelques mètres de la tombe de Léonard De Vinci, dans une position qui rappelle L'Homme de Vitruve, un des plus célèbres dessins de l'artiste. Capitaine à la section de recherches d'Orléans, Alban Dutertre revient dans sa ville natale, où il n'a pas que des bons souvenirs, pour mener l'enquête. Il fait équipe avec l'adjudant Bérénice Amarillo, de quinze ans sa cadette, une gendarme brillante mais timorée, qui a du mal à se défaire du poids d'une arrestation qui a mal tourné. Bientôt, un autre meurtre a lieu, toujours inspiré de Léonard De Vinci. S'ils veulent arrêter le meurtrier, Alban et Bérénice vont devoir résoudre une énigme digne de celles que l'artiste se plaisait à construire.</desc>
+<category lang="fr">Téléfilm policier</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/04/04/1a45256820041d61e8a5aa8f92f8c488aec2c12a.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227153500 +0100" stop="20230227160600 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Hep taxi !</title>
+<sub-title lang="fr">Sandrine Kiberlain</sub-title>
+<desc lang="fr">La cliente idéale : elle a tous les talents, le goût du risque et de l'humour ! Sandrine Kiberlain grimpe à bord du taxi et revient sur son carrière qui ne cesse de s'étoffer.</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/27/f1e9d64918935456bd331e8c11221d5699c88252.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227160600 +0100" stop="20230227162400 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Un si grand soleil</title>
+<desc lang="fr">Une femme revient à Montpellier après des années d'absence, afin de faire découvrir sa ville natale à son fils adolescent. Elle se retrouve accusée de meurtre.</desc>
+<category lang="fr">Feuilleton policier</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/17/9a505b5134c08182c7a775dd337dfa0186bcf0af.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227162400 +0100" stop="20230227162800 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Vestiaires</title>
+<sub-title lang="fr">Comme un poisson dans l'eau</sub-title>
+<desc lang="fr">Saison 8 Episode 5
+Romy et Orson, deux nageurs handicapés, se retrouvent chaque semaine pour leur entraînement, et font partager leur vision du monde pleine d'humour et de dérision.
+Année de réalisation : 2018</desc>
+<category lang="fr">Série humoristique</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/22/e29d9645dbba7064733bea25a783ab1eded09443.jpg" />
+<episode-num system="xmltv_ns">7.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227162800 +0100" stop="20230227170200 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Questions pour un champion</title>
+<desc lang="fr">Jeu de culture générale.</desc>
+<category lang="fr">Jeu</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/03/77c1d15b34e20a0ea2c5a4ee26661ea211cb253e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227170200 +0100" stop="20230227180000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Le point</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/12/29/7f3e846607060e7727f10197012e379314e5bad9_E5F315BB7C8F4EC7B6561C8153D67552.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227180000 +0100" stop="20230227182200 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">64' le monde en français</title>
+<desc lang="fr">L'actualité internationale décryptée par le monde francophone. http:\/\/information.tv5monde.com</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/05/359b9a076fe852fe90176d78a7dff85b32504414.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227182200 +0100" stop="20230227182700 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Le journal de l'économie</title>
+<desc lang="fr">Trois minutes pour analyser, décrypter et expliquer l'actualité économique. Le site :</desc>
+<category lang="fr">Magazine de l'économie</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/30/9a1f991454b9b3b7888f8d2e2de4c35179ae97a3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227182700 +0100" stop="20230227183000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/11/068877912288acebf5a62380009f0fd2ae46190f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227183000 +0100" stop="20230227184000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">L'invité</title>
+<desc lang="fr">7 jours sur 7 Patrick Simonin rencontre les artistes, les écrivains, les acteurs et tous ceux qui font vibrer notre époque. &quot; L'invité &quot; est le rendez-vous incontournable des stars et des personnalités qui font l'actualité.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/09/06/a9ba6386b4151a83b9262042b9dc5b4a5b56fc3e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227184000 +0100" stop="20230227193000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">OPJ</title>
+<sub-title lang="fr">Instadrame</sub-title>
+<desc lang="fr">Saison 3 Episode 15
+Tandis qu'elle teste le soin esthétique le plus tendance du moment, &quot;Lili des îles&quot;, la célèbre Instagrameuse de La Réunion, est prise de spasmes et meurt en direct sous les yeux de milliers de followers. Qui a voulu tuer &quot;Lili des îles&quot; ? Son ex petit-ami aigri, une influenceuse rivale ou un stalker menaçant sur les réseaux ?
+Année de réalisation : 2022</desc>
+<category lang="fr">Série policière</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/07/15/a2944e2a776be145c758dba0824639e7ae6a146e.jpg" />
+<episode-num system="xmltv_ns">2.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227193000 +0100" stop="20230227203000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">OPJ</title>
+<sub-title lang="fr">Instadrame</sub-title>
+<desc lang="fr">Saison 3 Episode 16
+L'équipe profite du fait que le stalker virtuel montre de l'intérêt pour la brigadière Kelly Kwaté pour le piéger. Mais le stalker s'avère être une jeune femme jalouse et plutôt inoffensive. C'est alors que les enquêteurs se mettent sur la piste du business généré par l'influenceuse, et ciblent notamment un entrepreneur dans le textile qui venait de conclure un partenariat généreux avec &quot;Lili des îles&quot;.
+Année de réalisation : 2022</desc>
+<category lang="fr">Série policière</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/07/15/a2944e2a776be145c758dba0824639e7ae6a146e.jpg" />
+<episode-num system="xmltv_ns">2.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227203000 +0100" stop="20230227205600 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Journal</title>
+<desc lang="fr">Le journal télévisé proposé par la rédaction de France 2 (édition de 20h, heure de Paris).</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/02/23/56d0038b5f38303de4803b112b00785f0923be5f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227205600 +0100" stop="20230227210000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/11/068877912288acebf5a62380009f0fd2ae46190f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227210000 +0100" stop="20230227224000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Secrets d'histoire</title>
+<sub-title lang="fr">Marguerite d'Angoulême, la perle de François Ier</sub-title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine historique</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/02/15/16d93a56dd006e115925c0955fe19de7bb916e17.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227224000 +0100" stop="20230227230600 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227230600 +0100" stop="20230227230900 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/11/068877912288acebf5a62380009f0fd2ae46190f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227230900 +0100" stop="20230228010000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Série noire</title>
+<desc lang="fr">Franck Poupart est un minable représentant de commerce qui s'ennuie auprès de sa femme, Jeanne. Un jour, une mégère lui échange sa nièce, Mona, contre une robe de chambre en laine des Pyrénées. Poupart tombe sous le charme de la frêle jeune fille. Mona lui parle alors du confortable magot de sa tante...
+Année de réalisation : 1979</desc>
+<category lang="fr">Drame</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/03/29/2bbd0f1b-9933-4728-8d80-e9dcf715968c.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230228010000 +0100" stop="20230228012600 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">TV5MONDE, le journal Afrique</title>
+<desc lang="fr">Toute l'actualité africaine proposée par la rédaction de TV5MONDE. http:\/\/information.tv5monde.com</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/22/448975d743365cdd99ff55a5a6baec2bcee03be2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230228012600 +0100" stop="20230228012900 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/11/068877912288acebf5a62380009f0fd2ae46190f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230228012900 +0100" stop="20230228014100 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Betta</title>
+<desc lang="fr">Jeanne et sa mère, Catherine, ont une relation fusionnelle. Attendue à un week-end de plongée, la jeune femme appréhende l'idée de laisser Catherine seule... Réalisation, scénario : Éléonore Wismes (France, 2021) Genre : drame
+Année de réalisation : 2021</desc>
+<category lang="fr">Court métrage dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/08/9c799a6443c963f166065db690a38844994c3e95.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230228014100 +0100" stop="20230228020100 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Alice</title>
+<desc lang="fr">Brutalement, Alice apprend qu'elle n'est pas la fille biologique de ses parents. Dès lors, tout s'accélère : la jeune femme découvre qui elle est et fera face au mal qui la ronge. Réalisation, scénario : Ludovic Gicquel (France, 2021)
+Année de réalisation : 2021</desc>
+<category lang="fr">Court métrage dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/08/9a1c3f7c3f6034da7bc6e77dfffe4515b9dde864.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230228020100 +0100" stop="20230228022100 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">El conquistador</title>
+<desc lang="fr">Fanny s'est entichée du beau Diego, un coureur de jupons qui la fait souffrir. Lors d'une soirée, dans l'espoir de le rendre jaloux, elle décide de se laisser courtiser par le premier venu. L'astuce fonctionne. Sauf que le premier venu, Victorino, photographe péruvien, ne compte pas rendre son ticket si facilement.
+Année de réalisation : 2021</desc>
+<category lang="fr">Court métrage dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/08/9c799a6443c963f166065db690a38844994c3e95.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230228022100 +0100" stop="20230228031300 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Sur le front</title>
+<sub-title lang="fr">Où sont passés nos oiseaux ?</sub-title>
+<desc lang="fr">Pourquoi les moineaux ont-ils disparu de nos villes ? Pourquoi sont-ils de moins en moins nombreux à la campagne ? Pour sauver les oiseaux, il faut d'abord comprendre les raisons de leur disparition. Hugo Clément enquête sur les menaces qui planent sur les cigognes, les chardonnerets et les plus belles espèces qui vivent en France.</desc>
+<category lang="fr">Magazine de l'environnement</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/13/682e71120b309f967ea7353dee2ce6c4bc41e1e7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230228031300 +0100" stop="20230228033500 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Un si grand soleil</title>
+<sub-title lang="fr">Épisode 305</sub-title>
+<desc lang="fr">Tandis que les menaces contre Virgile l'obligent à prendre des mesures d'urgence, Eliott réalise qu'il s'est mis dans une situation délicate.</desc>
+<category lang="fr">Feuilleton policier</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/17/9a505b5134c08182c7a775dd337dfa0186bcf0af.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230228033500 +0100" stop="20230228040000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Un si grand soleil</title>
+<desc lang="fr">Le piège se referme sur Virgile tandis que Lucille doit digérer sa déception. Pendant ce temps, Johanna prend des mesures radicales.</desc>
+<category lang="fr">Feuilleton policier</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/17/9a505b5134c08182c7a775dd337dfa0186bcf0af.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230228040000 +0100" stop="20230228042600 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Allô tribunal</title>
+<sub-title lang="fr">Caméléon</sub-title>
+<desc lang="fr">Saison 3 Episode 20
+Plusieurs individus ont fait irruption chez Ivanga Mamba pour le frapper avant de le jeter nu sur la place publique. M. Zokou, l'accusé, ne nie pas être le commanditaire. Il parle du plaignant comme un danger public et un usurpateur notoire...
+Année de réalisation : 2021</desc>
+<category lang="fr">Série humoristique</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/01/17/c8c042acc1eefcba97a32af44bb0b7cf9889381b.jpg" />
+<episode-num system="xmltv_ns">2.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230228042600 +0100" stop="20230228053200 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">C dans l'air</title>
+<desc lang="fr">Pas un événement important qui ne soit évoqué, expliqué et analysé ! En plateau, invités et journalistes analysent les grands faits du moment mais également les sujets qui font polémique, nous permettant ainsi de mieux comprendre l'actualité sociale, politique, culturelle qui rythme notre quotidien.</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/22/967e6ed07b7f871c42be90838762c573112c2d36.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230228053200 +0100" stop="20230228055800 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Bonne santé !</title>
+<sub-title lang="fr">La hernie inguinale</sub-title>
+<desc lang="fr">Gros plan sur la hernie inguinale, une hernie de la paroi abdominale qui touche exclusivement les hommes. Ensuite, Gabin Yarpeu Maka nous dit tout sur le métier d'infirmier. Enfin, nous nous rendons à Libreville où les couples stériles peuvent désormais recourir à la procréation médicalement assistée.</desc>
+<category lang="fr">Magazine de la santé</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/27/068cf28120319f3af10b0948413e1fee7cd81cb6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230228055800 +0100" stop="20230228062400 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Le 6h info</title>
+<desc lang="fr">Le journal de 6h00 (heure de Paris) proposé par la rédaction de France Télévisions.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/01/7d46298d408d1e95a45669600ebd5eb803b9b309.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

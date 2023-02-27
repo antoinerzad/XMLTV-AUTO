@@ -1,0 +1,135 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230303044300 +0100" stop="20230303070400 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230303070400 +0100" stop="20230303075900 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">+ de courts</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D30DC3CC9D945A6185F090B05D033A67.jpg" />
+<episode-num system="xmltv_ns">0.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230303075900 +0100" stop="20230303081400 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">Tchi tcha : coup de projecteur</title>
+<sub-title lang="fr">Arrête avec tes mensonges</sub-title>
+<desc lang="fr">Magazine sur les actualités culturelles, suit les plus populaires événements cinématographiques. </desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/30C9E8EAFA43775C66F0833F30CEED25.jpg" />
+<episode-num system="xmltv_ns">1.19.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230303081400 +0100" stop="20230303095500 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">Cry Macho</title>
+<desc lang="fr">Mike Milo, un ancien champion de rodéo revenu de tout, est devenu éleveur de chevaux. Il accepte une mission aux allures d'odyssée rédemptrice. Le voici en route vers le Mexique, où il doit retrouver le fils d'un vieil ami et le lui ramener. Il faut protéger l'adolescent de Leta, sa mère alcoolique et fêtarde. Celle-ci ne veut pas qu'on lui enlève son fils. Après avoir tenté en vain de dissuader Mike en le séduisant, elle lance à ses trousses un homme de main. En fuite, le duo improbable fait halte dans un village mexicain. Mike s'éprend, et vice versa, d'une veuve propriétaire d'un restaurant...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BDDD0E0CF8BE2EDA42C4709A73F49B0E.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230303095500 +0100" stop="20230303115300 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">355</title>
+<desc lang="fr">Lorsqu'une arme top secrète se retrouve entre les mains de mercenaires, une membre de la CIA, Mason &quot;Mace&quot; Brown, est forcée de rejoindre Marie, agent allemand et ancienne collaboratrice du MI6, une spécialiste en informatique, Khadijah, et l'experte psychologue colombienne Graciela pour la récupérer, tout en gardant une certaine avance par rapport à une femme mystérieuse, Lin Mi Sheng, qui surveille tous leurs mouvements. Amenée à parcourir le globe pour parvenir à ses fins, cette faction féminine va devoir former une alliance qui pourrait protéger le monde, ou le mener à sa perte...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Action</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1EB4A1F998AAD1033C055916BD7FDDFB.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230303115300 +0100" stop="20230303120600 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">L'hebd'Hollywood</title>
+<desc lang="fr">La revue de l'actualité du cinéma US. Sortie salles, festivals, films en préparation ou en tournage : Didier Allouch est notre sentinelle à Hollywood ! Des news ponctuées de rencontres avec les grandes figures du cinéma américain, de belles exclus, ainsi que des sujets surprenants sur les coulisses de la célèbre cité des Anges.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DD52482E5A6E85163FD3FCCD6D617E25.jpg" />
+<episode-num system="xmltv_ns">0.21.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230303120600 +0100" stop="20230303135800 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">Uncharted</title>
+<desc lang="fr">Nathan Drake, un jeune voleur, s'associe à Victor &quot;Sully&quot; Sullivan, un chasseur de trésors, pour retrouver la fortune d'une valeur inestimable de Ferdinand Magellan, disparue depuis cinq siècles. Les deux se lancent dans un périlleux tour du monde avec l'impitoyable Moncada collé à leurs basques. Ce dernier considère que le trésor revient à sa famille et il se voit par conséquent comme un légitime héritier. Mais Nathan et Sully partent avec une longueur d'avance : des indices qu'aurait laissés le frère du premier vont les mener à Paris, puis vers Gizeh. La cohabitation entre générations permettra-t-elle d'accomplir cet objectif ? </desc>
+<category lang="fr">Film</category>
+<category lang="fr">Action</category>
+<icon src="https://img.bouygtel.fr/CMS/images/20EA07A2F377B968D264B1C9AFE1534C.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230303135800 +0100" stop="20230303155600 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">Goliath</title>
+<desc lang="fr">Après le suicide par immolation d'une jeune militante écologiste, une prise de conscience collective entraîne d'importantes manifestations. La cible de ces citoyens révoltés ? Un géant intouchable de l'agrochimie, attaqué pour son plus célèbre désherbant dont il nie fermement la toxicité. Face à un acte qui a ému l'opinion publique, la justice doit trancher. France, spécialiste du droit environnemental, entame un bras de fer judiciaire à l'issue incertaine face à un mastodonte réputé pour broyer moralement ses adversaires. Menaces, intimidations, elle subit une pression de tous les instants, mais refuse courageusement de rompre...</desc>
+<category lang="fr">Action</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0FBDC939299EDDCAE71255580C64461C.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230303155600 +0100" stop="20230303174100 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">The Cursed : Le film</title>
+<desc lang="fr">La journaliste chevronnée Im Jin Hee enquête sur une série de meurtres de hauts cadres d'une entreprise pharmaceutique. A chaque fois, le corps sans vie du meurtrier est retrouvé à côté de celui de sa victime. Les autopsies révèlent que les tueurs étaient morts depuis plusieurs mois au moment de l'homicide. Im Jin Hee, aidée par So Jin, une adolescente capable de jeter des sorts mortels, découvre que les morts-vivants sont manipulés par un chamane lié à Forest, le plus grand conglomérat informatique de Corée du Sud...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Horreur</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5944FB393B942E6447CF13A1FA3064AD.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230303174100 +0100" stop="20230303183500 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">+ de courts</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D30DC3CC9D945A6185F090B05D033A67.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230303183500 +0100" stop="20230303205800 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">Spider-Man : No Way Home</title>
+<desc lang="fr">Trahi lors de son combat face à Mystério, Spider-Man ne peut désormais plus se cacher. Son identité est maintenant connue de tous. Alors que le gouvernement est sur ses traces, désireux de le poursuivre pour meurtre, Peter Parker doit se résoudre à demander l'aide du docteur Strange afin d'élaborer un plan pour brouiller les esprits et ainsi faire oublier qui il est. Malheureusement, la tentative de ce dernier se transforme rapidement en fiasco, et les conséquences se révèlent désastreuses pour les deux, plongés, à la suite d'une malencontreuse manipulation qui a déréglé l'espace-temps, dans un univers inconnu et très effrayant...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Fantastique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/66A09AD24CA4504DB87416D926D5534C.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230303205800 +0100" stop="20230303223000 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">De nos frères blessés</title>
+<desc lang="fr">Dans les années 50, une rencontre anodine dans un café se transforme en une relation passionnée pour Hélène et Fernand. Originaire d'Algérie, ce dernier parvient à convaincre sa dulcinée de le suivre pour commencer une nouvelle vie à Alger, dans un pays alors au bord de la guerre civile. Bouleversé par les exactions dont il est témoin, Fernand choisit de prendre fait et cause pour la libération du pays des mains et de rejoindre les rangs des partisans de l'indépendance. Malgré les pressions et les menaces des autorités françaises suspicieuses à son égard, Hélène ne cède pas et choisit d'embrasser la lutte aux côtés de son époux...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7B7DB498E305BB1AA359E71E8A6944E6.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230303223000 +0100" stop="20230303231700 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">Le cercle</title>
+<desc lang="fr">&quot;Le Cercle&quot; est un magazine de débats et de critiques cinéphiles animé par un journaliste en compagnie de chroniqueurs et en présence d'un public d'étudiants en cinéma.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7431B056264E6376A72252CC56130951.jpg" />
+<episode-num system="xmltv_ns">0.23.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230303231700 +0100" stop="20230304014200 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">Nightmare Alley</title>
+<desc lang="fr">Après avoir fait ses gammes auprès d'une voyante et de son mari, un célèbre mentaliste de ces années 40, Stanton décide qu'il est désormais temps de voler de ses propres ailes. La rencontre avec ces deux personnages a bouleversé son existence, et il a très rapidement saisi les profits qu'il pourrait tirer auprès d'une clientèle aisée avec un tel &quot;don&quot;. Et qui d'autre que Lilith Ritter, une psychiatre qu'il connait depuis peu mais chez laquelle il a immédiatement décelé un machiavélisme sans bornes, pour l'accompagner dans ce plan très lucratif. Ensemble, ils passent sans coup férir à l'action, faisant fi des pourtant nombreux risques...</desc>
+<category lang="fr">Action</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3D142DFB0D82536F614BDA86037600D1.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230304014200 +0100" stop="20230304034400 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">Doctor Strange in the Multiverse of Madness</title>
+<desc lang="fr">A force de jouer avec le feu et de provoquer toujours plus de dégâts à travers ses diverses expériences, le docteur Strange doit désormais faire face aux conséquences de ses actes. Grandement affecté, le multivers menace d'exterminer l'humanité entière. Pour tenter de conjurer le sort, il fait appel à Wanda et à Wong, le sorcier suprême. Wanda dévoile les secrets des mécanismes du fonctionnement de l'espace et du temps à son nouvel associé, qui essaye ainsi de découvrir les causes précises qui ont conduit à une telle détérioration du système entier. Stupéfaits, ils ne tardent pas à comprendre la surprenante origine du mal...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Fantastique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0E926AEDD6C1CCAE8D85CDACFF21ACBD.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230304034400 +0100" stop="20230304050500 +0100" channel="CanalPlusCinema.fr">
+<title lang="fr">Super-héros malgré lui</title>
+<desc lang="fr">Fatigué des petits rôles secondaires, Cédric saute de joie quand il apprend par son agente qu'il a été choisi pour interpréter le premier super-héros à la française, &quot;Badman&quot;. Alors qu'il commence à se familiariser avec son personnage, le jeune homme subit un violent choc frontal lors d'un accident de voiture. Assommé, il finit par se réveiller, frappé d'une totale amnésie. La seule chose dont il se souvient, c'est qu'il est Badman. Convaincu qu'il est missionné pour sauver le monde, Cédric se lance alors dans une inexplicable chasse aux ennemis invisibles, au grand dam d'un entourage incapable de lui faire retrouver ses esprits...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FC4B78E0AD01B7067A1C6BD3CD6DE7A7.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>

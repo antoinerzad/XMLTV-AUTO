@@ -1,0 +1,368 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230304061400 +0100" stop="20230304063400 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/11/068877912288acebf5a62380009f0fd2ae46190f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304063400 +0100" stop="20230304070200 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Basik</title>
+<desc lang="fr">L'émission qui explore et explique l'économie, décortique notre rapport à l'argent et inspecte notre pouvoir d'achat. Les enjeux économiques, sociétaux et environnementaux de demain sont abordés sur un ton direct, proche des gens et parfois espiègle !</desc>
+<category lang="fr">Magazine de l'économie</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/01/02/7381de265774cd0578fcc5599ef26cbc7b56faa6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304070200 +0100" stop="20230304072900 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Falò</title>
+<sub-title lang="fr">Les petites bulles de la discorde</sub-title>
+<desc lang="fr">Magazine d'information qui traite et analyse en profondeur des sujets d'actualité.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/35cd83066975f29c0b603883262e5ad58c960841.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304072900 +0100" stop="20230304080000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">A bon entendeur</title>
+<sub-title lang="fr">ABE vous emmène à la découverte des métavers</sub-title>
+<desc lang="fr">Avec cette émission hors du commun, A bon entendeur vous entraîne dans les métavers, ces mondes numériques parallèles faits de réalité virtuelle, de vie sociale en ligne et de commerce en espèces sonnantes et trébuchantes.</desc>
+<category lang="fr">Magazine du consommateur</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/27/af0629cf9bddf1000df2fc4536200552ac4cde99.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304080000 +0100" stop="20230304082700 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Journal Radio Canada</title>
+<desc lang="fr">Le journal télévisé proposé par la rédaction de Radio-Canada.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/31/710f12fd3ceb7d2162e6c76e3363b5defe0122f0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304082700 +0100" stop="20230304083900 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">TV5MONDE, le journal</title>
+<desc lang="fr">Toute l'actualité nationale et internationale proposée par la rédaction de TV5MONDE.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/28/86edb6e019a0a3bf0bf457fe30f62b18d7c0389f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304083900 +0100" stop="20230304090400 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Les saisons de pique-assiette</title>
+<desc lang="fr">C'est un plat anti gaspi que nous propose le chef du jour, Angelo Citiulo. La panzanella, une salade estivale basée sur la récupération du pain sec, agrémentée de légumes (tomates et concombres) et servie dans une soupière.</desc>
+<category lang="fr">Magazine culinaire</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/22/b43c09ec1885dca8ac53a50a94ca33da06631db1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304091700 +0100" stop="20230304092400 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Moka</title>
+<sub-title lang="fr">La malédiction des paresseux parjures</sub-title>
+<desc lang="fr">Saison 1 Episode 75
+Petit crocodile naïf et intrépide, Moka, le fils du roi de la savane, décide de partir explorer son vaste royaume. Cerise, une courageuse rhinocéros de la garde royale, assure sa protection. Mais l'insatiable curiosité de Moka et son attitude impulsive vont les traîner dans des aventures rocambolesques.
+Année de réalisation : 2019</desc>
+<category lang="fr">Série d'animation</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/06/13/49de74776415ad59c401ba13cd1b6a5f61024a8c.jpg" />
+<episode-num system="xmltv_ns">0.74.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304092400 +0100" stop="20230304093100 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Nawak</title>
+<sub-title lang="fr">La taupe</sub-title>
+<desc lang="fr">Saison 1 Episode 48
+Nawak vit heureux dans son village avec sa famille et son meilleur ami, Kawak, un poney qui l'accompagne partout. Le problème, cependant, est que Nawak est très maladroit. Même l'activité quotidienne la plus simple devient un véritable défi pour lui et se termine généralement par une catastrophe !
+Année de réalisation : 2021</desc>
+<category lang="fr">Série d'animation</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/18/0e05ac75003f123d92024fb28229fa021fb30229.jpg" />
+<episode-num system="xmltv_ns">0.47.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304100200 +0100" stop="20230304101400 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Oum le dauphin blanc</title>
+<sub-title lang="fr">Le concours de javelot</sub-title>
+<desc lang="fr">Saison 2 Episode 29
+Dans un atoll de Polynésie, Yann et sa petite soeur Marina vivent avec leur oncle Patrick, océanographe réputé. Les deux enfants rencontrent Oum, un mystérieux dauphin blanc toujours prêt à venir en aide à ceux qu'il aime. Leur amitié va les pousser à explorer les richesses des fonds marins.
+Année de réalisation : 2016</desc>
+<category lang="fr">Série d'animation</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/03/31/51fc664f-9a9f-4c5f-a9dd-813dca350ac4.jpg" />
+<episode-num system="xmltv_ns">1.28.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304101400 +0100" stop="20230304102600 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Oum le dauphin blanc</title>
+<sub-title lang="fr">Le roi des homards</sub-title>
+<desc lang="fr">Saison 2 Episode 30
+Dans un atoll de Polynésie, Yann et sa petite soeur Marina vivent avec leur oncle Patrick, océanographe réputé. Les deux enfants rencontrent Oum, un mystérieux dauphin blanc toujours prêt à venir en aide à ceux qu'il aime. Leur amitié va les pousser à explorer les richesses des fonds marins.
+Année de réalisation : 2016</desc>
+<category lang="fr">Série d'animation</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/03/31/51fc664f-9a9f-4c5f-a9dd-813dca350ac4.jpg" />
+<episode-num system="xmltv_ns">1.29.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304102600 +0100" stop="20230304103800 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Idéfix et les Irréductibles</title>
+<sub-title lang="fr">Des menhirs dans le ciel</sub-title>
+<desc lang="fr">Saison 1 Episode 29
+52 avant JC. La ville de Lutèce est occupée par les Romains... Toute entière ? Non ! Une bande d'irréductibles animaux menée par Idéfix résiste encore et toujours à l'envahisseur et à ses projets de romanisation de la cité.
+Année de réalisation : 2020</desc>
+<category lang="fr">Série d'animation</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/23/d59149cacb0e951abb9c7bd451772f40d02fb97c.jpg" />
+<episode-num system="xmltv_ns">0.28.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304103800 +0100" stop="20230304104900 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Idéfix et les Irréductibles</title>
+<sub-title lang="fr">Le charcutier se rebiffe</sub-title>
+<desc lang="fr">Saison 1 Episode 30
+52 avant JC. La ville de Lutèce est occupée par les Romains... Toute entière ? Non ! Une bande d'irréductibles animaux menée par Idéfix résiste encore et toujours à l'envahisseur et à ses projets de romanisation de la cité.
+Année de réalisation : 2020</desc>
+<category lang="fr">Série d'animation</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/15/56df6afb987ae8c2539c94611130ba6c1fce4080.jpg" />
+<episode-num system="xmltv_ns">0.29.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304104900 +0100" stop="20230304110000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Moi, Elvis</title>
+<sub-title lang="fr">Moi, Elvis et l'assurance Elvis</sub-title>
+<desc lang="fr">Saison 1 Episode 36
+Pinkerton fait fortune en proposant aux habitants d'Icaria une &quot;assurance anti-Elvis&quot;. Mais Elvis réagit en confectionnant une bulle géante dans laquelle il s'installe pour éviter de créer des catastrophes. Cette bulle est-elle assez résistante ?... 
+Année de réalisation : 2020</desc>
+<category lang="fr">Série d'animation</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/04/26/bc8f5b4c-a320-4bb6-8c0d-1f2641340a6c.jpg" />
+<episode-num system="xmltv_ns">0.35.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304110000 +0100" stop="20230304113200 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">7 jours sur la planète</title>
+<desc lang="fr">Magazine hebdomadaire d'actualité qui revient sur les événements phares de la semaine.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/28/1582073902b58cb81f7d06652b0b43d86a6fecc5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304113200 +0100" stop="20230304120000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Objectif Monde : l'hebdo</title>
+<sub-title lang="fr">Mayotte-Comores : les soeurs ennemies</sub-title>
+<desc lang="fr">Reportage, enquête, investigation... &quot; Objectif Monde L'hebdo &quot;, le magazine des rédactions francophones, prend le temps de la réflexion et de l'analyse grâce aux regards croisés de spécialistes. Une émission de TV5MONDE, coproduite avec la RTS, en collaboration avec ses partenaires francophones (RTBF, Radio-Canada, France Télévisions).</desc>
+<category lang="fr">Magazine de géopolitique</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/22/8baa0b0bf678d72d540c0a1a6006fe510b4a3a38.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304120000 +0100" stop="20230304130000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Internationales</title>
+<desc lang="fr">Le grand entretien sur l'actualité mondiale proposé par TV5MONDE, en partenariat avec le quotidien français ''Le Monde''.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/06/e9d4738271a9776abf9fcde83ebd502b4f608293.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304130000 +0100" stop="20230304133000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Maghreb-Orient Express</title>
+<desc lang="fr">Quoi de neuf dans les mondes arabes ? Le journaliste Mohamed Kaci reçoit les personnalités qui font l'actualité culturelle à Alger, Tunis, Rabat, Beyrouth, Dubaï...</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/10/868c4a48f557be8b03f721c9510f819fc554da7e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304133000 +0100" stop="20230304140100 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">JT 19h30</title>
+<desc lang="fr">Toute l'actualité internationale proposée et présentée par la rédaction de la RTBF.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/29/25b6181fc1b4e89feb09126b67a2879cddef174f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304140100 +0100" stop="20230304160000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Des racines et des ailes</title>
+<sub-title lang="fr">Sur les sentiers du littoral, du Cap d'Antibes aux Calanques</sub-title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine de reportages</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/08/26/28ffaed018b3f6eea6a942d1f059053c99e7ea66.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304160000 +0100" stop="20230304163000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Tendance XXI</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine de la mode</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/02/17/ca25a787ff16ceb7d3a1eac8f8861146ea2f81e5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304163000 +0100" stop="20230304170000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Monte-Carlo Riviera</title>
+<desc lang="fr">L'histoire de l'unique souveraine de Monaco : la princesse Louise Hippolyte. Visite du Centre botanique de Monaco et son exceptionnelle collection de cactus et de plantes exotiques. Découverte de la fête de la Saint-Éloi, à Tende, dans la vallée de la Roya. Plongée dans le désert des Agriates, en Corse.</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/29/3d03968f6e6ad1657952340d7f121d79ac8991ae.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304170000 +0100" stop="20230304175300 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Déclic</title>
+<desc lang="fr">Pour décoder la Belgique et le monde, analyser, débattre pour mieux comprendre l'actualité, Julie Morelle et Arnaud Ruyssen proposent une mécanique de l'information, constructive et détendue, en compagnie de chroniqueurs et d'invités.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/25/a0f9705daa10c9b8f4b68509493d7dbc0c824ee2_F4112B1C16DA2BF89985EBAFC0BBB093.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304175300 +0100" stop="20230304180000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Voyages vert vous</title>
+<desc lang="fr">À la rencontre des initiatives vertes du bout du monde. Les mentalités changent profondément : aujourd'hui, les voyageurs sont en quête de sens et veulent voyager de façon responsable. Cette série donne des clés à ces &quot; nouveaux voyageurs &quot; qui se positionnent à l'opposé du tourisme de masse.</desc>
+<category lang="fr">Documentaire nature</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/23/b99a16ebee44b256ab75a2e28e424eb85c9f1249.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304180000 +0100" stop="20230304182200 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">64' le monde en français</title>
+<desc lang="fr">L'actualité internationale décryptée par le monde francophone. http:\/\/information.tv5monde.com</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/05/359b9a076fe852fe90176d78a7dff85b32504414.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304182200 +0100" stop="20230304182700 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Terriennes</title>
+<desc lang="fr">La chronique &quot; Terriennes &quot;, le site francophone pour la condition des femmes dans le monde. Le site :</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/69b0a1b1efc7b8288670f9e63cbd74fa74d09c11.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304182700 +0100" stop="20230304183000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/11/068877912288acebf5a62380009f0fd2ae46190f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304183000 +0100" stop="20230304184000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">L'invité</title>
+<desc lang="fr">7 jours sur 7 Patrick Simonin rencontre les artistes, les écrivains, les acteurs et tous ceux qui font vibrer notre époque. &quot; L'invité &quot; est le rendez-vous incontournable des stars et des personnalités qui font l'actualité.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/09/06/a9ba6386b4151a83b9262042b9dc5b4a5b56fc3e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304184000 +0100" stop="20230304201300 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Un dimanche à la campagne</title>
+<desc lang="fr">Frédéric Lopez reçoit l'humoriste, comédien et réalisateur Michel Boujenah, la chanteuse Chimène Badi et le danseur étoile François Alu. Entre balade à vélo, partie de tennis de table et dégustation de crêpes, ils nous raconteront comment, en acceptant enfin leur différence, ils ont réalisé leurs rêves.</desc>
+<category lang="fr">Talk-show</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/10/17/a267628059e9bb44210698c4142d897c12f17a6e_9BF1F4488D624076C739B8E5EB01690C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304201300 +0100" stop="20230304203000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Champions d'exception</title>
+<desc lang="fr">Le premier magazine consacré intégralement au handisport et au mouvement paralympique.</desc>
+<category lang="fr">Magazine sportif</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/22/228ff8b5a2d0574b2dcd71afc391f4c4fc41eea2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304203000 +0100" stop="20230304205600 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Journal</title>
+<desc lang="fr">Le journal télévisé proposé par la rédaction de France 2 (édition de 20h, heure de Paris).</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/02/23/56d0038b5f38303de4803b112b00785f0923be5f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304205600 +0100" stop="20230304210100 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/11/068877912288acebf5a62380009f0fd2ae46190f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304210100 +0100" stop="20230304222200 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Platine Africa</title>
+<sub-title lang="fr">Maleïka, Slaï, Big in Jazz Collective</sub-title>
+<desc lang="fr">Une émission 100 % Caraïbes avec Maleïka, à la soul créole teintée de bèlè, le zouk de Slaï et le feu du Big in Jazz Collective qui enflamment littéralement le plateau.</desc>
+<category lang="fr">Magazine musical</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/12/10/1a495ddb2b4065b0803578b9a640062e3eb6fa43.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304222200 +0100" stop="20230304224800 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304224800 +0100" stop="20230304225100 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/11/068877912288acebf5a62380009f0fd2ae46190f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304225100 +0100" stop="20230305003000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Une vie après</title>
+<desc lang="fr">Marion, la quarantaine, n'est plus amoureuse de son mari. Elle décide de le quitter et de renouer avec la vie active. Lorsqu'elle engage la procédure de divorce, Lucas, son époux, ne désespère pas de la reconquérir. Il refuse de consentir à la garde alternée de leur fils de 7 ans tant que Marion sera sans emploi. Grâce à un voisin, Marion trouve un poste de plongeuse dans un restaurant. Dominique, le patron de l'établissement, qu'elle avait croisé un soir en discothèque et auquel elle s'était confiée, traverse une crise conjugale similaire à la sienne. Mais lui, à l'inverse de Marion, ne parvient pas à franchir le pas et à quitter Sophie, son épouse...</desc>
+<category lang="fr">Téléfilm dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/01/02/256d739ecb9f5793d2ce46fd9954b9da8526a3b7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305003000 +0100" stop="20230305005600 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">TV5MONDE, le journal Afrique</title>
+<desc lang="fr">Toute l'actualité africaine proposée par la rédaction de TV5MONDE. http:\/\/information.tv5monde.com</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/22/448975d743365cdd99ff55a5a6baec2bcee03be2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305005600 +0100" stop="20230305010000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/11/068877912288acebf5a62380009f0fd2ae46190f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305010000 +0100" stop="20230305015300 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Tandem</title>
+<sub-title lang="fr">L'arche de Noé</sub-title>
+<desc lang="fr">Saison 6 Episode 7
+Cécile Bazin, directrice du zoo, est retrouvée morte dans l'enclos des guépards. Malgré les traces de morsures, ce n'est pas le guépard qui l'a tuée. Aurait-on voulu faire croire à un accident en laissant rentrer le fauve dans l'enclos alors qu'il aurait dû passer la nuit dans sa loge ? Léa et Paul découvrent que Cécile ne manquait pas d'ennemis. Elle recevait des centaines de menaces depuis l'annonce de l'euthanasie d'un bébé guépard né avec une anomalie génétique. L'a-t-on tuée pour sauver l'animal ?
+Année de réalisation : 2022</desc>
+<category lang="fr">Série policière</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/07/19/6a27a915a921dcf28e78d1e5b44755824fb3501d_48FB402B41CF6C3F08CE43E5E08594E1.jpg" />
+<episode-num system="xmltv_ns">5.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305015300 +0100" stop="20230305024300 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Tandem</title>
+<sub-title lang="fr">Frères de sang</sub-title>
+<desc lang="fr">Saison 6 Episode 8
+Des pêcheurs surprennent Julien, le petit ami d'Alice, en train de nettoyer une scène de crime sur le port. Tout l'accuse d'avoir tué son ami, Mickael. Léa tente désespérément d'obtenir des explications de Julien, qui reste mutique. Pourquoi s'en est-il pris à celui qu'il considère comme son frère ? Léa tient à suivre les procédures afin que l'affaire ne puisse se retourner contre Julien ou sa famille. Mais Alice convaincue, de l'innocence de Julien, est prête à tout, quitte à se mettre en danger pour l'aider. L'affaire ne laissera pas la famille Soler-Marchal indemne.
+Année de réalisation : 2022</desc>
+<category lang="fr">Série policière</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/07/19/6a27a915a921dcf28e78d1e5b44755824fb3501d_48FB402B41CF6C3F08CE43E5E08594E1.jpg" />
+<episode-num system="xmltv_ns">5.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305024300 +0100" stop="20230305040000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Ce que Pauline ne vous dit pas</title>
+<desc lang="fr">Saison 1 Episode 1
+Pauline a deux enfants, Damien, 8 ans, et Rose, 1 an. Son mari, dont elle est en train de se séparer, refuse de l'aider financièrement et l'humilie dès qu'il le peut. Alors qu'elle conduit son fils chez son père pour récupérer sa console, Damien aperçoit sa mère agenouillée dans le jardin devant le corps inerte de son père, sous un échafaudage, baignant dans une mare de sang. Damien panique, Pauline également. Elle prend sa voiture, ramène ses enfants chez elle et appelle enfin le Samu. Les urgentistes lui demandent de retourner sur les lieux, étonnés qu'elle soit partie de chez Olivier et qu'elle ait pris autant de temps à les appeler. Morgane Sabbaly, une nouvelle juge d'instruction, et Marie Hermann, major de gendarmerie, sont appelées pour résoudre cette affaire...
+Année de réalisation : 2022</desc>
+<category lang="fr">Série dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/02/24/03a89552de75776906211739ca1ee1341809c713.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305040000 +0100" stop="20230305042600 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Basik</title>
+<desc lang="fr">L'émission qui explore et explique l'économie, décortique notre rapport à l'argent et inspecte notre pouvoir d'achat. Les enjeux économiques, sociétaux et environnementaux de demain sont abordés sur un ton direct, proche des gens et parfois espiègle !</desc>
+<category lang="fr">Magazine de l'économie</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/01/02/7381de265774cd0578fcc5599ef26cbc7b56faa6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305042600 +0100" stop="20230305042900 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Terriennes</title>
+<desc lang="fr">La chronique &quot; Terriennes &quot;, le site francophone pour la condition des femmes dans le monde. Le site :</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/69b0a1b1efc7b8288670f9e63cbd74fa74d09c11.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305042900 +0100" stop="20230305054000 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">C dans l'air</title>
+<desc lang="fr">Pas un événement important qui ne soit évoqué, expliqué et analysé ! En plateau, invités et journalistes analysent les grands faits du moment mais également les sujets qui font polémique, nous permettant ainsi de mieux comprendre l'actualité sociale, politique, culturelle qui rythme notre quotidien.</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/22/967e6ed07b7f871c42be90838762c573112c2d36.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305054000 +0100" stop="20230305054300 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">Terriennes</title>
+<desc lang="fr">La chronique &quot; Terriennes &quot;, le site francophone pour la condition des femmes dans le monde. Le site :</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/69b0a1b1efc7b8288670f9e63cbd74fa74d09c11.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305054300 +0100" stop="20230305060800 +0100" channel="TV5MondeEurope.fr">
+<title lang="fr">De par chez nous</title>
+<sub-title lang="fr">Diversification alimentaire</sub-title>
+<desc lang="fr">Marie-Estella Richard, avec son élevage de chèvres laitières à Hearst en Ontario, et Christian Vigneau, avec sa culture d'huîtres aux îles-de-la-Madeleine au Québec, permettent à leur communauté d'avoir accès à des produits frais toute l'année.</desc>
+<category lang="fr">Documentaire société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/18/ec73f2702dcd7941e63460f6c372a4d576caaf6c.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

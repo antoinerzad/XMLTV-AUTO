@@ -1,0 +1,65 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230301060000 +0100" stop="20230301085500 +0100" channel="M6Music.fr">
+<title lang="fr">Morning Hits</title>
+<desc lang="fr">Commencez la journée dans la joie et la bonne humeur en découvrant une sélection des plus grands tubes du moment ainsi que les toutes dernières nouveautés musicales dans Morning Hits !</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_15400018.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301085500 +0100" stop="20230301175500 +0100" channel="M6Music.fr">
+<title lang="fr">Hits</title>
+<desc lang="fr">Les meilleures ventes du moment, les artistes qui font l'actualité sur la scène musicale, les airs les plus fredonnés... Une pléiade de tubes sélectionnés par M6 Music à découvrir dans Hits !</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_15401293.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301175500 +0100" stop="20230301190000 +0100" channel="M6Music.fr">
+<title lang="fr">Hits</title>
+<desc lang="fr">Les meilleures ventes du moment, les artistes qui font l'actualité sur la scène musicale, les airs les plus fredonnés... Une pléiade de tubes sélectionnés par M6 Music à découvrir dans Hits !</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_10971844.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301190000 +0100" stop="20230301195500 +0100" channel="M6Music.fr">
+<title lang="fr">Le Hit M6 Music</title>
+<desc lang="fr">Une heure de clips, une heure de hits, les meilleures musiques du moments sont dans le hit m6 music.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_15401293.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301195500 +0100" stop="20230301210000 +0100" channel="M6Music.fr">
+<title lang="fr">Hits</title>
+<desc lang="fr">Les meilleures ventes du moment, les artistes qui font l'actualité sur la scène musicale, les airs les plus fredonnés... Une pléiade de tubes sélectionnés par M6 Music à découvrir dans Hits !</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_10971844.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301210000 +0100" stop="20230301220000 +0100" channel="M6Music.fr">
+<title lang="fr">Must Urbain</title>
+<desc lang="fr">Pendant une heure retrouvez le meilleur de la musique urbaine dans votre émission hebdomadaire Must urbain.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_11176175.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301220000 +0100" stop="20230301230000 +0100" channel="M6Music.fr">
+<title lang="fr">Rap US</title>
+<desc lang="fr">Pendant une heure retrouvez des clips de Rap made in USA dans votre émission hebdomadaire Rap US.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_16148937.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301230000 +0100" stop="20230302000000 +0100" channel="M6Music.fr">
+<title lang="fr">Rap français</title>
+<desc lang="fr">Pendant une heure retrouvez des clips de Rap français dans votre émission hebdomadaire Rap français.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_6470371.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

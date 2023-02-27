@@ -1,0 +1,144 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230226231000 +0100" stop="20230227010000 +0100" channel="ParisPremiere.fr">
+<title lang="fr">Killing Zoe</title>
+<desc lang="fr">Un truand exotique, chaperonné par un ami français, accepte de cambrioler une banque, au risque de perdre la femme qu'il aime, une jolie prostituée.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_15638576.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230227010000 +0100" stop="20230227021000 +0100" channel="ParisPremiere.fr">
+<title lang="fr">L'enfance du hard</title>
+<desc lang="fr">Voyage dans les coulisses du cinéma X des années 70 à 80, depuis l'âge d'or du genre jusqu'à sa lente disparition des salles, due à la censure économique.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14204281.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230227021000 +0100" stop="20230227070000 +0100" channel="ParisPremiere.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22269110.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227070000 +0100" stop="20230227101500 +0100" channel="ParisPremiere.fr">
+<title lang="fr">Caméra café</title>
+<desc lang="fr">Caméra café nous plonge de manière insolite dans le monde implacable de l'entreprise. Confidences, rumeurs, conflits, coups de gueule ou coups de c?ur, il se passe toujours quelque chose devant la machine à café !</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_12340665.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227101500 +0100" stop="20230227133000 +0100" channel="ParisPremiere.fr">
+<title lang="fr">Kaamelott</title>
+<desc lang="fr">Ve siècle, île de Bretagne. Le royaume de Kaamelott s'organise autour de son souverain, le roi Arthur. Entouré de ses fidèles chevaliers de la Table Ronde, il s'attelle à la mission que les dieux lui ont confiée : rechercher le Saint Graal !</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_8014279.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227133000 +0100" stop="20230227141500 +0100" channel="ParisPremiere.fr">
+<title lang="fr">Numb3rs</title>
+<sub-title lang="fr">L'âme perdue</sub-title>
+<desc lang="fr">Une scientifique, spécialisée dans l'étude des populations indigènes américaines, a été assassinée dans son bureau du musée : Don et son équipe enquêtent.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_33794.jpg" />
+<episode-num system="xmltv_ns">1.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227141500 +0100" stop="20230227150500 +0100" channel="ParisPremiere.fr">
+<title lang="fr">Numb3rs</title>
+<sub-title lang="fr">Le dessous des cartes</sub-title>
+<desc lang="fr">Les mathématiques pourraient bien permettre d'expliquer pourquoi un joueur invétéré, qui avait gagné au black-jack dans un club, a été assassiné.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_25059.jpg" />
+<episode-num system="xmltv_ns">1.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227150500 +0100" stop="20230227155000 +0100" channel="ParisPremiere.fr">
+<title lang="fr">Numb3rs</title>
+<sub-title lang="fr">Médium</sub-title>
+<desc lang="fr">Une brigade découvre les cadavres de trois jeunes femmes, au coeur de la jungle, grâce aux indications d'un médium, qui propose aussitôt d'aider le FBI.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_60282.jpg" />
+<episode-num system="xmltv_ns">1.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227155000 +0100" stop="20230227164000 +0100" channel="ParisPremiere.fr">
+<title lang="fr">Numb3rs</title>
+<sub-title lang="fr">Tel est pris...</sub-title>
+<desc lang="fr">Alors que le FBI enquête sur deux pirates informatiques qui ont accès aux comptes des clients d'une banque, Don et sa famille se retrouvent menacés.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_23828703.jpg" />
+<episode-num system="xmltv_ns">1.21.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227164000 +0100" stop="20230227172500 +0100" channel="ParisPremiere.fr">
+<title lang="fr">Numb3rs</title>
+<sub-title lang="fr">La deuxième place</sub-title>
+<desc lang="fr">L'assassinat d'un turfiste alerte le FBI, qui découvre que l'hippodrome sert de couverture au crime organisé. Un carnet mystérieux livre d'autres éléments.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6875121.jpg" />
+<episode-num system="xmltv_ns">2.5.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227172500 +0100" stop="20230227181500 +0100" channel="ParisPremiere.fr">
+<title lang="fr">L'agence tous risques</title>
+<sub-title lang="fr">Les mustangs</sub-title>
+<desc lang="fr">L'agriculteur Bus Carter est bien décidé à se débarrasser du troupeau de mustangs qui erre dans les plaines d'Arizona et détruit ses cultures. Mais deux Indiens de la région, inquiets pour l'avenir de l'espèce, sollicitent l'aide de l'Agence...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_4773427.jpg" />
+<episode-num system="xmltv_ns">1.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227181500 +0100" stop="20230227190500 +0100" channel="ParisPremiere.fr">
+<title lang="fr">L'agence tous risques</title>
+<sub-title lang="fr">Les mustangs</sub-title>
+<desc lang="fr">Transformés en cow-boys masqués, les membres de l'Agence se lancent à l'assaut d'un train censé transporter des mustangs au Mexique.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_35330352.jpg" />
+<episode-num system="xmltv_ns">1.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227190500 +0100" stop="20230227200000 +0100" channel="ParisPremiere.fr">
+<title lang="fr">L'agence tous risques</title>
+<sub-title lang="fr">La vache maltaise</sub-title>
+<desc lang="fr">Sam Yeng, qui a sauvé la vie aux membres de l'agence, a ouvert un restaurant chinois. Son établissement a été mis à sac, car Sam refusait d'être racketté.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_26311036.jpg" />
+<episode-num system="xmltv_ns">1.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227200000 +0100" stop="20230227210000 +0100" channel="ParisPremiere.fr">
+<title lang="fr">L'agence tous risques</title>
+<sub-title lang="fr">Pas si facile que ça</sub-title>
+<desc lang="fr">Jennifer, la fille du richissime Warren Teasdale, a été kidnappée par un groupe de terroristes, qui réclame une rançon de 500 000 dollars. Hannibal et ses hommes interviennent...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_26526445.jpg" />
+<episode-num system="xmltv_ns">1.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227210000 +0100" stop="20230227223500 +0100" channel="ParisPremiere.fr">
+<title lang="fr">Les Grosses Têtes</title>
+<desc lang="fr">Laurent Ruquier et sa bande prennent religieusement l'antenne et se livrent à un concours de punchlines, de jeux de mots et de blagues potaches autour de la grande et de la petite actualité.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_5854973.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227223500 +0100" stop="20230228000500 +0100" channel="ParisPremiere.fr">
+<title lang="fr">Les Grosses Têtes</title>
+<desc lang="fr">Laurent Ruquier et sa bande prennent religieusement l'antenne et se livrent à un concours de punchlines, de jeux de mots et de blagues potaches autour de la grande et de la petite actualité.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_5854972.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

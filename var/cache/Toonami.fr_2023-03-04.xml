@@ -1,0 +1,11 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230303235000 +0100" stop="20230304001500 +0100" channel="Toonami.fr">
+<title lang="fr">Rick et Morty</title>
+<sub-title lang="fr">JuRicksic Mort</sub-title>
+<desc lang="fr">Les anciens dirigeants de la Terre reviennent. Ils veulent changer la façon dont la société fait des affaires, mais Rick ne va pas le supporter.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9500834.jpg" />
+<episode-num system="xmltv_ns">5.5.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>

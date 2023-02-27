@@ -1,0 +1,100 @@
+<!-- racacax\XmlTv\Component\Provider\SFR -->
+<programme start="20230302021300 +0100" stop="20230302090500 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Pause</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/4/2462494.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302090500 +0100" stop="20230302103800 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Lady Bird</title>
+<desc lang="fr">A Sacramento, une adolescente rebelle qui a des rêves plein la tête se heurte à sa mère, une infirmière dévouée ayant les pieds sur terre.</desc>
+<category lang="fr">Comédie dramatique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/3/5760337.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302103800 +0100" stop="20230302120500 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Spirit : l'indomptable</title>
+<desc lang="fr">Une jeune fille revenue vivre chez son père à la campagne souhaite sauver son nouvel ami, un mustang au fort caractère capturé par un cow-boy vénal.</desc>
+<category lang="fr">Film d'animation</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/8/6267882.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302120500 +0100" stop="20230302134900 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Ted</title>
+<desc lang="fr">Un homme cohabite depuis 25 ans avec son ours en peluche, venu à la vie par magie. Cet animal immature et vulgaire perturbe le couple de son maître.</desc>
+<category lang="fr">Comédie</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/1/5/5776519.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302134900 +0100" stop="20230302153100 +0100" channel="AlticeStudio.fr">
+<title lang="fr">American Nightmare 2 : Anarchy</title>
+<desc lang="fr">Dans un futur proche, aux Etats-Unis, tous les crimes sont autorisés pendant une nuit entière. Pour un couple tombé en panne de voiture, les ennuis commencent.</desc>
+<category lang="fr">Film de suspense</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/4/5851400.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302153100 +0100" stop="20230302174400 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Phantom Thread</title>
+<desc lang="fr">A Londres, dans les années 50, un couturier obsessionnel, qui tombe amoureux d'une jeune femme au caractère fort et en fait sa muse, se croit maudit en amour.</desc>
+<category lang="fr">Drame</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/2/3/5824328.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302174400 +0100" stop="20230302191200 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Land</title>
+<desc lang="fr">Une femme, qui a vécu une tragédie personnelle, part s'isoler en montagne et rencontre un chasseur, qui lui aussi a dû surmonter des malheurs dans sa vie.</desc>
+<category lang="fr">Drame</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/0/0/5793002.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302191200 +0100" stop="20230302205000 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Lady Bird</title>
+<desc lang="fr">A Sacramento, une adolescente rebelle qui a des rêves plein la tête se heurte à sa mère, une infirmière dévouée ayant les pieds sur terre.</desc>
+<category lang="fr">Comédie dramatique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/3/5760337.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302205000 +0100" stop="20230302214000 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Britannia</title>
+<sub-title lang="fr">Le viaduc</sub-title>
+<desc lang="fr">Cait et son équipe sont toujours à la recherche de Lucius, dont les connaissances sur la lance pourraient leur être utiles. Hemple est furieuse car Veran a eu le dessus sur elle.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/5/5884505.jpg" />
+<episode-num system="xmltv_ns">2.6.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230302214000 +0100" stop="20230302223000 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Britannia</title>
+<sub-title lang="fr">Vae Victis</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/2/5841221.jpg" />
+<episode-num system="xmltv_ns">2.7.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230302223000 +0100" stop="20230302233000 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Les Médicis</title>
+<sub-title lang="fr">Lorenzo le magnifique : Ces liens qui nous engagent</sub-title>
+<desc lang="fr">Une année s'est écoulée. Lorenzo et Clarice sont parents d'un petit Piero, tandis que la rumeur court que Galeazzo Sforza vient d'acquérir la Cité d'Imola.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/3/6/5830632.jpg" />
+<episode-num system="xmltv_ns">1.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302233000 +0100" stop="20230303003200 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Les Médicis</title>
+<sub-title lang="fr">Lorenzo le magnifique : Alliance</sub-title>
+<desc lang="fr">Lorenzo tente de régner sur Florence avec l'aide de son frère, mais de nombreux ennemis se dressent sur sa route. La banque familiale connaît des difficultés.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/3/6/5830632.jpg" />
+<episode-num system="xmltv_ns">1.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230303003200 +0100" stop="20230303024800 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Fast &amp; Furious 9</title>
+<desc lang="fr">Un as du volant, qui aspirait à la retraite avec sa famille, se doit de reprendre du service pour déjouer un complot orchestré par son propre frère.</desc>
+<category lang="fr">Film d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/8/5757846.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>

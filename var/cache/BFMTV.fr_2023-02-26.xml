@@ -1,0 +1,80 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230226000000 +0100" stop="20230226060000 +0100" channel="BFMTV.fr">
+<title lang="fr">Programmes de la nuit BFM TV</title>
+<desc lang="fr">Programme indéterminé.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_12978267.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226060000 +0100" stop="20230226100000 +0100" channel="BFMTV.fr">
+<title lang="fr">Week-end première</title>
+<desc lang="fr">Journal.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_33427931.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226100000 +0100" stop="20230226120000 +0100" channel="BFMTV.fr">
+<title lang="fr">Le Live BFM Week-end</title>
+<desc lang="fr">Magazine d'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23373380.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226120000 +0100" stop="20230226130000 +0100" channel="BFMTV.fr">
+<title lang="fr">BFM Politique</title>
+<desc lang="fr">En direct et en public, l'émission présentée par Jean-Baptiste Boursier donne la parole aux personnalités de tous bords. L'interview est suivi d'un débat avec un contradicteur.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_33427737.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226130000 +0100" stop="20230226140000 +0100" channel="BFMTV.fr">
+<title lang="fr">Affaire suivante</title>
+<desc lang="fr">Chaque dimanche, l'émission pilotée par Philippe Gaudin avec à ses côtés Dominique Rizet consultant police/justice BFMTV, traite d'un événement majeur de la semaine, ainsi que d'autres affaires qui sont revenues sur le devant de la scène.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_14580022.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226140000 +0100" stop="20230226170000 +0100" channel="BFMTV.fr">
+<title lang="fr">L'aprèm info week-end</title>
+<desc lang="fr">Magazine d'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_33427867.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226170000 +0100" stop="20230226180000 +0100" channel="BFMTV.fr">
+<title lang="fr">BFM Story week-end</title>
+<desc lang="fr">Magazine d'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_36696966.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226180000 +0100" stop="20230226200000 +0100" channel="BFMTV.fr">
+<title lang="fr">BFMTVSD</title>
+<desc lang="fr">Retrouvez du Vendredi au Dimanche, BFMTVSD présenté par Jean-Baptiste Boursier.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23373140.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226200000 +0100" stop="20230226220000 +0100" channel="BFMTV.fr">
+<title lang="fr">7 jours BFM</title>
+<desc lang="fr">Le premier magazine d'information de BFMTV. Chaque samedi, autour de Thomas Misrachi, documents, témoignages et récits au c?ur de l'actualité sont sur BFMTV. Les meilleurs reportages de la semaine et des sujets inédits, commentés en plateau par les invités de l'émission.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_18007305.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226220000 +0100" stop="20230227000000 +0100" channel="BFMTV.fr">
+<title lang="fr">Week-end Direct</title>
+<desc lang="fr">Magazine d'information qui revient sur les événements-clés du week-end.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23373697.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

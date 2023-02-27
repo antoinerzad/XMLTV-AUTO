@@ -1,0 +1,341 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230226060000 +0100" stop="20230226101500 +0100" channel="RTSUn.ch">
+<title lang="fr">RTS Kids</title>
+<desc lang="fr">Le magazine jeunesse de la RTS qui propose les plus récentes, amusantes et intéressantes séries d'animation. Un vrai bonheur et une source d'étonnement pour les plus jeunes à ne pas manquer!</desc>
+<category lang="fr">Magazine jeunesse</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/9a6a4e25fd807fc19b4558dd3094e323f7b67412.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230226101500 +0100" stop="20230226103000 +0100" channel="RTSUn.ch">
+<title lang="fr">Quel temps fait-il ?</title>
+<desc lang="fr">Magazine d'info sur le temps qu'il fait en Suisse et sur les différents titres de l'actualité.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/b2ad3f3399e25f46a17e010c7be7ed7e69ee38c7.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230226103000 +0100" stop="20230226110000 +0100" channel="RTSUn.ch">
+<title lang="fr">Signes</title>
+<sub-title lang="fr">Quand le gaming crée du lien</sub-title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/35cd83066975f29c0b603883262e5ad58c960841.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230226110000 +0100" stop="20230226123500 +0100" channel="RTSUn.ch">
+<title lang="fr">Les beaux parleurs</title>
+<sub-title lang="fr">Coup de com</sub-title>
+<desc lang="fr">Jonas Schneiter est entouré pour cette émission de Coline de Senarclens, Stéphanie Mérillat, Slobodan Despot et de l'humoriste Nathanaël Rochat. En deuxième partie d'émission, les beaux parleurs accueillent le président de l'ASLOCA, Carlo Sommaruga.</desc>
+<category lang="fr">Talk-show</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/03/10/3160534672d2f55dd895ac146245e54b5bb1deb3.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230226123500 +0100" stop="20230226124500 +0100" channel="RTSUn.ch">
+<title lang="fr">Ensemble</title>
+<sub-title lang="fr">Susy Utzinger</sub-title>
+<desc lang="fr">&quot;Ensemble&quot; présente les nombreuses institutions d'utilité publique suisses. Par leur engagement et leurs actions, ces organisations encouragent la solidarité dans des domaines aussi variés que la santé, la vie sociale, l'aide humanitaire, la protection de l'environnement et du patrimoine.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/26/7f64abb9d27655dfea16abf78d4e546e556bd1e5.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230226124500 +0100" stop="20230226130800 +0100" channel="RTSUn.ch">
+<title lang="fr">Le 12h45</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/93589f17a784983b611d8b69a8a55ef013059f7f.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230226130800 +0100" stop="20230226131000 +0100" channel="RTSUn.ch">
+<title lang="fr">Météo</title>
+<desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230226131000 +0100" stop="20230226133500 +0100" channel="RTSUn.ch">
+<title lang="fr">Géopolitis</title>
+<sub-title lang="fr">Arménie menacée</sub-title>
+<desc lang="fr">Arménie menacée Regain de tension entre l'Arménie et l'Azerbaïdjan. Dans la région disputée du Haut-Karabakh, la population arménienne est coupée du monde.</desc>
+<category lang="fr">Magazine de géopolitique</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/10/8b3befefd6aa88e6d44a299537f421621b78f6fe.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230226133500 +0100" stop="20230226141000 +0100" channel="RTSUn.ch">
+<title lang="fr">Young Sheldon</title>
+<sub-title lang="fr">Un parasol et un sacré lancer</sub-title>
+<desc lang="fr">Saison 3 Episode 6
+Un carnaval à l'église conduit Missy à essayer d'intégrer l'équipe de baseball. Meemaw essaye de se remettre de sa rupture avec le docteur Sturgis.
+Année de réalisation : 2019</desc>
+<category lang="fr">Série humoristique</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/08/72988cf7-ef52-4172-ad8b-d94034758fb3.jpg" />
+<episode-num system="xmltv_ns">2.5.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226141000 +0100" stop="20230226144500 +0100" channel="RTSUn.ch">
+<title lang="fr">Walker</title>
+<sub-title lang="fr">Terrain d'entente</sub-title>
+<desc lang="fr">Saison 2 Episode 12
+Cordell atteint un point de rupture avec Denise, qui se décide pour la vengeance et les tensions entre les familles Walker et Davidson atteignent leur comble.
+Année de réalisation : 2022</desc>
+<category lang="fr">Série d'action</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/18/2dc3b0e78063b93df740033fc30c98f664f21a7a.jpg" />
+<episode-num system="xmltv_ns">1.11.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226144500 +0100" stop="20230226153000 +0100" channel="RTSUn.ch">
+<title lang="fr">Walker</title>
+<sub-title lang="fr">Un truc bien</sub-title>
+<desc lang="fr">Saison 2 Episode 13
+Alors que Geri fait de son mieux pour que la famille Walker puisse garder la tête haute, Walker et Cassie cherchent des indices pour aider Bonham, dans le besoin.
+Année de réalisation : 2022</desc>
+<category lang="fr">Série d'action</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/18/2dc3b0e78063b93df740033fc30c98f664f21a7a.jpg" />
+<episode-num system="xmltv_ns">1.12.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226153000 +0100" stop="20230226161500 +0100" channel="RTSUn.ch">
+<title lang="fr">9-1-1</title>
+<sub-title lang="fr">Etre forts, être unis</sub-title>
+<desc lang="fr">Saison 4 Episode 14
+Au lendemain d'une fusillade, Athena et les équipes de la 118 sont en état d'alerte élevé lorsqu'un tireur d'élite prend pour cible les pompiers de Los Angeles. Traumatisé après avoir vu un collègue touché, Buck demande à Carla de prendre soin de Christopher. Pendant ce temps, Maddie, sous l'effet d'une sévère dépression post-partum, prend une décision radicale.
+Année de réalisation : 2021</desc>
+<category lang="fr">Série dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/26/5170501e34aaf1cd91847de863e35cb30f569547.jpg" />
+<episode-num system="xmltv_ns">3.13.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226161500 +0100" stop="20230226170000 +0100" channel="RTSUn.ch">
+<title lang="fr">Blue Bloods</title>
+<sub-title lang="fr">Qui sème la haine...</sub-title>
+<desc lang="fr">Saison 12 Episode 1
+Danny fait appel à la médium Maggie Gibson pour élucider le meurtre d'un enfant de 5 ans. Pendant ce temps, Frank et le maire s'affrontent sur les politiques à mettre en place et le discours à tenir après des fusillades sur des mineurs. De son côté, Erin enquête sur une vieille affaire dans laquelle le principal témoin du meurtre est sa patronne, la procureure Kimberly Crawford, qui n'avait que 13 ans au moment des faits...
+Année de réalisation : 2022</desc>
+<category lang="fr">Série policière</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/14/30f15fa398d3d9c8ddba7cb524ae2eab8afb0724.jpg" />
+<episode-num system="xmltv_ns">11.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226170000 +0100" stop="20230226174500 +0100" channel="RTSUn.ch">
+<title lang="fr">Bull *2016</title>
+<sub-title lang="fr">Le gène du crime</sub-title>
+<desc lang="fr">Saison 3 Episode 20
+Bull défend un étudiant en médecine poursuivi pour complicité de meurtre. Connor est accusé d'avoir aidé son frère à tuer le juge en charge du procès de son père. Son frère, Brendan, l'aurait forcé à prendre son véhicule puis à démarrer pour s'enfuir. Rapidement Bull découvre que le jeune homme semble avoir grandi toutes ces années dans un milieu criminel. Craignant que l'image de la famille de Connor ait un impact négatif sur le jury, Bull veut à tout prix dissocier les procès des deux frères...
+Année de réalisation : 2019</desc>
+<category lang="fr">Série dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/12/21/a1c072af713d0da2bc339013004d763f2ee273c3_D2EC537D7F42D1E0CECEEAA19A5272E2.jpg" />
+<episode-num system="xmltv_ns">2.19.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226174500 +0100" stop="20230226182500 +0100" channel="RTSUn.ch">
+<title lang="fr">Bull *2016</title>
+<sub-title lang="fr">Avis de tempête</sub-title>
+<desc lang="fr">Saison 3 Episode 21
+Bull aide à préparer la défense du beau-frère de Taylor, gardien dans une prison privée, poursuivi pour homicide involontaire. Ralph Kelly est accusé de la mort de deux détenus lors du passage d'un ouragan qui a frappé Long Island. Les deux hommes se seraient noyés lors de l'inondation de leur cellule et le beau-frère de Taylor semble être le dernier gardien à avoir quitté la prison pendant la tempête. Ce dernier s'est en fait rendu au chevet de la soeur de Taylor, enceinte. Bull souhaite convaincre le jury que son client avait essayé de les prévenir du danger et qu'il était parti pour porter secours à sa propre famille...
+Année de réalisation : 2019</desc>
+<category lang="fr">Série dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/14/1f1683dc-3acc-4016-89b1-989c35258375.jpg" />
+<episode-num system="xmltv_ns">2.20.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226182500 +0100" stop="20230226192000 +0100" channel="RTSUn.ch">
+<title lang="fr">Sport dimanche</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Multisports</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/d8659acaa21c8c5a66c4f04899e82972fa099b93.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226192000 +0100" stop="20230226193000 +0100" channel="RTSUn.ch">
+<title lang="fr">Météo</title>
+<desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226193000 +0100" stop="20230226200000 +0100" channel="RTSUn.ch">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226200000 +0100" stop="20230226201000 +0100" channel="RTSUn.ch">
+<title lang="fr">Météo</title>
+<desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226201000 +0100" stop="20230226210000 +0100" channel="RTSUn.ch">
+<title lang="fr">Mise au point</title>
+<desc lang="fr">&quot;Mise au Point&quot; propose des enquêtes, des reportages et des interviews portant sur différents thèmes d'actualité.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/29/48238c0486eb9d5be5ef2d6f865de3fd020555d7.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226210000 +0100" stop="20230226215000 +0100" channel="RTSUn.ch">
+<title lang="fr">New Amsterdam</title>
+<sub-title lang="fr">La contrepartie</sub-title>
+<desc lang="fr">Saison 4 Episode 15
+Max Goodwin formule un plan audacieux pour aider New Amsterdam avant qu'il ne soit trop tard. Floyd Reynolds et le docteur Fuentes se disputent à propos de la meilleure façon de gérer une opération risquée. Wilder demande au docteur Castries de l'aider dans sa prise en charge d'un patient atteint d'un cancer en phase terminale. Ce cas médical n'est pas évident à gérer et les deux médecins vont devoir faire preuve de beaucoup de patience pour améliorer un peu le quotidien de ce patient... 
+Année de réalisation : 2022</desc>
+<category lang="fr">Série hospitalière</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/16/22ff5460e4afc3412c2fb50ab8c6b4d30a4c2834.jpg" />
+<episode-num system="xmltv_ns">3.14.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226215000 +0100" stop="20230226223500 +0100" channel="RTSUn.ch">
+<title lang="fr">New Amsterdam</title>
+<sub-title lang="fr">Nuit de folie</sub-title>
+<desc lang="fr">Saison 4 Episode 16
+L'équipe du New Amsterdam se retrouve dans un bar pour une soirée karaoké. Mais les excès de boisson de la fête ne sont pas sans conséquences le lendemain.
+Année de réalisation : 2022</desc>
+<category lang="fr">Série hospitalière</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/16/22ff5460e4afc3412c2fb50ab8c6b4d30a4c2834.jpg" />
+<episode-num system="xmltv_ns">3.15.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226223000 +0100" stop="20230226232500 +0100" channel="RTSUn.ch">
+<title lang="fr">Babylon Berlin</title>
+<desc lang="fr">Saison 4 Episode 10
+Au printemps 1929, Berlin est une ville en pleine ébullition. Tant sur le plan économique que culturel ou politique, la capitale allemande est animée par de nombreux mouvements. La toute jeune république de Weimar subit l'inflation et la spéculation. Le chômage et la pauvreté grandissante sont tout aussi notables que l'énergie créative et le faste de soirées endiablées. C'est dans cet univers plus que complexe qu'enquêtent Gereon Rath et son partenaire Bruno Wolter. De son côté, Charlotte Ritter rêve de faire carrière au sein de la police. Adaptée de la série littéraire de Volker Kutscher, cette fiction offre une reconstitution saisissante des années folles à Berlin. 
+Année de réalisation : 2022</desc>
+<category lang="fr">Série policière</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/01/30/6fc376cf882c0b90ccec706521e5b0c8b689030b.jpg" />
+<episode-num system="xmltv_ns">3.9.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230226223500 +0100" stop="20230226233000 +0100" channel="RTSUn.ch">
+<title lang="fr">Des gens bien</title>
+<sub-title lang="fr">Episode 5</sub-title>
+<desc lang="fr">Saison 1 Episode 5
+Après l'accident dans lequel la voiture de Tom s'est enflammée avec sa femme Linda coincée à l'intérieur, l'étau se resserre autour de lui. Cathy, une courtière en assurance, et Stéphane, une gendarme, remontent la piste empruntée par Philippe, le gendarme qui a repris l'enquête.
+Année de réalisation : 2021</desc>
+<category lang="fr">Série humoristique</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/10/24/768a34e608d6b6fd4a174da95a0c24ff54f38646.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226232500 +0100" stop="20230227001500 +0100" channel="RTSUn.ch">
+<title lang="fr">Babylon Berlin</title>
+<desc lang="fr">Saison 4 Episode 11
+Au printemps 1929, Berlin est une ville en pleine ébullition. Tant sur le plan économique que culturel ou politique, la capitale allemande est animée par de nombreux mouvements. La toute jeune république de Weimar subit l'inflation et la spéculation. Le chômage et la pauvreté grandissante sont tout aussi notables que l'énergie créative et le faste de soirées endiablées. C'est dans cet univers plus que complexe qu'enquêtent Gereon Rath et son partenaire Bruno Wolter. De son côté, Charlotte Ritter rêve de faire carrière au sein de la police. Adaptée de la série littéraire de Volker Kutscher, cette fiction offre une reconstitution saisissante des années folles à Berlin. 
+Année de réalisation : 2022</desc>
+<category lang="fr">Série policière</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/01/30/6fc376cf882c0b90ccec706521e5b0c8b689030b.jpg" />
+<episode-num system="xmltv_ns">3.10.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230226233000 +0100" stop="20230227002000 +0100" channel="RTSUn.ch">
+<title lang="fr">Des gens bien</title>
+<sub-title lang="fr">Episode 6</sub-title>
+<desc lang="fr">Saison 1 Episode 6
+Tom, placé en garde à vue, doit répondre à un interrogatoire serré des gendarmes français. En particulier de Roger, le Major de la gendarmerie.
+Année de réalisation : 2021</desc>
+<category lang="fr">Série humoristique</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/d8da9780fec1395bd74fc1bb110a81b38c70ce4b.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227001500 +0100" stop="20230227011500 +0100" channel="RTSUn.ch">
+<title lang="fr">Babylon Berlin</title>
+<desc lang="fr">Saison 4 Episode 12
+Au printemps 1929, Berlin est une ville en pleine ébullition. Tant sur le plan économique que culturel ou politique, la capitale allemande est animée par de nombreux mouvements. La toute jeune république de Weimar subit l'inflation et la spéculation. Le chômage et la pauvreté grandissante sont tout aussi notables que l'énergie créative et le faste de soirées endiablées. C'est dans cet univers plus que complexe qu'enquêtent Gereon Rath et son partenaire Bruno Wolter. De son côté, Charlotte Ritter rêve de faire carrière au sein de la police. Adaptée de la série littéraire de Volker Kutscher, cette fiction offre une reconstitution saisissante des années folles à Berlin. 
+Année de réalisation : 2022</desc>
+<category lang="fr">Série policière</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/01/30/6fc376cf882c0b90ccec706521e5b0c8b689030b.jpg" />
+<episode-num system="xmltv_ns">3.11.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230227002000 +0100" stop="20230227010000 +0100" channel="RTSUn.ch">
+<title lang="fr">Scènes de ménages</title>
+<desc lang="fr">Saison 12 Episode 65
+Loin d'être un long fleuve tranquille, la vie de couple est émaillée de conflits, de disputes et de réconciliations, comme en témoigne le quotidien de quatre d'entre eux. Parmi eux, les trentenaires Cédric et Marion, qui se surnomment mutuellement &quot;poussin&quot;, les jeunes parents Emma et Fabien, récemment installés à la campagne avec leur petite Chloé, José et Liliane, mariés depuis plus de vingt ans, sans oublier les inénarrables Huguette et Raymond, des retraités à la méchanceté gratuite. Librement adapté de la série espagnole &quot;Escenas de matrimonio&quot;, ce programme court évoque avec humour les hauts et les bas de la vie de couple.
+Année de réalisation : 2021</desc>
+<category lang="fr">Série humoristique</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/02/25/25b604a06a912421cd4c1833b4ac51354c29471d_CADA3AB19F725FA38F982B63A1DBBD36.jpg" />
+<episode-num system="xmltv_ns">11.64.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227010000 +0100" stop="20230227015000 +0100" channel="RTSUn.ch">
+<title lang="fr">Sport dimanche</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Multisports</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/d8659acaa21c8c5a66c4f04899e82972fa099b93.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227015000 +0100" stop="20230227022500 +0100" channel="RTSUn.ch">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227015300 +0100" stop="20230227015400 +0100" channel="RTSUn.ch">
+<title lang="fr">Météo</title>
+<desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227022500 +0100" stop="20230227031700 +0100" channel="RTSUn.ch">
+<title lang="fr">Sport dimanche</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Multisports</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/d8659acaa21c8c5a66c4f04899e82972fa099b93.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227031700 +0100" stop="20230227031800 +0100" channel="RTSUn.ch">
+<title lang="fr">Météo</title>
+<desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227031800 +0100" stop="20230227035000 +0100" channel="RTSUn.ch">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227035000 +0100" stop="20230227044200 +0100" channel="RTSUn.ch">
+<title lang="fr">Sport dimanche</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Multisports</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/d8659acaa21c8c5a66c4f04899e82972fa099b93.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227044200 +0100" stop="20230227044300 +0100" channel="RTSUn.ch">
+<title lang="fr">Météo</title>
+<desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227044300 +0100" stop="20230227051500 +0100" channel="RTSUn.ch">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227051500 +0100" stop="20230227051600 +0100" channel="RTSUn.ch">
+<title lang="fr">Météo</title>
+<desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227051600 +0100" stop="20230227054500 +0100" channel="RTSUn.ch">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227054500 +0100" stop="20230227060000 +0100" channel="RTSUn.ch">
+<title lang="fr">La Suisse vue du ciel</title>
+<desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+<category lang="fr">Documentaire découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/09/12/8038cc7ce2c9f2781747a838ae4374ae6437c19a.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>

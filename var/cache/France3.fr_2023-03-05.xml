@@ -1,0 +1,297 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230304224000 +0100" stop="20230305002000 +0100" channel="France3.fr">
+<title lang="fr">Meurtres à...</title>
+<sub-title lang="fr">Meurtres au Pays basque</sub-title>
+<desc lang="fr">Une jeune inspectrice est promue au commissariat de Bayonne. Elle est chargée de l'enquête sur un meurtre commis selon un rituel du Moyen Age.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_8012541.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230305002000 +0100" stop="20230305002500 +0100" channel="France3.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique du service de presse de France 3-Météo France.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10256508.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305002500 +0100" stop="20230305025500 +0100" channel="France3.fr">
+<title lang="fr">Roméo et Juliette (Opéra national de Paris)</title>
+<desc lang="fr">Au XVe siècle, à Vérone. Deux riches familles, les Montaigu et les Capulet, ne cessent de se quereller. Cependant, lors d'un bal, Roméo, des Montaigu, s'éprend de Juliette, fleuron de la famille rivale. Grâce à divers complices, les tourtereaux parviennent à se marier, à l'insu de leurs familles.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Danse</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_25200512.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305025500 +0100" stop="20230305030000 +0100" channel="France3.fr">
+<title lang="fr">La p'tite librairie</title>
+<desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12608951.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305030000 +0100" stop="20230305043000 +0100" channel="France3.fr">
+<title lang="fr">Samedi d'en rire</title>
+<desc lang="fr">(Reprise du 25/02/23)</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_13065178.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305043000 +0100" stop="20230305051000 +0100" channel="France3.fr">
+<title lang="fr">Les matinales</title>
+<desc lang="fr">Programme de musique classique pour se réveiller en douceur.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Musique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23705388.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305051000 +0100" stop="20230305060000 +0100" channel="France3.fr">
+<title lang="fr">Questions pour un super champion</title>
+<desc lang="fr">Jeu.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_30448454.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305060000 +0100" stop="20230305081000 +0100" channel="France3.fr">
+<title lang="fr">Okoo</title>
+<desc lang="fr">Une sélection de dessins animés, des reportages, des expériences pour apprendre en s'amusant, des découvertes et des exclus, avec Okoo il y en aura pour tous les goûts et pour tous les enfants de 3 à 12 ans !</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Jeunesse Mag</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19259501.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305081000 +0100" stop="20230305100000 +0100" channel="France3.fr">
+<title lang="fr">Okoo</title>
+<desc lang="fr">Une sélection de dessins animés, des reportages, des expériences pour apprendre en s'amusant, des découvertes et des exclus, avec Okoo il y en aura pour tous les goûts et pour tous les enfants de 3 à 12 ans !</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Jeunesse Mag</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19259501.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305100000 +0100" stop="20230305103000 +0100" channel="France3.fr">
+<title lang="fr">Outremer.story</title>
+<desc lang="fr">(Reprise du 05/03/23)</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14501093.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305103000 +0100" stop="20230305110000 +0100" channel="France3.fr">
+<title lang="fr">Parlement hebdo</title>
+<desc lang="fr">Entièrement dédié à l'actualité parlementaire, ce rendez-vous unique offre chaque semaine un panorama complet des événements qui ont alimenté le débat à l'Assemblée nationale et au Sénat. En présence d'un député ou d'un sénateur, &quot;Parlement Hebdo&quot; propose une relecture éclairée des grands travaux...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12549795.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305110000 +0100" stop="20230305111000 +0100" channel="France3.fr">
+<title lang="fr">Expression directe</title>
+<desc lang="fr">Organisations syndicales, partis politiques, mais aussi mouvements d'entrepreneurs prennent la parole.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_25441810.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305111000 +0100" stop="20230305111500 +0100" channel="France3.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique du service de presse de France 3-Météo France.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10256508.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305111500 +0100" stop="20230305113000 +0100" channel="France3.fr">
+<title lang="fr">Outremer.l'info</title>
+<desc lang="fr">Journal.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23826732.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305113000 +0100" stop="20230305120000 +0100" channel="France3.fr">
+<title lang="fr">Dimanche en politique en régions</title>
+<desc lang="fr">Les rédactions régionales de France 3 traitent des sujets qui font débat et des enjeux politiques, sociaux et sociétaux. Hommes et femmes politiques, citoyens engagés et habitants de la région apportent leurs réponses à la question de la semaine.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7976377.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305120000 +0100" stop="20230305120500 +0100" channel="France3.fr">
+<title lang="fr">12/13 : Journal régional</title>
+<desc lang="fr">Journal de l'actualité régionale par la rédaction de France 3.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10197696.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305120500 +0100" stop="20230305121000 +0100" channel="France3.fr">
+<title lang="fr">12/13 : Météo régionale</title>
+<desc lang="fr">Un aperçu des prévisions météorologiques concernant la région pour la journée et le lendemain.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14212690.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305121000 +0100" stop="20230305125500 +0100" channel="France3.fr">
+<title lang="fr">Dimanche en politique</title>
+<desc lang="fr">Francis Letellier reçoit, en direct, un homme ou une femme politique pour débattre de l'actualité nationale et internationale.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_28778514.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305125500 +0100" stop="20230305133000 +0100" channel="France3.fr">
+<title lang="fr">Les nouveaux nomades</title>
+<desc lang="fr">La diversité des territoires est riche de belles surprises : des bords de la Méditerranée aux sommets alpins, de la Loire aux côtes atlantiques, des Pyrénées au coeur de la capitale, rencontre avec des passionnés de leur région.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9810067.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305133000 +0100" stop="20230305151500 +0100" channel="France3.fr">
+<title lang="fr">Vivement dimanche</title>
+<desc lang="fr">Divertissement.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_11522688.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305151500 +0100" stop="20230305170500 +0100" channel="France3.fr">
+<title lang="fr">Cyclisme : Paris-Nice</title>
+<desc lang="fr">La 81e édition de la célèbre course au soleil s'élance des Yvelines avec cette boucle de près de 170 km entre La Verrière : qui va remporter cette 1re étape ?</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Cyclisme</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14292209.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305170500 +0100" stop="20230305171000 +0100" channel="France3.fr">
+<title lang="fr">La p'tite librairie</title>
+<desc lang="fr">François Busnel propose chaque jour de vous faire découvrir ou redécouvrir une ?uvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12608951.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305171000 +0100" stop="20230305175500 +0100" channel="France3.fr">
+<title lang="fr">Des chiffres et des lettres</title>
+<desc lang="fr">Jeu.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_3564615.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305175500 +0100" stop="20230305185000 +0100" channel="France3.fr">
+<title lang="fr">Le grand Slam</title>
+<desc lang="fr">Jeu.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9108975.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305185000 +0100" stop="20230305185800 +0100" channel="France3.fr">
+<title lang="fr">Météo des neiges</title>
+<desc lang="fr">Toutes les informations sur l'enneigement dans les stations de ski et sur les chutes de neige dans les villes.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10730117.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305185800 +0100" stop="20230305190000 +0100" channel="France3.fr">
+<title lang="fr">19/20 : Météo régionale</title>
+<desc lang="fr">Un aperçu des prévisions météorologiques qui devraient concerner la région pour les jours à venir.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14212690.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305190000 +0100" stop="20230305192300 +0100" channel="France3.fr">
+<title lang="fr">19/20 : Journal régional</title>
+<desc lang="fr">Toute l'actualité régionale par la rédaction de France 3.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10197700.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305192300 +0100" stop="20230305193000 +0100" channel="France3.fr">
+<title lang="fr">19/20 : Météo régionale</title>
+<desc lang="fr">Un aperçu des prévisions météorologiques qui devraient concerner la région pour les jours à venir.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14212690.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305193000 +0100" stop="20230305200000 +0100" channel="France3.fr">
+<title lang="fr">19/20 : Journal national</title>
+<desc lang="fr">Toute l'actualité nationale par la rédaction de France 3.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_27384071.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305200000 +0100" stop="20230305200500 +0100" channel="France3.fr">
+<title lang="fr">Météo régionale</title>
+<desc lang="fr">Météo.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_13255991.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305200500 +0100" stop="20230305205000 +0100" channel="France3.fr">
+<title lang="fr">Stade 2</title>
+<desc lang="fr">Stade 2 vous propose chaque fin de semaine des portraits, des grands reportages, des interviews en plateau ou en duplex, des enquêtes, des résultats. Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10943506.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305205000 +0100" stop="20230305210500 +0100" channel="France3.fr">
+<title lang="fr">Destination 2024</title>
+<desc lang="fr">Paris accueillera en 2024 les XXXIIIe Jeux olympiques d'été. Zoom sur un champion en préparation.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_35571542.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305210500 +0100" stop="20230305211000 +0100" channel="France3.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique du service de presse de France 3-Météo France.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10256508.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305211000 +0100" stop="20230305215000 +0100" channel="France3.fr">
+<title lang="fr">Les enquêtes de Murdoch</title>
+<sub-title lang="fr">Ce qu'on fait par amour</sub-title>
+<desc lang="fr">Murdoch est à Montréal pour retrouver Anna Fulford et leur fils, Harry, toujours recherchés par la Main noire. Watts enquête sur la mort d'une femme japonaise.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_36656501.jpg" />
+<episode-num system="xmltv_ns">14.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230305215000 +0100" stop="20230305223500 +0100" channel="France3.fr">
+<title lang="fr">Les enquêtes de Murdoch</title>
+<sub-title lang="fr">Ce qu'on fait par amour</sub-title>
+<desc lang="fr">Le docteur Ogden se lance dans une opération peu orthodoxe. Murdoch doit se montrer plus malin que la Main noire pour réunir Anna Fulford et son fils Harry.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_36657692.jpg" />
+<episode-num system="xmltv_ns">14.1.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230305223500 +0100" stop="20230305231500 +0100" channel="France3.fr">
+<title lang="fr">Les enquêtes de Murdoch</title>
+<sub-title lang="fr">Tel le Phénix</sub-title>
+<desc lang="fr">Aidé par l'inspecteur Watts, Murdoch cherche l'origine d'une bouteille de vin dont le breuvage a causé la mort d'Enrico Firenzo après le mariage de son fils...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_31710140.jpg" />
+<episode-num system="xmltv_ns">10.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305231500 +0100" stop="20230306000000 +0100" channel="France3.fr">
+<title lang="fr">Les enquêtes de Murdoch</title>
+<sub-title lang="fr">Crime-oenologie</sub-title>
+<desc lang="fr">Aidé par l'inspecteur Watts, Murdoch cherche l'origine d'une bouteille de vin dont le breuvage a causé la mort d'Enrico Firenzo après le mariage de son fils.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23729162.jpg" />
+<episode-num system="xmltv_ns">10.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

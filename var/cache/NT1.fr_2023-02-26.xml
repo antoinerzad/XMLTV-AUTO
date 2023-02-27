@@ -1,0 +1,384 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230225225500 +0100" stop="20230226004500 +0100" channel="NT1.fr">
+<title lang="fr">Chroniques criminelles</title>
+<desc lang="fr">Affaire Luc Lahaye : La dépeceuse de Belgique. Panique à Houston.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_22949762.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230226004500 +0100" stop="20230226060000 +0100" channel="NT1.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_22269110.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226060000 +0100" stop="20230226060500 +0100" channel="NT1.fr">
+<title lang="fr">Petits plats en équilibre</title>
+<desc lang="fr">Laurent Mariotte donne toutes les astuces pour préparer de bons petits plats, comme un vrai chef, avec des ingrédients frais et de saison.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14223378.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226060500 +0100" stop="20230226062000 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui aime les lasagnes</sub-title>
+<desc lang="fr">Phoebe s'est fait draguer par Paolo, le petit ami - tellement macho ! - de Rachel. Carol apprend enfin le sexe du bébé qu'elle attend.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_5909169.jpg" />
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226062000 +0100" stop="20230226064500 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui fait des descentes dans les douches</sub-title>
+<desc lang="fr">Chandler aperçoit Rachel alors qu'elle sort nue de la douche. Vexée, la jeune femme ne cesse alors de le traquer pour le voir nu à son tour.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_9572734.jpg" />
+<episode-num system="xmltv_ns">0.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226064500 +0100" stop="20230226070500 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui avait un coeur d'artichaut</sub-title>
+<desc lang="fr">La Saint-Valentin approche à grands pas. Déçues des hommes, les filles se mettent d'accord pour brûler le moindre de leurs souvenirs sentimentaux.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_2642242.jpg" />
+<episode-num system="xmltv_ns">0.13.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226070500 +0100" stop="20230226073000 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui pète les plombs</sub-title>
+<desc lang="fr">Monica décide d'impressionner un propriétaire de restaurant en lui concoctant un véritable festin de roi. Mais le dîner ne se déroule pas vraiment comme prévu.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_6250565.jpg" />
+<episode-num system="xmltv_ns">0.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226073000 +0100" stop="20230226075500 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui devient papa</sub-title>
+<desc lang="fr">En allant dîner chez Riff, Joey et Chandler s'aperçoivent, à la suite d'une confusion, que Phoebe a une soeur jumelle dont ils ignoraient l'existence.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15853152.jpg" />
+<episode-num system="xmltv_ns">0.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226075500 +0100" stop="20230226082500 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui devient papa</sub-title>
+<desc lang="fr">Monica accompagne son amie Rachel, qui vient de se tordre la cheville, à l'hôpital. Là, elles font la connaissance de deux charmants médecins.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_6250557.jpg" />
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226082500 +0100" stop="20230226083000 +0100" channel="NT1.fr">
+<title lang="fr">TFX infos</title>
+<desc lang="fr">Regardez le dernier journal télévisé avec une sélection des actualités préparée par la rédaction de TFX.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_17318645.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226083000 +0100" stop="20230226090000 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui gagnait au poker</sub-title>
+<desc lang="fr">Battues au poker par les garçons, Phoebe, Rachel et Monica écoutent les bons conseils de tante Iris. Mieux armées, elles décident de prendre leur revanche.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_35219092.jpg" />
+<episode-num system="xmltv_ns">0.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226090000 +0100" stop="20230226092500 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui a perdu son singe</sub-title>
+<desc lang="fr">Rachel accepte de surveiller Marcel, le singe de Ross. Mais elle est captivée par son émission de télévision préférée, et l'animal réussit à s'échapper.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_34233472.jpg" />
+<episode-num system="xmltv_ns">0.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226092500 +0100" stop="20230226095500 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui a un dentiste carié</sub-title>
+<desc lang="fr">Mindy, la meilleure amie de Rachel, vient la voir pour qu'elle devienne sa demoiselle d'honneur. Rachel est gênée, car elle sort avec le fiancé de Mindy.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_19289292.jpg" />
+<episode-num system="xmltv_ns">0.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226095500 +0100" stop="20230226102500 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui avait un singe</sub-title>
+<desc lang="fr">Monica découvre que quelqu'un se fait passer pour elle et fait des achats avec sa carte de crédit. Le singe de Ross commence à perturber tout son entourage.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_22078684.jpg" />
+<episode-num system="xmltv_ns">0.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226102500 +0100" stop="20230226105500 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui rêve par procuration</sub-title>
+<desc lang="fr">Monica entretient une relation avec un étudiant que ses amis jugent bien trop jeune pour elle. Phoebe, de son côté, travaille dans l'entreprise de Chandler.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_14641218.jpg" />
+<episode-num system="xmltv_ns">0.21.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226105500 +0100" stop="20230226112000 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui a failli rater l'accouchement</sub-title>
+<desc lang="fr">L'accouchement de Carol, l'ex-femme de Ross, donne lieu à de bien étranges scènes au sein de l'hôpital : Joey, notamment, aide une jeune femme à accoucher.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_22170959.jpg" />
+<episode-num system="xmltv_ns">0.22.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226112000 +0100" stop="20230226115000 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui fait craquer Rachel</sub-title>
+<desc lang="fr">Ross est secrètement amoureux de Rachel depuis quelque temps. Quand celle-ci apprend la chose par l'intermédiaire de Chandler, elle s'empresse de le retrouver.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_22170957.jpg" />
+<episode-num system="xmltv_ns">0.23.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226115000 +0100" stop="20230226122000 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui a une nouvelle fiancée</sub-title>
+<desc lang="fr">Rachel se rend à l'aéroport pour déclarer sa flamme à Ross, mais celui-ci revient avec Julie, sa nouvelle amie, rencontrée au cours de son voyage en Chine.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_12161021.jpg" />
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226122000 +0100" stop="20230226124500 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui détestait le lait maternel</sub-title>
+<desc lang="fr">Joey tente de séduire une collègue. Monica se lie d'amitié avec Julie mais n'ose pas encore en parler à Rachel. Chandler, Ross et Joey gardent Ben.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_12161021.jpg" />
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226124500 +0100" stop="20230226131500 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui est mort dans l'appart du dessous</sub-title>
+<desc lang="fr">Monica et Rachel apprennent la mort de monsieur Heckles, un voisin particulièrement irascible. Elles sont surprises de figurer sur son testament.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_12161021.jpg" />
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226131500 +0100" stop="20230226134500 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui avait viré de bord</sub-title>
+<desc lang="fr">Phoebe a accepté d'épouser un danseur sur glace canadien afin que celui-ci puisse vivre et travailler aux Etats-Unis. La nouvelle surprend tous ses amis.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_12161021.jpg" />
+<episode-num system="xmltv_ns">1.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226134500 +0100" stop="20230226141500 +0100" channel="NT1.fr">
+<title lang="fr">Friends</title>
+<sub-title lang="fr">Celui qui se faisait passer pour Bob</sub-title>
+<desc lang="fr">C'est l'anniversaire de Ross et tout le monde se cotise pour lui offrir un cadeau : mais le montant à y consacrer entraîne un certain nombre de polémiques.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_12161021.jpg" />
+<episode-num system="xmltv_ns">1.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226141500 +0100" stop="20230226143500 +0100" channel="NT1.fr">
+<title lang="fr">How I Met Your Mother</title>
+<sub-title lang="fr">Ted et la dernière croisade</sub-title>
+<desc lang="fr">Ted doit choisir entre trois jeunes femmes pour l'accompagner au mariage. De leur côté, Barney et Robin ont un léger différend avec le révérend...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10142011.jpg" />
+<episode-num system="xmltv_ns">8.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226143500 +0100" stop="20230226145500 +0100" channel="NT1.fr">
+<title lang="fr">How I Met Your Mother</title>
+<sub-title lang="fr">Pose pas de question</sub-title>
+<desc lang="fr">Daphnee envoie un message troublant à Lily. Marshall demande l'aide de toute la bande pour tenter de l'effacer, avec une directive : ne pas poser de questions.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10141995.jpg" />
+<episode-num system="xmltv_ns">8.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226145500 +0100" stop="20230226152000 +0100" channel="NT1.fr">
+<title lang="fr">How I Met Your Mother</title>
+<sub-title lang="fr">Un phare tellement romantique</sub-title>
+<desc lang="fr">La guerre est ouverte entre Loretta et Robin. Lily est toujours furieuse contre Marshall, qui est furieux contre Daphnee. Ted cherche à se changer les idées...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10142088.jpg" />
+<episode-num system="xmltv_ns">8.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226152000 +0100" stop="20230226154500 +0100" channel="NT1.fr">
+<title lang="fr">How I Met Your Mother</title>
+<sub-title lang="fr">Platonique</sub-title>
+<desc lang="fr">Robin déprime lorsqu'elle apprend que sa mère n'assistera pas à son mariage. Barney prend la situation en main et se lance un défi : lui remonter le moral.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10142088.jpg" />
+<episode-num system="xmltv_ns">8.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226154500 +0100" stop="20230226161500 +0100" channel="NT1.fr">
+<title lang="fr">How I Met Your Mother</title>
+<sub-title lang="fr">Maman et Papas</sub-title>
+<desc lang="fr">Le père de Barney arrive à l'hôtel. Ce dernier élabore un plan qui effraie Robin. Pendant ce temps, Ted est convaincu d'avoir eu affaire à un saboteur.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10176840.jpg" />
+<episode-num system="xmltv_ns">8.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226161500 +0100" stop="20230226164000 +0100" channel="NT1.fr">
+<title lang="fr">How I Met Your Mother</title>
+<sub-title lang="fr">A quoi ça rime ?</sub-title>
+<desc lang="fr">Forcé et contraint, Marshall prend le bus. Pour endormir Marvin, il improvise des histoires en rimes en s'inspirant des mésaventures de Ted, Robin et Barney.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10176842.jpg" />
+<episode-num system="xmltv_ns">8.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226164000 +0100" stop="20230226171000 +0100" channel="NT1.fr">
+<title lang="fr">How I Met Your Mother</title>
+<sub-title lang="fr">Le dîner de répétition</sub-title>
+<desc lang="fr">Barney se rend dans un laser-tag alors que toute la bande l'attend à l'hôtel pour un important dîner. Comprenant le malentendu, Lily tente de le raisonner.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10176842.jpg" />
+<episode-num system="xmltv_ns">8.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226171000 +0100" stop="20230226173500 +0100" channel="NT1.fr">
+<title lang="fr">How I Met Your Mother</title>
+<sub-title lang="fr">Recherche bassiste désespérément</sub-title>
+<desc lang="fr">Marshall finit par trouver une bonne âme pour l'amener au motel. Parallèlement, la bande croise un homme qui prend un malin plaisir à semer la zizanie.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10176843.jpg" />
+<episode-num system="xmltv_ns">8.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226173500 +0100" stop="20230226180500 +0100" channel="NT1.fr">
+<title lang="fr">How I Met Your Mother</title>
+<sub-title lang="fr">La dernière baffe</sub-title>
+<desc lang="fr">Marshall a promis de donner sa quatrième gifle lors de son mariage. Barney affirme ne pas la redouter, mais Marshall lui raconte sa préparation.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10176846.jpg" />
+<episode-num system="xmltv_ns">8.13.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226180500 +0100" stop="20230226183000 +0100" channel="NT1.fr">
+<title lang="fr">How I Met Your Mother</title>
+<sub-title lang="fr">Pause</sub-title>
+<desc lang="fr">Marshall cherche à repousser le moment où la pause dans sa dispute avec Lily sera levée. Au bar de l'hôtel, Barney a tellement bu qu'il dit toute la vérité.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10176846.jpg" />
+<episode-num system="xmltv_ns">8.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226183000 +0100" stop="20230226190000 +0100" channel="NT1.fr">
+<title lang="fr">How I Met Your Mother</title>
+<sub-title lang="fr">Comment votre mère m'a rencontré</sub-title>
+<desc lang="fr">Tracy, la mère des enfants de Ted, se remémore les huit années qui ont précédé leur rencontre. A plusieurs reprises, leurs chemins se sont croisés.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10176847.jpg" />
+<episode-num system="xmltv_ns">8.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226190000 +0100" stop="20230226192500 +0100" channel="NT1.fr">
+<title lang="fr">How I Met Your Mother</title>
+<sub-title lang="fr">L'aube</sub-title>
+<desc lang="fr">Le jour J, Robin et Ted se remémorent leurs souvenirs passés tout en cherchant Barney, occupé à sympathiser avec deux jeunes en quête de femmes à séduire.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10176852.jpg" />
+<episode-num system="xmltv_ns">8.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226192500 +0100" stop="20230226195500 +0100" channel="NT1.fr">
+<title lang="fr">How I Met Your Mother</title>
+<sub-title lang="fr">Rallye</sub-title>
+<desc lang="fr">Le jour de son mariage, Barney souffre d'une atroce gueule de bois. Ses amis tentent de l'aider à surmonter la douleur. Un seul ingrédient lui sauvera la mise.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10176852.jpg" />
+<episode-num system="xmltv_ns">8.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226195500 +0100" stop="20230226202000 +0100" channel="NT1.fr">
+<title lang="fr">How I Met Your Mother</title>
+<sub-title lang="fr">Le Vésuve</sub-title>
+<desc lang="fr">Lily et Robin se disputent le jour du mariage. Barney, incapable de choisir son costume pour la cérémonie, se fait aider par Ted, sujet d'un film embarrassant.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_27259790.jpg" />
+<episode-num system="xmltv_ns">8.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226202000 +0100" stop="20230226210000 +0100" channel="NT1.fr">
+<title lang="fr">How I Met Your Mother</title>
+<sub-title lang="fr">Daisy</sub-title>
+<desc lang="fr">Au beau milieu d'une dispute avec Marshall, Lily prend le large. Ted et Barney tentent de la retrouver. Robin a une discussion avec sa mère sur le mariage.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_5144678.jpg" />
+<episode-num system="xmltv_ns">8.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226210000 +0100" stop="20230226210500 +0100" channel="NT1.fr">
+<title lang="fr">Petits plats en équilibre</title>
+<desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14223378.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226210500 +0100" stop="20230226225500 +0100" channel="NT1.fr">
+<title lang="fr">Le big bêtisier</title>
+<desc lang="fr">Bonne humeur, fous rires et surprises sont au menu du &quot;Big Bêtisier&quot; présenté par Christophe Beaugrand. Se succèdent ainsi le meilleur et le plus drôle du Net de ces derniers mois. 90 minutes pour se détendre et se divertir au gré d'images mignonnes ou inattendues, cocasses ou délirantes.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_16978348.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230226225500 +0100" stop="20230227005000 +0100" channel="NT1.fr">
+<title lang="fr">Le big bêtisier</title>
+<desc lang="fr">Le &quot;big bêtisier&quot; de Christophe Beaugrand est de retour pour offrir le meilleur du Net aux téléspectateurs : chutes, canulars, des animaux, des fous rires, le meilleur de Ninja Warrior à l'étranger, bref un cocktail 100% rire pour toute la famille. Justin Timberlake, 50 Cent ou encore Katy Perry...</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_16978348.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

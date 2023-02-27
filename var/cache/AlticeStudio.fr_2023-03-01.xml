@@ -1,0 +1,91 @@
+<!-- racacax\XmlTv\Component\Provider\SFR -->
+<programme start="20230301020500 +0100" stop="20230301080400 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Pause</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/4/2462494.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301080400 +0100" stop="20230301094800 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Ted</title>
+<desc lang="fr">Un homme cohabite depuis 25 ans avec son ours en peluche, venu à la vie par magie. Cet animal immature et vulgaire perturbe le couple de son maître.</desc>
+<category lang="fr">Comédie</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/1/5/5776519.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301094800 +0100" stop="20230301120400 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Public Enemies</title>
+<desc lang="fr">Au début des années 30, la cavale de John Dillinger, un célèbre braqueur de banques devenu l'ennemi public numéro un, poursuivi par un détective zélé du FBI.</desc>
+<category lang="fr">Film policier</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/4/0/5831041.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230301120400 +0100" stop="20230301125100 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Britannia</title>
+<sub-title lang="fr">La grande vision</sub-title>
+<desc lang="fr">Aulus est de retour après un voyage animé aux enfers. Willa révèle que si Cait parvient à s'emparer d'une lance, les tribus seront alors unies.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/1/4/5780410.jpg" />
+<episode-num system="xmltv_ns">2.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230301125100 +0100" stop="20230301133800 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Britannia</title>
+<sub-title lang="fr">Les machinations d'Hemple</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/5/5884504.jpg" />
+<episode-num system="xmltv_ns">2.4.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230301133800 +0100" stop="20230301142700 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Britannia</title>
+<sub-title lang="fr">Un bien précieux</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/9/8/5836890.jpg" />
+<episode-num system="xmltv_ns">2.5.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230301142700 +0100" stop="20230301161500 +0100" channel="AlticeStudio.fr">
+<title lang="fr">8 Mile</title>
+<desc lang="fr">A Detroit, aux Etats-Unis, un homme rêveur et doux, déchiré entre ses espoirs et sa mère alcoolique, trouve un exutoire dans les joutes verbales.</desc>
+<category lang="fr">Drame</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/0/5789070.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230301161500 +0100" stop="20230301190000 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Scarface</title>
+<desc lang="fr">Le parcours vertigineux d'un truand cubain qui, après avoir immigré aux Etats-Unis, devient le parrain incontesté et redouté du monde de la drogue.</desc>
+<category lang="fr">Film de suspense</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/6/5781682.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230301190000 +0100" stop="20230301205000 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Baby Boss 2 : une affaire de famille</title>
+<desc lang="fr">Redevenus bébés grâce à un lait magique, deux frères qui se chamaillent doivent s'unir pour affronter un génie du mal qui manipule des nourrissons.</desc>
+<category lang="fr">Film d'animation</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/9/2/5828292.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301205000 +0100" stop="20230301222900 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Les Croods 2 : une nouvelle ère</title>
+<desc lang="fr">Des hommes des cavernes rencontrent des congénères plus évolués. Ils s'installent dans leur paradis pour affronter ensemble une menace extérieure.</desc>
+<category lang="fr">Film d'animation</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/2/5/5836520.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301222900 +0100" stop="20230302003000 +0100" channel="AlticeStudio.fr">
+<title lang="fr">Vue sur mer</title>
+<desc lang="fr">Un écrivain américain et son épouse prennent de longues vacances dans un village de la Côte d'Azur et voient leur couple, déjà fragile, s'effondrer.</desc>
+<category lang="fr">Drame</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/2/8/5775825.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302003000 +0100" stop="20230302021300 +0100" channel="AlticeStudio.fr">
+<title lang="fr">American Nightmare 5 : sans limites</title>
+<desc lang="fr">Au lendemain du déchaînement de violence annuel, alors que tout devrait revenir à la normale, un groupe s'en prend aux occupants du ranch des Tucker.</desc>
+<category lang="fr">Film de suspense</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/7/6577760.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>

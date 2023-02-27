@@ -1,0 +1,162 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230302042700 +0100" stop="20230302073000 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302073000 +0100" stop="20230302082800 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Late Sport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/38DBA5E7D1A62040852F202AEAB6A5B5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302082800 +0100" stop="20230302105900 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Le 5e tour</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/544A5981173D79B572B932CADF32E5E5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302105900 +0100" stop="20230302124100 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1E94CA4C9B218C2885C7DAC9B3FEC1F6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302124100 +0100" stop="20230302131000 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Voile : SailGP</title>
+<desc lang="fr">SailGP 2022/2023. 9e manche. Grand Prix d'Australie. Les temps forts.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Voile</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0C4E4E21E82A338A75496CF055DEE896.jpg" />
+<episode-num system="xmltv_ns">0.38.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302131000 +0100" stop="20230302140600 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Golf+, le mag</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/68686C48B3BAF600512B6DD46FD4C765.jpg" />
+<episode-num system="xmltv_ns">0.23.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302140600 +0100" stop="20230302154800 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 1re journée. Crusaders / Chiefs.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FD34DC8C821AEECAD2CAFBAA03FD5D95.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302154800 +0100" stop="20230302174900 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Sevens World Series 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/47962181A32684E6A5BD4DDDFC018D78.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302174900 +0100" stop="20230302193100 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/98656E25156EBC018B4224F92549720E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302193100 +0100" stop="20230302193800 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Zapsport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EF631D16B1E186486BA50A0587BE97E2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302193800 +0100" stop="20230302200400 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Inside</title>
+<sub-title lang="fr">Inside Villeneuve</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A9350A41C1EA64879BC6035447F7568B.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302200400 +0100" stop="20230302205000 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">En pole</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/25AF5F1643A75AD62240C47FD387A11C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302205000 +0100" stop="20230302210000 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Avant-match Pro D2</title>
+<sub-title lang="fr">Mont-de-Marsan - Béziers</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A4E4F49F10B995155EB66E4234D29625.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302210000 +0100" stop="20230302225500 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023. 23e journée. Mont-de-Marsan / Béziers.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/89DCD923BCC916E69B1A703550775DF5.jpg" />
+<episode-num system="xmltv_ns">0.183.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302225500 +0100" stop="20230303003300 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rétro</title>
+<sub-title lang="fr">Verstappen, l'indomptable</sub-title>
+<desc lang="fr">Retour sur la saison 2022 de Formule 1 qui a sacré pour la seconde année consécutive le Néerlandais Max Verstappen. Le pilote de la team Red Bull Racing, impérial, a remporté 15 courses sur les 22 que compte le championnat du monde. Face à lui, le Monégasque Charles Leclerc a vécu une année en dents de scie au volant de sa Ferrari. De son côté, le Britannique Lewis Hamilton a également souffert avec sa Mercedes, et ne termine pas sur le podium final, mais seulement à la 6e position au classement général.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/AFEDF67B0F3B980022C64D6EC50B8991.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230303003300 +0100" stop="20230303011400 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">En pole</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0C55DFC993B4B01FE9FEADE1F19D888E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230303011400 +0100" stop="20230303031500 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Open d'Orlando</title>
+<desc lang="fr">Circuit américain 2022/2023. Open d'Orlando.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3CEC6D50EEF805F6BC935325598F51FF.jpg" />
+<episode-num system="xmltv_ns">0.94.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230303031500 +0100" stop="20230303044000 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Alors on danse</title>
+<desc lang="fr">Quand elle apprend que son époux fréquente une maîtresse depuis plus de deux ans, Sandra plie instantanément bagages et part s'installer chez sa soeur Danie. Bouleversée, Sandra peine à remonter la pente, ce qui n'échappe pas à son hôte. Pour tenter de l'aider à retrouver le sourire, Danie l'invite à l'accompagner à ses cours de danse. D'abord réticente, Sandra finit par accepter de se joindre au groupe. Sur place, elle découvre des danseurs et danseuses suivre les pas aléatoires de Lucien et Roberto, professeurs aussi peu doués qu'attachants. Emportée par l'ambiance positive des lieux, Sandra se laisse très vite prendre au jeu...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B267BA1BEA007F83C400DC214A9520F9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230303044000 +0100" stop="20230303055700 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Le Chêne</title>
+<desc lang="fr">Désormais plus que bicentenaire, un majestueux chêne est devenu le créateur d'un véritable microcosme insoupçonné, de ses racines profondément enfouies, jusqu'au bout de ses feuilles. Véritable figure paternelle pour les fourmis et autres mulots qui pullulent à ses pieds, il l'est tout autant pour les écureuils et les balanins. Pour ce monde invisible à l'oeil nu, cet arbre demeure le garant de leur protection et avant-tout de leur survie. Sans lui, toute cette faune n'aurait pas lieu et ne pourrait pas être. Caché derrière son air paisible, ce chêne représente en réalité le pilier d'un royaume méconnu et minutieusement organisé...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Documentaire</category>
+<icon src="https://img.bouygtel.fr/CMS/images/07B7B8E30F6C543D014052EC68328B12.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

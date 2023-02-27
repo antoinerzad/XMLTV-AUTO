@@ -1,0 +1,337 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230305043000 +0100" stop="20230305051000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Les matinales</title>
+<desc lang="fr">Programme de musique classique pour se réveiller en douceur.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/32028F6D5EF94877B0FC38CDCBC90CBD.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305051000 +0100" stop="20230305060000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Questions pour un super champion</title>
+<desc lang="fr">&quot;Questions pour un Super Champion&quot;, la compétition incontournable qui propose, chaque samedi, de retrouver les plus grands champions ayant obtenu plusieurs victoires au cours de l'émission quotidienne, et qui vont s'affronter pour tenter de détrôner le champion en lice au cours d'un face à face final. Avec toujours des matchs de haut niveau et une cagnotte de 50 000€ à remporter toutes les 5 victoires !</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/57BE96F035E3C43017AF4E982D9E8523.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305060000 +0100" stop="20230305081000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Okoo</title>
+<desc lang="fr">Une sélection de dessins animés, des reportages, des expériences pour apprendre en s'amusant, des découvertes et des exclus, avec Okoo il y en aura pour tous les goûts et pour tous les enfants de 3 à 12 ans !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A0E4E4E7319157C11DDB6CB720028434.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305081000 +0100" stop="20230305100000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Dimanche okoo</title>
+<desc lang="fr">Une sélection de dessins animés, des reportages, des expériences pour apprendre en s'amusant, des découvertes et des exclus, avec Okoo il y en aura pour tous les goûts et pour tous les enfants de 3 à 12 ans !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A0E4E4E7319157C11DDB6CB720028434.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305100000 +0100" stop="20230305103000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Outremer.story</title>
+<desc lang="fr">(Reprise du 05/03/23)</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DE9135301E3E6EA67BF708865E3308F9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305103000 +0100" stop="20230305110000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Parlement hebdo</title>
+<desc lang="fr">Entièrement dédié à l'actualité parlementaire, ce rendez-vous unique offre chaque semaine un panorama complet des événements qui ont alimenté le débat à l'Assemblée nationale et au Sénat. En présence d'un député ou d'un sénateur, &quot;Parlement Hebdo&quot; propose une relecture éclairée des grands travaux et discussions parlementaires à partir d'images et reportages sur les temps forts de la semaine. Conjointement réalisée par LCP-Assemblée nationale et Public Sénat, cette émission donne à voir et à comprendre l'actualité parlementaire.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5046ED0743916ECEDF4BC1BA8A4DD35E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305110000 +0100" stop="20230305111000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Expression directe</title>
+<sub-title lang="fr">Parti socialiste</sub-title>
+<desc lang="fr"> Organisations syndicales, partis politiques, mais aussi mouvements d'entrepreneurs prennent la parole.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/22DFD76AB6F6816A8D7B2538FF85DC43.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305111000 +0100" stop="20230305111500 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique du service de presse de France 3-Météo France.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E1CEE87A9F44CEC9D63AF3655F4AF7A6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305111500 +0100" stop="20230305113000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Outremer.l'info</title>
+<desc lang="fr">Reportages, décryptages, focus... la Rédaction du Pôle Outre-mer propose &quot;Outremer.l'info&quot;, le journal d'information consacré à l'actualité ultramarine. De Saint-Pierre-et-Miquelon à Wallis-et-Futuna, en passant par la Guadeloupe, la Martinique, la Guyane, Mayotte, la Réunion, la Polynésie et la Nouvelle-Calédonie, faites le tour de l'actualité quotidienne des Outre-mer en 9 minutes, 7 jours sur 7, tout au long de l'année !</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/11E78259F8E9EBD5C4A5E518EF452F77.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305113000 +0100" stop="20230305120000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Dimanche en politique en régions</title>
+<desc lang="fr">Les rédactions régionales de France 3 traitent des sujets qui font débat et des enjeux politiques, sociaux et sociétaux. Hommes et femmes politiques, citoyens engagés et habitants de la région apportent leurs réponses à la question de la semaine.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F28D2CC6693B1FC6D10E5C1091A94DA2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305120000 +0100" stop="20230305120500 +0100" channel="France3Auvergne.fr">
+<title lang="fr">12/13 : Journal régional</title>
+<desc lang="fr">Journal de l'actualité régionale par la rédaction de France 3.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DAC47C1EA044D3005B75592920818C79.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305120500 +0100" stop="20230305121000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">12/13 : Météo régionale</title>
+<desc lang="fr">Un aperçu des prévisions météorologiques concernant la région pour la journée et le lendemain.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/22D93FA0A6E5B4882D379928894C1A13.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305121000 +0100" stop="20230305125500 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Dimanche en politique</title>
+<desc lang="fr">Francis Letellier reçoit, en direct, un homme ou une femme politique pour débattre de l'actualité nationale et internationale.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E29B0A57FFCE0C8C827B4BF4C65D4DB7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305125500 +0100" stop="20230305133000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Les nouveaux nomades</title>
+<desc lang="fr">La diversité des territoires est riche de belles surprises : des bords de la Méditerranée aux sommets alpins, de la Loire aux côtes atlantiques, des Pyrénées au coeur de la capitale, rencontre avec des passionnés de leur région.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E076FBAD3FD7419A3ECE5123E470A409.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305133000 +0100" stop="20230305151500 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Vivement dimanche</title>
+<desc lang="fr">Michel Drucker s'installe sur France 3 pour présenter la nouvelle version de &quot;Vivement Dimanche&quot;, un talk-show d'une durée de 90 minutes. Ce rendez-vous incontournable du dimanche mettra en lumière les talents d'hier, d'aujourd'hui et de demain : chanteurs, acteurs, humoristes... En première partie d'émission, Michel Drucker recevra un(e) invité(e) fil rouge. Ils parleront ensemble de sa carrière, de ses projets mais également de la région d'où il ou elle est originaire. Une fois par mois, un hommage sera rendu à nos chers disparus. Un de ses proches légitime pour en parler sera aux côtés de Michel, ils retraceront les grands moments de sa carrière.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/712B92106D5BFE456EE755654E872958.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305151500 +0100" stop="20230305170500 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Cyclisme : Paris-Nice</title>
+<desc lang="fr">UCI World Tour 2023. Paris-Nice.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Cyclisme</category>
+<icon src="https://img.bouygtel.fr/CMS/images/314E6A3F2B08C50782EEF6422275C9F1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305170500 +0100" stop="20230305171000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">La p'tite librairie</title>
+<desc lang="fr">François Busnel propose chaque jour de vous faire découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/66D86AFB3762A084E9BDCDCD0BC11060.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305171000 +0100" stop="20230305175500 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Des chiffres et des lettres</title>
+<desc lang="fr">Retrouvez désormais &quot;Des Chiffres et Des Lettres&quot; chaque week-end, animé par Laurent Romejko, entouré de ses deux nouveaux experts : Blandine Maire et Stéphane Crosnier. Maîtrise de l'orthographe et calcul mental sont encore et toujours les maîtres mots de ce célèbre jeu. D'origine Beaujolaise, Blandine Maire est professeure des écoles. Elle a participé à l'offre Lumni en y donnant des cours de français. Originaire de Tours, le lien de Stéphane Crosnier avec &quot;Des Chiffres et des Lettres&quot; est très fort. Il a été une première fois candidat à l'émission en 1988 avec succès. Il a ensuite gagné la Coupe des Champions en 1997, et le Championnat en 2010.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3E8180F4C11EF6B24EA5B87823BC15D5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305175500 +0100" stop="20230305185000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Le grand Slam</title>
+<desc lang="fr">Chaque dimanche, &quot;Le Grand Slam&quot; accueille les champions qui ont marqué l'histoire de &quot;Slam&quot; par leur palmarès et leur personnalité. Avec sa mécanique imparable basée sur la culture générale et les mots croisés, &quot;Le Grand Slam&quot; permet, chaque semaine, à quatre candidats de revenir dans la compétition pour tenter de se qualifier et d'affronter, toujours dans la bonne humeur, le champion en lice afin de remporter les 10 000€ en jeu.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A20CEADF31F72215528A47FBFF40AC76.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305185000 +0100" stop="20230305185800 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Météo des neiges</title>
+<desc lang="fr">Toutes les informations sur l'enneigement dans les stations de ski et sur les chutes de neige dans les villes.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5A3DEC4C9B119EFAF33B8C92DA7D6ED1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305185800 +0100" stop="20230305190000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">19/20 : Météo régionale</title>
+<desc lang="fr">Un aperçu des prévisions météorologiques qui devraient concerner la région pour les jours à venir.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/22D93FA0A6E5B4882D379928894C1A13.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305190000 +0100" stop="20230305192300 +0100" channel="France3Auvergne.fr">
+<title lang="fr">19/20 : Journal régional</title>
+<desc lang="fr">Toute l'actualité régionale par la rédaction de France 3.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6AC32DE37302400D18426582D55DEEFF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305192300 +0100" stop="20230305193000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">19/20 : Météo régionale</title>
+<desc lang="fr">Un aperçu des prévisions météorologiques qui devraient concerner la région pour les jours à venir.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/22D93FA0A6E5B4882D379928894C1A13.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305193000 +0100" stop="20230305200000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">19/20 : Journal national</title>
+<desc lang="fr">Toute l'actualité nationale par la rédaction de France 3.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A1713B1F313CECDF3316FD7E6A91FA8E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305200000 +0100" stop="20230305200500 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Météo régionale</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9D7472F8A497510D66E8895A5C61BA4C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305200500 +0100" stop="20230305205000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Stade 2</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/ECC38619A0979C6557B9FD3D9F603143.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305205000 +0100" stop="20230305210500 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Destination 2024</title>
+<desc lang="fr">Paris accueillera en 2024 les XXXIIIe Jeux olympiques d'été. Zoom sur un champion en préparation.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6019F4154CAF2645EE151EB0C57A2CBB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305210500 +0100" stop="20230305211000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique du service de presse de France 3-Météo France.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E1CEE87A9F44CEC9D63AF3655F4AF7A6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305211000 +0100" stop="20230305215000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Les enquêtes de Murdoch</title>
+<sub-title lang="fr">Ce qu'on fait par amour</sub-title>
+<desc lang="fr">Murdoch est à Montréal pour retrouver Anna Fulford et leur fils, Harry, toujours recherchés par la Main noire. Watts enquête sur la mort d'une femme japonaise. Selon ses parents, elle aurait été assassinée par son mari, un Canadien. Malheureusement, ils ont brûlé sa dépouille selon le rite shintoïste. De son côté, George a été enlevé par les soeurs Ernst, à la santé mentale instable. Quant à Brackenreid, il s'inquiète pour son jeune fils en cavale. Enfin, Violet Carmichael met tout en oeuvre pour assurer son avenir.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A1D4D06176B2C7D540848D863BF2E703.jpg" />
+<episode-num system="xmltv_ns">14.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230305215000 +0100" stop="20230305223500 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Les enquêtes de Murdoch</title>
+<sub-title lang="fr">Ce qu'on fait par amour</sub-title>
+<desc lang="fr">Le docteur Ogden se lance dans une opération peu orthodoxe. Murdoch doit se montrer plus malin que la Main noire pour réunir Anna Fulford et son fils Harry. Pendant ce temps, George tente d'échapper à ses ravisseuses. L'affaire dont s'occupe Watts, le meurtre de la jeune Japonaise, prend un tournant inattendu. Enfin, Brackenreid prend une décision importante concernant Bobby.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8A26ADD1BCDBC0E16542F13EC1860D05.jpg" />
+<episode-num system="xmltv_ns">14.1.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230305223500 +0100" stop="20230305231500 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Les enquêtes de Murdoch</title>
+<sub-title lang="fr">Tel le Phénix</sub-title>
+<desc lang="fr">L'avenir du poste de police numéro 4 paraît plus qu'incertain. En effet, l'embuscade menée dans l'église demeure dans tous les esprits comme un traumatisme. L'équipe historique en ressort définitivement meurtrie. Murdoch, quant à lui, se retrouve en cellule. Il est en effet accusé du meurtre de la célèbre danseuse Lydia Hall. L'inquiétude demeure, concernant Brackenreid et Julia : ils sont toujours portés disparus. Higgins, qui a miraculeusement survécu à la fusillade, doit maintenant composer avec une nouvelle responsable imposée par Franklin Williams. Voulant extorquer des aveux à Murdoch, le promoteur Robert Graham n'hésite pas à recourir au chantage...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/655E694A86FE93ABE98D9B4100EA8582.jpg" />
+<episode-num system="xmltv_ns">10.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230305231500 +0100" stop="20230306000000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Les enquêtes de Murdoch</title>
+<sub-title lang="fr">Crime-oenologie</sub-title>
+<desc lang="fr">Aidé par l'inspecteur Watts, Murdoch tente d'établir l'origine d'une bouteille de vin dont le breuvage a fait un mort. En effet, lors des festivités du mariage de son fils, Enrico Firenzo est tombé raide mort en buvant un vin de premier choix qu'il conservait depuis des années, dans la perspective de cet événement. Très vite, Watts et Murdoch découvrent que Firenzo était critique dans une revue oenologique. Dans l'un de ses articles, il avait récemment mis en cause un important vigneron de la région. Parallèlement, espérant trouver un poste de médecin hospitalier, Rebecca James songe à quitter la morgue... </desc>
+<category lang="fr">Série</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/821AFFA1B46AD4F3FC5BEC18FB7F4B92.jpg" />
+<episode-num system="xmltv_ns">10.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306000000 +0100" stop="20230306004000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Les enquêtes de Murdoch</title>
+<sub-title lang="fr">Huit pas</sub-title>
+<desc lang="fr">Le couple Murdoch assiste à un banquet se déroulant dans le noir, organisé par le scientifique Alexander Graham Bell. Lorsque David Sampton est assassiné d'un coup de couteau à l'arrière du crâne, Murdoch a la certitude que l'assassin se trouve encore dans la pièce restée close. Aidé par Ralph Fellows, Murdoch écarte d'emblée certains convives de la liste des suspects, grâce à des enregistrements sonores effectués lors du dîner par Bell. L'enquête se concentre alors sur les rapports des convives entre eux : Helen Keller, éprise du défunt, Horace Carmondy, professeur à la réputation entachée par une escroquerie, Herbert Wilson, qui avait financé les recherches de Carmondy, et la très riche Ruth Newsome, fiancée à Wilson mais convoitée par Higgins...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C11B257914F00ABFCB18BD5972B08C82.jpg" />
+<episode-num system="xmltv_ns">10.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306004000 +0100" stop="20230306012500 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Les enquêtes de Murdoch</title>
+<sub-title lang="fr">Le salon médical</sub-title>
+<desc lang="fr">La ville de Toronto connait une grande première médicale. Le chirurgien Bertram Lennox s'apprête à pratiquer une transplantation d'organe sur Régina Shine, une patiente à qui il ne reste plus que quelques mois à vivre. C'est l'opération de la dernière chance. Lorsque Régina meurt d'une hémorragie, Lennox crie au sabotage. Le bilan sanguin effectué quelques jours plus tôt par le docteur Lennox permettait pourtant l'opération. Tandis que Julia découvre, lors de l'autopsie, que les plaquettes sanguines de la défunte ont été inhibées par de l'aspirine, Murdoch apprend que trois femmes sont déjà mortes lors d'expériences médicales réalisées par Lennox...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BF81DAC673CF455C995CA990D5FDFA56.jpg" />
+<episode-num system="xmltv_ns">10.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306012500 +0100" stop="20230306013000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique du service de presse de France 3-Météo France.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E1CEE87A9F44CEC9D63AF3655F4AF7A6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306013000 +0100" stop="20230306030000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">McDonald &amp; Dodds</title>
+<sub-title lang="fr">Tout n'est pas rose</sub-title>
+<desc lang="fr">Une influenceuse très tendance meurt au bloc opératoire lors d'une intervention de chirurgie esthétique. Elle avait pourtant choisi le nec plus ultra dans le domaine : la clinique &quot;Flynn et Ford&quot;, dirigée par Mariel Flynn et Al Ford, un couple célèbre dans le milieu, mais en instance de divorce. Aussitôt, les hypothèses les plus folles commencent à circuler. McDonald et Dodds, elles, doivent rester concentrer sur les faits. Et d'abord, s'agit-il d'un accident ?</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C9BDC2F5CAE3FE46A78879994078ED70.jpg" />
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306030000 +0100" stop="20230306030500 +0100" channel="France3Auvergne.fr">
+<title lang="fr">La p'tite librairie</title>
+<desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D3A50BA9E4A81C2F346DACF8A4CC1705.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306030500 +0100" stop="20230306035500 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Les carnets de Julie</title>
+<sub-title lang="fr">L'Alsace</sub-title>
+<desc lang="fr">Petit reporter du goût et du bon vivre, Julie déniche des endroits insolites, rencontre des personnages chaleureux et truculents, capables de faire comprendre ce qui fait le ciment créatif, gastronomique, culturel, patrimonial ou économique d'une région. La cuisine joue plus que jamais son rôle de lien.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2AB9618D4294E47F4489A741F0ECE073.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306035500 +0100" stop="20230306043000 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Cuisine ouverte</title>
+<desc lang="fr">(Reprise du 11/02/23)</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EC252A1FF55370C6795746653115C77D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306043000 +0100" stop="20230306050500 +0100" channel="France3Auvergne.fr">
+<title lang="fr">Les matinales</title>
+<desc lang="fr">Programme de musique classique pour se réveiller en douceur.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D103E37893FDB681D917EEA97431670D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

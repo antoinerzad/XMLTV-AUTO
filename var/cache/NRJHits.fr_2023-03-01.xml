@@ -1,0 +1,57 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230301060000 +0100" stop="20230301070000 +0100" channel="NRJHits.fr">
+<title lang="fr">La tête dans le clip</title>
+<desc lang="fr">NRJ Hits propose une sélection des meilleurs clips musicaux du moment dès le matin. Un réveil en musique, pour se lever du bon pied et bien commencer la journée.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15399081.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301070000 +0100" stop="20230301120000 +0100" channel="NRJHits.fr">
+<title lang="fr">NRJ Morning Hits</title>
+<desc lang="fr">Dès votre réveil, et pour bien entamer cette nouvelle journée, un condensé des clips d'aujourd'hui et de hier. Une façon agréable de bien commencer sa journée !</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15400018.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301120000 +0100" stop="20230301150000 +0100" channel="NRJHits.fr">
+<title lang="fr">Hit Music Only</title>
+<desc lang="fr">Pour les férus de musiques actuelles et moins récentes, NRJ Hits vous propose une sélection composée d'un mélange de hits du moment et de classiques intemporels.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15399083.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301150000 +0100" stop="20230301160000 +0100" channel="NRJHits.fr">
+<title lang="fr">Le hit des clips</title>
+<desc lang="fr">NRJ Hits propose de continuer la journée, toujours accompagné de musique. Quels sont les 15 meilleurs clips de la semaine ? La chaîne propose de les découvrir grâce au Hit des clips.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15399083.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301160000 +0100" stop="20230301190000 +0100" channel="NRJHits.fr">
+<title lang="fr">Spéciale Teenpop</title>
+<desc lang="fr">NRJ Hits propose une sélection des meilleurs clips de Teen Pop du moment.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15401293.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301190000 +0100" stop="20230301220000 +0100" channel="NRJHits.fr">
+<title lang="fr">Spéciale Justin Bieber</title>
+<desc lang="fr">Clips.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_6433720.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301220000 +0100" stop="20230302030000 +0100" channel="NRJHits.fr">
+<title lang="fr">NRJ Hits Mix</title>
+<desc lang="fr">NRJ Hits propose de poursuivre la soirée, toujours en musique. Les meilleurs clips musicaux du moment vous accompagnent pour terminer dans une ambiance musicale cette fin de journée.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15307167.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

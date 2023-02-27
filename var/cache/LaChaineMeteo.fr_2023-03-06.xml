@@ -1,0 +1,49 @@
+<!-- racacax\XmlTv\Component\Provider\MyCanal -->
+<programme start="20230306063000 +0100" stop="20230306090000 +0100" channel="LaChaineMeteo.fr">
+<title lang="fr">La Matinale</title>
+<desc lang="fr">C'est de l'info, de la météo, mais surtout la meilleure manière de débuter la journée.</desc>
+<category lang="fr">Actualites</category>
+<category lang="fr">Meteo</category>
+<icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100364068" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306090000 +0100" stop="20230306120000 +0100" channel="LaChaineMeteo.fr">
+<title lang="fr">NonStop 9h-12h</title>
+<desc lang="fr">Non-stop 9h-12h vous propose prévisions nationales, prévisions régionales, prévisions Europe, prévisions monde, temps du week-end, météo marine et les différentes destinations de l'Europe. </desc>
+<category lang="fr">Actualites</category>
+<category lang="fr">Meteo</category>
+<icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100364044" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306120000 +0100" stop="20230306140000 +0100" channel="LaChaineMeteo.fr">
+<title lang="fr">Le 1214</title>
+<desc lang="fr">Grace à cette émission Le 12/14 vous pouvez vous informer sur des prévisions météorologiques nationales, régionales, de toute l'Europe!</desc>
+<category lang="fr">Actualites</category>
+<category lang="fr">Meteo</category>
+<icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363854" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306140000 +0100" stop="20230306180000 +0100" channel="LaChaineMeteo.fr">
+<title lang="fr">NonStop 14h-18h</title>
+<desc lang="fr">NonStop 14h-18h revient sur les prévisions météorologiques actuelles.</desc>
+<category lang="fr">Actualites</category>
+<category lang="fr">Meteo</category>
+<icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100364044" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306180000 +0100" stop="20230306220000 +0100" channel="LaChaineMeteo.fr">
+<title lang="fr">L Edition du soir</title>
+<desc lang="fr">Soyez informés sur les prévisions météorologiques nationales !</desc>
+<category lang="fr">Actualites</category>
+<category lang="fr">Meteo</category>
+<icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/1724" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306220000 +0100" stop="20230307063000 +0100" channel="LaChaineMeteo.fr">
+<title lang="fr">Le journal de la nuit</title>
+<desc lang="fr">Le journal de la nuit vous donne toutes les informations sur les prévisions météorologiques actuelles.</desc>
+<category lang="fr">Actualites</category>
+<category lang="fr">Meteo</category>
+<icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363834" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

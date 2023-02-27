@@ -1,0 +1,149 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230301042200 +0100" stop="20230301062100 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">En attendant Bojangles</title>
+<desc lang="fr">Au premier coup d'oeil, Camille et Georges semblent former un couple comme tous les autres en cette fin des années 50. En réalité, depuis les débuts de leur relation, tout est trop extraordinaire. Mariés le jour même de leur rencontre à une soirée mondaine, leur amour n'a cessé de grandir, et un petit Gary n'a pas tardé à rejoindre leur foyer. Malheureusement, cette vie faite d'excès, de légèreté, et de trop d'insouciance prend soudainement fin quand Camille est rattrapée par des démons qu'elle ne parvient désormais plus à combattre. George se retrouve seul avec son fils, faisant face à ses terribles remords, empli d'incertitudes...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EA2E3D63C7A9E63048A7EDDE000B6BEB.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230301062100 +0100" stop="20230301073100 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301073100 +0100" stop="20230301082900 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Late Sport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/38DBA5E7D1A62040852F202AEAB6A5B5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301082900 +0100" stop="20230301101000 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0CCAE31914A0DA373EC3E257208E761A.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301101000 +0100" stop="20230301115200 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/89DCD923BCC916E69B1A703550775DF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301115200 +0100" stop="20230301125000 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Golf+, le mag</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/68686C48B3BAF600512B6DD46FD4C765.jpg" />
+<episode-num system="xmltv_ns">0.23.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301125000 +0100" stop="20230301143200 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/98656E25156EBC018B4224F92549720E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301143200 +0100" stop="20230301161300 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1E94CA4C9B218C2885C7DAC9B3FEC1F6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301161300 +0100" stop="20230301175500 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 1re journée. Reds / Hurricanes.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FD34DC8C821AEECAD2CAFBAA03FD5D95.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301175500 +0100" stop="20230301193700 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 1re journée. Crusaders / Chiefs.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9F39AAE43AD4FB46B4F34848E7894C11.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301193700 +0100" stop="20230301201900 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Inside</title>
+<sub-title lang="fr">Gasly Inside</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/34B94B61371D2CB44BBD5BBECFA21BF8.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301201900 +0100" stop="20230301210000 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">En pole</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0C55DFC993B4B01FE9FEADE1F19D888E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301210000 +0100" stop="20230301233000 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Le 5e tour</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B13A343921F20B656549B1BEB37321E8.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301233000 +0100" stop="20230302002300 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Sevens World Series 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BA98F032948E2DAD840469BF32C32E74.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302002300 +0100" stop="20230302010400 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">En pole</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/25AF5F1643A75AD62240C47FD387A11C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302010400 +0100" stop="20230302024000 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Kung-Fu Zohra</title>
+<desc lang="fr">Conjonctivite, glissades, choc contre le lavabo : Zohra tente bien de cacher les coups que lui porte son mari Omar. Mais, peu dupe, son amie Binta lui conseille de répondre de la même façon à ce dernier : par la violence. Zohra décide alors de prendre des cours auprès d'un maître de kung-fu. Déterminée à obtenir le divorce, Zohra concocte son plan à l'abri des regards. Auprès du spécialiste des arts martiaux, elle espère acquérir la technique nécessaire pour parvenir à enfin prendre le dessus physiquement sur son époux, avec en point de mire sa très prochaine fuite de cet enfer qu'elle vit depuis de trop nombreuses années...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Action</category>
+<icon src="https://img.bouygtel.fr/CMS/images/22FAB29A2E5CE3DD3D1B41B25CAE0327.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230302024000 +0100" stop="20230302042700 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Coupez !</title>
+<desc lang="fr">Réunis dans un lugubre bâtiment désaffecté pour le tournage d'un film de zombies, des comédiens s'ennuient ferme, peu aidés par une équipe technique démotivée. Sans l'entrain du réalisateur, seul véritable moteur de cette production aux moyens limités, beaucoup auraient sans nul doute baissé les bras. Mais, rapidement, le calme est perturbé par des événements pour le moins inquiétants. En effet, les membres du groupe sont troublés par l'arrivée soudaine de zombies aux airs plus vrais que nature. Et pour cause, il ne s'agit cette fois-ci nullement d'acteurs...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7B050F28774613F7480FF5D5701CEF15.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230302042700 +0100" stop="20230302073000 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

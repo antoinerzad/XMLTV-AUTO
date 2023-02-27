@@ -1,0 +1,184 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230227044900 +0100" stop="20230227064700 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Enquête sur un scandale d'état</title>
+<desc lang="fr">Alors que les douaniers viennent tout juste de mettre la main sur sept tonnes de cannabis dans le centre de Paris, un journaliste, Stéphane, est contacté par Hubert, un homme se présentant comme un ancien informateur de la brigade des stupéfiants capable de déterminer la provenance de la drogue. D'abord suspicieux, Stéphane ne peut ignorer les éléments dont dispose ce mystérieux indic, et finit par se lancer dans une affaire aux contours sombres. D'après Hubert, ce réseau tentaculaire aurait à sa tête un influent policier ripoux, Jacques Billard, qui profite de sa fonction pour tirer discrètement les ficelles de tout ce trafic...</desc>
+<category lang="fr">Action</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B781D125A2EDF7801C62A42BBA72F5FE.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230227064700 +0100" stop="20230227073400 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227073400 +0100" stop="20230227093500 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Open de Palm Beach Gardens</title>
+<desc lang="fr">Circuit américain 2022/2023. Open de Palm Beach Gardens.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F50839C1ED68430682BECA49639A9E75.jpg" />
+<episode-num system="xmltv_ns">0.135.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227093500 +0100" stop="20230227111800 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023. 19e journée. Bayonne / Castres.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1E94CA4C9B218C2885C7DAC9B3FEC1F6.jpg" />
+<episode-num system="xmltv_ns">0.126.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227111800 +0100" stop="20230227130100 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023. 19e journée. La Rochelle / Brive.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/98656E25156EBC018B4224F92549720E.jpg" />
+<episode-num system="xmltv_ns">0.129.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227130100 +0100" stop="20230227133500 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Canal Rugby Club</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/595D6C7AA524FE11E8E6006C7CFF5644.jpg" />
+<episode-num system="xmltv_ns">0.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227133500 +0100" stop="20230227151800 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023. 19e journée. Clermont-Auvergne / Toulon.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1E94CA4C9B218C2885C7DAC9B3FEC1F6.jpg" />
+<episode-num system="xmltv_ns">0.130.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227151800 +0100" stop="20230227153900 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Canal Rugby Club le débrief</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0B4FF9219C9DDA8D9E270F842E485648.jpg" />
+<episode-num system="xmltv_ns">0.36.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227153900 +0100" stop="20230227155500 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Jour de rugby Pro D2 avant-match</title>
+<sub-title lang="fr">Béziers - Grenoble</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5E5AF9AFED65E773B6A95E276C4D87FE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227155500 +0100" stop="20230227173700 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023. 22e journée. Béziers / Grenoble.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/89DCD923BCC916E69B1A703550775DF5.jpg" />
+<episode-num system="xmltv_ns">0.168.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227173700 +0100" stop="20230227174700 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Jour de rugby Pro D2 avant-match</title>
+<sub-title lang="fr">Provence Rugby - Biarritz</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/29800DF58402B14134F331B57CF6D392.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227174700 +0100" stop="20230227192800 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023. 22e journée. Provence Rugby / Biarritz.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BA98F032948E2DAD840469BF32C32E74.jpg" />
+<episode-num system="xmltv_ns">0.174.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227192800 +0100" stop="20230227195500 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Jour de rugby Pro D2 débrief</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C2ABEC5E084A6260879A9F0A89C4901F.jpg" />
+<episode-num system="xmltv_ns">0.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227195500 +0100" stop="20230227201900 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Fractionné</title>
+<desc lang="fr">Découvrez des surprenantes anecdotes et des belles histoires liées au monde du sport dans ce magazine.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D118D9370D392446D91241A4D573041D.jpg" />
+<episode-num system="xmltv_ns">0.77.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227201900 +0100" stop="20230227210000 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">En pole</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/25AF5F1643A75AD62240C47FD387A11C.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227210000 +0100" stop="20230227221500 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">En Pole, la grande soirée</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227221500 +0100" stop="20230227234600 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Tests de pré-saison</title>
+<desc lang="fr">Championnat du monde 2023. Tests de pré-saison.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/17B218DC0888F4E98908075C92B0BEF5.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230227234600 +0100" stop="20230228012000 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Jean Todt, la méthode</title>
+<desc lang="fr">Jean Todt est l'une des figures les plus importantes du sport automobile dans le monde, et du sport en général. Partout où il est passé, il a inculqué la culture du travail et de la victoire, comme copilote, patron de Peugeot Sport, puis de la Scuderia Ferrari, et enfin président de la FIA. Depuis le début de sa carrière, il suscite admiration, respect, jalousie parfois, mais également fantasme, tant l'homme est secret et se livre peu. Jean Todt a ouvert les portes de son quotidien à Canal+ depuis décembre 2021, depuis les derniers jours de son mandat de président de la FIA jusqu'aux coulisses de son travail d'envoyé spécial pour la Sécurité Routière aux Nations Unies. L'occasion de comprendre les principes qu'il a appliqués sa vie durant, sa méthode, toujours la même, pour gagner. </desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8EC648D166193A3248795DBB522BCC44.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230228012000 +0100" stop="20230228020100 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">En pole</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0C55DFC993B4B01FE9FEADE1F19D888E.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230228020100 +0100" stop="20230228040200 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Hero Indian Open</title>
+<desc lang="fr">Circuit européen 2023. Hero Indian Open.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/53AD3CCB4EAA95650663C69BD2BA203C.jpg" />
+<episode-num system="xmltv_ns">0.88.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230228040200 +0100" stop="20230228052700 +0100" channel="CanalPlusSport.fr">
+<title lang="fr">Alors on danse</title>
+<desc lang="fr">Quand elle apprend que son époux fréquente une maîtresse depuis plus de deux ans, Sandra plie instantanément bagages et part s'installer chez sa soeur Danie. Bouleversée, Sandra peine à remonter la pente, ce qui n'échappe pas à son hôte. Pour tenter de l'aider à retrouver le sourire, Danie l'invite à l'accompagner à ses cours de danse. D'abord réticente, Sandra finit par accepter de se joindre au groupe. Sur place, elle découvre des danseurs et danseuses suivre les pas aléatoires de Lucien et Roberto, professeurs aussi peu doués qu'attachants. Emportée par l'ambiance positive des lieux, Sandra se laisse très vite prendre au jeu...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C83EA93622D9C956860AE23D222354DD.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

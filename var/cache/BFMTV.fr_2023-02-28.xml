@@ -1,0 +1,16 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230228000000 +0100" stop="20230228043000 +0100" channel="BFMTV.fr">
+<title lang="fr">Programmes de la nuit BFM TV</title>
+<desc lang="fr">Programme indéterminé.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14771867.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230228043000 +0100" stop="20230228060000 +0100" channel="BFMTV.fr">
+<title lang="fr">Première édition</title>
+<desc lang="fr">Un nouveau tandem prend les commandes du rdv tv d'Informations le plus matinal de France. Dès 4h30, Sophie Hebrard et Julien Migaud-Muller accompagnent les Français qui se lèvent tôt en présentant les informations qui feront l'actualité de la journée.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_33746406.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

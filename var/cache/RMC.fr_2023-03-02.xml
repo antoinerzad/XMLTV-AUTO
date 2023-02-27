@@ -1,0 +1,71 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230302063000 +0100" stop="20230302083000 +0100" channel="RMC.fr">
+<title lang="fr">Apolline matin</title>
+<desc lang="fr">Informations, opinion et liberté d'expression sur les grands sujets du moment couplés avec des interventions des invités en plateau et des auditeurs à l'antenne autour des thèmes d'actualité. </desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/30/84d16391757204c590024d0426611d67037d9c8c.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302083000 +0100" stop="20230302090000 +0100" channel="RMC.fr">
+<title lang="fr">Face-à-face</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Talk-show</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/11/14/b6d4d919d48f440c71b5483cc537fce5f0c4f5b4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302090000 +0100" stop="20230302120000 +0100" channel="RMC.fr">
+<title lang="fr">Les grandes gueules</title>
+<desc lang="fr">Sous la direction d'Alain Marschall et d'Olivier Truchot, Les grandes gueules invitent régulièrement des interlocuteurs qui reflètent la société française dans toute sa variété et qui traitent sans tabou toutes les thématiques de la vie quotidienne qui marquent l'actualité. Une émission qui est au centre de plusieurs polémiques.</desc>
+<category lang="fr">Talk-show</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/02/16/13bfb0a0013cddddf75af3fb2f400dadfc75ce9f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302120000 +0100" stop="20230302150000 +0100" channel="RMC.fr">
+<title lang="fr">Estelle midi : on ne va pas se mentir</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Talk-show</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/11/12/fa14170839f3e974a73864d018fd95772e78856e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302150000 +0100" stop="20230302180000 +0100" channel="RMC.fr">
+<title lang="fr">Super Moscato Show</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Multisports</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/12/12/ea1a63c325e47f786467391857150fe9585b51ef.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302180000 +0100" stop="20230302200000 +0100" channel="RMC.fr">
+<title lang="fr">Rothen s'enflamme</title>
+<desc lang="fr">Jérôme Rothen, Jean-Louis Tourre, Jean-Michel Larqué et Nicolas Anelka présentent avec passion les nouvelles sportives.</desc>
+<category lang="fr">Magazine sportif</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/04/25/e67a79537f93e7a564b75fc42739456579585e90.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302200000 +0100" stop="20230302220000 +0100" channel="RMC.fr">
+<title lang="fr">Génération After Foot</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Football</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/11/14/3ff7522e44fa6c4b4aa31cdedee46ae2fd1c4c83.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302220000 +0100" stop="20230303000000 +0100" channel="RMC.fr">
+<title lang="fr">After Foot</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Football</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/12/05/28b01939dbe2b2ea5554afb733a8e0451b813eef.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230303000000 +0100" stop="20230303043000 +0100" channel="RMC.fr">
+<title lang="fr">Les podcasts RMC</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Autre</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/02/21/30767656d110bc471414c51b0b1335effbe682fe_617C3D4D4E151982593E8F85E733C2A9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230303043000 +0100" stop="20230303063000 +0100" channel="RMC.fr">
+<title lang="fr">Charles matin</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/11/14/2c7b173999d5b2d977680410ac9464c4c6eefc1c.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

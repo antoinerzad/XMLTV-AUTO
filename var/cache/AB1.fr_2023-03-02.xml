@@ -1,0 +1,399 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230301233500 +0100" stop="20230302001000 +0100" channel="AB1.fr">
+<title lang="fr">Catch américain Smackdown</title>
+<desc lang="fr">Retrouvez toutes les superstars du catch dans SMACKDOWN !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23163197.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230302001000 +0100" stop="20230302011000 +0100" channel="AB1.fr">
+<title lang="fr">Les mystères de l'amour</title>
+<sub-title lang="fr">Menace immédiate</sub-title>
+<desc lang="fr">Marie peut compter sur une nouvelle équipière, le capitaine Claire Vernon, pour élucider une enquête. L'album de Fanny connaît un franc succès.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14413741.jpg" />
+<episode-num system="xmltv_ns">17.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302011000 +0100" stop="20230302021000 +0100" channel="AB1.fr">
+<title lang="fr">Les mystères de l'amour</title>
+<sub-title lang="fr">Rumeurs</sub-title>
+<desc lang="fr">Ingrid réussira-t-elle à échapper aux agresseurs de Bruno ? Les concerts de Fanny sont complets, ce qui la rend heureuse. Marie et Claire partent interroger Olga.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_11271832.jpg" />
+<episode-num system="xmltv_ns">17.21.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302021000 +0100" stop="20230302023500 +0100" channel="AB1.fr">
+<title lang="fr">Elisa, un roman photo</title>
+<sub-title lang="fr">Lettre d'adieu</sub-title>
+<desc lang="fr">Après avoir découvert les photos de Laurent et de Rebecca, Clara quitte le journal en larmes...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_23130682.jpg" />
+<episode-num system="xmltv_ns">0.49.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302023500 +0100" stop="20230302030500 +0100" channel="AB1.fr">
+<title lang="fr">Elisa, un roman photo</title>
+<sub-title lang="fr">Abandonne</sub-title>
+<desc lang="fr">Fou de jalousie, Stéphane ne supporte pas de voir Aline en compagnie d'Hugo, un superbe mannequin...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23130682.jpg" />
+<episode-num system="xmltv_ns">0.50.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302030500 +0100" stop="20230302033000 +0100" channel="AB1.fr">
+<title lang="fr">La croisière foll'amour</title>
+<sub-title lang="fr">La balade d'Estrella</sub-title>
+<desc lang="fr">Estrella sort en cachette pour visiter le port d'Hawaii. Hilguegue part à sa recherche...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_17047519.jpg" />
+<episode-num system="xmltv_ns">0.60.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302033000 +0100" stop="20230302035500 +0100" channel="AB1.fr">
+<title lang="fr">La croisière foll'amour</title>
+<sub-title lang="fr">L'amour muet</sub-title>
+<desc lang="fr">Estrella décide de faire une étude sur Tonio, le soupirant muet de Valentine. Très vite, il tombe amoureux d'elle...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_17047519.jpg" />
+<episode-num system="xmltv_ns">0.61.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302035500 +0100" stop="20230302042000 +0100" channel="AB1.fr">
+<title lang="fr">La croisière foll'amour</title>
+<sub-title lang="fr">Déliria</sub-title>
+<desc lang="fr">Estrella et Hilguegue sont anxieuses car Deliria, une inspectrice de Vega, doit venir sur le Foll'amour...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_17047519.jpg" />
+<episode-num system="xmltv_ns">0.62.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302042000 +0100" stop="20230302044500 +0100" channel="AB1.fr">
+<title lang="fr">La croisière foll'amour</title>
+<sub-title lang="fr">Les dictateurs</sub-title>
+<desc lang="fr">Deliria a transformé la personnalité de René, qui est devenu un être autoritaire et borné...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14409270.jpg" />
+<episode-num system="xmltv_ns">0.63.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302044500 +0100" stop="20230302051000 +0100" channel="AB1.fr">
+<title lang="fr">La croisière foll'amour</title>
+<sub-title lang="fr">Résistance</sub-title>
+<desc lang="fr">Estrella et Hilguegue n'ont toujours pas réussi à neutraliser Déliria. Minet est le seul à lui avoir échappé. Hilguegue lui propose de saboter le navire.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14409270.jpg" />
+<episode-num system="xmltv_ns">0.64.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302051000 +0100" stop="20230302053500 +0100" channel="AB1.fr">
+<title lang="fr">La croisière foll'amour</title>
+<sub-title lang="fr">Estrella et les 6 nains</sub-title>
+<desc lang="fr">Fascinée par le conte &quot;Blanche Neige et les Sept Nains&quot;, Estrella transforme Tonio et les Musclés en nains...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14409270.jpg" />
+<episode-num system="xmltv_ns">0.65.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302053500 +0100" stop="20230302060500 +0100" channel="AB1.fr">
+<title lang="fr">Les filles d'à côté</title>
+<sub-title lang="fr">Au coin de l'oeil</sub-title>
+<desc lang="fr">Claire et Fanny sont surprises de découvrir qu'elles ont quelques rides. Elles se confient à Gérard, qui leur conseille de s'appliquer des masques de beauté...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14408937.jpg" />
+<episode-num system="xmltv_ns">0.68.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302060500 +0100" stop="20230302063000 +0100" channel="AB1.fr">
+<title lang="fr">Les filles d'à côté</title>
+<sub-title lang="fr">Le duo de l'âne</sub-title>
+<desc lang="fr">Claire est perturbée car son mari a décidé de reprendre la vie commune. Magalie, quant à elle, est dans l'embarras. Elle a besoin d'un âne pour un défilé...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14408937.jpg" />
+<episode-num system="xmltv_ns">0.69.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302063000 +0100" stop="20230302070000 +0100" channel="AB1.fr">
+<title lang="fr">Les filles d'à côté</title>
+<sub-title lang="fr">La petite</sub-title>
+<desc lang="fr">Vincent est chargé de surveiller Wendy en l'absence des filles. Pour voir sa petite amie en bas de l'immeuble, il laisse l'enfant toute seule...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14408937.jpg" />
+<episode-num system="xmltv_ns">0.70.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302070000 +0100" stop="20230302072500 +0100" channel="AB1.fr">
+<title lang="fr">Les filles d'à côté</title>
+<sub-title lang="fr">L'erreur fatale</sub-title>
+<desc lang="fr">Fanny est partie chez sa mère avec les enfants. Pendant ce temps, Marion, l'une de leurs amies, doit venir passer quelques jours chez les filles...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14408937.jpg" />
+<episode-num system="xmltv_ns">0.71.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302072500 +0100" stop="20230302075500 +0100" channel="AB1.fr">
+<title lang="fr">Les filles d'à côté</title>
+<sub-title lang="fr">La stratégie de Mac Mahon</sub-title>
+<desc lang="fr">Marc cherche une nouvelle stratégie pour conquérir le coeur de Magalie. En lisant Mac Mahon, il est persuadé d'avoir enfin trouvé comment y parvenir.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14408937.jpg" />
+<episode-num system="xmltv_ns">0.72.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302075500 +0100" stop="20230302082500 +0100" channel="AB1.fr">
+<title lang="fr">Les filles d'à côté</title>
+<sub-title lang="fr">Quelle élégance!</sub-title>
+<desc lang="fr">Dans la salle de gym où elle le rencontre, Marion confie à Marc que Magalie adore les hommes élégants.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14408937.jpg" />
+<episode-num system="xmltv_ns">0.73.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302082500 +0100" stop="20230302085000 +0100" channel="AB1.fr">
+<title lang="fr">Les filles d'à côté</title>
+<sub-title lang="fr">Golden Marc</sub-title>
+<desc lang="fr">John Delby, le célèbre golden-boy, se trouve à la salle de sport. Les filles se moquent de lui...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14408937.jpg" />
+<episode-num system="xmltv_ns">0.74.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302085000 +0100" stop="20230302092500 +0100" channel="AB1.fr">
+<title lang="fr">Les filles d'à côté</title>
+<sub-title lang="fr">La charité</sub-title>
+<desc lang="fr">Madame Bellefeuille organise une quête pour sauver les bébés pigeons. Elle passe chez les garçons, mais Marc se fiche complètement de sa noble cause.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14408937.jpg" />
+<episode-num system="xmltv_ns">0.75.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302092500 +0100" stop="20230302095000 +0100" channel="AB1.fr">
+<title lang="fr">Hélène et les garçons</title>
+<sub-title lang="fr">Présentation</sub-title>
+<desc lang="fr">Alors que les filles font la connaissance de Bruno, Rosy, prise d'un malaise, s'isole avec Laly et lui confie qu'elle ne veut pas garder son bébé...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8000393.jpg" />
+<episode-num system="xmltv_ns">0.235.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302095000 +0100" stop="20230302102000 +0100" channel="AB1.fr">
+<title lang="fr">Hélène et les garçons</title>
+<sub-title lang="fr">Follement</sub-title>
+<desc lang="fr">Après de longues hésitations, Rosy suit les conseils de Laly. Elle décide de garder son bébé et de tout raconter à Olivier...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8000393.jpg" />
+<episode-num system="xmltv_ns">0.236.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302102000 +0100" stop="20230302104500 +0100" channel="AB1.fr">
+<title lang="fr">Hélène et les garçons</title>
+<sub-title lang="fr">Une idée de génie</sub-title>
+<desc lang="fr">Pour gagner de l'argent, Laly et toute la bande décident de créer un journal, &quot;Fac scandale&quot;. Pour acheter du matériel, Laly signe un chèque de caution...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8000393.jpg" />
+<episode-num system="xmltv_ns">0.237.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302104500 +0100" stop="20230302111500 +0100" channel="AB1.fr">
+<title lang="fr">Hélène et les garçons</title>
+<sub-title lang="fr">Photos</sub-title>
+<desc lang="fr">Linda a trouvé du travail pour les filles : il s'agit de se faire photographier en maillot de bain pour une publicité. Bénédicte n'est pas spécialement enchantée...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8000393.jpg" />
+<episode-num system="xmltv_ns">0.238.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302111500 +0100" stop="20230302114500 +0100" channel="AB1.fr">
+<title lang="fr">Hélène et les garçons</title>
+<sub-title lang="fr">Essai non concluant</sub-title>
+<desc lang="fr">Bénédicte accepte de faire des photos de mode, malgré les réticences de José. Celui-ci décide alors de se venger en flirtant avec une autre fille...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8000393.jpg" />
+<episode-num system="xmltv_ns">0.239.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302114500 +0100" stop="20230302121000 +0100" channel="AB1.fr">
+<title lang="fr">Hélène et les garçons</title>
+<sub-title lang="fr">Les soeurs ennemies</sub-title>
+<desc lang="fr">Hélène, Nicolas, Rosy et Olivier sont de retour. Les filles racontent à Hélène tout ce qu'elles ont fait pendant son absence pour récolter de l'argent pour Rosy.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8000393.jpg" />
+<episode-num system="xmltv_ns">0.240.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302121000 +0100" stop="20230302124000 +0100" channel="AB1.fr">
+<title lang="fr">Hélène et les garçons</title>
+<sub-title lang="fr">L'union fait la force</sub-title>
+<desc lang="fr">Pour augmenter le montant du pécule destiné au bébé de Rosy, Laly décide d'organiser une soirée payante chez Alfredo. Les garçons acceptent de jouer en public.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8000393.jpg" />
+<episode-num system="xmltv_ns">0.241.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302124000 +0100" stop="20230302131000 +0100" channel="AB1.fr">
+<title lang="fr">Hélène et les garçons</title>
+<sub-title lang="fr">Préparatifs</sub-title>
+<desc lang="fr">Les garçons refusant les vêtements de rockers que leur propose Joël, les filles décident de leur chercher des tenues de scène...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8000393.jpg" />
+<episode-num system="xmltv_ns">0.242.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302131000 +0100" stop="20230302140500 +0100" channel="AB1.fr">
+<title lang="fr">Les vacances de l'amour</title>
+<sub-title lang="fr">Révolution</sub-title>
+<desc lang="fr">Depuis que Peter a menacé de détruire le Water Sport, tous les copains de l'île ont rejoint la bande et transformé la plage en camp retranché...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14409201.jpg" />
+<episode-num system="xmltv_ns">3.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302140500 +0100" stop="20230302150000 +0100" channel="AB1.fr">
+<title lang="fr">Les vacances de l'amour</title>
+<sub-title lang="fr">Sang neuf</sub-title>
+<desc lang="fr">Grâce à Nicolas, les gendarmes n'ont pas cédé aux pressions de Peter. Bénédicte apprend qu'un des jumeaux qu'elle attendait a survécu à la fausse couche...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14409201.jpg" />
+<episode-num system="xmltv_ns">3.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302150000 +0100" stop="20230302155000 +0100" channel="AB1.fr">
+<title lang="fr">Beverly Hills</title>
+<sub-title lang="fr">Jeune fille sous influence</sub-title>
+<desc lang="fr">Depuis leur séparation, Donna ne cesse de penser à David. Pour se changer les idées, elle décide de quitter l'université. Dylan est de retour du Mexique...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_15027242.jpg" />
+<episode-num system="xmltv_ns">4.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302155000 +0100" stop="20230302164000 +0100" channel="AB1.fr">
+<title lang="fr">Beverly Hills</title>
+<sub-title lang="fr">Elu malgré lui</sub-title>
+<desc lang="fr">Josh et Brandon se préparent pour les élections du conseil des étudiants. De son côté, Donna, qui doit bientôt partir pour Houston, a trouvé quelqu'un pour la remplacer dans l'appartement : Clare Arnold, la fille du président de l'Université...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_15027242.jpg" />
+<episode-num system="xmltv_ns">4.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302164000 +0100" stop="20230302173000 +0100" channel="AB1.fr">
+<title lang="fr">Beverly Hills</title>
+<sub-title lang="fr">La vie après la mort</sub-title>
+<desc lang="fr">Brandon, très perturbé par le décès de Josh, est contraint d'assumer ses responsabilités. Il a, en effet, été élu président du conseil des étudiants. De son côté, la vénéneuse Valérie continue de passer ses journées avec Steve et ses nuits avec Dylan...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_15027242.jpg" />
+<episode-num system="xmltv_ns">4.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302173000 +0100" stop="20230302182000 +0100" channel="AB1.fr">
+<title lang="fr">Beverly Hills</title>
+<sub-title lang="fr">Une fête branchée</sub-title>
+<desc lang="fr">Kelly n'a pas confiance en Valérie. Son intuition se trouve confortée lorsqu'elle la surprend dans les bras de Dylan. Donna fait la connaissance de Ray, un ouvrier qui travaille sur le campus...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_15027242.jpg" />
+<episode-num system="xmltv_ns">4.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302182000 +0100" stop="20230302190500 +0100" channel="AB1.fr">
+<title lang="fr">Beverly Hills</title>
+<sub-title lang="fr">La mascotte</sub-title>
+<desc lang="fr">Brandon rencontre le président d'un pays d'Asie : il sympathise avec lui. Donna a du mal à résister aux sentiments qu'elle éprouve pour Ray...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_15027242.jpg" />
+<episode-num system="xmltv_ns">4.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302190500 +0100" stop="20230302195500 +0100" channel="AB1.fr">
+<title lang="fr">Beverly Hills</title>
+<sub-title lang="fr">Photo de famille</sub-title>
+<desc lang="fr">La soirée bat son plein au Peach Pit lorsque la police surgit et décide de fermer l'endroit car sa capacité d'accueil est dépassée. Valérie parle à Jim des problèmes financiers de Dylan, qui refuse toute aide...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_15027242.jpg" />
+<episode-num system="xmltv_ns">4.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302195500 +0100" stop="20230302205500 +0100" channel="AB1.fr">
+<title lang="fr">Beverly Hills</title>
+<sub-title lang="fr">Dépendance</sub-title>
+<desc lang="fr">Steve est furieux lorsqu'il apprend que Valérie et Dylan sortent ensemble. De leur côté, Clare et David se découvrent une passion pour les ovnis...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_15027242.jpg" />
+<episode-num system="xmltv_ns">4.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302205500 +0100" stop="20230302214500 +0100" channel="AB1.fr">
+<title lang="fr">V</title>
+<sub-title lang="fr">L'échange</sub-title>
+<desc lang="fr">Tyler et Kyle lancent une attaque contre un convoi de munitions. Ils sont capturés par Charles, le responsable de l'expédition, venu superviser la guerre.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23776068.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230302214500 +0100" stop="20230302223500 +0100" channel="AB1.fr">
+<title lang="fr">V</title>
+<sub-title lang="fr">Le héros</sub-title>
+<desc lang="fr">Robin est envoyée pour dénoncer un groupe de Visiteurs, qui se fait passer pour des Résistants. Mais la jeune femme est capturée par un groupe armé.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_2763158.jpg" />
+<episode-num system="xmltv_ns">0.10.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230302223500 +0100" stop="20230302232500 +0100" channel="AB1.fr">
+<title lang="fr">V</title>
+<sub-title lang="fr">Dissident</sub-title>
+<desc lang="fr">Diana annonce la création d'un champ de force qui permettra de garder Los Angeles sous son contrôle. Mike et ses amis capturent le concepteur du phénomène.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23776068.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230302232500 +0100" stop="20230303001500 +0100" channel="AB1.fr">
+<title lang="fr">V</title>
+<sub-title lang="fr">Joyeux Noël</sub-title>
+<desc lang="fr">Diana conçoit une créature artificielle grâce à un échantillon du sang d'Elizabeth. Le clone, incontrôlable, s'échappe et devient rapidement menaçant.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23776068.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>

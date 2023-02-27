@@ -1,0 +1,235 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230301225000 +0100" stop="20230302004500 +0100" channel="NRJ12.fr">
+<title lang="fr">Manipulations</title>
+<desc lang="fr">Après avoir accepté de s'attaquer à une puissante société pharmaceutique, un jeune avocat se retrouve mêlé à une affaire de meurtre et de corruption.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_9057938.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230302004500 +0100" stop="20230302022000 +0100" channel="NRJ12.fr">
+<title lang="fr">High Heat</title>
+<desc lang="fr">Une nuit, un couple de restaurateurs, dont l'établissement tout neuf est pris d'assaut par la mafia, comprend que sa survie a un prix, celui de la vérité.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_36283892.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230302022000 +0100" stop="20230302063000 +0100" channel="NRJ12.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Programme indéterminé.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22269110.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302063000 +0100" stop="20230302093000 +0100" channel="NRJ12.fr">
+<title lang="fr">Télé-achat</title>
+<desc lang="fr">Magazine de télé-achat.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. TV Achat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_4278322.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302093000 +0100" stop="20230302102000 +0100" channel="NRJ12.fr">
+<title lang="fr">Vampire Diaries</title>
+<sub-title lang="fr">Plus rien ne sera comme avant</sub-title>
+<desc lang="fr">Enzo demande à Stefan de l'aider à sauver Lily. Damon et Elena discutent de leur futur. C'est à contrecoeur qu'Alaric et Jo se rendent à leur enterrement de vie de célibataire.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6469211.jpg" />
+<episode-num system="xmltv_ns">5.19.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230302102000 +0100" stop="20230302111000 +0100" channel="NRJ12.fr">
+<title lang="fr">Vampire Diaries</title>
+<sub-title lang="fr">Un jour inoubliable</sub-title>
+<desc lang="fr">Dépassée par les derniers préparatifs du mariage, Jo est épaulée par Elena et Bonnie. Caroline réalise qu'elle est responsable du chaos ambiant.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6469212.jpg" />
+<episode-num system="xmltv_ns">5.20.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230302111000 +0100" stop="20230302120000 +0100" channel="NRJ12.fr">
+<title lang="fr">Vampire Diaries</title>
+<sub-title lang="fr">Un long sommeil</sub-title>
+<desc lang="fr">Le mariage d'Alaric et de Jo a eu lieu, mais les événements s'enchaînent de manière dramatique.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6469215.jpg" />
+<episode-num system="xmltv_ns">5.21.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230302120000 +0100" stop="20230302125500 +0100" channel="NRJ12.fr">
+<title lang="fr">Vampire Diaries</title>
+<sub-title lang="fr">Pour tuer le temps</sub-title>
+<desc lang="fr">Les frères Salvatore se retrouvent directement sous la menace des hérétiques et s'interrogent sur les motivations de leur mère. Bonnie garde un oeil sur Damon.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12512768.jpg" />
+<episode-num system="xmltv_ns">6.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230302125500 +0100" stop="20230302135000 +0100" channel="NRJ12.fr">
+<title lang="fr">Vampire Diaries</title>
+<sub-title lang="fr">La pierre du Phoenix</sub-title>
+<desc lang="fr">Une décision impulsive de Damon met en péril un important accord conclu entre Stefan et Lily. Cette dernière décide de frapper là où le bât blesse.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8991974.jpg" />
+<episode-num system="xmltv_ns">6.1.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230302135000 +0100" stop="20230302141500 +0100" channel="NRJ12.fr">
+<title lang="fr">Modern Family</title>
+<sub-title lang="fr">Chercher des poux</sub-title>
+<desc lang="fr">La rivalité entre Phil et Gil Thorpe est exacerbée lorsque leurs fils s'affrontent dans une compétition de lutte. Une épidémie de poux touche l'école de Lily.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_32896488.jpg" />
+<episode-num system="xmltv_ns">4.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302141500 +0100" stop="20230302144500 +0100" channel="NRJ12.fr">
+<title lang="fr">Modern Family</title>
+<sub-title lang="fr">Une journée pleine de promesses</sub-title>
+<desc lang="fr">Cameron organise la soirée dansante du lycée. Phil propose à Haley de l'accompagner à un banquet. Mitchell a du mal à décrypter le fonctionnement de son patron.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_32896488.jpg" />
+<episode-num system="xmltv_ns">4.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302144500 +0100" stop="20230302151500 +0100" channel="NRJ12.fr">
+<title lang="fr">Modern Family</title>
+<sub-title lang="fr">CrocodileDunphy</sub-title>
+<desc lang="fr">La famille se rend en Australie, là où Phil a été conçu. Mais une fois sur place, le mauvais sort s'acharne sur lui. Mitch et Cam retrouvent un vieil ami.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_32896488.jpg" />
+<episode-num system="xmltv_ns">4.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302151500 +0100" stop="20230302154000 +0100" channel="NRJ12.fr">
+<title lang="fr">Modern Family</title>
+<sub-title lang="fr">Les petits plaisirs de Las Vegas</sub-title>
+<desc lang="fr">Jay et Claire séjournent à Las Vegas grâce à un client. Jay intrigue afin d'obtenir une chambre de meilleur standing. Claire tente de se refaire au casino.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_32896488.jpg" />
+<episode-num system="xmltv_ns">4.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302154000 +0100" stop="20230302161000 +0100" channel="NRJ12.fr">
+<title lang="fr">Modern Family</title>
+<sub-title lang="fr">L'amour propre</sub-title>
+<desc lang="fr">Jay organise un dîner de famille. Claire et ses filles viennent l'épauler, mais une dispute éclate. Phil essaie d'aider Gloria à vendre son ancien appartement.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_32896488.jpg" />
+<episode-num system="xmltv_ns">4.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302161000 +0100" stop="20230302164000 +0100" channel="NRJ12.fr">
+<title lang="fr">Modern Family</title>
+<sub-title lang="fr">CrocodileDunphy</sub-title>
+<desc lang="fr">La famille se rend en Australie, là où Phil a été conçu. Mais une fois sur place, le mauvais sort s'acharne sur lui. Mitch et Cam retrouvent un vieil ami.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_32896488.jpg" />
+<episode-num system="xmltv_ns">4.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302164000 +0100" stop="20230302170500 +0100" channel="NRJ12.fr">
+<title lang="fr">Modern Family</title>
+<sub-title lang="fr">Photo de famille</sub-title>
+<desc lang="fr">Gloria organise cette année la prise de la traditionnelle photo de famille. Tout le monde est prié de porter des vêtements de couleur sombre.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_32896488.jpg" />
+<episode-num system="xmltv_ns">4.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302170500 +0100" stop="20230302173500 +0100" channel="NRJ12.fr">
+<title lang="fr">Modern Family</title>
+<sub-title lang="fr">Message reçu</sub-title>
+<desc lang="fr">Jay, Gloria et Manny s'encouragent mutuellement à vaincre leurs peurs. Jay doit manger une saucisse préparée par sa belle-mère, et Manny goûter un cornichon.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_32896488.jpg" />
+<episode-num system="xmltv_ns">4.21.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302173500 +0100" stop="20230302180500 +0100" channel="NRJ12.fr">
+<title lang="fr">Modern Family</title>
+<sub-title lang="fr">Le mariage</sub-title>
+<desc lang="fr">C'est le grand jour pour Mitchell et Cam qui ne se doutent pas qu'une suite de petits incidents va perturber leur mariage, au grand dam de Pepper Saltzman.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_17229254.jpg" />
+<episode-num system="xmltv_ns">4.22.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302180500 +0100" stop="20230302183500 +0100" channel="NRJ12.fr">
+<title lang="fr">Modern Family</title>
+<sub-title lang="fr">Le mariage</sub-title>
+<desc lang="fr">Les catastrophes s'enchaînent durant le mariage de Mitchell et Cam, et leurs convives commencent à s'en offusquer. Claire montre des signes de fatigue.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_17229467.jpg" />
+<episode-num system="xmltv_ns">4.23.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302183500 +0100" stop="20230302190000 +0100" channel="NRJ12.fr">
+<title lang="fr">Modern Family</title>
+<sub-title lang="fr">Une lune de miel interminable</sub-title>
+<desc lang="fr">Gloria trouve que Jay se laisse aller. Il ne fait pas d'efforts sur son apparence. Pour lui montrer à quel point c'est désagréable, elle en fait de même.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_31872383.jpg" />
+<episode-num system="xmltv_ns">5.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302190000 +0100" stop="20230302192500 +0100" channel="NRJ12.fr">
+<title lang="fr">Modern Family</title>
+<sub-title lang="fr">Ne pas appuyer</sub-title>
+<desc lang="fr">Alex et ses parents visitent une université où elle pourrait poursuivre ses études. Mais il lui faut d'abord réussir son examen du baccalauréat.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_31872383.jpg" />
+<episode-num system="xmltv_ns">5.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302192500 +0100" stop="20230302195500 +0100" channel="NRJ12.fr">
+<title lang="fr">Modern Family</title>
+<sub-title lang="fr">Le patient zéro</sub-title>
+<desc lang="fr">Cameron hésite à remplacer Manny dans l'équipe de football pour se donner une chance de gagner. Il redoute de s'attirer les foudres de Gloria.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_31872383.jpg" />
+<episode-num system="xmltv_ns">5.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302195500 +0100" stop="20230302211000 +0100" channel="NRJ12.fr">
+<title lang="fr">Un gars, une fille</title>
+<desc lang="fr">Amour et disputes, colère et calins : Alex et Jean sont un jeune couple à l'humeur très variable, et vivre à deux n'est pas toujours facile.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_17134355.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302211000 +0100" stop="20230302231500 +0100" channel="NRJ12.fr">
+<title lang="fr">Eric Antoine : Mystéric</title>
+<desc lang="fr">Accompagné de son fidèle assistant Bernard, Eric Antoine, plus hystérique que jamais, explique la différence entre prestidigitation et magie à l'aide de tours rocambolesques. Outre son goût prononcé pour les coiffures électriques, Eric Antoine nourrit une vraie passion pour les colombes. Le...</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Spectacle</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_17088763.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302231500 +0100" stop="20230303004500 +0100" channel="NRJ12.fr">
+<title lang="fr">Le super bêtisier</title>
+<desc lang="fr">Divertissement-humour.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_26774854.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

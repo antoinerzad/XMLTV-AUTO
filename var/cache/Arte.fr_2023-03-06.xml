@@ -1,0 +1,48 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230305234500 +0100" stop="20230306011500 +0100" channel="Arte.fr">
+<title lang="fr">L'art de la danse : Cunningham</title>
+<desc lang="fr">Portrait de Merce Cunningham, célèbre chorégraphe, qui collabora notamment avec Andy Warhol, John Cage, ou encore le peintre Robert Rauschenberg.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14185350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306011500 +0100" stop="20230306022500 +0100" channel="Arte.fr">
+<title lang="fr">Haendel au Théâtre du Châtelet</title>
+<desc lang="fr">Porté par les cantatrices Sandrine Piau et Ève-Maud Hubeaux, accompagnées par l'ensemble Les Talens lyriques, un flamboyant concert en hommage au maître de l'opera seria.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Classic-Contemp</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_23350831.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306022500 +0100" stop="20230306040000 +0100" channel="Arte.fr">
+<title lang="fr">Téhéran tabou</title>
+<desc lang="fr">A Téhéran, les destins d'une maman prostituée, d'une faiseuse d'anges et d'un musicien qui doit sauver l'honneur d'une femme qu'il a déflorée.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Animation</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12545618.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230306040000 +0100" stop="20230306043100 +0100" channel="Arte.fr">
+<title lang="fr">GEO Reportage</title>
+<desc lang="fr">Dans les Alpes suisses, les chercheurs de minéraux et de cristaux ont besoin d'un brevet. Une entreprise dangereuse dans laquelle certains risquent souvent leur vie.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_35220923.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306043100 +0100" stop="20230306050000 +0100" channel="Arte.fr">
+<title lang="fr">Pause</title>
+<desc lang="fr">Autre.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11041284.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230306050000 +0100" stop="20230306061500 +0100" channel="Arte.fr">
+<title lang="fr">The Pretenders : Chrissie Hynde ou la vie en rock</title>
+<desc lang="fr">L'histoire électrique de Chrissie Hynde, la fondatrice des Pretenders, groupe britannique qui connut le succès lors de la vague punk à la fin des années 1970.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Musique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_35642591.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

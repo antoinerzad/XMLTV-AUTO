@@ -1,0 +1,137 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230304000000 +0100" stop="20230304020000 +0100" channel="W9.fr">
+<title lang="fr">Enquête d'action</title>
+<desc lang="fr">Magazine de société.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_27525695.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230304020000 +0100" stop="20230304030000 +0100" channel="W9.fr">
+<title lang="fr">Enquête d'action</title>
+<desc lang="fr">Roubaix, dans le nord de la France, est l'une des villes les plus pauvres du pays. Dans cette commune, la moitié de la population vit sous le seuil de pauvreté et la criminalité y est très forte. Pour enrayer ce développement des activités criminelles, les agents du commissariat sont mobilisés...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12806236.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230304030000 +0100" stop="20230304060000 +0100" channel="W9.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22269110.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304060000 +0100" stop="20230304082500 +0100" channel="W9.fr">
+<title lang="fr">Wake Up</title>
+<desc lang="fr">Réveillez-vous de bon pied avec W9 ! Retrouvez une sélection des meilleurs tubes du moment pour un réveil vitaminé...</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_7969051.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304082500 +0100" stop="20230304104000 +0100" channel="W9.fr">
+<title lang="fr">W9 Boutique</title>
+<desc lang="fr">Retrouvez les dernières innovations et des offres exclusives en matière de bijoux, beauté, cuisine, maison.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. TV Achat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_12076795.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304104000 +0100" stop="20230304114000 +0100" channel="W9.fr">
+<title lang="fr">Le hit W9</title>
+<desc lang="fr">L'émission musicale qui vous fait découvrir les cinquante chansons les plus écoutées sur le net chaque semaine.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_11274005.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304114000 +0100" stop="20230304124500 +0100" channel="W9.fr">
+<title lang="fr">Le hit W9</title>
+<desc lang="fr">L'émission musicale qui vous fait découvrir les cinquante chansons les plus écoutées sur le net chaque semaine.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_11274005.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304124500 +0100" stop="20230304125000 +0100" channel="W9.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_27479781.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304125000 +0100" stop="20230304134000 +0100" channel="W9.fr">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">L'espionne qu'il aimait</sub-title>
+<desc lang="fr">La CIA confie une mission à l'équipe Scorpion : identifier une taupe au sein de ses analystes après l'envoi de données confidentielles au Yémen.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_10402429.jpg" />
+<episode-num system="xmltv_ns">0.13.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304134000 +0100" stop="20230304143000 +0100" channel="W9.fr">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Supermind</sub-title>
+<desc lang="fr">Des cyberterroristes projettent de prendre le contrôle d'un missile nucléaire et de le lancer sur une cible sensible : Scorpion les traque.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_10417565.jpg" />
+<episode-num system="xmltv_ns">0.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304143000 +0100" stop="20230304152000 +0100" channel="W9.fr">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Croisière d'enfer</sub-title>
+<desc lang="fr">Les membres de Scorpion embarquent incognito à bord d'un paquebot de luxe où un trafiquant d'armes espère vendre le produit d'un vol audacieux.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_10417565.jpg" />
+<episode-num system="xmltv_ns">0.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304152000 +0100" stop="20230304161000 +0100" channel="W9.fr">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Crise d'ego</sub-title>
+<desc lang="fr">L'équipe Scorpion se rend au Mexique pour localiser une riche héritière américaine kidnappée par un cartel. Mais des tensions apparaissent dans le groupe.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12401256.jpg" />
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304161000 +0100" stop="20230304170000 +0100" channel="W9.fr">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Le venin du serpent</sub-title>
+<desc lang="fr">Walter et ses acolytes ont peu de temps pour trouver l'antidote afin de sauver le président lituanien empoisonné lors d'une réunion secrète aux Etats-Unis.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_10436921.jpg" />
+<episode-num system="xmltv_ns">0.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304170000 +0100" stop="20230304210500 +0100" channel="W9.fr">
+<title lang="fr">La petite histoire de France</title>
+<desc lang="fr">Les cousins oubliés de la grande Histoire sont de retour et une toute nouvelle époque fait son apparition : la civilisation gallo-romaine ! En l'an 1, qu'on s'en accommode ou qu'on la combatte, la civilisation gallo-romaine est là pour durer ! Que reste-t-il des grands idéaux de la révolte...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_14378894.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304210500 +0100" stop="20230304230000 +0100" channel="W9.fr">
+<title lang="fr">La petite histoire de France</title>
+<desc lang="fr">Les cousins oubliés de la grande Histoire sont de retour et une toute nouvelle époque fait son apparition : la civilisation gallo-romaine ! En l'an 1, qu'on s'en accommode ou qu'on la combatte, la civilisation gallo-romaine est là pour durer ! Que reste-t-il des grands idéaux de la révolte...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_25198579.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230304230000 +0100" stop="20230305014500 +0100" channel="W9.fr">
+<title lang="fr">La petite histoire de France</title>
+<desc lang="fr">Les cousins oubliés de la grande Histoire sont de retour et une toute nouvelle époque fait son apparition : la civilisation gallo-romaine ! En l'an 1, qu'on s'en accommode ou qu'on la combatte, la civilisation gallo-romaine est là pour durer ! Que reste-t-il des grands idéaux de la révolte...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_14378894.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

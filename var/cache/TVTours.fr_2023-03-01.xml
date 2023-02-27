@@ -1,0 +1,565 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230301041500 +0100" stop="20230301051500 +0100" channel="TVTours.fr">
+<title lang="fr">Célesteville, L'utopie d'un grand ensemble</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301051500 +0100" stop="20230301053000 +0100" channel="TVTours.fr">
+<title lang="fr">Trois...Quatre !</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0B4A53CCE76E6FD8E9E278F837DF6A85.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301053000 +0100" stop="20230301054500 +0100" channel="TVTours.fr">
+<title lang="fr">Délire du net</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<episode-num system="xmltv_ns">0.72.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301054500 +0100" stop="20230301054900 +0100" channel="TVTours.fr">
+<title lang="fr">La Terre vue du sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301054900 +0100" stop="20230301055200 +0100" channel="TVTours.fr">
+<title lang="fr">La Terre vue du sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301055200 +0100" stop="20230301060000 +0100" channel="TVTours.fr">
+<title lang="fr">La Terre vue du sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301060000 +0100" stop="20230301064400 +0100" channel="TVTours.fr">
+<title lang="fr">Fais ton sport à la maison !</title>
+<desc lang="fr">Retrouvez Elsa Claude et Teric Teav dans l'émission &quot; Fais ton Sport à la Maison ! &quot; pour une séance de sport complète et intense, ciblé sur les abdos et le haut du corps. Nos coachs vous accompagneront dans des exercices simples et détaillés qui ne nécessitent aucun matériel, dans le but de développer au mieux vos muscles directement chez-soi.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<episode-num system="xmltv_ns">0.51.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301064400 +0100" stop="20230301065900 +0100" channel="TVTours.fr">
+<title lang="fr">Trois...Quatre !</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0B4A53CCE76E6FD8E9E278F837DF6A85.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301065900 +0100" stop="20230301071400 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301071400 +0100" stop="20230301071600 +0100" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A0B36A7FA01EE656A603FD6CC5232BAE.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301071600 +0100" stop="20230301073000 +0100" channel="TVTours.fr">
+<title lang="fr">Extralocal</title>
+<desc lang="fr">&quot;Extralocal&quot; qui est un tout nouveau magazine de discussion et de société se consacre aux régions et aux informations locales. Une émission qui permettra de retrouver l'actualité politique. Cette émission a donc pour objectif de capter et de partager les différents avis.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E8A6DE8F636D9CDEAE5F9A8BC15F484C.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301073000 +0100" stop="20230301074500 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301074500 +0100" stop="20230301080000 +0100" channel="TVTours.fr">
+<title lang="fr">Délire du net</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<episode-num system="xmltv_ns">0.58.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301080000 +0100" stop="20230301081400 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301081400 +0100" stop="20230301081600 +0100" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/037D008513509CF1B49FA382059A6967.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301081600 +0100" stop="20230301082900 +0100" channel="TVTours.fr">
+<title lang="fr">Trois...Quatre !</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8E05A5F3DC380FF28A547E1F909D31A2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301082900 +0100" stop="20230301084500 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301084500 +0100" stop="20230301090000 +0100" channel="TVTours.fr">
+<title lang="fr">Délire du net</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<episode-num system="xmltv_ns">0.59.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301090000 +0100" stop="20230301091500 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301091500 +0100" stop="20230301100000 +0100" channel="TVTours.fr">
+<title lang="fr">Fais ton sport à la maison !</title>
+<desc lang="fr">Retrouvez Elsa Claude et Teric Teav dans l'émission &quot; Fais ton Sport à la Maison ! &quot; pour une séance de sport complète et intense, ciblé sur les abdos et le haut du corps. Nos coachs vous accompagneront dans des exercices simples et détaillés qui ne nécessitent aucun matériel, dans le but de développer au mieux vos muscles directement chez-soi.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<episode-num system="xmltv_ns">0.51.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301100000 +0100" stop="20230301101400 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301101400 +0100" stop="20230301101500 +0100" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/906091F1D387AB32A6B15674BC57456D.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301101500 +0100" stop="20230301111500 +0100" channel="TVTours.fr">
+<title lang="fr">Extralocal</title>
+<desc lang="fr">&quot;Extralocal&quot; qui est un tout nouveau magazine de discussion et de société se consacre aux régions et aux informations locales. Une émission qui permettra de retrouver l'actualité politique. Cette émission a donc pour objectif de capter et de partager les différents avis.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E8A6DE8F636D9CDEAE5F9A8BC15F484C.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301111500 +0100" stop="20230301120000 +0100" channel="TVTours.fr">
+<title lang="fr">Local génial</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301120000 +0100" stop="20230301121400 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301121400 +0100" stop="20230301121500 +0100" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A0B36A7FA01EE656A603FD6CC5232BAE.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301121500 +0100" stop="20230301123000 +0100" channel="TVTours.fr">
+<title lang="fr">Qui veut gagner des Rillons ?</title>
+<desc lang="fr">Un nouveau jeu local qui teste la connaissance sur le territoire et choisit les meilleurs qui vont gagner les cadeaux.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<episode-num system="xmltv_ns">0.105.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301123000 +0100" stop="20230301124500 +0100" channel="TVTours.fr">
+<title lang="fr">La bonne étape</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<episode-num system="xmltv_ns">0.32.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301124500 +0100" stop="20230301130000 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301130000 +0100" stop="20230301130400 +0100" channel="TVTours.fr">
+<title lang="fr">La Terre vue du sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<episode-num system="xmltv_ns">0.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301130400 +0100" stop="20230301130800 +0100" channel="TVTours.fr">
+<title lang="fr">La Terre vue du sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301130800 +0100" stop="20230301131500 +0100" channel="TVTours.fr">
+<title lang="fr">La Terre vue du sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301131500 +0100" stop="20230301140000 +0100" channel="TVTours.fr">
+<title lang="fr">Local génial</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301140000 +0100" stop="20230301143000 +0100" channel="TVTours.fr">
+<title lang="fr">123 Musette !</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.32.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301143000 +0100" stop="20230301150000 +0100" channel="TVTours.fr">
+<title lang="fr">1,2,3 Dansez</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<episode-num system="xmltv_ns">0.32.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301150000 +0100" stop="20230301160000 +0100" channel="TVTours.fr">
+<title lang="fr">Célesteville, L'utopie d'un grand ensemble</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301160000 +0100" stop="20230301164500 +0100" channel="TVTours.fr">
+<title lang="fr">Le Grand Talk</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<episode-num system="xmltv_ns">0.149.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301164500 +0100" stop="20230301171500 +0100" channel="TVTours.fr">
+<title lang="fr">L'Essentiel éco</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301171500 +0100" stop="20230301174500 +0100" channel="TVTours.fr">
+<title lang="fr">Renversant</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<episode-num system="xmltv_ns">0.132.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301174500 +0100" stop="20230301183000 +0100" channel="TVTours.fr">
+<title lang="fr">Local génial</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301183000 +0100" stop="20230301184200 +0100" channel="TVTours.fr">
+<title lang="fr">Qui veut gagner des Rillons ?</title>
+<desc lang="fr">Un nouveau jeu local qui teste la connaissance sur le territoire et choisit les meilleurs qui vont gagner les cadeaux.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<episode-num system="xmltv_ns">0.107.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301184200 +0100" stop="20230301184500 +0100" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A0B36A7FA01EE656A603FD6CC5232BAE.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301184500 +0100" stop="20230301190000 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301190000 +0100" stop="20230301191200 +0100" channel="TVTours.fr">
+<title lang="fr">La bonne étape</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<episode-num system="xmltv_ns">0.33.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301191200 +0100" stop="20230301191400 +0100" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/037D008513509CF1B49FA382059A6967.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301191400 +0100" stop="20230301200000 +0100" channel="TVTours.fr">
+<title lang="fr">Local génial</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301200000 +0100" stop="20230301201400 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301201400 +0100" stop="20230301201500 +0100" channel="TVTours.fr">
+<title lang="fr">Le Grand Talk</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<episode-num system="xmltv_ns">0.148.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301201500 +0100" stop="20230301210000 +0100" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/037D008513509CF1B49FA382059A6967.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301210000 +0100" stop="20230301211500 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301211500 +0100" stop="20230301213000 +0100" channel="TVTours.fr">
+<title lang="fr">Hors série</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Art de vivre</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E935FD8F11C99463B46D1D0EA4A8461A.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301213000 +0100" stop="20230301214500 +0100" channel="TVTours.fr">
+<title lang="fr">Extralocal</title>
+<desc lang="fr">&quot;Extralocal&quot; qui est un tout nouveau magazine de discussion et de société se consacre aux régions et aux informations locales. Une émission qui permettra de retrouver l'actualité politique. Cette émission a donc pour objectif de capter et de partager les différents avis.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5DA273219E10DCC45F4D5F7D050C3697.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301214500 +0100" stop="20230301220000 +0100" channel="TVTours.fr">
+<title lang="fr">JT des Sports</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9801246D9C5FAD8DD663251D1AF7C585.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301220000 +0100" stop="20230301221400 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301221400 +0100" stop="20230301221500 +0100" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/037D008513509CF1B49FA382059A6967.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301221500 +0100" stop="20230301230000 +0100" channel="TVTours.fr">
+<title lang="fr">Local génial</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301230000 +0100" stop="20230301231400 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301231400 +0100" stop="20230301231500 +0100" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A0B36A7FA01EE656A603FD6CC5232BAE.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230301231500 +0100" stop="20230302000200 +0100" channel="TVTours.fr">
+<title lang="fr">Le Grand Talk</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<episode-num system="xmltv_ns">0.149.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302000200 +0100" stop="20230302001600 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302001600 +0100" stop="20230302001800 +0100" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/037D008513509CF1B49FA382059A6967.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302001800 +0100" stop="20230302010000 +0100" channel="TVTours.fr">
+<title lang="fr">Trois...Quatre !</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0B4A53CCE76E6FD8E9E278F837DF6A85.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302010000 +0100" stop="20230302014500 +0100" channel="TVTours.fr">
+<title lang="fr">Local génial</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302014500 +0100" stop="20230302015900 +0100" channel="TVTours.fr">
+<title lang="fr">Qui veut gagner des Rillons ?</title>
+<desc lang="fr">Un nouveau jeu local qui teste la connaissance sur le territoire et choisit les meilleurs qui vont gagner les cadeaux.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<episode-num system="xmltv_ns">0.107.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302015900 +0100" stop="20230302021500 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302021500 +0100" stop="20230302023000 +0100" channel="TVTours.fr">
+<title lang="fr">Hors série</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Art de vivre</category>
+<icon src="https://img.bouygtel.fr/CMS/images/754A95B8CBAC95E196889867102CDAD8.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302023000 +0100" stop="20230302031500 +0100" channel="TVTours.fr">
+<title lang="fr">Local génial</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302031500 +0100" stop="20230302033000 +0100" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230302033000 +0100" stop="20230302051500 +0100" channel="TVTours.fr">
+<title lang="fr">Le Grand Talk</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<episode-num system="xmltv_ns">0.150.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
