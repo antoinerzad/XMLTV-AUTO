@@ -19,11 +19,13 @@ jobs:
     # Runs a single command using the runners shell
     - name: Checkout repo
       uses: actions/checkout@v3
-    - name: Setup PHP with PECL extension
+
+    - name: Installation de PHP et des extentions
       uses: shivammathur/setup-php@v2
       with:
         php-version: '8.2'
         extensions: curl, zip, mbstring, xml, json  
+        
     - name: Mise à jour des programmes
       run: php example/script_all.php
     
@@ -33,9 +35,9 @@ jobs:
         run: sudo sshpass -p "${{ secrets.pass }}" scp -o StrictHostKeyChecking=no -r ${{ secrets.USER }}@${{ secrets.IP }}:/var/export/xmltv.xml.gz /var/www/xmltv/var/export 
         run: sudo sshpass -p "${{ secrets.pass }}" scp -o StrictHostKeyChecking=no -r ${{ secrets.USER }}@${{ secrets.IP }}:/var/export/xmltv.zip /var/www/xmltv/var/export 
 
-    - name: Modifiy the specific files using action
+    - name: Sauvgarde GITHUB
       uses: EndBug/add-and-commit@v9
       with:
-       message: 'Mise en places des fichiers'
+       message: 'Mises à jour des programmes'
       
    
