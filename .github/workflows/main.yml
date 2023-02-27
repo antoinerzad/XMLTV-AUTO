@@ -1,6 +1,6 @@
 # This is a basic workflow that is manually triggered
 
-name: Auto grab
+name: Mise à jour des programmes TV
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
@@ -21,18 +21,14 @@ jobs:
     # Runs a single command using the runners shell
     - name: Checkout repo
       uses: actions/checkout@v3
+    - name: Setup PHP with PECL extension
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '8.2'
+        extensions: curl, zip, mbstring, xml, json  
+    - name: Mise à jour des programmes
+      run: php example/script_all.php
         
-    - name: Creation des fichiers
-      run: |
-        sudo apt -y install git composer php php-curl php-zip php-mbstring php-xml php-json
-        sudo git clone https://github.com/racacax/XML-TV-Fr
-        cd XML-TV-Fr
-        sudo cp -r * ../
-        cd ..
-        sudo rm -rf XML-TV-Fr
-        composer install
-        
-      
     - name: Modifiy the specific files using action
       uses: EndBug/add-and-commit@v9
       with:
