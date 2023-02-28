@@ -31,7 +31,9 @@ jobs:
         php-version: '8.2'
         extensions: curl, zip, mbstring, xml, json  
         
-
+    - name: Mise à jour des programmes
+      run: php example/script_all.php
+      
     - name: Sauvgarde XML sur serveur
       uses: appleboy/scp-action@master
       with:
