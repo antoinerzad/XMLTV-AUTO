@@ -77,8 +77,8 @@ class Telecablesat extends AbstractProvider implements ProviderInterface
                             continue;
                         }
                         $channelObj->popLastProgram();
-                        Logger::updateLine(" \e[31mRate limited, waiting 5s ($retry_counter)\e[39m");
-                        sleep(5); // if we are rate limited by website
+                        Logger::updateLine(" \e[31mRate limited, waiting 30s ($retry_counter)\e[39m");
+                        sleep(30); // if we are rate limited by website
                         $i--;
 
                         continue;
