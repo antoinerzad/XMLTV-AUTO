@@ -39,7 +39,7 @@ jobs:
         username: ${{ secrets.USER }}
         password: ${{ secrets.pass }}
         port: "22"
-        source: "/var/export/xmltv.xml"
+        source: "./var/export/xmltv.xml"
         target: "/var/www/xmltv/var/export"
         
     - name: Sauvgarde XML.GZ sur serveur
@@ -49,7 +49,7 @@ jobs:
         username: ${{ secrets.USER }}
         password: ${{ secrets.pass }}
         port: "22"
-        source: "/var/export/xmltv.xml.gz"
+        source: "./var/export/xmltv.xml.gz"
         target: "/var/www/xmltv/var/export"
         
     - name: Sauvgarde ZIP sur serveur
@@ -59,7 +59,7 @@ jobs:
         username: ${{ secrets.USER }}
         password: ${{ secrets.pass }}
         port: "22"
-        source: "/var/export/xmltv.zip"
+        source: "./var/export/xmltv.zip"
         target: "/var/www/xmltv/var/export"
     
     - name: Sauvgarde GITHUB
