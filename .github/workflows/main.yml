@@ -11,7 +11,7 @@ on:
     branches: [ "master" ]
 
   schedule:
-    - cron: "16 13 * * *" # Runs at 03:00 AM (UTC) every Monday,
+    - cron: "30 5 * * *" # Runs at 05:30 AM (UTC) ,
  
 jobs:
   # This workflow contains a single job called "greet"
@@ -51,7 +51,7 @@ jobs:
         username: ${{ secrets.USER }}
         password: ${{ secrets.pass }}
         port: "22"
-        source: "/var/export/xmltv.xml"
+        source: "/var/export/xmltv.xml.gz"
         target: "/var/www/xmltv/var/export"
         
     - name: Sauvgarde ZIP sur serveur
