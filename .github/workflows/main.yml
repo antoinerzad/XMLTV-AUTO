@@ -6,7 +6,7 @@ name: Mise à jour des programmes TV
 # or API.
 on:
   schedule:
-    - cron: "19 8 * * *" # Runs at 03:00 AM (UTC) every Monday,
+    - cron: "30 5 * * *" # Runs at 03:00 AM (UTC) every Monday,
  
 jobs:
   # This workflow contains a single job called "greet"
@@ -29,12 +29,36 @@ jobs:
     - name: Mise à jour des programmes
       run: php example/script_all.php
     
-    - name: Sauvgarde sur serveur
-      run : |
-        run: sudo sshpass -p "${{ secrets.pass }}" sudo scp -o StrictHostKeyChecking=no -r ${{ secrets.USER }}@${{ secrets.IP }}:/var/export/xmltv.xml /var/www/xmltv/var/export 
-        run: sudo sshpass -p "${{ secrets.pass }}" sudo scp -o StrictHostKeyChecking=no -r ${{ secrets.USER }}@${{ secrets.IP }}:/var/export/xmltv.xml.gz /var/www/xmltv/var/export 
-        run: sudo sshpass -p "${{ secrets.pass }}" sudo scp -o StrictHostKeyChecking=no -r ${{ secrets.USER }}@${{ secrets.IP }}:/var/export/xmltv.zip /var/www/xmltv/var/export 
-
+    - name: Sauvgarde XML sur serveur
+      uses: appleboy/scp-action@master
+      with:
+        host: ${{ secrets.IP }}
+        username: ${{ secrets.USER }"
+        password: ${{ secrets.pass }}
+        port: "22"
+        source: "/var/export/xmltv.xml"
+        target: "/var/www/xmltv/var/export"
+        
+    - name: Sauvgarde XML.GZ sur serveur
+      uses: appleboy/scp-action@master
+      with:
+        host: ${{ secrets.IP }}
+        username: ${{ secrets.USER }"
+        password: ${{ secrets.pass }}
+        port: "22"
+        source: "/var/export/xmltv.xml"
+        target: "/var/www/xmltv/var/export"
+        
+    - name: Sauvgarde ZIP sur serveur
+      uses: appleboy/scp-action@master
+      with:
+        host: ${{ secrets.IP }}
+        username: ${{ secrets.USER }"
+        password: ${{ secrets.pass }}
+        port: "22"
+        source: "/var/export/xmltv.zip"
+        target: "/var/www/xmltv/var/export"
+    
     - name: Sauvgarde GITHUB
       uses: EndBug/add-and-commit@v9
       with:
