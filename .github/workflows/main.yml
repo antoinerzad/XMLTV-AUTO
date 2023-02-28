@@ -5,6 +5,10 @@ name: Mise à jour des programmes TV
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
 on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
   schedule:
     - cron: "16 13 * * *" # Runs at 03:00 AM (UTC) every Monday,
  
@@ -33,7 +37,7 @@ jobs:
       uses: appleboy/scp-action@master
       with:
         host: ${{ secrets.IP }}
-        username: ${{ secrets.USER }"
+        username: ${{ secrets.USER }}
         password: ${{ secrets.pass }}
         port: "22"
         source: "/var/export/xmltv.xml"
@@ -43,7 +47,7 @@ jobs:
       uses: appleboy/scp-action@master
       with:
         host: ${{ secrets.IP }}
-        username: ${{ secrets.USER }"
+        username: ${{ secrets.USER }}
         password: ${{ secrets.pass }}
         port: "22"
         source: "/var/export/xmltv.xml"
@@ -53,7 +57,7 @@ jobs:
       uses: appleboy/scp-action@master
       with:
         host: ${{ secrets.IP }}
-        username: ${{ secrets.USER }"
+        username: ${{ secrets.USER }}
         password: ${{ secrets.pass }}
         port: "22"
         source: "/var/export/xmltv.zip"
