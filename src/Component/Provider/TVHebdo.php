@@ -140,6 +140,6 @@ class TVHebdo extends AbstractProvider implements ProviderInterface
     public function generateUrl(Channel $channel, \DateTimeImmutable $date): string
     {     
         $url = 'http://www.tvhebdo.com/horaire-tele/'.$this->channelsList[$channel->getId()].'/date/'.$date->format('Y-m-d');
-        return $url;
+        return 'http://www.tvhebdo.com/horaire-tele/'.$url;
     }
 }
