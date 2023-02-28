@@ -6,7 +6,7 @@ name: Mise à jour des programmes TV
 # or API.
 on:
   schedule:
-    - cron: "0 10 22 * *" # Runs at 03:00 AM (UTC) every Monday,
+    - cron: "19 8 * * *" # Runs at 03:00 AM (UTC) every Monday,
  
 jobs:
   # This workflow contains a single job called "greet"
