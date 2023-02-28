@@ -152,7 +152,7 @@ class Telecablesat extends AbstractProvider implements ProviderInterface
         $channel_content = $this->channelsList[$channel->getId()];
 
         return sprintf(
-            'https://tv-programme.telecablesat.fr/programmes-tele/?date=%s&page=%s',
+            'https://tvcablesatproxy.antoiner.workers.dev/programmes-tele/?date=%s&page=%s',
             $date->format('Y-m-d'),
             $channel_content['page']
         );
