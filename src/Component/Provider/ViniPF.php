@@ -76,6 +76,6 @@ class ViniPF extends AbstractProvider implements ProviderInterface
 
     public function generateUrl(Channel $channel, \DateTimeImmutable $date): string
     {
-        return 'https://programme-tv.vini.pf/programmesJSON';
+        return 'https://vinipf-proxy.antoiner.workers.dev/programmesJSON';
     }
 }
