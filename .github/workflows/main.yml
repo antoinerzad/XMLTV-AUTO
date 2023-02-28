@@ -40,7 +40,7 @@ jobs:
         password: ${{ secrets.pass }}
         port: "22"
         source: "./var/export/xmltv.xml"
-        target: "/var/www/xmltv/var/export"
+        target: "/var/www/xmltv"
         
     - name: Sauvgarde XML.GZ sur serveur
       uses: appleboy/scp-action@master
@@ -50,7 +50,7 @@ jobs:
         password: ${{ secrets.pass }}
         port: "22"
         source: "./var/export/xmltv.xml.gz"
-        target: "/var/www/xmltv/var/export"
+        target: "/var/www/xmltv"
         
     - name: Sauvgarde ZIP sur serveur
       uses: appleboy/scp-action@master
@@ -60,7 +60,7 @@ jobs:
         password: ${{ secrets.pass }}
         port: "22"
         source: "./var/export/xmltv.zip"
-        target: "/var/www/xmltv/var/export"
+        target: "/var/www/xmltv"
     
     - name: Sauvgarde GITHUB
       uses: EndBug/add-and-commit@v9
