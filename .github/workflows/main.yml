@@ -32,7 +32,7 @@ jobs:
         extensions: curl, zip, mbstring, xml, json  
         
     - name: Mise à jour des programmes
-      run: php example/script_all.php
+      run: touch test
       
     - name: Sauvgarde XML sur serveur
       uses: appleboy/scp-action@master
