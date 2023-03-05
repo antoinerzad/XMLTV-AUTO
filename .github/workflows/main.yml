@@ -63,7 +63,12 @@ jobs:
         port: "22"
         source: "./var/export/xmltv.zip"
         target: "/var/www/xmltv"
-    
+        
+        
+    - name: Supression gros fichier
+      run: rm ./var/export/xmltv.xml
+      
+      
     - name: Sauvgarde GITHUB
       uses: EndBug/add-and-commit@v9
       with:
