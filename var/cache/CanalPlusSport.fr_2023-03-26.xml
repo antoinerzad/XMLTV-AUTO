@@ -1,0 +1,152 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230326015700 +0100" stop="20230326064300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FE94A7D93AAD8E38CC5F134073111ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326064300 +0200" stop="20230326082600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023. 21e journée. Clermont / Brive.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E3D7470B26E65770364C40DBE9308764.jpg" />
+<episode-num system="xmltv_ns">0.146.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326082600 +0200" stop="20230326100800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023. 21e journée. Lyon / Toulon.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1E94CA4C9B218C2885C7DAC9B3FEC1F6.jpg" />
+<episode-num system="xmltv_ns">0.143.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326100800 +0200" stop="20230326110200 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rallye : WRC, Rallye du Mexique</title>
+<desc lang="fr">Championnat du monde des rallyes 2023. Rallye du Mexique.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rallye</category>
+<icon src="https://img.bouygtel.fr/CMS/images/68F5D26079C42735932EC39FC3B50C85.jpg" />
+<episode-num system="xmltv_ns">0.64.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326110200 +0200" stop="20230326113300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Grand Prix</title>
+<sub-title lang="fr">Grand Prix d'Arabie Saoudite</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1629A7BAA8C4FD22819571C8CE6A8D8D.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326113300 +0200" stop="20230326131700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023. 21e journée. Perpignan / Montpellier.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1E94CA4C9B218C2885C7DAC9B3FEC1F6.jpg" />
+<episode-num system="xmltv_ns">0.140.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326131700 +0200" stop="20230326150000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023. 21e journée. Bayonne / Pau.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E3D7470B26E65770364C40DBE9308764.jpg" />
+<episode-num system="xmltv_ns">0.145.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326150000 +0200" stop="20230326164200 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023. 21e journée. Bordeaux-Bègles / La Rochelle.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E3D7470B26E65770364C40DBE9308764.jpg" />
+<episode-num system="xmltv_ns">0.141.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326164200 +0200" stop="20230326182600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 5e journée. Waratahs / Chiefs.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FD34DC8C821AEECAD2CAFBAA03FD5D95.jpg" />
+<episode-num system="xmltv_ns">0.13.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326182600 +0200" stop="20230326185700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Voile : SailGP</title>
+<desc lang="fr">SailGP 2022/2023. 10e manche. Grand Prix de Nouvelle-Zélande. Les temps forts.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Voile</category>
+<icon src="https://img.bouygtel.fr/CMS/images/296570421BC1603BF5D4A88815E619D0.jpg" />
+<episode-num system="xmltv_ns">0.41.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326185700 +0200" stop="20230326192800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Grand Prix</title>
+<sub-title lang="fr">Grand Prix d'Arabie Saoudite</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1629A7BAA8C4FD22819571C8CE6A8D8D.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326192800 +0200" stop="20230326210000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Jackie Stewart : Histoire secrète d'un pilote de légende</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Automobilisme</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7EEF51A5FB851C2C98805C143B1F2A8E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326210000 +0200" stop="20230326230000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Championnat de Match Play</title>
+<desc lang="fr">Championnat de Match Play 2022/2023. 5e jour. 2e partie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/39C1411853D383D3950C751A846C7932.jpg" />
+<episode-num system="xmltv_ns">0.150.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326230000 +0200" stop="20230327010100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Championnat de Match Play</title>
+<desc lang="fr">Championnat de Match Play 2022/2023. 5e jour. 3e partie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/39C1411853D383D3950C751A846C7932.jpg" />
+<episode-num system="xmltv_ns">0.163.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327010100 +0200" stop="20230327024300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023. 21e journée. Stade Français / Racing 92.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/98656E25156EBC018B4224F92549720E.jpg" />
+<episode-num system="xmltv_ns">0.142.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327024300 +0200" stop="20230327043700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">En corps</title>
+<desc lang="fr">Danseuse professionnelle, Elise subit une grave blessure à l'occasion d'une représentation. A seulement 26 ans, elle apprend par les médecins que les dégâts sont irréversibles et qu'elle doit mettre un terme à sa prometteuse carrière. Alors qu'elle voit son monde s'effondrer, Elise se consacre à une longue convalescence passée entre Paris et la Bretagne. Pour ne pas décrocher complètement de son univers de prédilection, la jeune femme se rapproche très vite d'une troupe rencontrée par pur hasard, et ayant une approche et une pratique aux antipodes de ce qu'elle a connu jusque là, loin du stress et des entraînements intensifs...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Comédie dramatique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/918DA41713465DE21B21878CE7B4B938.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327043700 +0200" stop="20230327062300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Frère et soeur</title>
+<desc lang="fr">Depuis plus de vingt ans, Alice et Louis ne se parlent plus. Le décès de leurs parents va les amener à se revoir et revenir sur tant d'années de conflits. Elle, talentueuse actrice, lui, professeur et poète, s'évitent lorsqu'ils se croisent dans la rue à cause de la haine qu'Alice voue à son frère. L'aînée de la famille était si talentueuse que l'éclosion de son petit frère a fait naître en elle ce sentiment inavouable et intolérable qu'est la haine. Le voir la surpasser et attirer l'attention l'a amené à le détester. A partir de ce moment-là, elle l'a considéré comme l'instigateur de tous ses maux, jusqu'à la mort des leurs...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7158FA8103294709EB42F0BE9BA26468.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>

@@ -1,0 +1,49 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230329223600 +0200" stop="20230330004000 +0200" channel="CinePlusPremier.fr">
+<title lang="fr">Un héros</title>
+<desc lang="fr">En Iran, un homme se retrouve en prison pour ne pas avoir pu rembourser ses dettes. Il obtient une permission de deux jours pour changer la donne.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_23924063.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330004000 +0200" stop="20230330030900 +0200" channel="CinePlusPremier.fr">
+<title lang="fr">Le dernier duel</title>
+<desc lang="fr">Au XIVe siècle, la femme d'un noble guerrier prend tous les risques en affirmant qu'un écuyer du roi a abusé d'elle. Son mari provoque le criminel en duel.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Histoire</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_23738868.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230330030900 +0200" stop="20230330035300 +0200" channel="CinePlusPremier.fr">
+<title lang="fr">Tchi tcha</title>
+<desc lang="fr">Magazine cinéma au coeur de l'actualité culturelle, Tchi Tcha traite tous les genres cinématographiques, des plus pointus aux plus populaires, des blockbusters aux découvertes. Laurie Cholewa, avec la complicité de Perrine Quennesson et Renan Cros, donne rendez-vous chaque vendredi à 19H45 et...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25602681.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230330035300 +0200" stop="20230330060000 +0200" channel="CinePlusPremier.fr">
+<title lang="fr">Jeux de pouvoir</title>
+<desc lang="fr">A Washington, un journaliste d'investigation enquête sur la mort suspecte de l'assistante d'un député qui s'apprête à attaquer un groupe de défense privé.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_23830873.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330060000 +0200" stop="20230330063000 +0200" channel="CinePlusPremier.fr">
+<title lang="fr">L'image originelle</title>
+<desc lang="fr">Portrait du petit génie du 7e art canadien, Xavier Dolan, qui a conquis la planète cinéma et a été primé à Cannes en 2014 pour son film &quot;Mommy&quot;.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_10931981.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330063000 +0200" stop="20230330083000 +0200" channel="CinePlusPremier.fr">
+<title lang="fr">Trois souvenirs de ma jeunesse</title>
+<desc lang="fr">Alors qu'il est interrogé à la douane à son retour en France, un homme remonte le fil de son enfance, de sa jeunesse. Il se souvient de son premier amour.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6323761.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

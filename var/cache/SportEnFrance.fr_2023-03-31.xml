@@ -1,0 +1,37 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230330220000 +0200" stop="20230331100000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Billard Blackball : Tournoi national Les Herbiers</title>
+<desc lang="fr">Diffusion du Tournoi national de blackball aux Herbiers. Le Parc des Expos accueille le 6e tournoi de billard anglais. Cette compétition est organisée par Les Herbiers Billard Académie.</desc>
+<category lang="fr">Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11556461.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331100000 +0200" stop="20230331153000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Handball : Championnat de France féminin</title>
+<desc lang="fr">Nantes - Dijon, 19ème journée de Ligue Butagaz Energie.</desc>
+<category lang="fr">Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_14316545.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331153000 +0200" stop="20230331190000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Handball : Championnat de France féminin</title>
+<desc lang="fr">Nantes - Dijon, 19ème journée de Ligue Butagaz Energie.</desc>
+<category lang="fr">Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_14316545.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331190000 +0200" stop="20230331210000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Les Lauréats des Micros d'or</title>
+<desc lang="fr">Multisports.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_7687723.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331210000 +0200" stop="20230401090000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Blackball : Master</title>
+<desc lang="fr">Finale inédite pour cette 5ème étape du Blackball Masters en Vendée ! Alexis Klinka tentera de remporter son 2ème titre cette saison face au jeune outsider Killian Ballon !</desc>
+<category lang="fr">Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_6192176.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

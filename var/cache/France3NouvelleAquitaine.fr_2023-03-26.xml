@@ -1,0 +1,340 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230326060000 +0200" stop="20230326062000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 19/20 - Limousin</title>
+<desc lang="fr">Toute l'actualité de la région.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326062000 +0200" stop="20230326064000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 19/20 - Aquitaine</title>
+<desc lang="fr">Toute l'actualité de la région.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8FDF184394A4E46633201441649AD487.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326064000 +0200" stop="20230326070000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 19/20 - Poitou Charentes</title>
+<desc lang="fr">Toute l'actualité de la région.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326070000 +0200" stop="20230326070500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Bis</title>
+<sub-title lang="fr">Coutanceau choix de vins charentais</sub-title>
+<desc lang="fr">&quot;BIS&quot; se lance le défi d'explorer les multiples territoires de la Nouvelle-Aquitaine, pour y dénicher les plus belles pépites culturelles. Mais aussi faire partager le quotidien de créateurs inspirés, les confidences d'écrivains ou de penseurs mais aussi le secret des ateliers d'artistes, des anecdotes insolites et d'étonnantes initiatives partout ailleurs dans la région.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">3.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326070500 +0200" stop="20230326073100 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">In flux</title>
+<desc lang="fr">Le magazine culturel eurorégional IN-FLUX, propose une nouvelle déambulation immersive au coeur de la création artistique, à travers les territoires de la Nouvelle-Aquitaine, de l'Euskadi et de la Navarre. Face à une oeuvre, ne vous êtes-vous jamais demandé comment un artiste chemine jusqu'à ce résultat ? Quelles sont ses inspirations ? Quel a été son processus créatif et expérimental pour atteindre son but ? IN-FLUX interroge les différentes influences qui nourrissent l'artiste : ses origines culturelles, son environnement présent, ses nouvelles collaborations et l'actualité de la société qui l'entoure. Derrière l'intuition créatrice, l'art porte un regard singulier sur la société et notre citoyenneté.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<episode-num system="xmltv_ns">2.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326073100 +0200" stop="20230326082300 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Disputandum</title>
+<sub-title lang="fr">En finir avec la malbouffe</sub-title>
+<desc lang="fr">À l'heure de l'inflation galopante, les Français délaissent le bio au profit des premiers prix et au péril de leur santé. Obésité, nourriture industrielle, perte du gout, recette oubliées, terroirs délaissés… Les menaces qui pèsent sur la qualité de notre alimentation sont nombreuses. En Nouvelle-Aquitaine, les professionnels du secteur alertent et proposent des solutions pour en finir avec la malbouffe.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7A5E9679E719323E865101726E26B0ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326082300 +0200" stop="20230326090400 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Vous êtes formidables - Nouvelle-Aquitaine</title>
+<desc lang="fr">Invitée formidable : Géraldine Rey, PDG Desertours, organisaeur du 4LTrophy</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326090400 +0200" stop="20230326093300 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Alors on bouge</title>
+<sub-title lang="fr">Yin yoga avec Valérie</sub-title>
+<desc lang="fr">Etirement profond pour relâcher les muscles tendus, libérer les émotions et retrouver votre calme intérieur. Respirez lentement, ne forcez rien et laissez la magie opérer ! Accessible à tous.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326093300 +0200" stop="20230326102500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Drôle de région Nouvelle Aquitaine</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326102500 +0200" stop="20230326111300 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Bach's groove Paul Lay trio</title>
+<desc lang="fr">Version longue du concert Paul Lay Trio : Mathias Szandai (contrebasse), Donald Kontomanou (batterie), Paul Lay (piano). Capté dans le cadre du Festival : &quot;Jazz en Valois&quot; le 15 octobre 2021 à Angoulême.</desc>
+<category lang="fr">Spectacle</category>
+<category lang="fr">Jazz</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326111300 +0200" stop="20230326113900 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Txirrita</title>
+<sub-title lang="fr">La famille Erramoun</sub-title>
+<desc lang="fr">Magazine basque présenté par Allande Boutin. Le Pays Basque mis en avant avec ses spécificités propres, à la rencontre de personnalités qui revendiquent et défendent leur culture forte.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<episode-num system="xmltv_ns">0.51.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326113900 +0200" stop="20230326120000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Le goût des rencontres</title>
+<sub-title lang="fr">Un goûter épicier à Bonnes</sub-title>
+<desc lang="fr">BIS format court (saison 3)</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3D905E3F89E85499D4E82C06FDF2E947.jpg" />
+<episode-num system="xmltv_ns">10.79.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326120000 +0200" stop="20230326123300 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Le temps d'un détour</title>
+<sub-title lang="fr">Dans le Médoc avec Amélie Grand</sub-title>
+<desc lang="fr">Le Médoc est une destination de vacances très prisée mais c'est aussi un territoire qui regorge de trésors insoupçonnés comme notamment, les zones humides. En compagnie de passionnés, Eric part à la découverte de ces réserves si précieuses pour l'environnement. Un bain de nature en perspective.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<icon src="https://img.bouygtel.fr/CMS/images/38E0B278F62EE3C3CE13E28635E13D93.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326123300 +0200" stop="20230326123500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Ketokole</title>
+<sub-title lang="fr">Astur</sub-title>
+<desc lang="fr">Pour une meilleure connaissance, reconnaissanceLe Poitevin-Saintongeais est une langue régionale qui mérite d'être mieux connue, voire reconnue. Classée comme langue d'Oïl, elle a particulièrement subi, comme d'autres langues du nord de la France, la domination totale du Français. Même si l'état français n'a toujours pas ratifié la décision de l'Europe concernant la reconnaissance des langues régionales, le Saintongeais est identifié comme une des 3 langues régionales officielles de la Région Nouvelle Aquitaine. Mieux la faire connaître, mieux la faire reconnaître, 2 bonnes raisons pour réaliser une série d'initiation à son sujet.</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Education</category>
+<icon src="https://img.bouygtel.fr/CMS/images/385FB16BD29C84911DABC79B75B44B42.jpg" />
+<episode-num system="xmltv_ns">2.107.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326123500 +0200" stop="20230326130200 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Les pouces bleus</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326130200 +0200" stop="20230326132500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">In flux</title>
+<desc lang="fr">Le magazine culturel eurorégional IN-FLUX, propose une nouvelle déambulation immersive au coeur de la création artistique, à travers les territoires de la Nouvelle-Aquitaine, de l'Euskadi et de la Navarre. Face à une oeuvre, ne vous êtes-vous jamais demandé comment un artiste chemine jusqu'à ce résultat ? Quelles sont ses inspirations ? Quel a été son processus créatif et expérimental pour atteindre son but ? IN-FLUX interroge les différentes influences qui nourrissent l'artiste : ses origines culturelles, son environnement présent, ses nouvelles collaborations et l'actualité de la société qui l'entoure. Derrière l'intuition créatrice, l'art porte un regard singulier sur la société et notre citoyenneté.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<episode-num system="xmltv_ns">2.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326132500 +0200" stop="20230326133000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 12/13 - Poitou Charentes</title>
+<desc lang="fr">Un tour de l'actualité à la mi-journée pour les départements de la Vienne, la Charente, la Charente-maritime et des Deux-Sèvres à découvrir dans le 12/13 Poitou-Charentes. </desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326133000 +0200" stop="20230326133100 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Bis</title>
+<sub-title lang="fr">Coutanceau choix de vins charentais</sub-title>
+<desc lang="fr">&quot;BIS&quot; se lance le défi d'explorer les multiples territoires de la Nouvelle-Aquitaine, pour y dénicher les plus belles pépites culturelles. Mais aussi faire partager le quotidien de créateurs inspirés, les confidences d'écrivains ou de penseurs mais aussi le secret des ateliers d'artistes, des anecdotes insolites et d'étonnantes initiatives partout ailleurs dans la région.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">3.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326133100 +0200" stop="20230326133600 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 12/13 - Limousin</title>
+<desc lang="fr">Toute l'actualité régionale de la mi-journée.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326133600 +0200" stop="20230326141500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 12/13 - Aquitaine</title>
+<desc lang="fr">Toute l'actualité régionale de la mi-journée.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326141500 +0200" stop="20230326155000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">La maison des Rocheville</title>
+<sub-title lang="fr">La maison qui nous parle</sub-title>
+<desc lang="fr">Victor de Rocheville et son ami Fabio, le fils d'une domestique, traversent aprèsl'insouciance d'une enfance protégée, les aléas et les vicissitudes de l'existence. La pertede ses parents et la ruine pour l'un, la perte d'un père spirituel pour l'autre. La malédictiondes Rocheville est en marche. Les deux jeunes gens, séparés par les épreuves de la vie, seretrouvent finalement à Villeblanche, berceau de leur enfance, accompagnés d'Eugénie etMathilde leurs compagnes. Mais le premier conflit mondial les emporte à nouveau, loinde Villeblanche et de ses secrets</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326155000 +0200" stop="20230326155200 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Bis</title>
+<sub-title lang="fr">Coutanceau choix de vins charentais</sub-title>
+<desc lang="fr">&quot;BIS&quot; se lance le défi d'explorer les multiples territoires de la Nouvelle-Aquitaine, pour y dénicher les plus belles pépites culturelles. Mais aussi faire partager le quotidien de créateurs inspirés, les confidences d'écrivains ou de penseurs mais aussi le secret des ateliers d'artistes, des anecdotes insolites et d'étonnantes initiatives partout ailleurs dans la région.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">3.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326155200 +0200" stop="20230326161700 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">NoA Lumière</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326161700 +0200" stop="20230326174800 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Debadoc en Nouvelle Aquitaine</title>
+<desc lang="fr">À La Pallice, des vraquiers et des cargos débarquent et embarquent quotidiennement les matières premières et les produits de notre économie ultra mondialisée. Au fil des confidences, des paroles et des lettres écrites entre deux ports, le &quot; Temps d'une escale &quot; dresse un portrait touchant et singulier de ses ouvriers de l'ombre. Comment oublier la vie à bord pendant quelques heures de divertissement ? &quot; Le temps d'une escale &quot;, un documentaire de Jean-François Naud. Les invités : Guy Bardin Président Escale Gironde, Jean-Michel Degorce Vice-président d'Escale, Estuaire Gironde, Jean-François Naud Réalisateur film, Patrice Beslay Bénévole au Seamen's Club de la Rochelle Marine Escale.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/AA1C35DEEC96077196A88F8688F71822.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326174800 +0200" stop="20230326175100 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Tous les chemins mènent à vous</title>
+<sub-title lang="fr">Roquefort 40</sub-title>
+<desc lang="fr">A la découverte de la vie d'un lieu de Nouvelle-Aquitaine et de ses habitants.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326175100 +0200" stop="20230326180000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Tous les chemins mènent à vous</title>
+<sub-title lang="fr">Ponts de Bordeaux 33</sub-title>
+<desc lang="fr">A la découverte de la vie d'un lieu de Nouvelle-Aquitaine et de ses habitants.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326180000 +0200" stop="20230326183200 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Tant d'efforts</title>
+<desc lang="fr">Ce magazine traite de toute l'information sportive de la Nouvelle-Aquitaine. Un journal sportif en direct pour analyser et décrypter les rencontres sportives du week-end et une projection sur ceux à venir.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C890233855299C64400EC75FE56A93AE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326183200 +0200" stop="20230326183500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Tous les chemins mènent à vous</title>
+<desc lang="fr">A la découverte de la vie d'un lieu de Nouvelle-Aquitaine et de ses habitants.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326183500 +0200" stop="20230326183900 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Tous les chemins mènent à vous</title>
+<sub-title lang="fr">Zoodyssee Chizé 79</sub-title>
+<desc lang="fr">A la découverte de la vie d'un lieu de Nouvelle-Aquitaine et de ses habitants.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326183900 +0200" stop="20230326190500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">NoApop</title>
+<sub-title lang="fr">Wilows et Joao</sub-title>
+<desc lang="fr">Derrière Willows se cache le projet folk de la délicate Emilie Moutet, que l'on a déjà pu retrouver dans d'autres formations. Accompagnée par Paul Magne, elle livre dans ses titres, des textes honnêtes et mélancoliques. 1/ Non, il n'y a pas de honte à pleurer, surtout lorsque l'on est mu par des sons, des textes, des transports. 2/ Avec cette douce reprise de Karen Ann, Willows nous dévoile un peu de ses influences. 3/ You Belong to the Sky, superbe chanson qui traite du bonheur de vivre. Le jeune Joao, fils des iles, d'abord de la Guadeloupe puis de celle d'Oléron est un passionné autant de surf que de musique. Son premier EP &quot;The Beginning of the End&quot; a été publié en septembre 2020. Il nous en livre deux extraits.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6D8BA2B08A00455114BF3CE9AB296650.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326190500 +0200" stop="20230326193000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Le goût des rencontres</title>
+<sub-title lang="fr">Un goûter épicier à Bonnes</sub-title>
+<desc lang="fr">BIS format court (saison 3)</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3D905E3F89E85499D4E82C06FDF2E947.jpg" />
+<episode-num system="xmltv_ns">10.79.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326193000 +0200" stop="20230326195800 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Le temps d'un détour</title>
+<sub-title lang="fr">Dans le Médoc avec Amélie Grand</sub-title>
+<desc lang="fr">Le Médoc est une destination de vacances très prisée mais c'est aussi un territoire qui regorge de trésors insoupçonnés comme notamment, les zones humides. En compagnie de passionnés, Eric part à la découverte de ces réserves si précieuses pour l'environnement. Un bain de nature en perspective.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<icon src="https://img.bouygtel.fr/CMS/images/38E0B278F62EE3C3CE13E28635E13D93.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326195800 +0200" stop="20230326200200 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Ketokole</title>
+<sub-title lang="fr">Astur</sub-title>
+<desc lang="fr">Pour une meilleure connaissance, reconnaissanceLe Poitevin-Saintongeais est une langue régionale qui mérite d'être mieux connue, voire reconnue. Classée comme langue d'Oïl, elle a particulièrement subi, comme d'autres langues du nord de la France, la domination totale du Français. Même si l'état français n'a toujours pas ratifié la décision de l'Europe concernant la reconnaissance des langues régionales, le Saintongeais est identifié comme une des 3 langues régionales officielles de la Région Nouvelle Aquitaine. Mieux la faire connaître, mieux la faire reconnaître, 2 bonnes raisons pour réaliser une série d'initiation à son sujet.</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Education</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B00672C08216749D020CF26CFC70805A.jpg" />
+<episode-num system="xmltv_ns">2.107.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326200200 +0200" stop="20230326205800 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Les pouces bleus</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326205800 +0200" stop="20230326210100 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Oc veituratge</title>
+<sub-title lang="fr">Amorosa</sub-title>
+<desc lang="fr">Miqueu, la cinquantaine, commercial ayant perdu son permis de conduire,utilise le covoiturage pour se rendre à ses rendez-vous professionnels et personnels. Nous suivons ces aventures, au gré de ces moments partagés, en covoiturage, où lesvies et les valeurs se rencontrent, se découvrent et, pour notre plus grand plaisir, s'affrontent.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326210100 +0200" stop="20230326223500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Debadoc en Nouvelle Aquitaine</title>
+<desc lang="fr">Le cognac est à l'honneur. Cet alcool complexe bénéficie d'une double image : mal perçu en France, le cognac séduit les hipsters new yorkais. Mais qu'en est-il du rayonnement touristique de cette boisson ? Cette attractivité profite t-elle à la région ?</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DFC77CB663F1C01841BAB7CE3D7ACF06.jpg" />
+<episode-num system="xmltv_ns">0.84.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326223500 +0200" stop="20230326225500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 19/20 - Aquitaine</title>
+<desc lang="fr">Toute l'actualité de la région.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/75FE09C1E23A79F1B4B8E82974429FCE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326225500 +0200" stop="20230326231500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 19/20 - Limousin</title>
+<desc lang="fr">Toute l'actualité de la région.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326231500 +0200" stop="20230326233500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 19/20 - Poitou Charentes</title>
+<desc lang="fr">Toute l'actualité de la région.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326233500 +0200" stop="20230327011700 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Décastar</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Athlétisme</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4A1599112A21A12D0E347B0F5A7059EB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327011700 +0200" stop="20230327031200 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Cesta Punta : Cesta Punta Summer League</title>
+<desc lang="fr">Cesta Punta Summer League. Finale.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Cesta punta</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DBD2FC801B980BF7E5D3466B80D4B08D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327031200 +0200" stop="20230327060000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Pelote : Championnats du monde</title>
+<desc lang="fr">Championnats du monde. Demi finales frontball.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Pelote basque</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

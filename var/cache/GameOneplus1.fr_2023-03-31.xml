@@ -1,0 +1,518 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230331000000 +0200" stop="20230331003000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Level One</title>
+<desc lang="fr">Marcus, l'inventeur du Let's Play, teste en direct le premier niveau d'un nouveau jeu vidéo.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_13405976.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331003000 +0200" stop="20230331011500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Furie</sub-title>
+<desc lang="fr">Matt, qui retient Melissa, Stiles, le shérif et Scott, avoue à ce dernier la raison des meurtres. Pendant ce temps, Gerard pousse Allison à se venger de Derek.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15674646.jpg" />
+<episode-num system="xmltv_ns">1.9.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230331011500 +0200" stop="20230331020000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Compte à rebours</sub-title>
+<desc lang="fr">Derek est épouvanté par le sort réservé aux loups-garous. Pendant ce temps, Gerard menace de tuer quelqu'un si on ne lui apporte pas Derek rapidement.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15674646.jpg" />
+<episode-num system="xmltv_ns">1.10.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230331020000 +0200" stop="20230331024500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Immortels</sub-title>
+<desc lang="fr">Gerard, qui détient déjà Boyd et Erica, capture Stiles. Chris réalise que Gerard est son véritable ennemi. Il aide Scott et Isaac à transporter Jackson chez Derek.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15674646.jpg" />
+<episode-num system="xmltv_ns">1.11.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230331024500 +0200" stop="20230331031500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">South Park</title>
+<sub-title lang="fr">Du bon usage du préservatif</sub-title>
+<desc lang="fr">A cause de Stan, les écoliers de South Park doivent endurer des cours d'éducation sexuelle donnés par monsieur Mackey et madame Krokenpaff.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15875532.jpg" />
+<episode-num system="xmltv_ns">4.6.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230331031500 +0200" stop="20230331034000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">South Park</title>
+<sub-title lang="fr">Servietsky</sub-title>
+<desc lang="fr">Les garçons ont reçu un nouveau jeu vidéo et ont l'intention d'y jouer pendant les prochaines trente-huit heures. Malheureusement, un certain Servietsky vient gâcher leur projet...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23297534.jpg" />
+<episode-num system="xmltv_ns">4.7.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331034000 +0200" stop="20230331035500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">Au programme : Le skate dans le jeu vidéo, la saga Skate et l'interview du producteur de Session. Mais aussi : WRC en Esport, Pinocchio en film et la BD La Brigade des Cauchemars.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331035500 +0200" stop="20230331041500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">On revient sur la saga FIFA, on s'intéresse à la scène Esport du jeu. Au programme aussi : les 5 ans de Fortnite, Dual Universe, Blonde au cinéma et Valse à trois s?urs en BD.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331041500 +0200" stop="20230331042000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">#TEAMG1 STORY, c'est toute l'actualité du jeu vidéo, de la BD, du cinéma et des séries, un concentré de culture pop sur Game One, à la télé et sur Internet</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331042000 +0200" stop="20230331043500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Hard Looters</title>
+<desc lang="fr">Un début de saison 2 tonitruant avec la visite d'un des magasins geek les moins chers du monde !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542210.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331043500 +0200" stop="20230331045000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Hard Looters</title>
+<desc lang="fr">Les looters se rendent à Osaka pour visiter une boutique particulièrement bien équipée en consoles rares...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542210.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331045000 +0200" stop="20230331050000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Retro Game One</title>
+<desc lang="fr">#TEAMG1 Story, c'est le quotidien des équipes de TeamG1. Retrouvez les réactions et les chroniques des journalistes et des animateurs qui passent au crible l'actualité pop, de façon directe, sans filtre</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331050000 +0200" stop="20230331051000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Retro Game One</title>
+<desc lang="fr">Marcus et sa bande d'acolytes un peu bizarres vous emmènent dans un voyage déjanté à travers l'histoire des jeux vidéo! Attention effets très spéciaux!</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331051000 +0200" stop="20230331052000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Retro Game One</title>
+<desc lang="fr">Comme toutes les franchises à succès, &quot;Star Trek&quot; a eu droit à de nombreuses adaptations en jeux vidéo.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331052000 +0200" stop="20230331053500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">Au programme : Le skate dans le jeu vidéo, la saga Skate et l'interview du producteur de Session. Mais aussi : WRC en Esport, Pinocchio en film et la BD La Brigade des Cauchemars.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331053500 +0200" stop="20230331055000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">On revient sur la saga FIFA, on s'intéresse à la scène Esport du jeu. Au programme aussi : les 5 ans de Fortnite, Dual Universe, Blonde au cinéma et Valse à trois s?urs en BD.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331055000 +0200" stop="20230331055500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">#TEAMG1 STORY, c'est toute l'actualité du jeu vidéo, de la BD, du cinéma et des séries, un concentré de culture pop sur Game One, à la télé et sur Internet</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331055500 +0200" stop="20230331061000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Mémoire Vive 2.0</title>
+<desc lang="fr">Batman est apparu très tôt en jeu vidéo. Cette première partie présente les jeux inspirés par la série télévisée des années 60, ainsi que ceux basés sur le premier film de Tim Burton.Jeux de l'émission : Batman, Batman the Caped Crusader, Batman the Movie sur CPC, Amiga, C64, NES, GB, MD, PCE,...</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34462765.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331061000 +0200" stop="20230331062500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Mémoire Vive 2.0</title>
+<desc lang="fr">Suite de la présentation des jeux vidéo mettant en scène le personnage de Batman, avec les adaptations de la bande dessinée par Sunsoft, du deuxième film de Tim Burton &quot;Batman Returns&quot;, et de la série animée à succès commencée en 1992.Jeux de l'émission : Batman Return of the Joker, Batman...</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34462765.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331062500 +0200" stop="20230331063000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">#TEAMG1 STORY, c'est toute l'actualité du jeu vidéo, de la BD, du cinéma et des séries, un concentré de culture pop sur Game One, à la télé et sur Internet</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331063000 +0200" stop="20230331064500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Hard Looters</title>
+<desc lang="fr">Un début de saison 2 tonitruant avec la visite d'un des magasins geek les moins chers du monde !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542210.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331064500 +0200" stop="20230331070000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Hard Looters</title>
+<desc lang="fr">Les looters se rendent à Osaka pour visiter une boutique particulièrement bien équipée en consoles rares...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542210.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331070000 +0200" stop="20230331071000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Retro Game One</title>
+<desc lang="fr">#TEAMG1 Story, c'est le quotidien des équipes de TeamG1. Retrouvez les réactions et les chroniques des journalistes et des animateurs qui passent au crible l'actualité pop, de façon directe, sans filtre</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331071000 +0200" stop="20230331072000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Retro Game One</title>
+<desc lang="fr">Marcus et sa bande d'acolytes un peu bizarres vous emmènent dans un voyage déjanté à travers l'histoire des jeux vidéo! Attention effets très spéciaux!</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331072000 +0200" stop="20230331073000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Retro Game One</title>
+<desc lang="fr">Comme toutes les franchises à succès, &quot;Star Trek&quot; a eu droit à de nombreuses adaptations en jeux vidéo.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331073000 +0200" stop="20230331074500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Mémoire Vive 2.0</title>
+<desc lang="fr">Batman est apparu très tôt en jeu vidéo. Cette première partie présente les jeux inspirés par la série télévisée des années 60, ainsi que ceux basés sur le premier film de Tim Burton.Jeux de l'émission : Batman, Batman the Caped Crusader, Batman the Movie sur CPC, Amiga, C64, NES, GB, MD, PCE,...</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34462765.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331074500 +0200" stop="20230331080000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Mémoire Vive 2.0</title>
+<desc lang="fr">Suite de la présentation des jeux vidéo mettant en scène le personnage de Batman, avec les adaptations de la bande dessinée par Sunsoft, du deuxième film de Tim Burton &quot;Batman Returns&quot;, et de la série animée à succès commencée en 1992.Jeux de l'émission : Batman Return of the Joker, Batman...</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34462765.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331080000 +0200" stop="20230331081500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">#TeamG1 story - L'émission</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331081500 +0200" stop="20230331082500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">#TEAMG1 STORY, c'est toute l'actualité du jeu vidéo, de la BD, du cinéma et des séries, un concentré de culture pop sur Game One, à la télé et sur Internet</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331082500 +0200" stop="20230331084500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Mémoire Vive 2.0</title>
+<desc lang="fr">Présentation exhaustive de la série Street Fighter de Capcom avec toutes les bases expliquées, et les diverses version jusqu'a Super SF2</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34462765.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331084500 +0200" stop="20230331091000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Mémoire Vive 2.0</title>
+<desc lang="fr">Série de jeu de plates-formes de Konami avec Dracula comme principal adversaire, essentiellement sur consoles Nintendo</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34462765.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331091000 +0200" stop="20230331091500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">#TEAMG1 STORY, c'est toute l'actualité du jeu vidéo, de la BD, du cinéma et des séries, un concentré de culture pop sur Game One, à la télé et sur Internet</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331091500 +0200" stop="20230331093000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Retro Game One *2019</title>
+<desc lang="fr">Marcus revient sur le lancement de la PlayStation 3 dans une parodie de l'émission culte : C'est pas Sorcier.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331093000 +0200" stop="20230331094500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Retro Game One *2019</title>
+<desc lang="fr">Marcus dresse un portrait express des frères Houser, les créateurs de la série GTA. Avec l'apparition du diable en personne venu s'expliquer sur la diabolisation des jeux vidéo.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331094500 +0200" stop="20230331100000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Retro Game One *2019</title>
+<desc lang="fr">Marcus dresse le portrait express de Roberta Williams, la créatrice qui a révolutionné le jeu d'aventure avec la série King's Quest notamment. Avec des effets pyrotechniques dignes des plus grandes productions hollywoodiennes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331100000 +0200" stop="20230331101500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">#TeamG1 story - L'émission</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331101500 +0200" stop="20230331104000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Wakfu</title>
+<desc lang="fr">Grougaloragran a failli. Les amis vont devoir se partager en deux groupes : les compagnons doivent rejoindre le royaume Sadida pour les prévenir de la menace que représente Nox et Yugo et Adamaï doivent aller chercher le Dofus dans lequel Grougaloragran va se réincarner...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15824222.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331104000 +0200" stop="20230331111000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Wakfu</title>
+<desc lang="fr">De retour chez elle, Amalia réalise que les choses ont bien changé. En effet, le roi, son père, est absent et c'est le frère d'Amalia qui s'occupe de la régence du royaume. Elle risque fort d'avoir du mal à se faire entendre. De leur coté, Yugo et Adamaï poursuivent leur quête du Dofus...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15824222.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331111000 +0200" stop="20230331113500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Wakfu</title>
+<desc lang="fr">Le roi Sadida est au chevet de l'Arbre de vie, coeur du royaume Sadida, qui est mystérieusement malade. Outrepassant l'interdiction du prince Armand, Amalia et Evangelyne se rendent auprès du Roi pour le prévenir de l'attaque imminente du royaume par Nox...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15824222.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331113500 +0200" stop="20230331120000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Wakfu</title>
+<desc lang="fr">Yugo et Adamaï sont arrivés sur l'île où Grougaloragran a caché son Dofus de sauvegarde. Dans l'espoir de découvrir de nouveaux pouvoirs, Yugo se lance dans une traversée du désert en solitaire. Mais Igôle, le terrible limier de Nox, a également posé ses pattes sur l'île...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15824222.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331120000 +0200" stop="20230331122500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Kuroko's Basket</title>
+<desc lang="fr">Plus que quelques poignées de secondes à jouer dans le match opposant Seirin et Yôsen. Si Kagami est entré dans la fameuse zone, celle qui permet à un joueur de voir ses facultés décuplées, la partie n'est pas gagnée pour autant. Murasakibara, persuadé par Himuro de jouer jusqu'au bout, est en...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_21959122.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331122500 +0200" stop="20230331125000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Kuroko's Basket</title>
+<desc lang="fr">Plus que quelques poignées de secondes à jouer dans le match opposant Seirin et Yôsen. Si Kagami est entré dans la fameuse zone, celle qui permet à un joueur de voir ses facultés décuplées, la partie n'est pas gagnée pour autant. Murasakibara, persuadé par Himuro de jouer jusqu'au bout, est en...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6009391.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331125000 +0200" stop="20230331132000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Kuroko's Basket</title>
+<desc lang="fr">Suite à leur qualification pour les demi-finales de la Winter Cup, les membres de Seirin sont interviewés par Basket Magazine. Après l'interview, Kuroko incite Taiga à se réconcilier avec Tatsuya. Partant à la recherche de ce dernier, Taiga découvre avec surprise que Tatsuya et Alex sont en...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_21959137.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331132000 +0200" stop="20230331134500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Dragon Quest : La quête de Daï</title>
+<desc lang="fr">Il fut un temps où le monde était sous l'emprise de Hadlar, le seigneur du mal, jusqu'à ce qu'un héros ramène la paix. Depuis, le temps a passé et des monstres libérés de l'emprise du seigneur démoniaque vivent en harmonie sur un petite île, Dermline</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_18559185.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331134500 +0200" stop="20230331141000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Dragon Quest : La quête de Daï</title>
+<desc lang="fr">Il fut un temps où le monde était sous l'emprise de Hadlar, le seigneur du mal, jusqu'à ce qu'un héros ramène la paix. Depuis, le temps a passé et des monstres libérés de l'emprise du seigneur démoniaque vivent en harmonie sur un petite île, Dermline</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_18559185.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331141000 +0200" stop="20230331144000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Dragon Quest : La quête de Daï</title>
+<desc lang="fr">Pour affronter Daï le draconien, Vearn devient l'empereur de l'?il du démon. Les deux ennemis jurés mesurent leur force au nom de la victoire. Armé de l'épée draconique de son père, Daï prépare le coup de grâce ! Leur duel entre dans son ultime phase !</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_18559185.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331144000 +0200" stop="20230331151000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">One Piece</title>
+<desc lang="fr">Luffy a un rêve : devenir le Roi des Pirates. Il court également après le One Piece, le trésor légendaire laissé à sa mort par le non moins légendaire pirate, Gol D. Roger.</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9442626.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331151000 +0200" stop="20230331154000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">One Piece</title>
+<desc lang="fr">Déterminé à mettre fin à la relation qui l'enchaîne à Kaido, Yamato révèle sa véritable puissance. Pendant ce temps, Queen, sous sa forme de cyborg, s'en prend violemment à Sanji, et Sasaki, sous sa forme hybride, met petit à petit Franky dos au mur à coup d'attaques difficiles à gérer.</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9442626.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331154000 +0200" stop="20230331160500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Wakfu</title>
+<desc lang="fr">Le royaume Sadida est sur le pied de guerre, se préparant à l'inévitable attaque de Nox. Il faut coûte que coûte empêcher l'horloge du Xélor de poser ses pattes sur l'île. Amalia et Evangelyne attendent sans trop l'espérer le retour de leurs compagnons...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15824222.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331160500 +0200" stop="20230331163500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Wakfu</title>
+<desc lang="fr">Nox et ses troupes ont posé le pied sur l'île. Le Xélor s'attaque sans plus tarder au but de sa croisade : le Wakfu contenu dans l'Arbre de vie. Mais le coeur du royaume Sadida est gardé par la gigantesque muraille végétale des arbres protecteurs. De plus, la &quot;confrérie du Tofu&quot; est presque au...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15824222.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331163500 +0200" stop="20230331170000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Wakfu</title>
+<desc lang="fr">Le siège n'a pas tenu et la bataille finale pour protéger l'Arbre de vie commence. Les héros ont un dernier atout : Yugo, avec l'aide de son frère Adamaï, a pénétré dans l'horloge à l'insu de Nox avec le fol espoir de s'emparer de l'Eliacube, source du pouvoir de Nox. Tout repose sur leurs...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15824222.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331170000 +0200" stop="20230331172500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Wakfu</title>
+<desc lang="fr">Quelques mois se sont écoulés depuis la grande victoire sur Nox. Restés au royaume Sadida, ils se remettent peu à peu de la disparition de Tristepin. Sauf Evangelyne, persuadée qu'il n'est pas mort. La tranquillité ne sera que de courte durée : une nouvelle menace arrive...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_6322581.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331172500 +0200" stop="20230331175000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Kuroko's Basket</title>
+<desc lang="fr">Plus que quelques poignées de secondes à jouer dans le match opposant Seirin et Yôsen. Si Kagami est entré dans la fameuse zone, celle qui permet à un joueur de voir ses facultés décuplées, la partie n'est pas gagnée pour autant. Murasakibara, persuadé par Himuro de jouer jusqu'au bout, est en...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_21959122.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331175000 +0200" stop="20230331181500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Kuroko's Basket</title>
+<desc lang="fr">Plus que quelques poignées de secondes à jouer dans le match opposant Seirin et Yôsen. Si Kagami est entré dans la fameuse zone, celle qui permet à un joueur de voir ses facultés décuplées, la partie n'est pas gagnée pour autant. Murasakibara, persuadé par Himuro de jouer jusqu'au bout, est en...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6009391.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331181500 +0200" stop="20230331184500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Kuroko's Basket</title>
+<desc lang="fr">Suite à leur qualification pour les demi-finales de la Winter Cup, les membres de Seirin sont interviewés par Basket Magazine. Après l'interview, Kuroko incite Taiga à se réconcilier avec Tatsuya. Partant à la recherche de ce dernier, Taiga découvre avec surprise que Tatsuya et Alex sont en...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_21959137.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331184500 +0200" stop="20230331191000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Dragon Quest : La quête de Daï</title>
+<desc lang="fr">Il fut un temps où le monde était sous l'emprise de Hadlar, le seigneur du mal, jusqu'à ce qu'un héros ramène la paix. Depuis, le temps a passé et des monstres libérés de l'emprise du seigneur démoniaque vivent en harmonie sur un petite île, Dermline</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_18559185.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331191000 +0200" stop="20230331193500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Dragon Quest : La quête de Daï</title>
+<desc lang="fr">Il fut un temps où le monde était sous l'emprise de Hadlar, le seigneur du mal, jusqu'à ce qu'un héros ramène la paix. Depuis, le temps a passé et des monstres libérés de l'emprise du seigneur démoniaque vivent en harmonie sur un petite île, Dermline</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_18559185.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331193500 +0200" stop="20230331201000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Dragon Quest : La quête de Daï</title>
+<desc lang="fr">Pour affronter Daï le draconien, Vearn devient l'empereur de l'?il du démon. Les deux ennemis jurés mesurent leur force au nom de la victoire. Armé de l'épée draconique de son père, Daï prépare le coup de grâce ! Leur duel entre dans son ultime phase !</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_18559185.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331201000 +0200" stop="20230331203500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">One Piece</title>
+<desc lang="fr">Momonosuké et Shinobu font face à Kaido, alors que Kidd et Law se liguent contre Big Mom. Pendant ce temps, Nami, en route vers l'espace de concert avec O-Tama et Usopp, entend une voix familière.</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9442626.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331203500 +0200" stop="20230331210000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">One Piece</title>
+<desc lang="fr">Nami lâche un coup de tonnerre pour dégager le passage jusqu'à l'espace de concert. Malheureusement pour elle, les meilleurs Gifters viennent en découdre avec des adversaires clairement inférieurs. O-Tama, agacée mais pas résignée, va hurler un ordre à la cantonade.</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9442626.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331210000 +0200" stop="20230331213000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">One Piece</title>
+<desc lang="fr">Sur l'ordre d'O-Tama, les Gifters s'allient aux samouraïs, provoquant l'ire des Tobi Roppo et autres hauts gradés de Kaido. Souffrant des effets de sa Rumble Ball, Chopper soigne quand même Zoro. Pendant ce temps, de son côté, Jinbe est sous le choc en écoutant l'histoire de Who's Who.</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9442626.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331213000 +0200" stop="20230331220000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Hunter X Hunter</title>
+<desc lang="fr">Kurapika et Leolio sont poursuivis par Hisoka, mais ils parviennent à négocier leur fuite sans dommages. Gon continue à le suivre et attend le bon moment pour lui subtiliser son badge. Seulement, il a totalement oublié qu'il est lui aussi la cible de quelqu'un...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7972331.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331220000 +0200" stop="20230331222500 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Hunter X Hunter</title>
+<desc lang="fr">Kirua en a assez d'être suivi et provoque en duel Imori, tandis que Gon retrouve Kurapika et Léolio, afin de les aider à trouver Ponzu, la cible de Léolio....</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7972331.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331222500 +0200" stop="20230331225000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Hunter X Hunter</title>
+<desc lang="fr">Gon et ses amis sont piégés dans une grotte par des serpents venimeux. Le responsable, Bourbon, est déjà mort et personne ne sait comment déjouer son piège. Leolio est touché gravement, il faut trouver une solution....</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7972331.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331225000 +0200" stop="20230331232000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">Hunter X Hunter</title>
+<desc lang="fr">&quot;Gon et ses amis sont arrivés en finale de l'examen. Cette dernière épreuve est un tournoi aux règles un peu spéciales. Si on tue son adversaire, on est disqualifié. Le premier duel oppose Gon à Hanzo...&quot;</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7972331.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230331232000 +0200" stop="20230401000000 +0200" channel="GameOneplus1.fr">
+<title lang="fr">#Teamg1</title>
+<desc lang="fr">Julien Tellouck sa bande d'experts composées de Marcus, Genius, Kayané, Anh Phan, Newtiteuf et Sora, décryptent pour vous les nouvelles tendances de la culture geek.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7969103.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>

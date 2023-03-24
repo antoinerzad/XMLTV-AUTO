@@ -1,0 +1,174 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230324050000 +0100" stop="20230324053000 +0100" channel="TVE.es">
+<title lang="fr">Culturas 2</title>
+<desc lang="fr">Magacine diario de Lunes a jueves con noticias culturales de actualidad.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<episode-num system="xmltv_ns">0.108.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324053000 +0100" stop="20230324063000 +0100" channel="TVE.es">
+<title lang="fr">UNED</title>
+<desc lang="fr">Programa realizado por la Universidad de Educación a Distancia.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<episode-num system="xmltv_ns">0.621.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324063000 +0100" stop="20230324080000 +0100" channel="TVE.es">
+<title lang="fr">Telediario Matinal</title>
+<desc lang="fr">Espacio de información diaria con noticias nacionales e internacionales.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9F12308DD4B9B0B2EBB5786A66DE8F5B.jpg" />
+<episode-num system="xmltv_ns">0.518.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324080000 +0100" stop="20230324100000 +0100" channel="TVE.es">
+<title lang="fr">La hora de La 1: La hora de la política</title>
+<desc lang="fr">El programa cuenta con con reportajes y entrevistas, dedicados a analizar en profundidad el mundo de la política y la actualidad.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2D02BEC4C1C4117C03A81C1BFB6B8EC3.jpg" />
+<episode-num system="xmltv_ns">0.58.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324100000 +0100" stop="20230324113000 +0100" channel="TVE.es">
+<title lang="fr">La hora de La 1: La hora de la actualidad</title>
+<desc lang="fr">El programa cuenta con con reportajes y entrevistas, dedicados a analizar en profundidad el mundo de la política y la actualidad.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B247BE73F5C76A7EC8E2A665DF2E437F.jpg" />
+<episode-num system="xmltv_ns">0.122.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324113000 +0100" stop="20230324141000 +0100" channel="TVE.es">
+<title lang="fr">Hablando claro</title>
+<desc lang="fr">Un magazín de plató en directo volcado en las noticias de última hora y su análisis.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.140.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324141000 +0100" stop="20230324150000 +0100" channel="TVE.es">
+<title lang="fr">Ahora o nunca</title>
+<desc lang="fr">Ahora o nunca es un magazine presentado por Mónica López. El programa mostrará la riqueza de nuestro país y animará a disfrutarla y conservarla.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<episode-num system="xmltv_ns">0.54.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324150000 +0100" stop="20230324155000 +0100" channel="TVE.es">
+<title lang="fr">Telediario 1</title>
+<desc lang="fr">Espacio diario de información nacional e internacional en directo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BF236206F3A2C0603E88BF29638C6F45.jpg" />
+<episode-num system="xmltv_ns">0.82.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324155000 +0100" stop="20230324163500 +0100" channel="TVE.es">
+<title lang="fr">Saber y ganar</title>
+<desc lang="fr">Programa concurso.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F46A1EDEE91608E581F8FAE714157FC6.jpg" />
+<episode-num system="xmltv_ns">0.559.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324163500 +0100" stop="20230324173500 +0100" channel="TVE.es">
+<title lang="fr">La promesa</title>
+<desc lang="fr">Jana está sola en el mundo y todo es culpa de los Marqueses de Luján, pero ha llegado el momento de vengarse y de encontrar a su hermano. Solo hay un elemento con el que no había contado; Manuel, hijo de los Marqueses de Luján... y la última persona de la que esperaría enamorarse.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E470884C0293D4C27EA966F6030238C9.jpg" />
+<episode-num system="xmltv_ns">0.47.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324173500 +0100" stop="20230324183000 +0100" channel="TVE.es">
+<title lang="fr">Mercado Central</title>
+<desc lang="fr">Serie que narra el dia a dia de un mercado de barrio a punto de ser convertido en un centro comercial, y su lucha por impedirlo.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DC39228ECBE395840344A7365B3F58D4.jpg" />
+<episode-num system="xmltv_ns">0.222.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324183000 +0100" stop="20230324192500 +0100" channel="TVE.es">
+<title lang="fr">El comodín de La 1</title>
+<desc lang="fr">Concurso de cultura general que se enfrentan los concursantes y cuenta con varios comodines que le harán acumular dinero. Contara además de los comodines con una ayuda externa de un familiar o amigo que a base de acertar varias preguntas le servirán al concursante principal acumular mas dinero.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<episode-num system="xmltv_ns">0.113.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324192500 +0100" stop="20230324203000 +0100" channel="TVE.es">
+<title lang="fr">El cazador</title>
+<desc lang="fr">El Cazador, un formato en el que cuatro concursantes anónimos unen sus conocimientos para ganar al cazador, un auténtico profesional de los concursos televisivos. Se trata de un concurso que se ha adaptado en más de 8 países.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D4DC51AD40E220B573E9078FBBF23757.jpg" />
+<episode-num system="xmltv_ns">0.652.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324203000 +0100" stop="20230324210000 +0100" channel="TVE.es">
+<title lang="fr">Aquí la tierra</title>
+<desc lang="fr">Magacine de naturaleza e información meteorológica.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Nature</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F25E89AD4710572F90FD1E2BD8E2DFC8.jpg" />
+<episode-num system="xmltv_ns">0.746.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324210000 +0100" stop="20230324215500 +0100" channel="TVE.es">
+<title lang="fr">Telediario 2</title>
+<desc lang="fr">Programa diario de noticias nacionales e internacionales en directo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/770616CD0A5E49E649EE905C85D59023.jpg" />
+<episode-num system="xmltv_ns">0.82.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324215500 +0100" stop="20230324221500 +0100" channel="TVE.es">
+<title lang="fr">La suerte en tus manos</title>
+<desc lang="fr">Programa dedicado a las actividades de SELAE.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Loterie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/11C1021B97FFBF9375A241A6B34E1215.jpg" />
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324221500 +0100" stop="20230324232000 +0100" channel="TVE.es">
+<title lang="fr">Fuerza de paz</title>
+<desc lang="fr">La sargento Elgueta, en misión de Paz en África, recibe una extraña llamada del sargento primero Hugo Reyes, su novio. Pronto recibe la noticia de que se ha suicidado. Paula sabe que eso es falso: ha sido asesinado. Enfrentada a todos, decidirá averiguar qué verdad esconde su muerte.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Action</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230324232000 +0100" stop="20230325001000 +0100" channel="TVE.es">
+<title lang="fr">Brigada Tech</title>
+<sub-title lang="fr">Altea</sub-title>
+<desc lang="fr">Desde la Comunidad Valenciana descubrimos el metaverso y conocemos a un joven que usa herramientas digitales para predecir el tiempo. Aprendemos cómo el INCIBE lucha contra la ciberdelincuencia y en el Benidorm Fest sometemos a los artistas a un test digital. Todo con Mónica Naranjo como invitada.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sciences et technique</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325001000 +0100" stop="20230325014500 +0100" channel="TVE.es">
+<title lang="fr">Film non communiqué</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0A97C1AB106B6C26F78F41AAA3477C6C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325014500 +0100" stop="20230325060000 +0100" channel="TVE.es">
+<title lang="fr">Noticias 24H</title>
+<desc lang="fr">Información continua 24 horas, nacional e internacional, 365 días al año.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E5AE23F7A3DBCEBB526F75712AFD85EF.jpg" />
+<episode-num system="xmltv_ns">0.82.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

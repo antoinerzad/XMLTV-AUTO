@@ -1,0 +1,383 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230327052400 +0200" stop="20230327061100 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Profession : cavalier.e</title>
+<desc lang="fr">Antoine de Caunes a invité des cavalières et cavaliers, tous unis par la passion du cheval. Ils racontent l'émotion qu'ils ressentent en compagnie de cet animal, ou les points communs entre les différentes disciplines équestres. Réunis sur le plateau pour répondre aux questions de leur hôte, Morgan Barbançon Mestre, cavalière olympique, Gabriel Cortes, de la Garde Républicaine, Pénélope Leprévost, championne olympique, Mario Luraschi, cascadeur équestre, Alex Lutz, comédien et passionné de chevaux, et Coralie Pacaut, jockey.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/811B9A4376C5423F8B8859D0C939FD4E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327061100 +0200" stop="20230327092000 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327092000 +0200" stop="20230327093300 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">L'hebd'Hollywood</title>
+<desc lang="fr">La revue de l'actualité du cinéma US. Sortie salles, festivals, films en préparation ou en tournage : Didier Allouch est notre sentinelle à Hollywood ! Des news ponctuées de rencontres avec les grandes figures du cinéma américain, de belles exclus,...</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F238909399EF1C38DF0C88571C655034.jpg" />
+<episode-num system="xmltv_ns">0.20.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327093300 +0200" stop="20230327103100 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Les sauvages *2019</title>
+<desc lang="fr">A Saint-Etienne, Dounia Nerrouche met la dernière main aux préparatifs du mariage de son fils Slim. Pendant ce temps, à Paris, la campagne du second tour de l'élection présidentielle touche à sa fin. Le charismatique Idder Chaouch fait figure de favori mais également de cible pour les extrémistes de tous bords. Fouad Nerrouche, le fils cadet de Dounia, connaît bien la famille Chaouch. Le jeune homme, acteur star dans une série télévisée populaire, est en effet le petit ami de Jasmine, la fille de l'homme politique. Attendu au mariage de Slim, Fouad hésite longuement. Il ne se résout à y aller que parce qu'il sait son frère aîné Nazir absent, emprisonné pour apologie du terrorisme. Jasmine l'accompagne...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A559B2B859CF0E2DA66A4A100BE4D351.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327103100 +0200" stop="20230327112400 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Les sauvages *2019</title>
+<desc lang="fr">Après la tentative de meurtre contre Idder Chaouch, le président nouvellement élu, la situation politique est tendue. Tandis que Daria et Jasmine sont à l'hôpital, en attente de nouvelles de leur époux et père, Fouad et Krim sont emmenés dans les locaux de la police. Sans avoir eu l'occasion de s'expliquer, Marion Ribheiro, la responsable de la sécurité du président, est mise à pied. Au cours de la nuit, à Saint-Etienne, toute la famille Nerrouche est arrêtée. Nazir est également tiré de sa cellule pour être interrogé. Fouad, qui faisait l'objet d'un suivi des services secrets depuis le début de sa relation avec Jasmine, est rapidement mis hors de cause. Mais le jeune homme a tout perdu en quelques heures...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9454ABB24F2DF4FE732793634EF72D67.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327112400 +0200" stop="20230327121800 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Les sauvages *2019</title>
+<desc lang="fr">Fouad s'est laissé convaincre par Marion de retourner à Saint-Etienne pour y enquêter sur l'implication éventuelle de Nazir dans l'attentat. Les émeutes se multiplient dans la ville après une perquisition dans une mosquée. De son côté, Jasmine apprend dans les médias que le Conseil constitutionnel envisage de lancer une procédure d'empêchement contre son père et d'organiser de nouvelles élections. Contre l'avis de l'équipe de campagne d'Idder, elle intervient pour tenter de bloquer le processus. Après une dispute avec Dounia, Louna décide de se rendre à Paris avec l'espoir de sauver Krim. Si Fouad fait des découvertes sur sa famille, il réalise que sa défiance envers Nazir a peut-être orienté ses investigations sur la mauvaise piste...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0CAF5452954DE613D685931B7979DBDF.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327121800 +0200" stop="20230327131400 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Les sauvages *2019</title>
+<desc lang="fr">Le président Chaouch sort du coma. Si Daria est avant tout préoccupée par la santé de son époux, Jasmine, elle, veut assurer son avenir politique. Elle organise immédiatement le retour à la maison de son père et une rencontre avec le président du Sénat pour mettre un terme à la procédure d'empêchement. A Saint-Etienne, après avoir vu une photo surprenante, Fouad s'interroge sur l'entourage de sa cousine Louna. Il la suit discrètement et découvre que le club de football dans lequel elle s'entraîne plusieurs fois par semaine est lié à un groupuscule extrémiste. En coulisses, Serge Lamiel négocie le maintien du match Saint-Etienne / PSG avec le ministre de l'Intérieur et le préfet...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/59C6CE378EADE6E2F87789F6BBACA72E.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327131400 +0200" stop="20230327140200 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Les sauvages *2019</title>
+<desc lang="fr">Déguisé en pompier, Nazir parvient à quitter la prison, avec la complicité d'un membre du groupuscule d'ultra-droite. Dévasté par la découverte du cancer de sa mère, Fouad, de son côté, tente de se rapprocher d'elle. Mais mère et fils ne semblent plus capables de se parler. Marion, qui n'a plus aucune nouvelle de Fouad depuis plusieurs jours, commence à se méfier de lui. A Paris, Rabia, persuadée qu'elle seule parviendra à faire parler son fils, a obtenu l'autorisation de la justice de le rencontrer. Daria désapprouve la décision de son mari d'assister au match de football. Lorsqu'Idder quitte leur maison, il sait qu'à son retour son épouse l'aura peut-être quitté...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6853BDF088AB018EB07728B2DAD87D23.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327140200 +0200" stop="20230327150300 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Les sauvages *2019</title>
+<desc lang="fr">Prisonnier de son frère, Fouad assiste, impuissant, aux préparatifs de l'attentat. Attéré, il comprend que Nazir s'est allié à l'ultra-droite pour mener son projet criminel à bien. Marion tente d'alerter ses anciens collègues du danger qui plane toujours, mais en vain. Seule, elle sillonne les rues de Saint-Etienne pour retrouver Fouad. Lorsqu'elle rencontre Louna, elle convainc la jeune fille de l'amener jusqu'au local du SN. L'équipe d'Idder Chaouch fête la réussite de la première apparition publique du président qui, sous le regard des caméras, a su s'imposer dans un stade qui ne lui était pas acquis. Jasmine, qui a attendu Fouad en vain, est désespérée. Elle se confie à sa mère...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6D71565000ABC8CC3AD4CD1FFC425079.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327150300 +0200" stop="20230327152900 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">La meilleure version de moi-même</title>
+<desc lang="fr">Voulant régler un problème digestif chronique, l'humoriste Blanche Gardin consulte un naturopathe. Celui-ci lui explique que la véritable cause de son mal est la moquerie qu'elle inflige aux autres et à elle-même. Ce diagnostic est un choc pour Blanche qui annonce à son compagnon, le comique Louis CK, qu'elle va immédiatement renoncer à sa carrière d'humoriste.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E89ED90625E067ADE189B719B517789B.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327152900 +0200" stop="20230327155300 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">La meilleure version de moi-même</title>
+<desc lang="fr">Blanche fait part à sa famille de son décision. Elle se confie aussi à ses amis humoristes et explique à tous les préceptes de la pensée positive qui la guident désormais : être bienveillant avec soi-même et avec les autres. Pour mettre toutes les chances de son côté, soutenue par son assistant personnel, Tintin, elle entame aussi un régime sans gluten.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/95B09255EF50EC832E8095F55C33953C.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327155300 +0200" stop="20230327161600 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">La meilleure version de moi-même</title>
+<desc lang="fr">Les crises intestinales de Blanche continuent. Pour enfin en venir à bout, elle consulte d'autres spécialistes et change à plusieurs reprise de régime alimentaire. Elle commence à partager son expérience sur les réseaux sociaux.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/ED3D1416C1DE441EEAFE6529F30A1EE9.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327161600 +0200" stop="20230327164500 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">La meilleure version de moi-même</title>
+<desc lang="fr">Blanche rencontre des colleuses d'affiches féministes qui lui font prendre conscience du patriarcat qui règne dans la société. C'est une révélation pour Blanche. Elle en parle aussitôt avec son compagnon, Louis, et lui reproche de prendre trop de place dans leur relation, car il est un homme. Afin de se montrer solidaire avec le mouvement, Blanche décide de remplacer sa femme de ménage par un homme à tout faire.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EBC2F91082D84CD5C1004B0CBD5E70DA.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327164500 +0200" stop="20230327171600 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">La meilleure version de moi-même</title>
+<desc lang="fr">Blanche sort bouleversée d'une consultation chez sa psychologue. Elle a en effet découvert qu'elle est &quot;haut potentiel&quot;, ce qui peut expliquer son excessive sensibilité et sa tendance à la solitude. D'autre part, pour trouver une solution à ses problèmes intestinaux, elle rencontre un chamane qui pratique sur elle de la chirurgie spirituelle et la pousse à rompre avec tous les hommes de son entourage.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/612872618A3123804C64404A1424214C.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327171600 +0200" stop="20230327174700 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">La meilleure version de moi-même</title>
+<desc lang="fr">Dans une ferme, perdue en pleine campagne, Blanche anime une réunion réservée aux femmes. Elle propose aux participantes de discuter de leur rapport à la féminité, de renouer contact avec les autres et aussi avec la nature. Afin de se mettre dans de bonnes dispositions, le groupe débute le séjour avec un jeûne.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/72D12EF45188F11F36F4797EF3091FF4.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327174700 +0200" stop="20230327180600 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">La meilleure version de moi-même</title>
+<desc lang="fr">Le groupe des femmes se réveille affamé et frigorifié : la cheminée de la maison ne fonctionne pas. Blanche fait appel à un ramoneur. L'irruption de cet homme dans une retraite exclusivement féminine vient perturber l'esprit de sororité que Blanche tente de maintenir avec beaucoup d'autorité. De son côté, Nadine a bien du mal à suivre le rythme de ses consoeurs.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A90EA015D20892972D9D70CCA62DB687.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327180600 +0200" stop="20230327183100 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">La meilleure version de moi-même</title>
+<desc lang="fr">Après une analyse de son ADN faite aux Etats-Unis, Blanche découvre qu'elle a des ancêtres navajos. Une information qu'elle s'empresse de partager avec ses &quot;followers&quot;. Louis s'inquiète que Blanche ne se nourrisse plus que de lumière, prônant sur sa chaîne l'abandon complet des aliments solides. Il est encore plus troublé par la nouvelle annonce que lui fait Blanche.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E3B1DE778E68D72B513A650BBD1575B7.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327183100 +0200" stop="20230327191600 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">La meilleure version de moi-même</title>
+<desc lang="fr">Voici enfin le jour où se tient la cérémonie de mariage, un peu particulière, de Blanche. Elle a invité ses amis et sa famille à l'événement. Louis a accepté de faire garçon d'honneur, à distance. Inquiété par le comportement de Blanche depuis quelques mois, il interpelle les invités pour qu'ils l'aident. Il demande notamment le soutien de la mère de Blanche.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F630ED2C2623348A3F715F520F8158FA.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327191600 +0200" stop="20230327201100 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Le bureau des légendes</title>
+<desc lang="fr">A Moscou, Malotru alias Pavel se rend au siège du FSB pour son premier jour de travail en tant qu'analyste. Il rencontre ses collègues et apprend qu'il va devoir prêter main forte aux Russes sur les territoires où la France est présente. Il retrouve aussi Svetlana à qui il assure qu'il ne veut plus entendre parler de la DGSE, malgré les efforts de ces derniers pour entrer en contact avec lui. Pendant ce temps, Raymond Sisteron est envoyé au Caire tandis que Sylvain, toujours retenu prisonnier, reçoit la visite du FSB...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DAECE4DFE3532D942A39812D5F782612.jpg" />
+<episode-num system="xmltv_ns">4.2.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327201100 +0200" stop="20230327210300 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Le bureau des légendes</title>
+<desc lang="fr">Alors que Nadia est bouleversée d'apprendre la mort de Malotru dans les médias, à Moscou, Pavel est mis sous surveillance. La DGSE espère encore entrer en contact avec lui mais le FSB commence à avoir des doutes. Pendant ce temps à Paris, JJA commence à s'interroger sur la fiabilité de son plan et la loyauté de Malotru tandis que Marina Loiseau interroge Andrea Tassone au sujet des Iraniens...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/18B71EADDEE034DD5AE2F2F134285538.jpg" />
+<episode-num system="xmltv_ns">4.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327210300 +0200" stop="20230327214700 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Brassic</title>
+<sub-title lang="fr">Perdu dans la forêt</sub-title>
+<desc lang="fr">Ce qui devait être une sympathique excursion en camping dans les bois vire au cauchemar lorsque la bande se retrouve complètement perdue. A la nuit tombée, Tommo souffre des effets violents de la consommation de baies sauvages, tandis que Dylan est pris d'une crise de paranoïa après quelques lignes de coke. Cardi, elle, s'est blessée à la cheville et avance en boitant. Alors que la tension monte entre eux, ils entendent des bruits étranges et paniquent en pensant qu'ils ne sont peut-être seuls dans cette forêt...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A2C723163E865CBD676523A2010B3AE8.jpg" />
+<episode-num system="xmltv_ns">3.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327214700 +0200" stop="20230327223500 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Brassic</title>
+<sub-title lang="fr">Le zoo</sub-title>
+<desc lang="fr">Davey McDonagh invite Vinnie, Dylan et Tommo à une grande fête chez son distributeur, un excentrique amateur d'animaux appelé Manolito. Lorsque celui-ci offense Vinnie, la bande décide de se venger en pillant son zoo exotique. Mais il n'est pas simple de déplacer un tas de bêtes qui crient. Les choses se compliquent un peu plus encore lorsque Davey McDonagh découvre le pot aux roses...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6BC3E37AE9F7FA2E975C810788A99453.jpg" />
+<episode-num system="xmltv_ns">3.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230327223500 +0200" stop="20230327230200 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Dave (aka Lil Dicky)</title>
+<sub-title lang="fr">International Gander</sub-title>
+<desc lang="fr">Dave prépare une vidéo qui devrait lui permettre de connaître le succès à l'international. Il doit pourtant revoir ses ambitions à la baisse et faire face à la réalité quand son projet crée un incident à l'échelle mondiale.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1CDCB6A04D0F7D9C532C39E112FBA9F9.jpg" />
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230327230200 +0200" stop="20230327233000 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Dave (aka Lil Dicky)</title>
+<sub-title lang="fr">Antsy</sub-title>
+<desc lang="fr">De retour chez lui, Dave fait de son mieux pour rester créatif, mais de multiples distractions le détournent de son projet initial. Il revoit Ally pour la première fois depuis leur rupture.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DD26EDA5AF9156506EA928BA2EF15F5E.jpg" />
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230327233000 +0200" stop="20230328000000 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Dave (aka Lil Dicky)</title>
+<sub-title lang="fr">The Observer</sub-title>
+<desc lang="fr">Plutôt que de travailler sur l'album, Dave et Benny s'amusent. Lorsque Dave propose à GaTa et Tone de les rejoindre, les deux hommes sont confrontés aux privilèges que leur confère leur statut de mâles blancs. Pendant ce temps, Mike se retrouve seul et confronté aux critiques d'un observateur anonyme.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C6C06D6119E53E2796E65793A7F4C90C.jpg" />
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230328000000 +0200" stop="20230328003100 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Dave (aka Lil Dicky)</title>
+<sub-title lang="fr">Kareem Abdul-Jabbar</sub-title>
+<desc lang="fr">Dave est ravi de retrouver Ally. Il apprend par ailleurs que le basketteur Kareem Abdul-Jabbar, figure mythique de la NBA, a entendu un de ses titres et souhaite le rencontrer. Ravi à l'idée de cette opportunité, le rappeur se demande comment passer pour quelqu'un de bien aux yeux de son idole. Quant à Mike, il a pour nouveaux clients les StoneBrothers, un duo célèbre pour ses caméras cachées sur TikTok.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0685589EBD50468BB18CAE15B7DC6289.jpg" />
+<episode-num system="xmltv_ns">1.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230328003100 +0200" stop="20230328012500 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Le bureau des légendes</title>
+<desc lang="fr">A Moscou, Malotru alias Pavel se rend au siège du FSB pour son premier jour de travail en tant qu'analyste. Il rencontre ses collègues et apprend qu'il va devoir prêter main forte aux Russes sur les territoires où la France est présente. Il retrouve aussi Svetlana à qui il assure qu'il ne veut plus entendre parler de la DGSE, malgré les efforts de ces derniers pour entrer en contact avec lui. Pendant ce temps, Raymond Sisteron est envoyé au Caire tandis que Sylvain, toujours retenu prisonnier, reçoit la visite du FSB...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/32678DF68CA26ACA537CBCE0563C45B6.jpg" />
+<episode-num system="xmltv_ns">4.2.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230328012500 +0200" stop="20230328021600 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Le bureau des légendes</title>
+<desc lang="fr">Alors que Nadia est bouleversée d'apprendre la mort de Malotru dans les médias, à Moscou, Pavel est mis sous surveillance. La DGSE espère encore entrer en contact avec lui mais le FSB commence à avoir des doutes. Pendant ce temps à Paris, JJA commence à s'interroger sur la fiabilité de son plan et la loyauté de Malotru tandis que Marina Loiseau interroge Andrea Tassone au sujet des Iraniens...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/18B71EADDEE034DD5AE2F2F134285538.jpg" />
+<episode-num system="xmltv_ns">4.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230328021600 +0200" stop="20230328022800 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Calls</title>
+<sub-title lang="fr">16/11/2028 Enregistrement téléphonique (Paris - New York)</sub-title>
+<desc lang="fr">Plusieurs enregistrements sonores, qu'ils proviennent de cassettes de magnétophones, de messages de répondeurs, d'appels aux services d'urgence ou des boîtes noires d'avions, témoignent d'événements dramatiques, qui se sont produits à des époques différentes. Tous annoncent une catastrophe inévitable. Ainsi, alors que Lucie est à New York, elle appelle Tom, son petit ami, qui se trouve à Paris. Retour sur leurs échanges téléphoniques, quelques heures avant le cataclysme...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6FEFF40F395CF9B77153FD2C3373B147.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230328022800 +0200" stop="20230328024000 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Calls</title>
+<sub-title lang="fr">2026 - Masques faciaux de plongées (Océan Atlantique)</sub-title>
+<desc lang="fr">Au cours d'une exploration sous-marine, les plongeurs communiquent grâce à des masques faciaux. Un enregistrement a été retrouvé, qui raconte comment cinq personnes passionnées du grand bleu ont disparu sans laisser de trace, après avoir découvert une grotte qui n'apparaissait sur aucun radar...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0A2951173B6D6E17CB1F10788117C620.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230328024000 +0200" stop="20230328025200 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Calls</title>
+<sub-title lang="fr">2004 - Appel enregistré 17 (Nancy)</sub-title>
+<desc lang="fr">Une jeune femme appelle la police pour signaler qu'un individu au comportement étrange se trouve devant sa porte. Peu après, ses inquiétudes se confirment : l'homme force sa porte d'entrée et pénètre dans son logement. La police lui annonce alors qu'une voiture sera à son domicile sept minutes plus tard. Ces minutes seront certainement les plus longues de toute l'existence de cette jeune femme, qui se raccroche à l'espoir que la police arrive chez elle à temps...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5DE2077EC1A77520C38A5AE02DFF0BB7.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230328025200 +0200" stop="20230328030800 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Calls</title>
+<sub-title lang="fr">2027 - Sources multiples (Servon, France)</sub-title>
+<desc lang="fr">Dans la maison d'une famille très chrétienne, Gabriel, 12 ans, réunit quelques amis avec lesquels il s'amuse à invoquer des esprits. Il ignore que ce petit jeu va se transformer en cauchemar : l'adolescent attire une entité démoniaque qui se fait passer pour Dieu auprès de son père, pasteur...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5EC442B67D612C4DE6CD70D0FB6DC0C2.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328030800 +0200" stop="20230328031900 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Calls</title>
+<sub-title lang="fr">11-16/11/2028 répondeurs téléphoniques (Paris)</sub-title>
+<desc lang="fr">Maxime se retrouve inculpé pour homicide volontaire. Pourtant, il clame son innocence et affirme n'avoir commis aucun crime. Pour découvrir la vérité, les enquêteurs écoutent les répondeurs téléphoniques des personnes impliquées dans cette affaire. Il faut réunir tous les éléments pour reconstituer les événements qui se sont déroulés la nuit du crime...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/62537C7A182CD8E9ACE449F0C35D0FC5.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328031900 +0200" stop="20230328033000 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Calls</title>
+<sub-title lang="fr">16/11/2028 Prises son d'un long-métrage (Forêt Domaniale d'Orléans)</sub-title>
+<desc lang="fr">Des fichiers &quot;son&quot; viennent d'être retrouvés. Ils concernent le tournage d'un long métrage qui n'est finalement jamais sorti en salles. Dans une prise longue sans aucune coupure, l'équipe technique et les comédiens ont totalement disparu...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EB17F0D041A8404AB214061CC4672C4C.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230328033000 +0200" stop="20230328034400 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Calls</title>
+<sub-title lang="fr">16/11/2028 Archives NASA (ISS)</sub-title>
+<desc lang="fr">Au cours d'une sortie orbitale qui a pour but de réparer un satellite de l'ISS, deux astronautes voient leur mission s'écourter. En effet, ils se retrouvent confrontés à un problème auquel personne n'a jamais été préparé...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/ACD302421746077B8AD8007749FA6B4E.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328034400 +0200" stop="20230328035400 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Calls</title>
+<sub-title lang="fr">2027 Transmissions talkie walkie (Magicland)</sub-title>
+<desc lang="fr">Les discussions par talkie-walkie d'un grand parc d'attractions permettent de comprendre que quelque chose ne va pas. Rapidement, une employée, censée revêtir un déguisement de souris, est retrouvée inconsciente dans les toilettes. Qui a assassiné cette femme, et surtout : qui se promène désormais dans son déguisement ?...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CFA333B9D8A3496A4B30701DEEA7CDBA.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230328035400 +0200" stop="20230328040600 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Calls</title>
+<sub-title lang="fr">2025 Boîte noire (Boeing 747)</sub-title>
+<desc lang="fr">La boîte noire d'un avion qui a totalement disparu de la circulation, sans laisser de traces.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/576CCC52CDED475B5C10DE8C7AE533DC.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230328040600 +0200" stop="20230328042000 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Calls</title>
+<sub-title lang="fr">1999 Sources multiples (Lieu inconnu / France)</sub-title>
+<desc lang="fr">Après un accident qui a failli lui coûter la vie, Marie, 6 ans, sort de son corps et va avoir un aperçu de ce qu'il y a après la mort. Ses parents, chercheurs dans le domaine de l'au-delà, décident de lui faire vivre des Expériences de Mort Imminente afin de faire avancer leurs recherches...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/52F3A5D991FCD1AFEA41A94170ABE7C9.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230328042000 +0200" stop="20230328044300 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">&quot;Calls&quot;, le making of</title>
+<desc lang="fr">Le documentaire revient sur l'origine de la création de &quot;Calls&quot;, une série inédite et sans images, dont il explore également les coulisses.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8154BD758DBD1F190AB8D05D4C0A0A89.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328044300 +0200" stop="20230328054000 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Les Paris du globe-cooker</title>
+<sub-title lang="fr">Les Ashkénazes et les Séfarades</sub-title>
+<desc lang="fr">Après avoir goûté aux délices du monde entier, Fred Chesneau a décidé de poser son sac à Paris et d'arpenter la capitale à la découverte des traditions culinaires de douze communautés étrangères installées dans la capitale. Le globe-cooker part cette fois à la rencontre des Ashkénazes dont les influences culinaires sont à chercher du côté de l'Europe centrale, en Allemagne de l'ouest et du sud et des Séfarades, dont les recettes fleurent bon le Moyen-Orient et l'Afrique du Nord.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5A234B9323250C572B27AC777784D499.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328054000 +0200" stop="20230328085700 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

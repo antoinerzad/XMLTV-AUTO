@@ -1,0 +1,202 @@
+<!-- racacax\XmlTv\Component\Provider\SFR -->
+<programme start="20230323012500 +0100" stop="20230323013500 +0100" channel="KabelEins.de">
+<title lang="fr">Watch Me - das Kinomagazin</title>
+<sub-title lang="fr">das Kinomagazin</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/7/7/2459775.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323013500 +0100" stop="20230323014000 +0100" channel="KabelEins.de">
+<title lang="fr">Kabel Eins Late News</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/8/7/5392786.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323014000 +0100" stop="20230323035000 +0100" channel="KabelEins.de">
+<title lang="fr">Matrix Reloaded</title>
+<desc lang="fr">Un homme doit empêcher des centaines de milliers d'êtres mystérieux d'accomplir leur funeste projet : exterminer la vie humaine de la surface de la Terre.</desc>
+<category lang="fr">Film de science fiction</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/2/1/5831129.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323035000 +0100" stop="20230323035500 +0100" channel="KabelEins.de">
+<title lang="fr">Kabel Eins Late News</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/8/7/5392786.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323035500 +0100" stop="20230323055500 +0100" channel="KabelEins.de">
+<title lang="fr">Matrix Revolutions</title>
+<desc lang="fr">Le monde souterrain de Zion est menacé par les Machines. L'unique espoir de l'humanité réside dans l'Elu, qui seul détient le pouvoir de changer le destin.</desc>
+<category lang="fr">Film de science fiction</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/2/5759238.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323055500 +0100" stop="20230323064000 +0100" channel="KabelEins.de">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Des enfants pas comme les autres</sub-title>
+<desc lang="fr">L'unité Scorpion se lance à la recherche d'un enfant qui a disparu après qu'il a eu une altercation avec un homme qui s'avère être un criminel.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/9/5757954.jpg" />
+<episode-num system="xmltv_ns">2.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323064000 +0100" stop="20230323073000 +0100" channel="KabelEins.de">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Chauve qui peut !</sub-title>
+<desc lang="fr">Toute l'équipe explore un vaste réseau souterrain pour localiser une espèce de chauve-souris qui menace la biodiversité en Amérique du Nord.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/9/5757954.jpg" />
+<episode-num system="xmltv_ns">2.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323073000 +0100" stop="20230323083000 +0100" channel="KabelEins.de">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Votez Scorpion !</sub-title>
+<desc lang="fr">Le jour de l'élection présidentielle, les agents de Scorpion sont appelés à la rescousse : quelqu'un tente de se servir du scrutin pour déstabiliser le pays.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/9/5757954.jpg" />
+<episode-num system="xmltv_ns">2.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323083000 +0100" stop="20230323092500 +0100" channel="KabelEins.de">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Une balade irlandaise</sub-title>
+<desc lang="fr">Quand l'équipe Scorpion se rend en Irlande, Walter découvre que tout un village risque d'être envahi par un nuage toxique, né au-dessus d'un lac.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/9/5757954.jpg" />
+<episode-num system="xmltv_ns">2.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323092500 +0100" stop="20230323102000 +0100" channel="KabelEins.de">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Le dossier Veronica</sub-title>
+<desc lang="fr">La mère de Paige fait appel à l'équipe Scorpion lorsqu'elle découvre par hasard qu'un réacteur nucléaire est peut-être sur le point d'exploser.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/9/5757954.jpg" />
+<episode-num system="xmltv_ns">2.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323102000 +0100" stop="20230323111500 +0100" channel="KabelEins.de">
+<title lang="fr">Elementary</title>
+<sub-title lang="fr">Improbable Cassie</sub-title>
+<desc lang="fr">Watson et Holmes retrouvent sur leur perron Cassie Lenue, une mythomane suspecte dans une de leurs anciennes enquêtes qui leur demande un service.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/5/9/5766953.jpg" />
+<episode-num system="xmltv_ns">6.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323111500 +0100" stop="20230323121000 +0100" channel="KabelEins.de">
+<title lang="fr">Elementary</title>
+<sub-title lang="fr">Le doux parfum de l'herbe</sub-title>
+<desc lang="fr">Après le meurtre d'un sculpteur à New York, Holmes et Watson cherchent à déterminer si un tueur en série, endormi depuis longtemps, n'aurait pas refait surface.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/5/9/5766953.jpg" />
+<episode-num system="xmltv_ns">6.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323121000 +0100" stop="20230323130500 +0100" channel="KabelEins.de">
+<title lang="fr">Elementary</title>
+<sub-title lang="fr">Trash Panda</sub-title>
+<desc lang="fr">Odin Reichenbach se rend chez Holmes et Watson avec une proposition : il pense agir envers un universitaire dépossédé de son travail, prêt à tuer son accusateur.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/5/9/5766953.jpg" />
+<episode-num system="xmltv_ns">6.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323130500 +0100" stop="20230323140000 +0100" channel="KabelEins.de">
+<title lang="fr">Elementary</title>
+<sub-title lang="fr">Le sang bleu des Limules</sub-title>
+<desc lang="fr">Sherlock pense que le suicide apparent d'un homme qu'Odin Reichenbach voulait éliminer est un coup monté pour valider sa théorie. Il commence donc à reprendre certains dossiers.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/5/9/5766953.jpg" />
+<episode-num system="xmltv_ns">6.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323140000 +0100" stop="20230323145500 +0100" channel="KabelEins.de">
+<title lang="fr">Elementary</title>
+<sub-title lang="fr">La chute</sub-title>
+<desc lang="fr">Le corps de Morland est retrouvé dans une voiture qui explose lorsque la police vient l'examiner. Mais Sherldock trouve un morceau de montre dans les débris.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/5/9/5766953.jpg" />
+<episode-num system="xmltv_ns">6.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323145500 +0100" stop="20230323155000 +0100" channel="KabelEins.de">
+<title lang="fr">Castle</title>
+<sub-title lang="fr">Meurtre dans les Hamptons</sub-title>
+<desc lang="fr">Castle et Beckett se rendent dans les Hamptons pour passer un week-end romantique. Mais le corps d'un homme sans vie est retrouvé dans la piscine de la villa.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/9/8/5789895.jpg" />
+<episode-num system="xmltv_ns">4.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323155000 +0100" stop="20230323160000 +0100" channel="KabelEins.de">
+<title lang="fr">News</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/4/9/6679941.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323160000 +0100" stop="20230323165500 +0100" channel="KabelEins.de">
+<title lang="fr">Castle</title>
+<sub-title lang="fr">Sans doute possible</sub-title>
+<desc lang="fr">Beckett et son équipe enquêtent sur un meurtre rituel. A leur grande surprise, tous les indices désignent Castle comme étant l'auteur de ce crime.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/9/8/5789895.jpg" />
+<episode-num system="xmltv_ns">4.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323165500 +0100" stop="20230323175500 +0100" channel="KabelEins.de">
+<title lang="fr">Abenteuer Leben täglich</title>
+<sub-title lang="fr">Cheap Trip - New Yorks billigstes Food</sub-title>
+<desc lang="fr">Jackie Giebel ist eine der erfolgreichsten Food-Bloggerinnen New Yorks. Besonders beliebt sind ihre Internet-Blogs, wenn es um die günstigsten Happen des Big Apples geht. Jackie verrät, wo es die saftigsten Burger, die leckersten Pasta-Gerichte und die besten Steaks für den kleinen Geldbeutel gibt. Und: GoG Bratwurst Hähnchen</desc>
+<category lang="fr">Magazine de l'art de vivre</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/6/5800654.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323175500 +0100" stop="20230323185500 +0100" channel="KabelEins.de">
+<title lang="fr">Mein Lokal, Dein Lokal - Der Profi kommt</title>
+<sub-title lang="fr">&quot;Zur Zweere&quot;, Willingen (Upland)</sub-title>
+<desc lang="fr">Am vorletzten Tag lädt Thorsten als Geschäftsinhaber und Koch zu sich ein. Mit einer gutbürgerlichen regionalen Küche auf hohem Niveau ist er bereit, seine Gäste um den Finger zu wickeln. Das eingesessene Lokal wird bereits in dritter Generation von der Familie geführt. Werden Tradition und Erfahrung dafür sorgen, sich gegenüber der Konkurrenz zu behaupten?</desc>
+<category lang="fr">Documentaire</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/5/6/5800650.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323185500 +0100" stop="20230323201500 +0100" channel="KabelEins.de">
+<title lang="fr">Achtung Kontrolle! Wir kümmern uns drum</title>
+<sub-title lang="fr">Unterwegs mit der Bundespolizei an der deutsch-tschechischen Grenze</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/6/8/5800862.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323201500 +0100" stop="20230323222000 +0100" channel="KabelEins.de">
+<title lang="fr">Achtung Abzocke - Betrügern auf der Spur</title>
+<sub-title lang="fr">Betrügern auf der Spur</sub-title>
+<desc lang="fr">Fallen lauern überall: Weltweit agierende Internetbetrüger locken ihre Kunden mit Fake-Shops in die Falle und bringen sie um ihr sauer verdientes Geld, Handwerker zocken ihre Kunden mit Wucherpreisen ab und auch im Urlaub wird man gerne mal über den Tisch gezogen - aber zum Glück gibt es ja Peter Giesel. Er und sein Team helfen den Opfern und versuchen, das eigentlich Unmögliche möglich zu machen, nämlich die Betrüger aufzuspüren und zur Rechenschaft zu ziehen.</desc>
+<category lang="fr">Documentaire de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/2/6637237.jpg" />
+<episode-num system="xmltv_ns">18.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323222000 +0100" stop="20230323232500 +0100" channel="KabelEins.de">
+<title lang="fr">K1 Magazin</title>
+<sub-title lang="fr">Bares für Gebrauchtes: Welche Online-Plattform bringt am meisten Geld?</sub-title>
+<desc lang="fr">Auf Secondhand-Plattformen wie Momox, Rebuy &amp; Co.können Gebrauchtwaren zu Geld gemacht werden. Doch wo geht das am einfachsten und auf welcher Plattform bekommt man am meisten Geld? Peter Giesel und das &quot;K1 Magazin&quot; finden es heraus und geben wichtige Tipps für den Verkauf. Und: Ordnung muss sein: Wenn das Chaos über den Kopf wächst / Wohin mit dem Müll? Die wichtigsten Tipps zu unserem Abfall</desc>
+<category lang="fr">Magazine de l'art de vivre</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/8/4/6526487.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323232500 +0100" stop="20230324011500 +0100" channel="KabelEins.de">
+<title lang="fr">Deutschlands größte Geheimnisse</title>
+<sub-title lang="fr">Die erstaunlichsten 13</sub-title>
+<desc lang="fr">Deutschland steckt voller Geheimnisse: Ob Bunkeranlagen, Geheimbünde, Schauplätze rätselhafter Rituale, Festungen mit geheimen Gängen oder Hitlers geheime Projekte im Zweiten Weltkrieg - vieles ist längst in Vergessenheit geraten. Die Rankingshow ist geheimen Orten und außergewöhnlichen Geschichten und Menschen unseres eigenen Landes auf der Spur. Zahlreiche Prominente raten mit.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/9/3/7000391.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

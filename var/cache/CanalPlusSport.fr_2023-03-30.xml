@@ -1,0 +1,204 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230330041100 +0200" stop="20230330072600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330072600 +0200" stop="20230330082500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Late Sport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EF631D16B1E186486BA50A0587BE97E2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330082500 +0200" stop="20230330105700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Le 5e tour</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D7BB12002AE4BD5AE47AC046ED459B5F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330105700 +0200" stop="20230330124100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E3D7470B26E65770364C40DBE9308764.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330124100 +0200" stop="20230330130400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fractionné Rugby</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3AE9C94612EC6382F85976E2607B8A86.jpg" />
+<episode-num system="xmltv_ns">0.53.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330130400 +0200" stop="20230330144600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 5e journée. Moana Pasifika / Hurricanes.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FD34DC8C821AEECAD2CAFBAA03FD5D95.jpg" />
+<episode-num system="xmltv_ns">0.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330144600 +0200" stop="20230330162800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 5e journée. Waratahs / Chiefs.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FD34DC8C821AEECAD2CAFBAA03FD5D95.jpg" />
+<episode-num system="xmltv_ns">0.13.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330162800 +0200" stop="20230330172500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf+, le mag</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/ABF8F030C17EC05DC74AB2D0C63934F6.jpg" />
+<episode-num system="xmltv_ns">0.27.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330172500 +0200" stop="20230330181600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rallye : WRC, Rallye du Mexique</title>
+<desc lang="fr">Championnat du monde des rallyes 2023. Rallye du Mexique.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rallye</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8F233A98FD424B78D3CD3E523F50F5F8.jpg" />
+<episode-num system="xmltv_ns">0.64.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330181600 +0200" stop="20230330183700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fractionné Rugby</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F08BD5BDF5E9FCCFAA39AB20ED12A14B.jpg" />
+<episode-num system="xmltv_ns">0.53.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330183700 +0200" stop="20230330202000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023. 25e journée. Grenoble / Oyonnax.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0CCAE31914A0DA373EC3E257208E761A.jpg" />
+<episode-num system="xmltv_ns">0.194.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330202000 +0200" stop="20230330205000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Jour de rugby Pro D2 débrief</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5E5AF9AFED65E773B6A95E276C4D87FE.jpg" />
+<episode-num system="xmltv_ns">0.22.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330205000 +0200" stop="20230330210000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Avant-match Pro D2</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A4E4F49F10B995155EB66E4234D29625.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330210000 +0200" stop="20230330225500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023. 26e journée. Colomiers / Mont-de-Marsan.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/89DCD923BCC916E69B1A703550775DF5.jpg" />
+<episode-num system="xmltv_ns">0.205.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330225500 +0200" stop="20230331010100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Open du Texas</title>
+<desc lang="fr">Circuit américain 2022/2023. Open du Texas.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EC2B28D8339AF1F9F3C6F9BB574BF9B4.jpg" />
+<episode-num system="xmltv_ns">0.130.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331010100 +0200" stop="20230331023900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Seve : The Untold Story of Seve Ballesteros</title>
+<desc lang="fr">Seve Ballesteros était un artiste, un Picasso golfeur, un combattant, contre les blessures, ses rivaux et le cancer. Il reste une légende. C'est son histoire racontée par ses proches, des grands sportifs et dans ses propres mots via du matériel nouvellement déterré. Retour sur la carrière prolifique de ce sportif disparu en 2011 et considéré comme l'un des plus grands golfeurs de l'histoire. </desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/71867EC252BCCA0D8196494C6F5A5D41.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331023900 +0200" stop="20230331024300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Conseils Golf</title>
+<sub-title lang="fr">Arnaud : Stratégie de parcours</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/25B50CE05374071E7B7589CE5CAEFCDF.jpg" />
+<episode-num system="xmltv_ns">0.31.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331024300 +0200" stop="20230331024900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Zapsport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F7E27A26F28C4C1AEBED8A16D1BA9428.jpg" />
+<episode-num system="xmltv_ns">0.148.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331024900 +0200" stop="20230331032000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Grand Prix</title>
+<sub-title lang="fr">Grand Prix d'Arabie Saoudite</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1629A7BAA8C4FD22819571C8CE6A8D8D.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331032000 +0200" stop="20230331044000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix d'Australie</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix d'Australie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/ADD57D7FEFDC3744EB088CCB6579A2C0.jpg" />
+<episode-num system="xmltv_ns">0.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331044000 +0200" stop="20230331045800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fractionné F1</title>
+<sub-title lang="fr">ITW Jacques Laffite</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BE78FA76ECDA2CA121BF4497842DA9D3.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331045800 +0200" stop="20230331053300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 3 : Grand Prix d'Australie</title>
+<desc lang="fr">Championnat FIA 2023. Grand Prix d'Australie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 3</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F568AFB874F204BB1B02F352CB78E744.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331053300 +0200" stop="20230331065300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FE94A7D93AAD8E38CC5F134073111ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

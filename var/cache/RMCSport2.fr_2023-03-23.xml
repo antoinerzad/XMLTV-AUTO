@@ -1,0 +1,106 @@
+<!-- racacax\XmlTv\Component\Provider\SFR -->
+<programme start="20230323023000 +0100" stop="20230323053000 +0100" channel="RMCSport2.fr">
+<title lang="fr">MMA : UFC</title>
+<desc lang="fr">Diffusion de combats de MMA, un sport extrême venu d'Outre-Atlantique et fusion de plusieurs arts martiaux.</desc>
+<category lang="fr">Sports de combat</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/7/4/7039475.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230323053000 +0100" stop="20230323060000 +0100" channel="RMCSport2.fr">
+<title lang="fr">Pépite RMC Sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire sportif</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/5/5757560.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323060000 +0100" stop="20230323070000 +0100" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde WBA</title>
+<desc lang="fr">Suivez des combats du Championnat du monde de la WBA, une des principales fédérations mondiales de boxe.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/6/6831660.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323070000 +0100" stop="20230323100000 +0100" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde IBA</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/2/2/6683228.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323100000 +0100" stop="20230323130000 +0100" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde WBC</title>
+<desc lang="fr">Suivez des combats de boxe se disputant dans le cadre du Championnat du monde organisé pa la WBC.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/1/4/6984410.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323130000 +0100" stop="20230323140000 +0100" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde IBF</title>
+<desc lang="fr">Suivez les combats du Championnat du monde de boxe IBF.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/4/6960415.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323140000 +0100" stop="20230323150000 +0100" channel="RMCSport2.fr">
+<title lang="fr">Premier Boxing Champions</title>
+<desc lang="fr">Diffusion du Premier Boxing Champions, une réunion de combats de boxe.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/8/3/6308386.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323150000 +0100" stop="20230323151500 +0100" channel="RMCSport2.fr">
+<title lang="fr">Pépite RMC Sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire sportif</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/5/5757560.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323151500 +0100" stop="20230323181500 +0100" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde IBF</title>
+<desc lang="fr">Suivez les combats du Championnat du monde de boxe IBF.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/4/6960415.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323181500 +0100" stop="20230323183000 +0100" channel="RMCSport2.fr">
+<title lang="fr">Pépite RMC Sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire sportif</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/5/5757560.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323183000 +0100" stop="20230323193000 +0100" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde WBC</title>
+<desc lang="fr">Suivez des combats de boxe se disputant dans le cadre du Championnat du monde organisé pa la WBC.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/8/6863821.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323193000 +0100" stop="20230323203000 +0100" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde IBF</title>
+<desc lang="fr">Suivez les combats du Championnat du monde de boxe IBF.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/4/6960415.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323203000 +0100" stop="20230323213000 +0100" channel="RMCSport2.fr">
+<title lang="fr">MMA : UFC</title>
+<desc lang="fr">Diffusion de combats de MMA, un sport extrême venu d'Outre-Atlantique et fusion de plusieurs arts martiaux.</desc>
+<category lang="fr">Sports de combat</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/7/4/7039476.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230323213000 +0100" stop="20230323223000 +0100" channel="RMCSport2.fr">
+<title lang="fr">MMA : UFC</title>
+<desc lang="fr">Diffusion de combats de MMA, un sport extrême venu d'Outre-Atlantique et fusion de plusieurs arts martiaux.</desc>
+<category lang="fr">Sports de combat</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/6/8/5757869.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230323223000 +0100" stop="20230324010000 +0100" channel="RMCSport2.fr">
+<title lang="fr">MMA : Soirée spéciale Christian Mbili vs Carlos Gongora</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine sportif</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/2/2/6569222.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

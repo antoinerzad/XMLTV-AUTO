@@ -1,0 +1,40 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230324225600 +0100" stop="20230325011700 +0100" channel="CanalPlusGrandEcran.fr">
+<title lang="fr">Minority Report</title>
+<desc lang="fr">En 2054, une unité de police parvient à localiser les criminels avant qu'ils n'agissent. Un jour, son propre chef est désigné comme le prochain tueur.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Sc.Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_9335790.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230325011700 +0100" stop="20230325034800 +0100" channel="CanalPlusGrandEcran.fr">
+<title lang="fr">Zero Dark Thirty</title>
+<desc lang="fr">Après le 11-Septembre, les forces spéciales américaines se déploient pour retrouver Oussama Ben Laden, ennemi public numéro un, jusqu'à l'assaut final.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_11906746.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230325034800 +0100" stop="20230325040900 +0100" channel="CanalPlusGrandEcran.fr">
+<title lang="fr">Par ici les sorties</title>
+<desc lang="fr">Magazine du cinéma.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9813097.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325040900 +0100" stop="20230325055900 +0100" channel="CanalPlusGrandEcran.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Autre.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11041284.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325055900 +0100" stop="20230325073300 +0100" channel="CanalPlusGrandEcran.fr">
+<title lang="fr">Ma femme est une actrice</title>
+<desc lang="fr">Les affreux doutes d'un journaliste sportif quant à la fidélité de sa femme, qui exerce le métier parfois délicat, mais passionnant, d'actrice de cinéma.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_9813248.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

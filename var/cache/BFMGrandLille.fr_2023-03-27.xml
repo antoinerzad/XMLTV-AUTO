@@ -1,0 +1,57 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230327040000 +0200" stop="20230327063000 +0200" channel="BFMGrandLille.fr">
+<title lang="fr">Nord week-end</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F95F81A3347F4EAAE6A345572DE9D424.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327063000 +0200" stop="20230327120000 +0200" channel="BFMGrandLille.fr">
+<title lang="fr">Bonjour le Nord</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/387244F2021C1E7C56A40163AD491C54.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327120000 +0200" stop="20230327170000 +0200" channel="BFMGrandLille.fr">
+<title lang="fr">Le 12-17</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BD7A449617776C51B88C8120AB47FE33.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327170000 +0200" stop="20230327190000 +0200" channel="BFMGrandLille.fr">
+<title lang="fr">Bonsoir le Nord</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A24DFDE96C4F9DCE2CBA5F853445B3D3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327190000 +0200" stop="20230327193000 +0200" channel="BFMGrandLille.fr">
+<title lang="fr">Kop Nord</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BBEDC315CDB7995151A2149408F5F7AB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327193000 +0200" stop="20230328000000 +0200" channel="BFMGrandLille.fr">
+<title lang="fr">Lille Express</title>
+<desc lang="fr">Journal tout en images.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EBC6F7D09FD7E6C3622FBE2E6ABB9654.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328000000 +0200" stop="20230328063000 +0200" channel="BFMGrandLille.fr">
+<title lang="fr">Programmes de la nuit BFM Lille</title>
+<desc lang="fr">Suivez le programme de la nuit sur BFM Lille.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/546FCA607ED297796DC48BB7096DB84E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

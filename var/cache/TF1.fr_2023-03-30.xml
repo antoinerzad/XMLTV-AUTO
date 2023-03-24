@@ -1,0 +1,46 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230329234000 +0200" stop="20230330003500 +0200" channel="TF1.fr">
+<title lang="fr">New York Unité Spéciale</title>
+<sub-title lang="fr">Mariage blanc et carte verte</sub-title>
+<desc lang="fr">Rollins débute une mission d'infiltration plus que dangereuse. Un employé du gouvernement est soupçonné depuis quelque temps de chantage sexuel.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23739650.jpg" />
+<episode-num system="xmltv_ns">20.13.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230330003500 +0200" stop="20230330012000 +0200" channel="TF1.fr">
+<title lang="fr">New York Unité Spéciale</title>
+<sub-title lang="fr">Ensemble toujours plus fortes</sub-title>
+<desc lang="fr">Une femme, membre d'un groupe féministe, est retrouvée morte. L'enquête mène les inspecteurs de l'unité vers le leader charismatique de l'organisation.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_11572988.jpg" />
+<episode-num system="xmltv_ns">19.4.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230330012000 +0200" stop="20230330021500 +0200" channel="TF1.fr">
+<title lang="fr">New York Unité Spéciale</title>
+<sub-title lang="fr">Une rien du tout</sub-title>
+<desc lang="fr">Deux hommes ont été agressés et violés à leur domicile, à chaque fois sans signe d'effraction. Benson, Stabler et Fin cherchent à établir un lien entre eux.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_9678949.jpg" />
+<episode-num system="xmltv_ns">11.5.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230330021500 +0200" stop="20230330063000 +0200" channel="TF1.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_22269110.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330063000 +0200" stop="20230330082500 +0200" channel="TF1.fr">
+<title lang="fr">TFou</title>
+<desc lang="fr">La tribu Monchhichi. Molang. Barbapapa en Famille. Thomas et ses amis. Super Wings. Gus le chevalier minus. Paw Patrol, la Pat'Patrouille.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Jeunesse Mag</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_15678917.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

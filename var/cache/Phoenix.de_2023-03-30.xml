@@ -1,0 +1,170 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230330053000 +0200" stop="20230330083000 +0200" channel="Phoenix.de">
+<title lang="fr">ZDF-Morgenmagazin</title>
+<desc lang="fr">Die morgendliche Nachrichten- und Informationssendung existiert seit 1992. Im Vordergrund stehen Berichte und Reportagen über tagesaktuelle Themen aus den Bereichen nationale und internationale Politik, Wirtschaft, Kultur und Gesellschaft. Natürlich wird auch über &quot;bunte&quot; Themen berichtet. Auch die Sportberichterstattung hat ihren festen Platz in der Sendung.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Services</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9E974A180A35EEB25FC867265ECB3E7B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330083000 +0200" stop="20230330173000 +0200" channel="Phoenix.de">
+<title lang="fr">phoenix vor ort: bundestag live (UT)</title>
+<sub-title lang="fr">bundestag live (UT)</sub-title>
+<desc lang="fr">Ob Parlamentsdebatten oder Staatsbesuche, bedeutende politische Entscheidungen, gesellschafsrelevante Großereignisse oder wichtige Aktionärsversammlungen – Reporter und Korrespondenten berichten vor Ort über aktuelle Geschehnisse in Deutschland, Europa und der Welt. Sie erläutern Hintergründe, interviewen kompetente Gesprächspartner und fassen die wichtigsten Entscheidungen zusammen.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CAE7898BD82EC93B03E729CA2347B088.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330173000 +0200" stop="20230330180000 +0200" channel="Phoenix.de">
+<title lang="fr">phoenix der tag</title>
+<desc lang="fr">Was war am heutigen Tag wichtig? Welche Ereignisse und Diskussionen bestimmten das politische Geschehen? Täglich um 17.30 Uhr in 30 Minuten und um 23.00 Uhr in 60 Minuten fassen die Moderatoren und Moderatorinnen zusammen, was am Tag von Bedeutung war. Expertinnen und Experten im Studio und Gespräche mit Korrespondenten sorgen für die nötigen Hintergrundinformationen und Einschätzungen.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B65C055651C6E4E95D7A694B5000C61E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330180000 +0200" stop="20230330183000 +0200" channel="Phoenix.de">
+<title lang="fr">Aktuelle Reportage</title>
+<desc lang="fr">Dokumentationen und Reportagen - rund sechs Stunden wochentags und am Wochenende nahezu ganztägig sendet Phoenix das Beste von ARD und ZDF zu allen Facetten der politischen und gesellschaftlichen Wirklichkeit.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Programme indéterminé</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330183000 +0200" stop="20230330191500 +0200" channel="Phoenix.de">
+<title lang="fr">Spione im Tierreich</title>
+<sub-title lang="fr">Le parfait amour</sub-title>
+<desc lang="fr">Ultrarealistische Tierroboter spähen das Privatleben von Affen, Elefanten und vielen anderen Wildtieren aus. Sie zeigen hautnah Liebe, Freundschaft und Familiensinn bei den wilden Tieren. Mehr als 30 verschiedene Roboter mischen sich mit Mini-Kameras unter die Tiere. Die Zuschauer sehen sich mitten in Rudeln, Herden oder Familien. Bei den afrikanischen Wildhunden erlebt ein Roboter als &quot;Undercover-Welpe&quot; liebevolle Schmusestunden der großen Kinderschar mit ihren Eltern, aber auch bedrohliche Momente bei Angriffen von Löwen.</desc>
+<category lang="fr">Nature</category>
+<category lang="fr">Animalier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A82411BB88B654F300A7FD15D4896E97.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330191500 +0200" stop="20230330200000 +0200" channel="Phoenix.de">
+<title lang="fr">Spione im Tierreich</title>
+<sub-title lang="fr">Brillants d'intelligence</sub-title>
+<desc lang="fr">Die Späh-Roboter finden erneut Erstaunliches aus dem Leben unserer wilden Zeitgenossen heraus. Die Zuschauer sehen das Geschehen mit den Augen der Akteure aus ungewöhnlichen Blickwinkeln. Die technischen Wunderwerke imitieren Aussehen, Duft und Verhalten so genau, dass sie von den meisten Tieren nicht behelligt, von vielen sogar akzeptiert werden. Dadurch bekommen die Kameras tatsächlich Hautkontakt. Näher geht nicht.</desc>
+<category lang="fr">Nature</category>
+<category lang="fr">Animalier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DA1E243EDB2EB8121C18C13C8A79C881.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330200000 +0200" stop="20230330201500 +0200" channel="Phoenix.de">
+<title lang="fr">Tagesschau</title>
+<desc lang="fr">Die Tagesschau ist eine Institution in der deutschen Fernsehlandschaft. Seit 1952 wird kurz und bündig von aktuellen Geschehnissen in Deutschland und der Welt berichtet. Bis heute ist die Redaktion der sachlichen Berichterstattung treu geblieben und distanziert sich vom Trend in Richtung Boulevard-News. Mit mehr als 9 Millionen Zuschauern ist es Deutschlands beliebteste Nachrichtensendung.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3B78B74DFBC518CE4890A17097282B31.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330201500 +0200" stop="20230330210000 +0200" channel="Phoenix.de">
+<title lang="fr">The True Story of Elon Musk</title>
+<desc lang="fr">Für Elon Musk scheint nichts unmöglich zu sein: Er revolutioniert die Autowelt, erfindet die Raumfahrt neu, tüftelt an Chips, die das menschliche Hirn digitalisieren, kauft Twitter und ist sehr umstritten.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330210000 +0200" stop="20230330214500 +0200" channel="Phoenix.de">
+<title lang="fr">Wettlauf um die Macht im Weltraum</title>
+<desc lang="fr">Der russische Cyberangriff auf einen Satelliten in der Ukraine zu Beginn des Krieges hat gezeigt, wie sehr wir auf den Weltraum angewiesen und gleichzeitig, wie verwundbar wir sind. Als der Kommunikationssatellit in der Ukraine ausfiel, waren die Folgen auch in Deutschland und Frankreich zu spüren: Deutsche Windräder standen still und das Internet französischer Kunden war gestört. Satelliten steuern unseren Alltag. Werden sie zum Ziel eines Angriffs, bricht Chaos aus: keine Kommunikation, keine Navigation, kein Datentransfer. Nichts geht mehr.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sciences et technique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/33C2DB801A09A5FF890160BC04E44753.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330214500 +0200" stop="20230330230000 +0200" channel="Phoenix.de">
+<title lang="fr">heute journal</title>
+<sub-title lang="fr">Wetter</sub-title>
+<desc lang="fr">Das Nachrichtenmagazin des Zweiten Deutschen Fernsehens liefert tagesaktuelle Nachrichten, gut recherchierte Hintergrundberichte und Interviews mit Politikern und Entscheidungsträgern aus Wirtschaft, Gesellschaft, Sport und Kultur. Die Sendung wird jeweils von einem zweiköpfigen Team vor der Kamera präsentiert: einer Person die moderiert und einer die Nachrichten vorträgt.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230330230000 +0200" stop="20230331000000 +0200" channel="Phoenix.de">
+<title lang="fr">phoenix der tag</title>
+<desc lang="fr">Was war am heutigen Tag wichtig? Welche Ereignisse und Diskussionen bestimmten das politische Geschehen? Täglich um 17.30 Uhr in 30 Minuten und um 23.00 Uhr in 60 Minuten fassen die Moderatoren und Moderatorinnen zusammen, was am Tag von Bedeutung war. Expertinnen und Experten im Studio und Gespräche mit Korrespondenten sorgen für die nötigen Hintergrundinformationen und Einschätzungen.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B65C055651C6E4E95D7A694B5000C61E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331000000 +0200" stop="20230331004500 +0200" channel="Phoenix.de">
+<title lang="fr">phoenix runde</title>
+<desc lang="fr">Vier Gäste, vier Meinungen, engagiert im Austausch, respektvoll im Umgang: Die &quot;phoenix runde&quot; ist der Ort für aktuelle politische und gesellschaftliche Debatten. Egal, ob es um Politik, Wirtschaft, Wissenschaft oder Gesellschaft geht – die &quot;phoenix runde&quot; ist immer nah dran an der Lebenswirklichkeit. An drei Abenden in der Woche begrüßen abwechselnd die Moderatoren Alexander Kähler und Anke Plättner Gäste aus Politik, Wirtschaft, Medien, Wissenschaft und Kultur oder Akteure aus dem öffentlichen Leben, die ihren Standpunkt vertreten. Zuschauerinnen und Zuschauer der &quot;phoenix runde&quot; erleben engagierte Wortgefechte in angemessenem Ton und gewinnen neue Erkenntnisse. In der Spezialausgabe #phoenixrunde sind Sie mehrmals im Jahr herzlich eingeladen, sich via Facebook und Twitter an der Diskussion zu beteiligen.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F2DD6E418DE63EC4390704E318007EB5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331004500 +0200" stop="20230331013000 +0200" channel="Phoenix.de">
+<title lang="fr">The True Story of Elon Musk</title>
+<desc lang="fr">Für Elon Musk scheint nichts unmöglich zu sein: Er revolutioniert die Autowelt, erfindet die Raumfahrt neu, tüftelt an Chips, die das menschliche Hirn digitalisieren, kauft Twitter und ist sehr umstritten.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331013000 +0200" stop="20230331021500 +0200" channel="Phoenix.de">
+<title lang="fr">Wettlauf um die Macht im Weltraum</title>
+<desc lang="fr">Der russische Cyberangriff auf einen Satelliten in der Ukraine zu Beginn des Krieges hat gezeigt, wie sehr wir auf den Weltraum angewiesen und gleichzeitig, wie verwundbar wir sind. Als der Kommunikationssatellit in der Ukraine ausfiel, waren die Folgen auch in Deutschland und Frankreich zu spüren: Deutsche Windräder standen still und das Internet französischer Kunden war gestört. Satelliten steuern unseren Alltag. Werden sie zum Ziel eines Angriffs, bricht Chaos aus: keine Kommunikation, keine Navigation, kein Datentransfer. Nichts geht mehr.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sciences et technique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3A621D2ECD3F30BE15E013A1CACB5D74.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331021500 +0200" stop="20230331030000 +0200" channel="Phoenix.de">
+<title lang="fr">Wunderwerke der Weltgeschichte</title>
+<sub-title lang="fr">Mont-Saint-Michel</sub-title>
+<desc lang="fr">Die Silhouette des meisterhaften Mont-Saint-Michel in der Normandie ist weltweit bekannt. Doch längst hat die Inselfestung nicht all ihre Geheimnisse preisgegeben. Was verbergen die Steine dieser skulpturalen Abtei? Wie ist der Berg in der Mitte der völlig flachen Bucht entstanden? Wissenschaftler setzen die modernsten Techniken ein, um die Lücken in der faszinierenden Geschichte des Mont-Saint-Michel zu schließen.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Histoire</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E475D15EA49F93C3870728B8A111DC28.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331030000 +0200" stop="20230331034500 +0200" channel="Phoenix.de">
+<title lang="fr">Wunderwerke der Weltgeschichte</title>
+<sub-title lang="fr">Petra</sub-title>
+<desc lang="fr">Beeindruckende Felsformationen und mächtige Fassaden - mitten in der jordanischen Wüste fasziniert die antike Felsenstadt Petra Archäologen, Historiker und Touristen. Die Wissenschaftler nutzen Techniken wie Fotogrammmetrie und 3-D-Rekonstruktion, um die Arbeit der antiken Baumeister zu erforschen. Indem sie Petra aus verschiedenen Perspektiven betrachten, finden sie Hinweise, die bisher verborgen waren.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Histoire</category>
+<icon src="https://img.bouygtel.fr/CMS/images/10F5A876416F2341F8A58BA7F67A5EE8.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331034500 +0200" stop="20230331043000 +0200" channel="Phoenix.de">
+<title lang="fr">Wunderwerke der Weltgeschichte</title>
+<sub-title lang="fr">Machu Picchu</sub-title>
+<desc lang="fr">Sagenumwobene Stadt in den Wolken: Machu Picchu im Herzen der peruanischen Anden ist eines der besterhaltenen Zeugnisse der Inka - und eines der größten archäologischen Rätsel. Über 400 Jahre lag die Stadt im Verborgenen. Heute können Experten mithilfe modernster Techniken in die Vergangenheit reisen, um das Unsichtbare zu erforschen, die Hintergründe und die Umgebung der antiken Stadt zu erkunden und ihre Geheimnisse zu enthüllen. Die Inkastadt, die etwa 6000 Besucher pro Tag anzieht, wurde Mitte des 15. Jahrhunderts, auf dem Höhepunkt des Reiches, erbaut. In den Augen vieler Menschen ist sie die erstaunlichste und rätselhafteste urbane Schöpfung dieser Zivilisation. Besonders, da die Inka zum Bau keinerlei Werkzeug verwendeten.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Histoire</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4CE72C7C374FE6BA6CE6534C3527C1F1.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331043000 +0200" stop="20230331051500 +0200" channel="Phoenix.de">
+<title lang="fr">Wilde Schlösser</title>
+<sub-title lang="fr">L'Alhambra</sub-title>
+<desc lang="fr">Die Alhambra ist eine künstliche Oase. Das massive, reich verzierte Bauwerk steht im Süden Spaniens, am Fuße der Sierra Nevada, wo Geier kreisen und Skorpione auf Beutezug gehen. Dort liegt nicht nur die einzige Wüste Europas, die Wüste von Tabernas, sondern direkt daneben lässt sich eine Auenlandschaft aus blühenden Wiesen und dichten Wäldern entdecken. Dort weiden Steinböcke und Hirsche. Nach dem Eindringen der Mauren ins Reich der Goten im Jahr 711 nach Christus erschufen die Araber ein wahres Wunderwerk.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D834626A58EA5BFB4A2EFF3C6FF3B699.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331051500 +0200" stop="20230331053000 +0200" channel="Phoenix.de">
+<title lang="fr">Dokumentation</title>
+<desc lang="fr">Die über 2500 Dokumentationen im Jahr sollen den Zuschauern Gelegenheit bieten, sich eine fundierte Meinung zu bilden. Die Filme beleuchten politische und gesellschaftliche Entwicklungen in Deutschland, Europa und der Welt.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4DCEC20D24FF826DC3B874A4715506FD.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230331053000 +0200" stop="20230331083000 +0200" channel="Phoenix.de">
+<title lang="fr">ZDF-Morgenmagazin</title>
+<desc lang="fr">Die morgendliche Nachrichten- und Informationssendung existiert seit 1992. Im Vordergrund stehen Berichte und Reportagen über tagesaktuelle Themen aus den Bereichen nationale und internationale Politik, Wirtschaft, Kultur und Gesellschaft. Natürlich wird auch über &quot;bunte&quot; Themen berichtet. Auch die Sportberichterstattung hat ihren festen Platz in der Sendung.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Services</category>
+<icon src="https://img.bouygtel.fr/CMS/images/890F43E5446185E1BEB9280FBEE2FFF2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

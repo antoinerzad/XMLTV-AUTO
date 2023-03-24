@@ -1,0 +1,271 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230325011500 +0100" stop="20230325090000 +0100" channel="VosgesTV.fr">
+<title lang="fr">Journal / Météo / L'atelier du jardin / Vue du ciel / Sports week-end</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325090000 +0100" stop="20230325093000 +0100" channel="VosgesTV.fr">
+<title lang="fr">1, 2, 3 musette</title>
+<desc lang="fr">Emission 100% accordéon qui présente des artistes et de nouveaux talents.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325093000 +0100" stop="20230325100000 +0100" channel="VosgesTV.fr">
+<title lang="fr">À feu doux</title>
+<sub-title lang="fr">Les Âmes-Soeurs</sub-title>
+<desc lang="fr">Émission culinaire</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2F0F8115ED368EA99E7B910AB41028C0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325100000 +0100" stop="20230325101500 +0100" channel="VosgesTV.fr">
+<title lang="fr">Ça va chez vous ?</title>
+<desc lang="fr">Ca va chez vous? est une émission anime par Livia Buchler. Elle part à la découverte des territoires que font les Vosges. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325101500 +0100" stop="20230325104500 +0100" channel="VosgesTV.fr">
+<title lang="fr">Sur ma route</title>
+<desc lang="fr">Découvrir les pays de Lorraine à travers une personnalité issue de la région c'est le principe de la nouvelle émission &quot; Sur Ma Route &quot; présentée par Vianney Huguenot.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0444F5AC32C12EDBB9DA3C7F9823A778.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325104500 +0100" stop="20230325111500 +0100" channel="VosgesTV.fr">
+<title lang="fr">La vie en Vosges</title>
+<desc lang="fr">Nous sommes jeudi, c'est l'heure de votre émission La vie en Vosges.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325111500 +0100" stop="20230325113000 +0100" channel="VosgesTV.fr">
+<title lang="fr">Paroles d'élu(e)</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325113000 +0100" stop="20230325120000 +0100" channel="VosgesTV.fr">
+<title lang="fr">La santé d'abord</title>
+<desc lang="fr">L'émission traite du thème de la santé, de l'actualité du monde médical et des analyses d'experts. Tous les sujets sur la santé et le bien-être et comment prendre soin de son corps.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325120000 +0100" stop="20230325123000 +0100" channel="VosgesTV.fr">
+<title lang="fr">Journal des territoires</title>
+<desc lang="fr">Magazine sur l'actualité, la politique, l'emploi, la justice et la géopolitique des territoires de France.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325123000 +0100" stop="20230325130000 +0100" channel="VosgesTV.fr">
+<title lang="fr">Une semaine dans le Grand Est / Business Club de France</title>
+<desc lang="fr">Un magazine régional traitant les questions économiques et sociaux.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325130000 +0100" stop="20230325131500 +0100" channel="VosgesTV.fr">
+<title lang="fr">Le journal de l'atelier</title>
+<desc lang="fr">Magazine mensuel de l'Atelier d'Images Plus, pour et par les téléspectateurs, qui nous font partager leur regard sur l'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325131500 +0100" stop="20230325133000 +0100" channel="VosgesTV.fr">
+<title lang="fr">Films à l'affiche</title>
+<desc lang="fr">Découvrez le programme des cinémas du département.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325133000 +0100" stop="20230325134500 +0100" channel="VosgesTV.fr">
+<title lang="fr">Sports week-end / Un jour</title>
+<desc lang="fr">Passez un agréable fin de semaine en bouclant deux émissions sur ViàVosgues: en suivant les actualités sportives du week-end et des événements forts de ''Un jour''.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325134500 +0100" stop="20230325140000 +0100" channel="VosgesTV.fr">
+<title lang="fr">Sur le vif / L'atelier du jardin</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325140000 +0100" stop="20230325143000 +0100" channel="VosgesTV.fr">
+<title lang="fr">1, 2, 3 Dansez</title>
+<desc lang="fr">Émission entièrement consacrée à la chanson et à l'accordéon avec de nombreux invités célèbres.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325143000 +0100" stop="20230325150000 +0100" channel="VosgesTV.fr">
+<title lang="fr">1, 2, 3 musette</title>
+<desc lang="fr">N-1</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325150000 +0100" stop="20230325153000 +0100" channel="VosgesTV.fr">
+<title lang="fr">1, 2, 3 Dansez</title>
+<desc lang="fr">N-1</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325153000 +0100" stop="20230325160000 +0100" channel="VosgesTV.fr">
+<title lang="fr">1, 2, 3 musette</title>
+<desc lang="fr">N-2</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325160000 +0100" stop="20230325163000 +0100" channel="VosgesTV.fr">
+<title lang="fr">À feu doux</title>
+<sub-title lang="fr">Les Âmes-Soeurs</sub-title>
+<desc lang="fr">Émission culinaire</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F743505154C6EF9FF0087C5E4E3C3743.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325163000 +0100" stop="20230325164500 +0100" channel="VosgesTV.fr">
+<title lang="fr">Ça va chez vous ?</title>
+<desc lang="fr">Ca va chez vous? est une émission anime par Livia Buchler. Elle part à la découverte des territoires que font les Vosges. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325164500 +0100" stop="20230325171500 +0100" channel="VosgesTV.fr">
+<title lang="fr">Qu'on se le dise</title>
+<desc lang="fr">L'émission hebdomadaire présentée par Livia Buchler accueille des invités aux profils certes très différents, mais ayant pour point commun leur département de résidence. Culture, sport, entreprenariat, politique... Différents thèmes sont abordés dans chaque épisode.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325171500 +0100" stop="20230325174500 +0100" channel="VosgesTV.fr">
+<title lang="fr">Sur ma route</title>
+<desc lang="fr">Découvrir les pays de Lorraine à travers une personnalité issue de la région c'est le principe de la nouvelle émission &quot; Sur Ma Route &quot; présentée par Vianney Huguenot.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6C4147A68DFC772534EF2613E147F7EB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325174500 +0100" stop="20230325180000 +0100" channel="VosgesTV.fr">
+<title lang="fr">Du Champ à l'assiette</title>
+<desc lang="fr">&quot;Du champ à l'assiette&quot; est un programme télévisé présenté par David Bachoffe, qui met en valeur des producteurs locaux et leurs produits authentiques. </desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325180000 +0100" stop="20230325190000 +0100" channel="VosgesTV.fr">
+<title lang="fr">L'hebdo / Météo / Business club de France / Une semaine dans le Grand Est</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325190000 +0100" stop="20230325193000 +0100" channel="VosgesTV.fr">
+<title lang="fr">Sur ma route</title>
+<desc lang="fr">Découvrir les pays de Lorraine à travers une personnalité issue de la région c'est le principe de la nouvelle émission &quot; Sur Ma Route &quot; présentée par Vianney Huguenot.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FFE02F87137183F458616CCC676184E9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325193000 +0100" stop="20230325200000 +0100" channel="VosgesTV.fr">
+<title lang="fr">Retro / Météo / Paroles d'élu(e)</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325200000 +0100" stop="20230325204500 +0100" channel="VosgesTV.fr">
+<title lang="fr">L'hebdo / Météo / Business club de France / Une semaine dans le Grand Est</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325204500 +0100" stop="20230325213500 +0100" channel="VosgesTV.fr">
+<title lang="fr">Spectacle</title>
+<sub-title lang="fr">Les gens du pays</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325213500 +0100" stop="20230325214500 +0100" channel="VosgesTV.fr">
+<title lang="fr">Films à l'affiche</title>
+<desc lang="fr">Découvrez le programme des cinémas du département.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325214500 +0100" stop="20230325220000 +0100" channel="VosgesTV.fr">
+<title lang="fr">Du Champ à l'assiette</title>
+<desc lang="fr">&quot;Du champ à l'assiette&quot; est un programme télévisé présenté par David Bachoffe, qui met en valeur des producteurs locaux et leurs produits authentiques. </desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325220000 +0100" stop="20230325223000 +0100" channel="VosgesTV.fr">
+<title lang="fr">Sur ma route</title>
+<desc lang="fr">Découvrir les pays de Lorraine à travers une personnalité issue de la région c'est le principe de la nouvelle émission &quot; Sur Ma Route &quot; présentée par Vianney Huguenot.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0444F5AC32C12EDBB9DA3C7F9823A778.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325223000 +0100" stop="20230325230000 +0100" channel="VosgesTV.fr">
+<title lang="fr">L'hebdo / Météo</title>
+<desc lang="fr">Magazine régional qui vous présentera tous les détails des événements locaux ainsi que les prévisions météorologiques. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230325230000 +0100" stop="20230326000000 +0100" channel="VosgesTV.fr">
+<title lang="fr">Concert</title>
+<sub-title lang="fr">SMR vs LOBO + Ckraft Jazz-Up</sub-title>
+<desc lang="fr">Chaque semaine, découvrez un concert live, enregistré lors d'un festival ou dans une salle prestigieuse française.</desc>
+<category lang="fr">Spectacle</category>
+<category lang="fr">Variétés</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326000000 +0100" stop="20230326003000 +0100" channel="VosgesTV.fr">
+<title lang="fr">L'hebdo / Météo</title>
+<desc lang="fr">Magazine régional qui vous présentera tous les détails des événements locaux ainsi que les prévisions météorologiques. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326003000 +0100" stop="20230326013000 +0100" channel="VosgesTV.fr">
+<title lang="fr">Le monde comme il va</title>
+<sub-title lang="fr">Un poète en Amazonie de José Huerta</sub-title>
+<desc lang="fr">Depuis de nombreuses années, il défend la forêt amazonienne et ceux qui y vivent. Mais après les dernières élections, César n'est plus tranquille, les images et les discours de Jair Bolsonaro le poursuivent. Comme beaucoup de Brésiliens, il a l'impression de vivre dans un cauchemar. Alors, pour partager son angoisse, il écrit des poèmes et va visiter ses amis de la forêt qui se sentent tout comme lui en danger. Ces visites lui permettent de reprendre des forces, comme un acte de résistance face à la violence et la tragédie qui a débuté, avec une question qui l'obsède : Comment le Brésil en est-il arrivé là ?</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326013000 +0100" stop="20230326090000 +0200" channel="VosgesTV.fr">
+<title lang="fr">L'hebdo / Météo / Business club de France / Une semaine dans le Grand Est / Sur ma route / Du Champ à l'assiette</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

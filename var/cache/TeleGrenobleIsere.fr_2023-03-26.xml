@@ -1,0 +1,229 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230326060000 +0200" stop="20230326061000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Métropole HEBDO</title>
+<desc lang="fr">L'actualité de la Métropole en 5 minutes, présentée par Lucile Dailly.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326061000 +0200" stop="20230326070000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">#IsèreMag</title>
+<desc lang="fr">A la découverte de ceux qui font l'actu en Isère, en collaboration avec Isère Mag, le mag du département.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326070000 +0200" stop="20230326080000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Le QG politique</title>
+<desc lang="fr">Le talk-show hebdomadaire où plusieurs personnalités politiques se retrouvent pour discuter de l'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326080000 +0200" stop="20230326090000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Grand Air</title>
+<desc lang="fr">Prenez un grand bol d'air avec l'émission montagne de TéléGrenoble !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326090000 +0200" stop="20230326091500 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Visite guidée</title>
+<desc lang="fr">Départ pour une visite au coeur d'un musée départemental...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326091500 +0200" stop="20230326100000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Si on parlait</title>
+<desc lang="fr">La quotidienne 100% locale avec les invités de Thibault Leduc.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Interview</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326100000 +0200" stop="20230326103000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Le grand journal des territoires</title>
+<desc lang="fr">L'actualité des régions Française présentée par Cyril Viguier.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/29848AE16D10FD1768BCA09595DF6CDD.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326103000 +0200" stop="20230326105000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Voyons voir !</title>
+<desc lang="fr">&quot;Voyons Voir&quot; vous emmène à la découverte des richesses de la région Auvergne Rhône-Alpes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5F48BFD9EDE908464BE6B9E43ACF3795.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326105000 +0200" stop="20230326110000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Environnement</title>
+<desc lang="fr">Une émission qui met en avant toutes les initiatives en faveur de l'environnement sur le territoire isérois.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326110000 +0200" stop="20230326120000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Alpes Decideurs</title>
+<desc lang="fr">Christophe Revil et ses invités décryptent des rouages parfois complexes et vous plongent dans le quotidien des chefs d'entreprise.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326120000 +0200" stop="20230326121500 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">A L'UNISSON</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326121500 +0200" stop="20230326125000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Documentaire</title>
+<desc lang="fr">Evasion et découverte des vallées jusqu'aux sommets !</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326125000 +0200" stop="20230326130000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Métropole HEBDO</title>
+<desc lang="fr">L'actualité de la Métropole en 5 minutes, présentée par Lucile Dailly.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326130000 +0200" stop="20230326140000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Arrêt au Stand</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Automobilisme</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326140000 +0200" stop="20230326141000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Métropole HEBDO</title>
+<desc lang="fr">L'actualité de la Métropole en 5 minutes, présentée par Lucile Dailly.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326141000 +0200" stop="20230326144000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Alpes Is Here</title>
+<desc lang="fr">Evasion, découvertes et frissons, dans &quot;Alpes Is Here&quot;, on vous emmène pour un road trip touristique à travers le département !</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326144000 +0200" stop="20230326170000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Le jour se rêve</title>
+<desc lang="fr">Avec &quot;Le Jour se rêve&quot;, Jean-Claude Gallotta renoue avec la forme chorégraphique de ses débuts : une danse sans livret, sans &quot;propos&quot;, sans habillage narratif, sans référence thématique. Dans ce spectacle, il donne rendez-vous au musicien Rodolphe Burger, l'explorateur de nouveaux espaces sonores, qui mêle le rock à la philosophie. </desc>
+<category lang="fr">Ballet</category>
+<category lang="fr">Ballet contemporain</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326170000 +0200" stop="20230326172000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Le grand journal des territoires</title>
+<desc lang="fr">L'actualité des régions Française présentée par Cyril Viguier.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/766894AABB7EC7FEEC25BEF326876FFF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326172000 +0200" stop="20230326180000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">#IsèreMag</title>
+<desc lang="fr">A la découverte de ceux qui font l'actu en Isère, en collaboration avec Isère Mag, le mag du département.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326180000 +0200" stop="20230326181500 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Visite guidée</title>
+<desc lang="fr">Départ pour une visite au coeur d'un musée départemental...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326181500 +0200" stop="20230326183000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Voyons voir !</title>
+<desc lang="fr">&quot;Voyons Voir&quot; vous emmène à la découverte des richesses de la région Auvergne Rhône-Alpes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/83ADB2096E0D6DB6B21B676437F23CC8.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326183000 +0200" stop="20230326185000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Environnement</title>
+<desc lang="fr">Une émission qui met en avant toutes les initiatives en faveur de l'environnement sur le territoire isérois.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326185000 +0200" stop="20230326190000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Métropole HEBDO</title>
+<desc lang="fr">L'actualité de la Métropole en 5 minutes, présentée par Lucile Dailly.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326190000 +0200" stop="20230326200000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Le QG politique</title>
+<desc lang="fr">Le talk-show hebdomadaire où plusieurs personnalités politiques se retrouvent pour discuter de l'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326200000 +0200" stop="20230326211000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Grand Air</title>
+<desc lang="fr">Prenez un grand bol d'air avec l'émission montagne de TéléGrenoble !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326211000 +0200" stop="20230326213500 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Alchimie</title>
+<desc lang="fr">Antoine et Guillaume réalisent un rêve : partir du massif de la Chartreuse en parapente, skis sur le dos, pour aller skier un sommet du massif de Belledonne, juste en face ! Après deux heures de vol libre intenses, ils se posent sur le sommet enneigé et repartent pour une descente d'anthologie en speed riding. Puis, ils se laissent glisser, face au coucher du soleil dans un vol qui les ramène à la maison. Une aventure qui combine le parapente et le ski pour un maxi-plaisir.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Action</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230326213500 +0200" stop="20230327001000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">La descente des alpages</title>
+<desc lang="fr">Année exceptionnelle, événement exceptionnel ! La descente des Alpages vous offre un florilège de reportages réalisés au coeur des Alpes autour du pastoralisme.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Gastronomie</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327001000 +0200" stop="20230327011000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Concert</title>
+<desc lang="fr">Les artistes locaux ont leurs rendez-vous sur TéléGrenoble ! Le mardi à partir de 14h45 !</desc>
+<category lang="fr">Spectacle</category>
+<category lang="fr">Variétés</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327011000 +0200" stop="20230327022500 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Humour &amp; théâtre</title>
+<desc lang="fr">Le théâtre est mis à l'honneur sur TéléGrenoble ! Des rendez-vous à ne pas rater pour un moment de détente assuré !</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327022500 +0200" stop="20230327042000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Documentaire</title>
+<desc lang="fr">Rendez-vous découvertes et divertissements choisis par la rédaction...</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327042000 +0200" stop="20230327050000 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Zikagre</title>
+<desc lang="fr">La sélection des meilleurs clips Isérois.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327050000 +0200" stop="20230327061500 +0200" channel="TeleGrenobleIsere.fr">
+<title lang="fr">Grand Air</title>
+<desc lang="fr">Prenez un grand bol d'air avec l'émission montagne de TéléGrenoble !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

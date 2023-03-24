@@ -1,0 +1,472 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230328000000 +0200" stop="20230328070000 +0200" channel="TVVendee.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E76F2A7530AF44D06A3DD40B1AEB34B0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328070000 +0200" stop="20230328090000 +0200" channel="TVVendee.fr">
+<title lang="fr">La matinale</title>
+<desc lang="fr">Toute l'actualité et les informations à retenir du département de Vendée pour bien débuter la journée. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328090000 +0200" stop="20230328091500 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328091500 +0200" stop="20230328093000 +0200" channel="TVVendee.fr">
+<title lang="fr">La bobine du jour</title>
+<desc lang="fr">Quelques minutes d'images d'archives et les explications de Daniel Frimaudeau, de la Cinémathèque de Vendée, et de son invité pour un plongeon dans l'Histoire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328093000 +0200" stop="20230328094500 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328094500 +0200" stop="20230328101000 +0200" channel="TVVendee.fr">
+<title lang="fr">Atout santé</title>
+<desc lang="fr">Magazine de la santé qui a pour objectif de diffuser les informations sur les sujets médicaux, la santé et le bien-être.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328101000 +0200" stop="20230328103000 +0200" channel="TVVendee.fr">
+<title lang="fr">Backstage</title>
+<desc lang="fr">Rendez-vous dans Backstage, notre toute nouvelle émission culturelle présentée par David Auvinet. Retrouvez chaque semaine des artistes vendéens, danse, musique, ou encore théâtre, il y en a pour tous les goûts… Backstage c'est aussi le Live, où les invités nous dispensent d'une prestation sur les plateaux de Tv Vendée en live !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328103000 +0200" stop="20230328104500 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328104500 +0200" stop="20230328111000 +0200" channel="TVVendee.fr">
+<title lang="fr">Atout santé</title>
+<desc lang="fr">Magazine de la santé qui a pour objectif de diffuser les informations sur les sujets médicaux, la santé et le bien-être.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328111000 +0200" stop="20230328113000 +0200" channel="TVVendee.fr">
+<title lang="fr">Backstage</title>
+<desc lang="fr">Rendez-vous dans Backstage, notre toute nouvelle émission culturelle présentée par David Auvinet. Retrouvez chaque semaine des artistes vendéens, danse, musique, ou encore théâtre, il y en a pour tous les goûts… Backstage c'est aussi le Live, où les invités nous dispensent d'une prestation sur les plateaux de Tv Vendée en live !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328113000 +0200" stop="20230328114500 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328114500 +0200" stop="20230328115500 +0200" channel="TVVendee.fr">
+<title lang="fr">Mag éco</title>
+<desc lang="fr">Découvrez une entreprise, son fonctionnement et son développement. Une véritable immersion dans l'économie vendéenne en compagnie de Katel Lejeune.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328115500 +0200" stop="20230328120000 +0200" channel="TVVendee.fr">
+<title lang="fr">Laissez-vous guider</title>
+<desc lang="fr">Envie de sortir ? Laissez-vous guider agenda ou cinéma, 2 programmes courts pour que vous puissiez organiser vos sorties et vous cultiver.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328120000 +0200" stop="20230328121500 +0200" channel="TVVendee.fr">
+<title lang="fr">Chemins de traverse</title>
+<desc lang="fr">Grégoire de Chatillon révèle les beautés de notre département, des Hommes aux vieilles pierres, des initiatives locales au patrimoine oublié.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328121500 +0200" stop="20230328123000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328123000 +0200" stop="20230328124500 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328124500 +0200" stop="20230328125500 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328125500 +0200" stop="20230328130000 +0200" channel="TVVendee.fr">
+<title lang="fr">Météo de l'emploi</title>
+<desc lang="fr">Retrouvez les prévisions météreologiques locales pour le département de Vendée et le Pays de la Loire, ainsi que pour toute la France. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328130000 +0200" stop="20230328131500 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328131500 +0200" stop="20230328132000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328132000 +0200" stop="20230328133000 +0200" channel="TVVendee.fr">
+<title lang="fr">Météo de l'emploi</title>
+<desc lang="fr">Retrouvez les prévisions météreologiques locales pour le département de Vendée et le Pays de la Loire, ainsi que pour toute la France. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328133000 +0200" stop="20230328134500 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328134500 +0200" stop="20230328135000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328135000 +0200" stop="20230328140000 +0200" channel="TVVendee.fr">
+<title lang="fr">Météo de l'emploi</title>
+<desc lang="fr">Retrouvez les prévisions météreologiques locales pour le département de Vendée et le Pays de la Loire, ainsi que pour toute la France. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328140000 +0200" stop="20230328141500 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328141500 +0200" stop="20230328142000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328142000 +0200" stop="20230328143000 +0200" channel="TVVendee.fr">
+<title lang="fr">Météo de l'emploi</title>
+<desc lang="fr">Retrouvez les prévisions météreologiques locales pour le département de Vendée et le Pays de la Loire, ainsi que pour toute la France. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328143000 +0200" stop="20230328144000 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328144000 +0200" stop="20230328150500 +0200" channel="TVVendee.fr">
+<title lang="fr">Café de la marine</title>
+<desc lang="fr">Retrouvez dorénavant tous les 15 jours un plateau enregistré à la cité de la voile Eric Tabarly de Lorient.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328150500 +0200" stop="20230328151500 +0200" channel="TVVendee.fr">
+<title lang="fr">Laissez-vous guider</title>
+<desc lang="fr">Envie de sortir ? Laissez-vous guider agenda ou cinéma, 2 programmes courts pour que vous puissiez organiser vos sorties et vous cultiver.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328151500 +0200" stop="20230328153000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328153000 +0200" stop="20230328154000 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328154000 +0200" stop="20230328160000 +0200" channel="TVVendee.fr">
+<title lang="fr">Chemins de traverse</title>
+<desc lang="fr">Grégoire de Chatillon révèle les beautés de notre département, des Hommes aux vieilles pierres, des initiatives locales au patrimoine oublié.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328160000 +0200" stop="20230328161500 +0200" channel="TVVendee.fr">
+<title lang="fr">Backstage</title>
+<desc lang="fr">Rendez-vous dans Backstage, notre toute nouvelle émission culturelle présentée par David Auvinet. Retrouvez chaque semaine des artistes vendéens, danse, musique, ou encore théâtre, il y en a pour tous les goûts… Backstage c'est aussi le Live, où les invités nous dispensent d'une prestation sur les plateaux de Tv Vendée en live !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328161500 +0200" stop="20230328163000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328163000 +0200" stop="20230328164000 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328164000 +0200" stop="20230328170500 +0200" channel="TVVendee.fr">
+<title lang="fr">Café de la marine</title>
+<desc lang="fr">Retrouvez dorénavant tous les 15 jours un plateau enregistré à la cité de la voile Eric Tabarly de Lorient.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328170500 +0200" stop="20230328171500 +0200" channel="TVVendee.fr">
+<title lang="fr">Laissez-vous guider</title>
+<desc lang="fr">Envie de sortir ? Laissez-vous guider agenda ou cinéma, 2 programmes courts pour que vous puissiez organiser vos sorties et vous cultiver.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328171500 +0200" stop="20230328173000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328173000 +0200" stop="20230328174000 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328174000 +0200" stop="20230328180000 +0200" channel="TVVendee.fr">
+<title lang="fr">Chemins de traverse</title>
+<desc lang="fr">Grégoire de Chatillon révèle les beautés de notre département, des Hommes aux vieilles pierres, des initiatives locales au patrimoine oublié.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328180000 +0200" stop="20230328181500 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328181500 +0200" stop="20230328183000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328183000 +0200" stop="20230328185000 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328185000 +0200" stop="20230328190500 +0200" channel="TVVendee.fr">
+<title lang="fr">Chemins de traverse</title>
+<desc lang="fr">Grégoire de Chatillon révèle les beautés de notre département, des Hommes aux vieilles pierres, des initiatives locales au patrimoine oublié.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328190500 +0200" stop="20230328191500 +0200" channel="TVVendee.fr">
+<title lang="fr">Laissez-vous guider</title>
+<desc lang="fr">Envie de sortir ? Laissez-vous guider agenda ou cinéma, 2 programmes courts pour que vous puissiez organiser vos sorties et vous cultiver.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328191500 +0200" stop="20230328192000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328192000 +0200" stop="20230328193000 +0200" channel="TVVendee.fr">
+<title lang="fr">Météo de l'emploi</title>
+<desc lang="fr">Retrouvez les prévisions météreologiques locales pour le département de Vendée et le Pays de la Loire, ainsi que pour toute la France. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328193000 +0200" stop="20230328195000 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328195000 +0200" stop="20230328201500 +0200" channel="TVVendee.fr">
+<title lang="fr">Chemins de traverse</title>
+<desc lang="fr">Grégoire de Chatillon révèle les beautés de notre département, des Hommes aux vieilles pierres, des initiatives locales au patrimoine oublié.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328201500 +0200" stop="20230328202000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328202000 +0200" stop="20230328203000 +0200" channel="TVVendee.fr">
+<title lang="fr">Météo de l'emploi</title>
+<desc lang="fr">Retrouvez les prévisions météreologiques locales pour le département de Vendée et le Pays de la Loire, ainsi que pour toute la France. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328203000 +0200" stop="20230328205000 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328205000 +0200" stop="20230328210500 +0200" channel="TVVendee.fr">
+<title lang="fr">Chemins de traverse</title>
+<desc lang="fr">Grégoire de Chatillon révèle les beautés de notre département, des Hommes aux vieilles pierres, des initiatives locales au patrimoine oublié.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328210500 +0200" stop="20230328213500 +0200" channel="TVVendee.fr">
+<title lang="fr">Café de la marine</title>
+<desc lang="fr">Retrouvez dorénavant tous les 15 jours un plateau enregistré à la cité de la voile Eric Tabarly de Lorient.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328213500 +0200" stop="20230328215500 +0200" channel="TVVendee.fr">
+<title lang="fr">Backstage</title>
+<desc lang="fr">Rendez-vous dans Backstage, notre toute nouvelle émission culturelle présentée par David Auvinet. Retrouvez chaque semaine des artistes vendéens, danse, musique, ou encore théâtre, il y en a pour tous les goûts… Backstage c'est aussi le Live, où les invités nous dispensent d'une prestation sur les plateaux de Tv Vendée en live !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328215500 +0200" stop="20230328220000 +0200" channel="TVVendee.fr">
+<title lang="fr">Météo de l'emploi</title>
+<desc lang="fr">Retrouvez les prévisions météreologiques locales pour le département de Vendée et le Pays de la Loire, ainsi que pour toute la France. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328220000 +0200" stop="20230328221500 +0200" channel="TVVendee.fr">
+<title lang="fr">Chemins de traverse</title>
+<desc lang="fr">Grégoire de Chatillon révèle les beautés de notre département, des Hommes aux vieilles pierres, des initiatives locales au patrimoine oublié.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328221500 +0200" stop="20230328223000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328223000 +0200" stop="20230328225000 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328225000 +0200" stop="20230328230500 +0200" channel="TVVendee.fr">
+<title lang="fr">Chemins de traverse</title>
+<desc lang="fr">Grégoire de Chatillon révèle les beautés de notre département, des Hommes aux vieilles pierres, des initiatives locales au patrimoine oublié.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328230500 +0200" stop="20230328231500 +0200" channel="TVVendee.fr">
+<title lang="fr">Laissez-vous guider</title>
+<desc lang="fr">Envie de sortir ? Laissez-vous guider agenda ou cinéma, 2 programmes courts pour que vous puissiez organiser vos sorties et vous cultiver.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328231500 +0200" stop="20230328232000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328232000 +0200" stop="20230328233000 +0200" channel="TVVendee.fr">
+<title lang="fr">Météo de l'emploi</title>
+<desc lang="fr">Retrouvez les prévisions météreologiques locales pour le département de Vendée et le Pays de la Loire, ainsi que pour toute la France. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328233000 +0200" stop="20230328235000 +0200" channel="TVVendee.fr">
+<title lang="fr">Le journal / Météo</title>
+<desc lang="fr">Bouclez deux émissions et vérifiez des actualités avec &quot;Le journal&quot; et consultez la météo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328235000 +0200" stop="20230329000000 +0200" channel="TVVendee.fr">
+<title lang="fr">La bobine du jour</title>
+<desc lang="fr">Quelques minutes d'images d'archives et les explications de Daniel Frimaudeau, de la Cinémathèque de Vendée, et de son invité pour un plongeon dans l'Histoire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230329000000 +0200" stop="20230329070000 +0200" channel="TVVendee.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E76F2A7530AF44D06A3DD40B1AEB34B0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
