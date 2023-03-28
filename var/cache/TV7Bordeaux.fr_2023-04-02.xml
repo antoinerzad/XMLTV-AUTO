@@ -1,0 +1,442 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230402060000 +0200" stop="20230402063000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">L'Info dans le rétro</title>
+<desc lang="fr">Présenté par Alix Fourcade, retour sur l'actualité qui a marqué la semaine en Nouvelle-Aquitaine. Avec des reportages, des interviews, des extraits de nos JT, de nos émissions de débat/société, des rendez-vous autour de l'économie régionale et bien sûr un focus sur l'information sportive.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A68C277BED9C84B49955B7FF31591E37.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402063000 +0200" stop="20230402070000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Backstage</title>
+<desc lang="fr">Présenté par Benjamin Bardel, retrouvez chaque vendredi à 18h notre talk show culturel qui accueille les célébrités d'hier, d'aujourd'hui et de demain et met en avant les personnalités de passage dans la région avec bienveillance et curiosité. Artistes, chanteurs, acteurs, écrivains, réalisateurs, influenceurs viennent livrer leurs grandes et petites histoires et parler de leur actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/15467587EF887970A8F40F730358EAF9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402070000 +0200" stop="20230402072900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Le grand JT des territoires</title>
+<desc lang="fr">Toutes les semaines, retrouvez le Grand JT des territoires, l'actualité des régions françaises, présenté par Cyril Viguier.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/87DD307F8537D937336E4F0674B37FCF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402072900 +0200" stop="20230402073000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F68C430ACA17FB23C91B81232A2CCC15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402073000 +0200" stop="20230402075900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Ça fait débat</title>
+<desc lang="fr">Présentée par Jefferson Desport et Xavier Sota, retrouvez chaque mardi à 18h notre émission de débat (26 mn) sur un sujet qui fait l'actualité politique, économique, sociale ou judiciaire avec les acteurs de la région. Maires, parlementaires, représentants des grandes filières économiques, syndicalistes, enseignants…</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://img.bouygtel.fr/CMS/images/62C379B2665CA17726E0919718884CE4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402075900 +0200" stop="20230402080000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F68C430ACA17FB23C91B81232A2CCC15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402080000 +0200" stop="20230402082400 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Backstage</title>
+<desc lang="fr">Présenté par Benjamin Bardel, retrouvez chaque vendredi à 18h notre talk show culturel qui accueille les célébrités d'hier, d'aujourd'hui et de demain et met en avant les personnalités de passage dans la région avec bienveillance et curiosité. Artistes, chanteurs, acteurs, écrivains, réalisateurs, influenceurs viennent livrer leurs grandes et petites histoires et parler de leur actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/15467587EF887970A8F40F730358EAF9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402082400 +0200" stop="20230402082900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Gironde Mag'</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402082900 +0200" stop="20230402083000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F68C430ACA17FB23C91B81232A2CCC15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402083000 +0200" stop="20230402085900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">123 Musette !</title>
+<desc lang="fr">Cette émission de 26', entièrement consacrée à l'accordéon, vous présente chaque semaine des artistes et vous fait découvrir de nouveaux talents.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2024A05D60366C4F3515C91DB637E4D1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402085900 +0200" stop="20230402090000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F68C430ACA17FB23C91B81232A2CCC15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402090000 +0200" stop="20230402093000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">1,2,3 Dansez</title>
+<desc lang="fr">Chaque semaine, l'animateur Pierre-Yves Lombard et son chroniqueur programmateur Jérôme Richard (L'accordéoniste le plus titré: 6 fois champion du monde), reçoivent les meilleurs accordéonistes de France.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2024A05D60366C4F3515C91DB637E4D1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402093000 +0200" stop="20230402094000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Clips d'Ici</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FF9B20AD2C50663B4B82689072317D4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402094000 +0200" stop="20230402103000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Ski nordique : Championnats de France U20 femmes</title>
+<desc lang="fr">Championnats de France U20 femmes 2023. Relais Biathlon Dames.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Combiné nordique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402103000 +0200" stop="20230402113000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Ski nordique : Championnats de France U20 femmes</title>
+<desc lang="fr">Championnats de France U20 femmes 2023. Relais Fond Dames.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Combiné nordique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402113000 +0200" stop="20230402123000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Ski nordique : Championnats de France U20 hommes</title>
+<desc lang="fr">Championnats de France U20 hommes 2023. Relais Biathlon Hommes.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Combiné nordique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402123000 +0200" stop="20230402123500 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Gironde Mag'</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402123500 +0200" stop="20230402134500 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Ski nordique : Championnats de France U20 hommes</title>
+<desc lang="fr">Championnats de France U20 hommes 2023. Relais Fond Hommes.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Combiné nordique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402134500 +0200" stop="20230402134700 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F68C430ACA17FB23C91B81232A2CCC15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402134700 +0200" stop="20230402135000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Bordeaux Métropole. Pourquoi ? Comment ?</title>
+<desc lang="fr">BMPC (Bordeaux Métropole. Pourquoi ? Comment ?), c'est le reportage qui informe les habitants de l'agglomération bordelaise sur les actions, initiatives et compétences de Bordeaux Métropole et des 28 communes qui la composent. Il traite des enjeux d'aujourd'hui et met également en avant les projets et réalisations de la collectivité sur son territoire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0FA18359F615666EDF4E6FB64C53BCD7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402135000 +0200" stop="20230402141900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">BivouAq'</title>
+<desc lang="fr">On part en voyage à côté de chez soi : c'est un peu comme si chaque mois vous partiez découvrir, en bivouac, un territoire de la région, pour mieux comprendre tout ce qui pourrait vous donner envie de vous y installer. Se réinventer dans une filière économique en pleine mutation, respirer dans des espaces naturels magnifiques, goûter aux produits locaux en circuits courts, autant de trésors que TV7 vous fait partager.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7C2D306D0ECED4E4DCC382FA18F82340.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402141900 +0200" stop="20230402142400 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Gironde Mag'</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402142400 +0200" stop="20230402143000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Clips d'Ici</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/681286BC9D294EF3A40BB1590BAB2E71.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402143000 +0200" stop="20230402150000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">L'Info dans le rétro</title>
+<desc lang="fr">Présenté par Alix Fourcade, retour sur l'actualité qui a marqué la semaine en Nouvelle-Aquitaine. Avec des reportages, des interviews, des extraits de nos JT, de nos émissions de débat/société, des rendez-vous autour de l'économie régionale et bien sûr un focus sur l'information sportive.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/61AE635B9F90C3641250BF3064552F8F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402150000 +0200" stop="20230402153000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La santé d'abord</title>
+<desc lang="fr">Un programme multimédia au service des &quot; télénautes &quot; qui recherchent des réponses concrètes à leurs questions de santé et de bien-être. Bien réagir face aux pépins de santé des membres de sa famille au quotidien, savoir prévenir les incidents par une meilleure nutrition et un bon entretien de son corps, avoir les clés psychologiques pour améliorer son bien être, choisir la méthode la plus adaptée pour son développement personnel... Telles sont les questions auxquelles ce nouveau programme tente de répondre.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BAC86DBEA14A017716D89CDF2230D1AA.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402153000 +0200" stop="20230402153500 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">A la page</title>
+<desc lang="fr">Véritable rendez-vous littéraire, &quot;TV7 à la page&quot; présente chaque semaine une sélection d'ouvrages parus aux éditions Sud Ouest. Présentée par Dominique Parmentier tous les mercredis à 18h15, en compagnie des éditrices Marie Cardinaud ou Catherine Dubreil, l'émission fait la part belle aux richesses locales et aux auteurs de notre Région à travers des collections pratiques et richement illustrées. L'occasion de découvrir des guides touristiques, des ouvrages en lien avec l'histoire et le patrimoine, des balades nature, des polars et fictions ou encore des livres autour de la gastronomie et du vin.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A45FE534967711934F56DABC0E7F955F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402153500 +0200" stop="20230402155100 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Ci Né Ma</title>
+<desc lang="fr">Quoi de neuf au cinéma cette semaine ? Ci Na Ma c'est votre magazine dédié aux sorties ciné de la semaine.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C0848F931DB13AF8B4890DD28D110631.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402155100 +0200" stop="20230402160000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Clips d'Ici</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FF9B20AD2C50663B4B82689072317D4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402160000 +0200" stop="20230402161300 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">L'Hebdo éco</title>
+<desc lang="fr">Actualité boursière et financière, épargne, vie des entreprises, consommation, immobilier, retraite, impôts, e-commerce… Chaque jeudi à 18h dans &quot;L'Hebdo Eco&quot;, les journalistes du pôle Economie de Sud Ouest proposent d'approfondir un sujet d'actualité, qui touche aussi bien le citoyen dans son quotidien que les PME-TPE, et ce dans tous les secteurs d'activités, et d'en débattre avec un invité afin de mieux comprendre les enjeux et la société qui nous entourent.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/79F107B3EAFAD27BD5C68C46A488BED4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402161300 +0200" stop="20230402163000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Business club de France</title>
+<desc lang="fr">L'actu de TPE, PME et le Business Club de France à la Télévision. Une émission diffusée sur 26 TV locales partout en France</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F670C89312451156A3767DE972295429.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402163000 +0200" stop="20230402164500 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Faites le Buzz</title>
+<desc lang="fr">Chaque semaine des écoles de la région s'affrontent sur des questions de culture générale.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402164500 +0200" stop="20230402165200 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Faites le Buzz - La suite</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402165200 +0200" stop="20230402170000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Clips d'Ici</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FF9B20AD2C50663B4B82689072317D4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402170000 +0200" stop="20230402171600 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Cultivons la découverte</title>
+<desc lang="fr">Et si la culture émergente et les pionniers de la création étaient nos voisins de palier ? Rendez-vous avec l'artiste Sarah Trouche qui aborde les thèmes les plus surprenants de l'art et du patrimoine en Nouvelle-Aquitaine, pour que l'essentiel reste accessible à tous.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2893F8EC4AF272EFE2472C105D43356F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402171600 +0200" stop="20230402173000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Cultivons la découverte</title>
+<desc lang="fr">Et si la culture émergente et les pionniers de la création étaient nos voisins de palier ? Rendez-vous avec l'artiste Sarah Trouche qui aborde les thèmes les plus surprenants de l'art et du patrimoine en Nouvelle-Aquitaine, pour que l'essentiel reste accessible à tous.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2893F8EC4AF272EFE2472C105D43356F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402173000 +0200" stop="20230402174700 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Business club de France</title>
+<desc lang="fr">L'actu de TPE, PME et le Business Club de France à la Télévision. Une émission diffusée sur 26 TV locales partout en France</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9C4719B0AC75E59687847127ED743181.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402174700 +0200" stop="20230402175000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Bordeaux Métropole. Pourquoi ? Comment ?</title>
+<desc lang="fr">BMPC (Bordeaux Métropole. Pourquoi ? Comment ?), c'est le reportage qui informe les habitants de l'agglomération bordelaise sur les actions, initiatives et compétences de Bordeaux Métropole et des 28 communes qui la composent. Il traite des enjeux d'aujourd'hui et met également en avant les projets et réalisations de la collectivité sur son territoire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0FA18359F615666EDF4E6FB64C53BCD7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402175000 +0200" stop="20230402180000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Clips d'Ici</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/681286BC9D294EF3A40BB1590BAB2E71.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402180000 +0200" stop="20230402182900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">L'Info dans le rétro</title>
+<desc lang="fr">Présenté par Alix Fourcade, retour sur l'actualité qui a marqué la semaine en Nouvelle-Aquitaine. Avec des reportages, des interviews, des extraits de nos JT, de nos émissions de débat/société, des rendez-vous autour de l'économie régionale et bien sûr un focus sur l'information sportive.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A68C277BED9C84B49955B7FF31591E37.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402182900 +0200" stop="20230402183000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F68C430ACA17FB23C91B81232A2CCC15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402183000 +0200" stop="20230402185600 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">BivouAq'</title>
+<desc lang="fr">On part en voyage à côté de chez soi : c'est un peu comme si chaque mois vous partiez découvrir, en bivouac, un territoire de la région, pour mieux comprendre tout ce qui pourrait vous donner envie de vous y installer. Se réinventer dans une filière économique en pleine mutation, respirer dans des espaces naturels magnifiques, goûter aux produits locaux en circuits courts, autant de trésors que TV7 vous fait partager.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7C2D306D0ECED4E4DCC382FA18F82340.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402185600 +0200" stop="20230402190000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/60BA69DA126C6F6A440AB223F262A9DD.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402190000 +0200" stop="20230402192900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Extralocal</title>
+<desc lang="fr">Extralocal c'est votre magazine de sociétés et de débat proposé par Territoires.tv et la presse quotidienne Régionale (Sud Ouest, Le télégramme, La voix du Nord, La nouvelle République du Centre Ouest). Chaque semaine Marie Brette accompagnée de 3 journalistes issues des régions accueillent un invité pour débattre et confronter les points de vue de nos territoires sur ce qui a fait l'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8B38A98CE4A6763A7CDE1A35571F2059.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402192900 +0200" stop="20230402200000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">ExtraLocal : La suite</title>
+<desc lang="fr">&quot;Extralocal&quot;, c'est votre magazine de sociétés et de débat proposé par Territoires.tv et la presse quotidienne Régionale (Sud Ouest, Le télégramme, La voix du Nord, La nouvelle République du Centre Ouest). Chaque semaine Marie Brette accompagnée de 3 journalistes issues des régions accueillent un invité pour débattre et confronter les points de vue de nos territoires sur ce qui a fait l'actualité</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8B38A98CE4A6763A7CDE1A35571F2059.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402200000 +0200" stop="20230402202400 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Backstage</title>
+<desc lang="fr">Présenté par Benjamin Bardel, retrouvez chaque vendredi à 18h notre talk show culturel qui accueille les célébrités d'hier, d'aujourd'hui et de demain et met en avant les personnalités de passage dans la région avec bienveillance et curiosité. Artistes, chanteurs, acteurs, écrivains, réalisateurs, influenceurs viennent livrer leurs grandes et petites histoires et parler de leur actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/15467587EF887970A8F40F730358EAF9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402202400 +0200" stop="20230402203000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Gironde Mag'</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402203000 +0200" stop="20230402204700 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Faites le Buzz</title>
+<desc lang="fr">Chaque semaine des écoles de la région s'affrontent sur des questions de culture générale.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402204700 +0200" stop="20230402205400 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Faites le Buzz - La suite</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402205400 +0200" stop="20230402205500 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F68C430ACA17FB23C91B81232A2CCC15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402205500 +0200" stop="20230402205600 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Première séance</title>
+<desc lang="fr">Votre RDV hebdo sur TV7 consacré à la diffusion d'oeuvres de création en Nouvelle-Aquitaine.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402205600 +0200" stop="20230402214800 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Documentaires</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402214800 +0200" stop="20230402215900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Première séance</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402215900 +0200" stop="20230402220000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F68C430ACA17FB23C91B81232A2CCC15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402220000 +0200" stop="20230402223000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Le grand JT des territoires</title>
+<desc lang="fr">Toutes les semaines, retrouvez le Grand JT des territoires, l'actualité des régions françaises, présenté par Cyril Viguier.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/87DD307F8537D937336E4F0674B37FCF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402223000 +0200" stop="20230402230000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Ça fait débat</title>
+<desc lang="fr">Présentée par Jefferson Desport et Xavier Sota, retrouvez chaque mardi à 18h notre émission de débat (26 mn) sur un sujet qui fait l'actualité politique, économique, sociale ou judiciaire avec les acteurs de la région. Maires, parlementaires, représentants des grandes filières économiques, syndicalistes, enseignants…</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C7FB32DD183210F44DBCAE5C2A44E0F7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402230000 +0200" stop="20230402233000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">BivouAq'</title>
+<desc lang="fr">On part en voyage à côté de chez soi : c'est un peu comme si chaque mois vous partiez découvrir, en bivouac, un territoire de la région, pour mieux comprendre tout ce qui pourrait vous donner envie de vous y installer. Se réinventer dans une filière économique en pleine mutation, respirer dans des espaces naturels magnifiques, goûter aux produits locaux en circuits courts, autant de trésors que TV7 vous fait partager.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7C2D306D0ECED4E4DCC382FA18F82340.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402233000 +0200" stop="20230402233000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Champs Libres</title>
+<desc lang="fr">Parce que l'art et la culture ils ne vont si loin de la ville, le magazine &quot;Champs libres&quot; explore les initiatives étonnantes au coeur des campagnes de la Nouvelle Aquitaine. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1E6398422C4688F979C0F78E809ECEC3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

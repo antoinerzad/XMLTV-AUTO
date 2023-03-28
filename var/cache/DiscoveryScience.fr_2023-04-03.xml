@@ -1,0 +1,270 @@
+<!-- racacax\XmlTv\Component\Provider\SFR -->
+<programme start="20230403023000 +0200" stop="20230403031500 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Ghost Legends</title>
+<sub-title lang="fr">Le secret de Pendleton</sub-title>
+<desc lang="fr">L'équipe se rend à Pendleton, dans l'Oregon : elle enquête sur une ville oubliée composée d'un labyrinthe de tunnels menant à un mystérieux monde souterrain.</desc>
+<category lang="fr">Documentaire de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/6/6261600.jpg" />
+<episode-num system="xmltv_ns">1.6.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230403031500 +0200" stop="20230403040000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Ghost Legends</title>
+<sub-title lang="fr">Fureur divine</sub-title>
+<desc lang="fr">L'équipe est confrontée à une terreur absolue en visitant Hilo, à Hawaï : que va-t-elle découvrir lors de l'enquête sur des rumeurs de voix d'outre-tombe ?</desc>
+<category lang="fr">Documentaire de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/6/6261600.jpg" />
+<episode-num system="xmltv_ns">1.7.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230403040000 +0200" stop="20230403044500 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">L'Histoire en 3D</title>
+<sub-title lang="fr">La cité égyptienne enfouie</sub-title>
+<desc lang="fr">Les experts enquêtent sur une ville perdue, enterrée dans le Sahara :  les archéologues découvrent les ruines oubliées de la ville et ses sombres secrets.</desc>
+<category lang="fr">Documentaire</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/2/5768205.jpg" />
+<episode-num system="xmltv_ns">3.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403044500 +0200" stop="20230403053500 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Structures à hauts risques</title>
+<desc lang="fr">Justin monte sur le toit d'un stade qui risque de s'effondrer et vérifie une nouvelle flotte de sous-marins trop lourds pour flotter.</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/5/1/5768158.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403053500 +0200" stop="20230403060000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Comment ça marche ?</title>
+<desc lang="fr">Comment gérer l'exploitation d'une ferme grâce à des robots, construire une machine capable de saisir 30 tonnes de bois en une fois et déplacer des pianos précieux ?</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/7/6/5950674.jpg" />
+<episode-num system="xmltv_ns">11.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403060000 +0200" stop="20230403062500 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Comment ça marche ?</title>
+<desc lang="fr">Comment fabrique-t-on la voiture électrique la plus rapide, la Tesla modèle S, transforme-t-on la queue des chevaux en tissus et nettoie-t-on les piscines ?</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/3/5768305.jpg" />
+<episode-num system="xmltv_ns">12.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403062500 +0200" stop="20230403065000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Comment ça marche ?</title>
+<desc lang="fr">Comment les escargots sont-ils cuisinés ? Comment de l'acier brut est-il transformé en couverts brillants ? Comment construit-on un pédalo ?</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/3/5768305.jpg" />
+<episode-num system="xmltv_ns">12.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403065000 +0200" stop="20230403072000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Comment ça marche ?</title>
+<desc lang="fr">Comment un pont pouvant supporter une lourde charge est-il construit ? Comment fabrique-t-on un marqueur indélébile et une moto montant jusqu'à 320 km/h ?</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/3/5768305.jpg" />
+<episode-num system="xmltv_ns">12.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403072000 +0200" stop="20230403081000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Objectif Terre</title>
+<sub-title lang="fr">Le Krakatoa, un nouveau cataclysme mondial ?</sub-title>
+<desc lang="fr">Un volcan actif émerge de l'océan et risque de plonger la planète dans la pénombre ; va-t-il à nouveau entrer en éruption et provoquer un cataclysme ?</desc>
+<category lang="fr">Documentaire</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/2/5820215.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403081000 +0200" stop="20230403090000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Objectif Terre</title>
+<sub-title lang="fr">Le Japon, une lutte pour la survie</sub-title>
+<desc lang="fr">Les Japonais, qui vivent sous la menace constante des tsunamis, des éruptions volcaniques et des tremblements de terre, luttent pour maîtriser leur environnement.</desc>
+<category lang="fr">Documentaire</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/2/5820215.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403090000 +0200" stop="20230403095500 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Objectif Terre</title>
+<sub-title lang="fr">Un enfer volcanique pour l'Europe ?</sub-title>
+<desc lang="fr">Alors que Liz Bonnin et Martin Pepper étudient le Mont Vésuve, ils découvrent un autre gigantesque volcan destructeur : le Campi Flegrei.</desc>
+<category lang="fr">Documentaire</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/2/5820215.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403095500 +0200" stop="20230403104500 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Richard Hammond XXL</title>
+<sub-title lang="fr">Le méga navire</sub-title>
+<desc lang="fr">Richard se joint à l'équipage de l'un des plus grands objets mobiles sur terre, le porte-conteneurs Marie Maersk lors d'un voyage de 45 000 km entre l'Asie et l'Europe.</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/3/3/5820332.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403104500 +0200" stop="20230403114000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Richard Hammond XXL</title>
+<sub-title lang="fr">Le plus grand tunnel ferroviaire</sub-title>
+<desc lang="fr">Richard s'aventure à 2 km sous les Alpes dans la plus longue liaison ferroviaire souterraine du monde, le tunnel de base du Brenner, à bord de machines géantes.</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/3/3/5820332.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403114000 +0200" stop="20230403120500 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Comment ça marche ?</title>
+<desc lang="fr">Comment extraire le minerais utilisé dans les ustensiles de cuisine, s'assurer que l'argent dans les distributeurs est en sécurité et fabriquer des hyper voitures avec du tissu ?</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/1/3/5820310.jpg" />
+<episode-num system="xmltv_ns">10.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403120500 +0200" stop="20230403123000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Comment ça marche ?</title>
+<desc lang="fr">Comment bâtir un port pour les plus grands porte-conteneurs du monde, fabriquer 28 millions de sacs plastique par jour ou des boules de Noël en verre soufflé ?</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/1/3/5820310.jpg" />
+<episode-num system="xmltv_ns">10.13.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403123000 +0200" stop="20230403125500 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Comment ça marche ?</title>
+<desc lang="fr">Comment produire le vinaigre le plus cher du monde, garder des plongeurs au sec et au chaud dans de l'eau glaciale et construire un avion qui vole à l'envers ?</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/1/3/5820310.jpg" />
+<episode-num system="xmltv_ns">10.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403125500 +0200" stop="20230403132500 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Comment ça marche ?</title>
+<desc lang="fr">Comment rendre un véhicule plus écologique et plus sûr avec un acier forgé ? Comment se planifie la tonte des 80 millions de moutons australiens chaque printemps ?</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/1/3/5820310.jpg" />
+<episode-num system="xmltv_ns">10.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403132500 +0200" stop="20230403141500 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Cooper's Treasure, un trésor vu de l'espace</title>
+<sub-title lang="fr">En pleine tempête</sub-title>
+<desc lang="fr">Une dangereuse tempête menace de faire capoter l'opération, alors que Darrell et son équipe découvrent du minerai d'or dans les restes d'une vieille épave.</desc>
+<category lang="fr">Documentaire de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/1/5792104.jpg" />
+<episode-num system="xmltv_ns">1.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403141500 +0200" stop="20230403151500 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Cooper's Treasure, un trésor vu de l'espace</title>
+<sub-title lang="fr">De l'or !</sub-title>
+<desc lang="fr">Lors de l'une des découvertes les plus importantes de la carrière de Darrell, l'équipe découvre des objets provenant de la cabine d'un capitaine du XVIe siècle.</desc>
+<category lang="fr">Documentaire de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/1/5792104.jpg" />
+<episode-num system="xmltv_ns">1.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403151500 +0200" stop="20230403161500 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Les clés de l'univers</title>
+<desc lang="fr">Certains des esprits et théoriciens les plus brillants de la planète évoquent les limites du savoir humain et expliquent scientifiquement les règles de l'univers.</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/6/1/5768167.jpg" />
+<episode-num system="xmltv_ns">7.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403161500 +0200" stop="20230403180500 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Les clés de l'univers</title>
+<desc lang="fr">Certains théoriciens les plus brillants de la planète évoquent les limites du savoir humain et expliquent scientifiquement les règles de l'univers.</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/6/1/5768167.jpg" />
+<episode-num system="xmltv_ns">7.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403180500 +0200" stop="20230403183000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Comment ça marche ?</title>
+<desc lang="fr">Comment façonner du crystal délicat, fabriquer une télé plate, comment chauffe-t-on une piscine profonde, comment remplit-on des millions de bouteilles de ketchup par jour ?</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/3/5768305.jpg" />
+<episode-num system="xmltv_ns">12.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403183000 +0200" stop="20230403190000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Comment ça marche ?</title>
+<desc lang="fr">Comment la climatisation a-t-elle été mise en oeuvre dans l'opéra de Sydney ? Comment traverser sans danger une rivière gelée ? Comment rend-on un micro sensible aux chuchotements ?</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/3/5768305.jpg" />
+<episode-num system="xmltv_ns">12.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403190000 +0200" stop="20230403193000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Comment ça marche ?</title>
+<desc lang="fr">Comment extrait-on des pierres précieuses rares ? Comment sont fabriqués les bottes de cowboys et un camion-poubelle d'une contenance de sept tonnes ?</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/3/5768305.jpg" />
+<episode-num system="xmltv_ns">12.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403193000 +0200" stop="20230403200000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Comment ça marche ?</title>
+<desc lang="fr">Comment fabrique-t-on des couettes moelleuses ? Comment est foré le pétrole ? Comment fabrique-t-on l'élastique le plus extensible au monde ?</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/3/5768305.jpg" />
+<episode-num system="xmltv_ns">12.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403200000 +0200" stop="20230403203000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Comment ça marche ?</title>
+<desc lang="fr">Comment fabrique-t-on un moteur diesel capable de voler, des pastilles pour la toux, des billets infalsifiables ou encore de délicieux parfums de glaces ?</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/3/5768305.jpg" />
+<episode-num system="xmltv_ns">12.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403203000 +0200" stop="20230403210000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Comment ça marche ?</title>
+<sub-title lang="fr">Canettes en aluminium / Horloges coucous</sub-title>
+<desc lang="fr">Comment transforme-t-on des canettes usagées en avions et comment la traditionnelle pendule à coucou de la Forêt noire est-elle façonnée ? Réponses.</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/1/5800138.jpg" />
+<episode-num system="xmltv_ns">13.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403210000 +0200" stop="20230403230000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Effroi sur le Queen Mary, avec Jack et Kelly Osbourne</title>
+<desc lang="fr">Jack et Kelly Osbourne partent trois jours pour mener une enquête terrifiante sur le Queen Mary. Que découvriront-ils sur ce célèbre paquebot hanté ?</desc>
+<category lang="fr">Téléréalité</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/5/5/6493559.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403230000 +0200" stop="20230404000000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Road-trip de la terreur</title>
+<sub-title lang="fr">Manoir Hill View</sub-title>
+<desc lang="fr">L'équipe se rend en Pennsylvanie pour enquêter sur une ancienne maison de retraite. Alex évacue la propriété lors d'une urgence provoquée par l'activité paranormale.</desc>
+<category lang="fr">Téléréalité</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/2/6/5978622.jpg" />
+<episode-num system="xmltv_ns">1.3.</episode-num>
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230404000000 +0200" stop="20230404005000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Road-trip de la terreur</title>
+<sub-title lang="fr">Hôpital Yorktown Memorial</sub-title>
+<desc lang="fr">L'équipe enquête sur un hôpital texan au passé atroce. La chapelle de ce bâtiment abandonné abriterait une entité démoniaque.</desc>
+<category lang="fr">Téléréalité</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/2/6/5978622.jpg" />
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230404005000 +0200" stop="20230404014000 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Les clés de l'univers</title>
+<desc lang="fr">Certains des esprits et théoriciens les plus brillants de la planète évoquent les limites du savoir humain et expliquent scientifiquement les règles de l'univers.</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/6/1/5768167.jpg" />
+<episode-num system="xmltv_ns">7.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230404014000 +0200" stop="20230404031500 +0200" channel="DiscoveryScience.fr">
+<title lang="fr">Les clés de l'univers</title>
+<desc lang="fr">Certains théoriciens les plus brillants de la planète évoquent les limites du savoir humain et expliquent scientifiquement les règles de l'univers.</desc>
+<category lang="fr">Documentaire scientifique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/6/1/5768167.jpg" />
+<episode-num system="xmltv_ns">7.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

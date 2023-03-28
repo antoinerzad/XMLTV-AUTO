@@ -1,0 +1,184 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230403032000 +0200" stop="20230403065800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403065800 +0200" stop="20230403085900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Open du Texas</title>
+<desc lang="fr">Circuit américain 2022/2023. Open du Texas.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EC2B28D8339AF1F9F3C6F9BB574BF9B4.jpg" />
+<episode-num system="xmltv_ns">0.133.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403085900 +0200" stop="20230403102500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 2 : Grand Prix d'Australie</title>
+<desc lang="fr">Championnat FIA 2023. Grand Prix d'Australie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 2</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B84EAD40A196BE8B9E8C379A6E15C038.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403102500 +0200" stop="20230403121200 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix d'Australie</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix d'Australie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3E1B670CF288C19B64FA424427E13A68.jpg" />
+<episode-num system="xmltv_ns">0.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403121200 +0200" stop="20230403122300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Le podium</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/979C52575A3738091BDB2FD893954A0C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403122300 +0200" stop="20230403131000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formula One, le mag</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D39BE9EDB02DA24FB3DFDBB609500973.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403131000 +0200" stop="20230403133600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fractionné F1</title>
+<sub-title lang="fr">Interview de René Arnoux</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0B9061176B969F689C653E02B0FEFEF7.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403133600 +0200" stop="20230403152700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">IndyCar Series : Grand Prix du Texas</title>
+<desc lang="fr">IndyCar Series 2023. Grand Prix du Texas.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Indycar</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A36FD3A22F9A1910AF8DE9042E5AE6A2.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403152700 +0200" stop="20230403170900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 6e journée. Reds / Crusaders.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C2ABEC5E084A6260879A9F0A89C4901F.jpg" />
+<episode-num system="xmltv_ns">0.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403170900 +0200" stop="20230403171000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf Divers</title>
+<sub-title lang="fr">Plateau</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/53AD3CCB4EAA95650663C69BD2BA203C.jpg" />
+<episode-num system="xmltv_ns">0.36.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403171000 +0200" stop="20230403181000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Masters : La dernière heure</title>
+<sub-title lang="fr">2000 (Singh)</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/21CBE6377B9EC10FBA6666C40BDAB1B0.jpg" />
+<episode-num system="xmltv_ns">0.27.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403181000 +0200" stop="20230403191000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Masters : La dernière heure</title>
+<sub-title lang="fr">2009 (Cabrera)</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F7400B308F83750D603E08E52BC72241.jpg" />
+<episode-num system="xmltv_ns">0.28.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403191000 +0200" stop="20230403201200 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Masters : La dernière heure</title>
+<sub-title lang="fr">2013 (Scott)</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/21CBE6377B9EC10FBA6666C40BDAB1B0.jpg" />
+<episode-num system="xmltv_ns">0.29.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403201200 +0200" stop="20230403210000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">La grille</title>
+<sub-title lang="fr">Grand Prix d'Australie</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/251527B429C5AAAD191EC4DBCEC463EB.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403210000 +0200" stop="20230403224600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix d'Australie</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix d'Australie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/ADD57D7FEFDC3744EB088CCB6579A2C0.jpg" />
+<episode-num system="xmltv_ns">0.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403224600 +0200" stop="20230403225700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Le podium</title>
+<sub-title lang="fr">Grand Prix d'Australie</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/91282EBA54DAC49C4CE1EEF883B15F41.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403225700 +0200" stop="20230403233400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formula One, le mag</title>
+<sub-title lang="fr">Grand Prix d'Australie</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D39BE9EDB02DA24FB3DFDBB609500973.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403233400 +0200" stop="20230404013400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Open du Texas</title>
+<desc lang="fr">Circuit américain 2022/2023. Open du Texas.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/826904A4478A18E575A7C20474F1E980.jpg" />
+<episode-num system="xmltv_ns">0.133.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230404013400 +0200" stop="20230404030900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Un autre monde</title>
+<desc lang="fr">Cadre dirigeant dans une grande entreprise, Philippe subit les conséquences de décisions prises par une hiérarchie instable. Pour éviter une faillite pure et simple, il doit procéder à contrecoeur au licenciement d'une partie de ses effectifs. A l'approche de la cinquantaine, sa femme Anne ne supporte plus de voir sa vie de couple minée par les problèmes professionnels d'un époux incapable de faire preuve de discernement. Très vite, la décision tombe : elle souhaite divorcer. Acculé, Philippe se retrouve à la croisée des chemins. Désormais, il doit faire le tri, choisir ses priorités, et décider du sens à donner à son existence...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/96E33C00BC920E7EA3B360AF851D9E8D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230404030900 +0200" stop="20230404073000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

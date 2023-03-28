@@ -1,0 +1,23 @@
+<!-- racacax\XmlTv\Component\Provider\SFR -->
+<programme start="20230403020000 +0200" stop="20230403024000 +0200" channel="ChannelOneRussia.ru">
+<title lang="fr">Podkast. Lab</title>
+<sub-title lang="fr">Obyazatel'no k prochteniju</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Divertissement</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/5/0/2614050.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403024000 +0200" stop="20230403030000 +0200" channel="ChannelOneRussia.ru">
+<title lang="fr">Podkast. Lab</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Divertissement</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/2/2547221.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403030000 +0200" stop="20230403030000 +0200" channel="ChannelOneRussia.ru">
+<title lang="fr">Vremya</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/5/3/2774350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

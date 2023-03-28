@@ -1,0 +1,31 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230401203000 +0200" stop="20230402094500 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Volley-ball : Coupe de France féminine</title>
+<desc lang="fr">Béziers Volley-Ball - Racing Club de Cannes, finales femmes de la Coupe de France de volley-ball.</desc>
+<category lang="fr">Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_11366485.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402094500 +0200" stop="20230402151500 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Ski nordique : Championnats de France U20 hommes</title>
+<desc lang="fr">Championnats de France de ski nordique</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Ski</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11596956.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402151500 +0200" stop="20230402171500 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Basket-ball : Ligue féminine</title>
+<desc lang="fr">Lyon - Bourges, 19ème journée du championnat de France de basket féminin.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Basketball</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_14526907.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402171500 +0200" stop="20230403080000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Volley-ball : Coupe de France</title>
+<desc lang="fr">Nice Volley-ball - Tours Volley-ball, finale de la Coupe de France hommes de volley-ball.</desc>
+<category lang="fr">Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13020166.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

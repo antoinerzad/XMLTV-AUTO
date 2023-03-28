@@ -1,0 +1,284 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230327062000 +0200" stop="20230327062500 +0200" channel="viaATV.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Découvrez les prévisions météorologiques du jour.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/d041fa00ba9b1af63b476bcc1a2682dfba94420f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327062500 +0200" stop="20230327111000 +0200" channel="viaATV.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/13/d45b2cbc9aa987a98f831e7d82a088ce8e8a0faf.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327111000 +0200" stop="20230327120500 +0200" channel="viaATV.fr">
+<title lang="fr">Le prix de la trahison</title>
+<desc lang="fr">Saison 1 Episode 0
+Zé Maria Magalhaes a émigré au Brésil suite au meurtre de sa famille, commandé par Miguel, l'associé de son père. Il met quinze ans pour retrouver enfin la mémoire et bâtir un empire qui va lui permettre d'assouvir sa vengeance. Mais, les obstacles sont nombreux, le plus grand est son amour pour Bia qui n'est autre que la fille de Miguel.
+Année de réalisation : 2017</desc>
+<category lang="fr">Série sentimentale</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/09/19/023a03c5c95223451918b9bdd9f325fd888409d7.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327120500 +0200" stop="20230327121000 +0200" channel="viaATV.fr">
+<title lang="fr">Météo matin</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/18/f44c6466b5602f48a28c2961501d1a2091221fc6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327121000 +0200" stop="20230327124500 +0200" channel="viaATV.fr">
+<title lang="fr">Les Feux de l'amour</title>
+<desc lang="fr">La publication de William sur Adam inquiète les Newman. Nick accepte d'épauler son père mais Victor comprend que Victoria est de mèche avec William.</desc>
+<category lang="fr">Feuilleton sentimental</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/29/11aed051ca566645934635144c4e767d712e6889.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327124500 +0200" stop="20230327132000 +0200" channel="viaATV.fr">
+<title lang="fr">Le 19H</title>
+<desc lang="fr">Toute l'actualité locale et nationale tous les soirs sur viàATV. </desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/045fc5e5b039110a659db95225e93e5e7da75429.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327132000 +0200" stop="20230327132500 +0200" channel="viaATV.fr">
+<title lang="fr">Météo matin</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/18/f44c6466b5602f48a28c2961501d1a2091221fc6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327132500 +0200" stop="20230327134000 +0200" channel="viaATV.fr">
+<title lang="fr">An tjè peyi-a</title>
+<desc lang="fr">Votre emission où vous avez la parole, chaque jour régine vous tend le micro.</desc>
+<category lang="fr">Magazine régional</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/c2c3a0e502eb2aef151f7ea96640687d2c34b95e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327134000 +0200" stop="20230327135500 +0200" channel="viaATV.fr">
+<title lang="fr">Face à Face</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/35cd83066975f29c0b603883262e5ad58c960841.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327135500 +0200" stop="20230327140000 +0200" channel="viaATV.fr">
+<title lang="fr">Sé zot ki ka palé</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine régional</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/a8184426fcb2c87d38e366c30d1b7da9150c4da6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327140000 +0200" stop="20230327153000 +0200" channel="viaATV.fr">
+<title lang="fr">ViàATV Boutik</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine de télé-achat</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/a8184426fcb2c87d38e366c30d1b7da9150c4da6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327153000 +0200" stop="20230327154000 +0200" channel="viaATV.fr">
+<title lang="fr">Côté Ciné</title>
+<desc lang="fr">Le magazine du cinéma.</desc>
+<category lang="fr">Magazine du cinéma</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/29/dc6b69527a143e543772fa7c64585a06612ac57c.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327154000 +0200" stop="20230327162500 +0200" channel="viaATV.fr">
+<title lang="fr">Le serment d'amour</title>
+<desc lang="fr">Hikmet a amené Reyhan, sa nièce, à Istanbul pour qu'elle épouse son fils gâté, Emir. Reyhan ne veut pas épouser un étranger mais son oncle la sollicite en lui parlant de sa maladie. Elle accepte à contrecœur pour le bien de son oncle. Emir ne voulait pas non plus se marier car il aime trop sa liberté. Mais après avoir été forcé par son père, il a accepté. Mais il a juré de maltraiter la jeune fille pour qu'elle divorce elle-même. </desc>
+<category lang="fr">Feuilleton dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/fde19f85d234a86bb7eeb9704d4d9570b064598a_97A266D21C17F581DD8A719509712BBA.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327162500 +0200" stop="20230327171000 +0200" channel="viaATV.fr">
+<title lang="fr">Le serment d'amour</title>
+<desc lang="fr">Hikmet a amené Reyhan, sa nièce, à Istanbul pour qu'elle épouse son fils gâté, Emir. Reyhan ne veut pas épouser un étranger mais son oncle la sollicite en lui parlant de sa maladie. Elle accepte à contrecœur pour le bien de son oncle. Emir ne voulait pas non plus se marier car il aime trop sa liberté. Mais après avoir été forcé par son père, il a accepté. Mais il a juré de maltraiter la jeune fille pour qu'elle divorce elle-même. </desc>
+<category lang="fr">Feuilleton dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/fde19f85d234a86bb7eeb9704d4d9570b064598a_97A266D21C17F581DD8A719509712BBA.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327171000 +0200" stop="20230327175000 +0200" channel="viaATV.fr">
+<title lang="fr">Les Feux de l'amour</title>
+<desc lang="fr">La publication de William sur Adam inquiète les Newman. Nick accepte d'épauler son père mais Victor comprend que Victoria est de mèche avec William.</desc>
+<category lang="fr">Feuilleton sentimental</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/29/11aed051ca566645934635144c4e767d712e6889.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327175000 +0200" stop="20230327184500 +0200" channel="viaATV.fr">
+<title lang="fr">Le prix de la trahison</title>
+<desc lang="fr">Saison 1 Episode 0
+Zé Maria Magalhaes a émigré au Brésil suite au meurtre de sa famille, commandé par Miguel, l'associé de son père. Il met quinze ans pour retrouver enfin la mémoire et bâtir un empire qui va lui permettre d'assouvir sa vengeance. Mais, les obstacles sont nombreux, le plus grand est son amour pour Bia qui n'est autre que la fille de Miguel.
+Année de réalisation : 2017</desc>
+<category lang="fr">Série sentimentale</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/09/19/023a03c5c95223451918b9bdd9f325fd888409d7.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327184500 +0200" stop="20230327185500 +0200" channel="viaATV.fr">
+<title lang="fr">Sé zot ki ka palé</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine régional</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/a8184426fcb2c87d38e366c30d1b7da9150c4da6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327185500 +0200" stop="20230327190000 +0200" channel="viaATV.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Découvrez les prévisions météorologiques du jour.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/d041fa00ba9b1af63b476bcc1a2682dfba94420f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327190000 +0200" stop="20230327191500 +0200" channel="viaATV.fr">
+<title lang="fr">An tjè peyi-a</title>
+<desc lang="fr">Votre emission où vous avez la parole, chaque jour régine vous tend le micro.</desc>
+<category lang="fr">Magazine régional</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/467aca17bc68995232c5f39b52ec27e308bcc892.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327191500 +0200" stop="20230327192000 +0200" channel="viaATV.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Découvrez les prévisions météorologiques du jour.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/d041fa00ba9b1af63b476bcc1a2682dfba94420f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327192000 +0200" stop="20230327195500 +0200" channel="viaATV.fr">
+<title lang="fr">Les Feux de l'amour</title>
+<desc lang="fr">William reçoit l'article sur Adam, mais Lily et Amanda veulent d'abord s'assurer que l'entreprise ne sera pas poursuivie en justice, suite à sa diffusion.</desc>
+<category lang="fr">Feuilleton sentimental</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/29/11aed051ca566645934635144c4e767d712e6889.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327195500 +0200" stop="20230327212500 +0200" channel="viaATV.fr">
+<title lang="fr">Le danger vient de la famille...</title>
+<desc lang="fr">Jamie Mayfield et son fils Preston s'installent quelques temps chez les parents de Jamie, dans sa ville natale. Cette dernière a besoin de faire le point après l'infidélité de son mari. Elle rencontre un jeune homme charmant, Whit, qui gagne rapidement sa confiance, et ne tarde pas à se mettre en couple avec lui, malgré les efforts de ses parents pour la réconcilier avec Rick. Pendant ce temps, elle a des flashbacks de son enfance où elle se faisait maltraiter par un garçon à peine plus vieux qu'elle. Tandis que ces mauvais souvenirs remontent à la surface, elle a peur qu'un homme qui la harcelait lorsqu'elle était au lycée ne soit de retour. Elle pense même le revoir devant la maison et l'entendre crier son nom la nuit. Elle sombre petit à petit dans la paranoïa, convaincue que son mari va essayer de kidnapper leur fils...</desc>
+<category lang="fr">Téléfilm de suspense</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/02/13/9ab7cae768d299ab8e8274627efea1f045053ca6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327212500 +0200" stop="20230327214500 +0200" channel="viaATV.fr">
+<title lang="fr">La boîte à musique</title>
+<desc lang="fr">Toute la musique en vidéo.</desc>
+<category lang="fr">Magazine musical</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/01/87c5d122e46b4e84aac9a4c76be83e97d55aa1df.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327214500 +0200" stop="20230327231500 +0200" channel="viaATV.fr">
+<title lang="fr">Une promesse diabolique</title>
+<desc lang="fr">Jessica et Lars ont décidé de divorcer et leur petit garçon, Danny, souffre de la situation. Jessica espère obtenir la garde de Danny, mais elle redoute que Lars, qui est avocat, ne se serve de son passé contre elle au tribunal. En effet, à 19 ans, la jeune femme a été arrêtée pour détention de stupéfiants. Jessica laisse Danny avec son père pour trois jours car elle doit assister à un congrès au Texas...</desc>
+<category lang="fr">Téléfilm de suspense</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/01/02/8e18d22ff624d5a80b2c9c0e40e637e5d1730ad4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327231500 +0200" stop="20230327232000 +0200" channel="viaATV.fr">
+<title lang="fr">Tirage du Loto</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Loterie</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/02/7241a4a2477d97c046ef4d18e0f54705db950a22.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230327232000 +0200" stop="20230328002000 +0200" channel="viaATV.fr">
+<title lang="fr">Le prix de la trahison</title>
+<desc lang="fr">Saison 1 Episode 0
+Zé Maria Magalhaes a émigré au Brésil suite au meurtre de sa famille, commandé par Miguel, l'associé de son père. Il met quinze ans pour retrouver enfin la mémoire et bâtir un empire qui va lui permettre d'assouvir sa vengeance. Mais, les obstacles sont nombreux, le plus grand est son amour pour Bia qui n'est autre que la fille de Miguel.
+Année de réalisation : 2017</desc>
+<category lang="fr">Série sentimentale</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/09/19/023a03c5c95223451918b9bdd9f325fd888409d7.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328002000 +0200" stop="20230328004000 +0200" channel="viaATV.fr">
+<title lang="fr">An tjè peyi-a</title>
+<desc lang="fr">Votre emission où vous avez la parole, chaque jour régine vous tend le micro.</desc>
+<category lang="fr">Magazine régional</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/467aca17bc68995232c5f39b52ec27e308bcc892.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328004000 +0200" stop="20230328005500 +0200" channel="viaATV.fr">
+<title lang="fr">Face à Face</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/35cd83066975f29c0b603883262e5ad58c960841.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328005500 +0200" stop="20230328010000 +0200" channel="viaATV.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Découvrez les prévisions météorologiques du jour.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/d041fa00ba9b1af63b476bcc1a2682dfba94420f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328010000 +0200" stop="20230328013500 +0200" channel="viaATV.fr">
+<title lang="fr">Le 19H</title>
+<desc lang="fr">Toute l'actualité locale et nationale tous les soirs sur viàATV. </desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/045fc5e5b039110a659db95225e93e5e7da75429.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328013500 +0200" stop="20230328015500 +0200" channel="viaATV.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Découvrez les prévisions météorologiques du jour.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/d041fa00ba9b1af63b476bcc1a2682dfba94420f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328015500 +0200" stop="20230328025500 +0200" channel="viaATV.fr">
+<title lang="fr">7 a nou</title>
+<desc lang="fr">Philippe Diser revient chaque semaine sur les faits qui ont marqué la semaine. Dans une ambiance décontractée les 4 représentants reçoivent un invité qui partage son analyse de l'actualité de la semaine. L'objectif est de décrypter des sujets sérieux, complexes avec un langage accessible au grand public.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/f854f6254b467e0c03f554a57351b98c9d85b14c.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328025500 +0200" stop="20230328043500 +0200" channel="viaATV.fr">
+<title lang="fr">Zone interdite</title>
+<sub-title lang="fr">Sexe, famille, pouvoir : 50 ans de révolution dans les rapports hommes-femmes</sub-title>
+<desc lang="fr">Pour ce numéro anniversaire qui célèbre les 30 ans de &quot;Zone interdite&quot;, les équipes du magazine ont enquêté sur un sujet qui touche beaucoup de monde : les relations entre les femmes et les hommes. Après le choc #metoo, les questions sont nombreuses : comment se séduire ? comment travailler ensemble ? </desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/13/85bd33468abcf286b551371818af45d79ee20ef2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328043500 +0200" stop="20230328045000 +0200" channel="viaATV.fr">
+<title lang="fr">An tjè peyi-a</title>
+<desc lang="fr">Votre emission où vous avez la parole, chaque jour régine vous tend le micro.</desc>
+<category lang="fr">Magazine régional</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/467aca17bc68995232c5f39b52ec27e308bcc892.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328045000 +0200" stop="20230328050500 +0200" channel="viaATV.fr">
+<title lang="fr">Face à Face</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/35cd83066975f29c0b603883262e5ad58c960841.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328050500 +0200" stop="20230328051000 +0200" channel="viaATV.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Découvrez les prévisions météorologiques du jour.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/d041fa00ba9b1af63b476bcc1a2682dfba94420f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328051000 +0200" stop="20230328054500 +0200" channel="viaATV.fr">
+<title lang="fr">Le 19H</title>
+<desc lang="fr">Toute l'actualité locale et nationale tous les soirs sur viàATV. </desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/045fc5e5b039110a659db95225e93e5e7da75429.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328054500 +0200" stop="20230328055000 +0200" channel="viaATV.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Découvrez les prévisions météorologiques du jour.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/d041fa00ba9b1af63b476bcc1a2682dfba94420f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230328055000 +0200" stop="20230328060000 +0200" channel="viaATV.fr">
+<title lang="fr">Sé zot ki ka palé</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine régional</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/a8184426fcb2c87d38e366c30d1b7da9150c4da6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

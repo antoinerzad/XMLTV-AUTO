@@ -1,0 +1,190 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230401051500 +0200" stop="20230401062000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 2 : Grand Prix d'Australie</title>
+<desc lang="fr">Championnat FIA 2023. Grand Prix d'Australie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 2</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E9C82E72DBB3D883CF4067AF6DBAF39C.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401062000 +0200" stop="20230401064000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FE94A7D93AAD8E38CC5F134073111ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401064000 +0200" stop="20230401082100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix d'Australie</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix d'Australie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/63EBAC11C0CF1F6EC0AAF1AA98936558.jpg" />
+<episode-num system="xmltv_ns">0.13.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401082100 +0200" stop="20230401092000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Rugby Sevens Series 2022/2023. 8e manche. Etape de Hong Kong. 2e jour. Session 1.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/47962181A32684E6A5BD4DDDFC018D78.jpg" />
+<episode-num system="xmltv_ns">0.76.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401092000 +0200" stop="20230401112900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Rugby Sevens Series 2022/2023. 8e manche. Etape de Hong Kong. 2e jour. Session 2, 1re partie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/47962181A32684E6A5BD4DDDFC018D78.jpg" />
+<episode-num system="xmltv_ns">0.77.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401112900 +0200" stop="20230401133000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Rugby Sevens Series 2022/2023. 8e manche. Etape de Hong Kong. 2e jour. Session 2, 2e partie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B00B3FAA7837490CAAA1171A7BC8F1C1.jpg" />
+<episode-num system="xmltv_ns">0.78.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401133000 +0200" stop="20230401152900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Rugby Sevens Series 2022/2023. 8e manche. Etape de Hong Kong. 2e jour. Super Session.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BA98F032948E2DAD840469BF32C32E74.jpg" />
+<episode-num system="xmltv_ns">0.79.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401152900 +0200" stop="20230401154100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fractionné</title>
+<desc lang="fr">Découvrez des surprenantes anecdotes et des belles histoires liées au monde du sport dans ce magazine.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D118D9370D392446D91241A4D573041D.jpg" />
+<episode-num system="xmltv_ns">0.48.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401154100 +0200" stop="20230401172400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 6e journée. Reds / Crusaders.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C2ABEC5E084A6260879A9F0A89C4901F.jpg" />
+<episode-num system="xmltv_ns">0.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401172400 +0200" stop="20230401173600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">La compile Zapsport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<episode-num system="xmltv_ns">0.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401173600 +0200" stop="20230401175000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fractionné F1</title>
+<sub-title lang="fr">Formule 1 : entretien avec Frédéric Vasseur à Maranello</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EC2557A2F242F91E933E60A8C4281827.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401175000 +0200" stop="20230401180900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fractionné F1</title>
+<sub-title lang="fr">ITW Jacques Laffite</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EC2557A2F242F91E933E60A8C4281827.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401180900 +0200" stop="20230401195000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix d'Australie</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix d'Australie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/63EBAC11C0CF1F6EC0AAF1AA98936558.jpg" />
+<episode-num system="xmltv_ns">0.13.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401195000 +0200" stop="20230401210100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">IndyCar Series : Grand Prix du Texas</title>
+<desc lang="fr">IndyCar Series 2023. Grand Prix du Texas.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Indycar</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D3061491F81C9E8F201A81B3A6F61A7A.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401210100 +0200" stop="20230402000100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Open du Texas</title>
+<desc lang="fr">Circuit américain 2022/2023. Open du Texas.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/826904A4478A18E575A7C20474F1E980.jpg" />
+<episode-num system="xmltv_ns">0.132.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402000100 +0200" stop="20230402000700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Zapsport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EF631D16B1E186486BA50A0587BE97E2.jpg" />
+<episode-num system="xmltv_ns">0.149.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402000700 +0200" stop="20230402010000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rallye : WRC, Rallye du Mexique</title>
+<desc lang="fr">Championnat du monde des rallyes 2023. Rallye du Mexique.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rallye</category>
+<icon src="https://img.bouygtel.fr/CMS/images/68F5D26079C42735932EC39FC3B50C85.jpg" />
+<episode-num system="xmltv_ns">0.64.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402010000 +0200" stop="20230402021200 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 3 : Grand Prix d'Australie</title>
+<desc lang="fr">Championnat FIA 2023. Grand Prix d'Australie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 3</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E9C82E72DBB3D883CF4067AF6DBAF39C.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402021200 +0200" stop="20230402032500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix d'Australie</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix d'Australie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/ADD57D7FEFDC3744EB088CCB6579A2C0.jpg" />
+<episode-num system="xmltv_ns">0.13.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402032500 +0200" stop="20230402045000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 2 : Grand Prix d'Australie</title>
+<desc lang="fr">Championnat FIA 2023. Grand Prix d'Australie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 2</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D293C99BB74285A77A4556F6F9C8B27B.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402045000 +0200" stop="20230402062900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Rugby Sevens Series 2022/2023. 8e manche. Etape de Hong Kong. 3e jour. Session 1, 1re partie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/47962181A32684E6A5BD4DDDFC018D78.jpg" />
+<episode-num system="xmltv_ns">0.80.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

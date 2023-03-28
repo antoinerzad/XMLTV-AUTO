@@ -1,0 +1,127 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230403060000 +0200" stop="20230403083000 +0200" channel="TVE1.es">
+<title lang="fr">Telediario Matinal</title>
+<desc lang="fr">Primer informativo del día que recoge la agenda de la jornada y repasa la del día anterior. La edición matutina del telediario de TVE repasa todas las noticias de interés general, nacionales, internacionales, así como deportivas.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/74119b12c2b89f6ab75d3c09e90f7803cbd8fec0.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230403083000 +0200" stop="20230403130000 +0200" channel="TVE1.es">
+<title lang="fr">La hora de la 1</title>
+<desc lang="fr">Magacín matinal presentado por Mónica López que aglutinará los contenidos que antes se diferenciaban en Los Desayunos, La mañana y A partir de hoy.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/11/21/2a297bc1cec412c0bb702e67fa532c352c9c7d34.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230403130000 +0200" stop="20230403140000 +0200" channel="TVE1.es">
+<title lang="fr">Menudos Torres</title>
+<desc lang="fr">Sergio y Javier Torres abren las puertas de su cocina genuina a través de los productos y sabores de la tierra. El programa contará con reportajes por toda España sobre producto, territorio, mercados y otras culturas culinarias.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/04/04/6c12aa758cf6ae0d881ba1170122335bfb25ebc4.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230403140000 +0200" stop="20230403142000 +0200" channel="TVE1.es">
+<title lang="fr">Informativo territorial</title>
+<desc lang="fr">Los centros territoriales te acercan a la actualidad de tu comunidad autónoma.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/01/90838f3f46d35ba3ef1472890290886380a6536d.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230403142000 +0200" stop="20230403150000 +0200" channel="TVE1.es">
+<title lang="fr">Corazón</title>
+<desc lang="fr">Crónica social y cultural sobre artistas del mundo de la música, la moda, el cine y el teatro. El espacio incluye reportajes de las grandes pasarelas, cantantes y actores. El objetivo del programa es transmitir también la cara humana y familiar del personaje.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/92286da836dc762e75b142b1cc2bc53fda342052.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230403150000 +0200" stop="20230403155500 +0200" channel="TVE1.es">
+<title lang="fr">Telediario 1</title>
+<desc lang="fr">El noticiario audiovisual más veterano de la historia de la televisión en España. Ana Blanco conduce este espacio que ofrece un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte presentada por Lourdes García Campos.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/25/0c459f74725aec44f42a9162c398181a061b1155.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230403155500 +0200" stop="20230403161500 +0200" channel="TVE1.es">
+<title lang="fr">Informativo territorial</title>
+<desc lang="fr">Los centros territoriales te acercan a la actualidad de tu comunidad autónoma.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/01/90838f3f46d35ba3ef1472890290886380a6536d.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230403161500 +0200" stop="20230403163500 +0200" channel="TVE1.es">
+<title lang="fr">El tiempo</title>
+<desc lang="fr">Espacio grabado de información meteorológica nacional e internacional.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/8689779bcec6d3566ed50b32aa938ae9b7fea083.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230403182500 +0200" stop="20230403192500 +0200" channel="TVE1.es">
+<title lang="fr">El cazador</title>
+<desc lang="fr">Concurso de preguntas y respuestas en el que concursantes anónimos luchan frente a un concursante profesional de la televisión para obtener un gran premio final. En el programa, los cuatro concursantes unirán sus conocimientos para ganar al 'cazador'.</desc>
+<category lang="fr">Jeu</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/16d268ff2b0d73c5fa7aa15494bc3bb65d4efb62.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230403192500 +0200" stop="20230403203000 +0200" channel="TVE1.es">
+<title lang="fr">España directo</title>
+<desc lang="fr">Información de servicio público, entretenimiento, participación ciudadana y difusión de la cultura española siguen siendo las señas de identidad del formato que ahora refuerza su apuesta por la actualidad y el directo e incorpora secciones y colaboradores.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/46ac396151f63c25f6639b4eadde51b35bcc8423.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230403203000 +0200" stop="20230403210000 +0200" channel="TVE1.es">
+<title lang="fr">Aquí la tierra</title>
+<desc lang="fr">Presentado y dirigido por Jacob Petrus, geógrafo especializado en climatología, &quot;Aquí la tierra&quot;, ofrece entrevistas con expertos sobre los distintos fenómenos atmosféricos, charlas con invitados famosos en torno al tema de la Tierra y conecta cada día con un equipo de reporteros repartidos por toda España, que acercan las mejores y más curiosas imágenes desde puntos de vista nunca vistos.</desc>
+<category lang="fr">Magazine de la nature</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/189326f7937b81b7ef5af816043a20171668b2b7.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230403210000 +0200" stop="20230403221000 +0200" channel="TVE1.es">
+<title lang="fr">Telediario 2</title>
+<desc lang="fr">Segunda edición del Telediario, el programa informativo de Televisión Española. Este espacio de información recoge las noticias más relevantes en los ámbitos nacional, internacional, social, deportivo y meteorológico.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/22/2b122a0afbab8a3eeee891884fd377972c33a0aa.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230403221000 +0200" stop="20230403224000 +0200" channel="TVE1.es">
+<title lang="fr">Cachitos Bis</title>
+<desc lang="fr">Programa que recopila los mejores momentos del programa ''Cachitos de hierro y cromo''.</desc>
+<category lang="fr">Variétés</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/04/04/d3e83eaf10de28f6c791776877764be0b019a404.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230403224000 +0200" stop="20230404003000 +0200" channel="TVE1.es">
+<title lang="fr">Film non communiqué</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/02a28e0e3d00c2f697c3c4c964f633e3c9fdb4e3.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230404003000 +0200" stop="20230404023000 +0200" channel="TVE1.es">
+<title lang="fr">Film non communiqué</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/02a28e0e3d00c2f697c3c4c964f633e3c9fdb4e3.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230404023000 +0200" stop="20230404035000 +0200" channel="TVE1.es">
+<title lang="fr">Film non communiqué</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/02a28e0e3d00c2f697c3c4c964f633e3c9fdb4e3.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230404035000 +0200" stop="20230404054000 +0200" channel="TVE1.es">
+<title lang="fr">La noche en 24H</title>
+<desc lang="fr">El programa &quot;La Noche en 24 horas&quot;, dirigido y presentado por el periodista Marc Sala, ofrece cada noche un análisis profundo de la actualidad de la jornada. </desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/57aaf38464e14262eb3fc5df851c31df1d61e275.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230404054000 +0200" stop="20230404060000 +0200" channel="TVE1.es">
+<title lang="fr">Noticias 24H</title>
+<desc lang="fr">Información continua 24 horas los 365 días del año. Este informativo ofrece una mirada detallada a las noticias que marcan cada jornada, desde los puntos donde se generan y con sus imágenes, voces y sonidos en directo.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/18/1add24cd93c1efd68e0e7d8692105c6307c30682.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>

@@ -1,0 +1,22 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230401063000 +0200" stop="20230401080000 +0200" channel="TeleLyonMetropole.fr">
+<title lang="fr">Lyon Express</title>
+<desc lang="fr">Tout images retour sur l'actualité à la mi-journée.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/06/396ef886b8b94ee180c1e3c4658f5d1c148cdfec.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401080000 +0200" stop="20230401130000 +0200" channel="TeleLyonMetropole.fr">
+<title lang="fr">Lyon week-end</title>
+<desc lang="fr">Toute l'info du week-end présentée par Jérôme Jarny.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/15/dd4568dd1179df6fcecda9dfbd0327037c74b46e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230401130000 +0200" stop="20230402063000 +0200" channel="TeleLyonMetropole.fr">
+<title lang="fr">Lyon Express</title>
+<desc lang="fr">Tout images retour sur l'actualité à la mi-journée.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/06/396ef886b8b94ee180c1e3c4658f5d1c148cdfec.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

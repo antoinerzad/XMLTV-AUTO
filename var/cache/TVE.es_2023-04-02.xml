@@ -1,0 +1,252 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230402060000 +0200" stop="20230402070000 +0200" channel="TVE.es">
+<title lang="fr">Noticias 24H</title>
+<desc lang="fr">Información continua 24 horas, nacional e internacional, 365 días al año.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9F12308DD4B9B0B2EBB5786A66DE8F5B.jpg" />
+<episode-num system="xmltv_ns">0.90.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402070000 +0200" stop="20230402071500 +0200" channel="TVE.es">
+<title lang="fr">Medina en TVE</title>
+<desc lang="fr">Program de religión y cultura islámica.</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Religions</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8ADE85F876E86541CE4D1F3642A4CD08.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402071500 +0200" stop="20230402073000 +0200" channel="TVE.es">
+<title lang="fr">Buenas noticias TV</title>
+<desc lang="fr">Programa de culto evangélico.</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Religions</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8C903D335F22B6CBFBECB98B2492FBA7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402073000 +0200" stop="20230402074500 +0200" channel="TVE.es">
+<title lang="fr">Shalom</title>
+<desc lang="fr">Programa de cultura y religión hebrea.</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Education</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402074500 +0200" stop="20230402081000 +0200" channel="TVE.es">
+<title lang="fr">Últimas preguntas</title>
+<desc lang="fr">Programa de culto católico.</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Religions</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402081000 +0200" stop="20230402081500 +0200" channel="TVE.es">
+<title lang="fr">Testimonio</title>
+<desc lang="fr">Testimonio de fe católica.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0316A405E773BAE732432B9949FAAFA2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402081500 +0200" stop="20230402084500 +0200" channel="TVE.es">
+<title lang="fr">Pueblo de Dios</title>
+<desc lang="fr">Documentales y reportajes sobre la vocación misionera de la Iglesia.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/35BE3D10166F2AA38342B3AD1BA1AD1D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402084500 +0200" stop="20230402094000 +0200" channel="TVE.es">
+<title lang="fr">Bloque infantil</title>
+<sub-title lang="fr">Mironins</sub-title>
+<desc lang="fr">Incluye: - MIRONINS - MYA GO - MOMONSTERS PARA TODOS LOS PUBLICOS.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/68BF2DDE999FE033BBE699A18C4C6EF1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402094000 +0200" stop="20230402101000 +0200" channel="TVE.es">
+<title lang="fr">Zoom tendencias</title>
+<desc lang="fr">ZOOM TENDENCIAS viaja cada semana por diferentes rincones de España, mostrándonos innovadoras propuestas gastronómicas y hoteleras. Descubriendo las últimas tendencias en bienestar y ocio; y recorriendo nuestro rico patrimonio histórico, cultural y artístico.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402101000 +0200" stop="20230402104000 +0200" channel="TVE.es">
+<title lang="fr">El escarabajo verde</title>
+<sub-title lang="fr">Agua por un tubo</sub-title>
+<desc lang="fr">¿Qué ha ocasionado el mal estado del acuífero del que han estado bebiendo los pueblos manchegos hasta ahora? El reportaje hace un tour por pueblos de Cuenca y Albacete, Ciudad Real, partiendo de Carrascosa del Campo, donde La Tubería de la Llanura Manchega se conecta al acueducto.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Nature</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5EDBE987585BC5AE966332EC15BC90B1.jpg" />
+<episode-num system="xmltv_ns">0.116.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402104000 +0200" stop="20230402111000 +0200" channel="TVE.es">
+<title lang="fr">Arqueomanía</title>
+<sub-title lang="fr">Bayas, un sueño bajo el mar</sub-title>
+<desc lang="fr">La cuestión fundamental de este capítulo es esclarecer las causas del hundimiento de la antigua ciudad de Baiae (Bayas) en el fondo del mar.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Histoire</category>
+<icon src="https://img.bouygtel.fr/CMS/images/99420BB17A62DA406BAD5E66035358C5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402111000 +0200" stop="20230402114000 +0200" channel="TVE.es">
+<title lang="fr">Un país para leerlo</title>
+<sub-title lang="fr">Orense</sub-title>
+<desc lang="fr">Un país para leerlo viaja esta semana a Ourense para descubrir rincones literarios y charlar con autores como Juan Tallón y Alba Cid. A través de libros, lectores y librerías, la llamada Atenas de Galicia por la concentración de escritores e intelectuales que la poblaron durante el siglo XX.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<episode-num system="xmltv_ns">0.22.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402114000 +0200" stop="20230402123500 +0200" channel="TVE.es">
+<title lang="fr">Saber vivir</title>
+<desc lang="fr">Programa divulgativo en el que se abordan hábitos saludables para prevenir enfermedades y tener una vida saludable.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<episode-num system="xmltv_ns">0.167.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402123500 +0200" stop="20230402130500 +0200" channel="TVE.es">
+<title lang="fr">El señor de los bosques</title>
+<sub-title lang="fr">Gorbea</sub-title>
+<desc lang="fr">En la vertiente vizcaína del Parque Natural de Gorbea se encuentra el río Zubizabala que llena de vida un increíble bosque de hayas. Este bosque es el escenario perfecto para dejarse llevar por la imaginación de la mano del escritor Juan Manuel de Prada que acompaña a César Palacios.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4D16FE8905E18B2BEBB2CEC3210A32A8.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402130500 +0200" stop="20230402140000 +0200" channel="TVE.es">
+<title lang="fr">Las rutas de Ambrosio</title>
+<sub-title lang="fr">Badajoz. Lo que llevamos a América</sub-title>
+<desc lang="fr">El chef Gonzalo Dand#39;Ambrosio llega a Badajoz para descubrir los ingredientes que desde Extremadura viajaron hasta América. Oveja merina, harina o vino son algunos de estos tesoros que hoy podemos disfrutar en todo el mundo gracias a este cruce de culturas y sabores entre continentes.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<episode-num system="xmltv_ns">0.98.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402140000 +0200" stop="20230402143000 +0200" channel="TVE.es">
+<title lang="fr">Flash Moda</title>
+<desc lang="fr">Programa divulgativo sobre el mundo de la moda.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D425791F04D099614638694B9B0C371E.jpg" />
+<episode-num system="xmltv_ns">0.231.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402143000 +0200" stop="20230402150000 +0200" channel="TVE.es">
+<title lang="fr">Corazón</title>
+<desc lang="fr">Magazine en directo, en donde en 30 minutos hacemos un repaso a toda la actualidad social de nuestro país.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/AEDAFB77BEE8728E01AF4C023C0EC72B.jpg" />
+<episode-num system="xmltv_ns">0.877.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402150000 +0200" stop="20230402160000 +0200" channel="TVE.es">
+<title lang="fr">Telediario 1</title>
+<desc lang="fr">Espacio diario de información nacional e internacional en directo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BF236206F3A2C0603E88BF29638C6F45.jpg" />
+<episode-num system="xmltv_ns">0.91.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402160000 +0200" stop="20230402164500 +0200" channel="TVE.es">
+<title lang="fr">Saber y ganar</title>
+<desc lang="fr">Programa concurso.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/45EFBDDD226A4027730E06DE1F0828B2.jpg" />
+<episode-num system="xmltv_ns">0.227.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402164500 +0200" stop="20230402191000 +0200" channel="TVE.es">
+<title lang="fr">Cover Night</title>
+<desc lang="fr">Los cantantes interpretarán, de uno en uno, una singular versión en otro estilo musical de un conocido éxito internacional delante de un exigente jurado compuesto por 3 famosos artistas. Cuando al menos 2 de ellos voten a favor del intérprete, éste pasará a ocupar una de las cabinas.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Variétés</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B1FC36F957B6F407827D19977B1F991A.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402191000 +0200" stop="20230402204500 +0200" channel="TVE.es">
+<title lang="fr">Plan de tarde</title>
+<desc lang="fr">Una ventana abierta a la actualidad los domingos por la tarde. Un programa en el que abordaremos la última hora de la crónica social.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402204500 +0200" stop="20230402210000 +0200" channel="TVE.es">
+<title lang="fr">Zoom net</title>
+<desc lang="fr">Programa de actualidad dedicado a los video juegos y las novedades en tecnologia en general.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sciences et technique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BF727F10716EA883B0373FD2415BA148.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402210000 +0200" stop="20230402220000 +0200" channel="TVE.es">
+<title lang="fr">Telediario 2</title>
+<desc lang="fr">Programa diario de noticias nacionales e internacionales en directo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/51437DB370FF764FCD83BCB4A73589AB.jpg" />
+<episode-num system="xmltv_ns">0.91.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402220000 +0200" stop="20230402230000 +0200" channel="TVE.es">
+<title lang="fr">Comando Actualidad</title>
+<sub-title lang="fr">Vecinos al límite</sub-title>
+<desc lang="fr">Centenares de vecinos en pueblos, ciudades y barrios de toda España se arriesgan para defender sus casas, su lugar de trabajo, su salud. Denuncian ruidos, malos olores, humos de chimeneas gigantes levantadas frente a sus ventanas.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9138BD93A53CFE985222E1D281E8035F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402230000 +0200" stop="20230402235000 +0200" channel="TVE.es">
+<title lang="fr">Comando Actualidad</title>
+<sub-title lang="fr">A todo gas</sub-title>
+<desc lang="fr">Programa que emite una serie de reportajes de actualidad que analizan los temas sociales desde diferentes perspectivas. Cada semana, a mano de un grupo de reporteros, el programa recorre distintas partes de España para tratar problemáticas sociales.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9138BD93A53CFE985222E1D281E8035F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230402235000 +0200" stop="20230403005000 +0200" channel="TVE.es">
+<title lang="fr">Comando Actualidad</title>
+<sub-title lang="fr">El espectáculo debe continuar</sub-title>
+<desc lang="fr">EL ESPECTÁCULO DEBE CONTINUAR retrata la situación que atraviesan quienes viven de la cultura en España. Según el último estudio publicado por la GESAC, un tercio de los ingresos se han ido a pique por la crisis sanitaria.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4AB46A654BF3AEB0284A37DAD34F52D2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403005000 +0200" stop="20230403012000 +0200" channel="TVE.es">
+<title lang="fr">Plano general</title>
+<sub-title lang="fr">José Ortega Cano</sub-title>
+<desc lang="fr">Programa que ofrece una visión íntima y personal de un invitado que aporta su testimonio sobre temas de actualidad y semblanza vital.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Interview</category>
+<icon src="https://img.bouygtel.fr/CMS/images/491A69D29978BA6C4D4F8D5DCB7EBF0A.jpg" />
+<episode-num system="xmltv_ns">0.42.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403012000 +0200" stop="20230403015500 +0200" channel="TVE.es">
+<title lang="fr">Metrópolis</title>
+<sub-title lang="fr">Injuve 2023</sub-title>
+<desc lang="fr">Metrópolis trata todas las tendencias artísticas de vanguardia que se producen dentro y fuera del país.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A80EB8C15730104D51B19848625B849C.jpg" />
+<episode-num system="xmltv_ns">0.216.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230403015500 +0200" stop="20230403060000 +0200" channel="TVE.es">
+<title lang="fr">Noticias 24H</title>
+<desc lang="fr">Información continua 24 horas, nacional e internacional, 365 días al año.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A66F28ADB1B9F12CE0DA953072E1FD27.jpg" />
+<episode-num system="xmltv_ns">0.91.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
