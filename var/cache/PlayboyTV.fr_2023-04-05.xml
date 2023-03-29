@@ -1,0 +1,10 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230405054400 +0200" stop="20230405060900 +0200" channel="PlayboyTV.fr">
+<title lang="fr">World Of Playboy</title>
+<desc lang="fr">A sneak peek into the Playboy world of beautiful women, exquisite art and sexy cars.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Pornographie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CB50A6CBB59281432FB3CE2EE2E9A8C7.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>-18</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Moins18.svg/200px-Moins18.svg.png" /></rating>
+</programme>

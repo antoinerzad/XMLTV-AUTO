@@ -1,0 +1,156 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230404231000 +0200" stop="20230405005500 +0200" channel="NRJ12.fr">
+<title lang="fr">Safe</title>
+<desc lang="fr">Un ancien policier au moral brisé se porte au secours d'une petite Chinoise, poursuivie par les triades, la mafia russe et des policiers véreux.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_9049447.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230405005500 +0200" stop="20230405024000 +0200" channel="NRJ12.fr">
+<title lang="fr">Hangman</title>
+<desc lang="fr">Un inspecteur de police fait équipe avec un profiler pour tenter d'arrêter un tueur en série dont les meurtres semblent s'inspirer du jeu du pendu.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_11263451.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230405024000 +0200" stop="20230405063000 +0200" channel="NRJ12.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Programme indéterminé.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_22269110.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230405063000 +0200" stop="20230405093000 +0200" channel="NRJ12.fr">
+<title lang="fr">Télé-achat</title>
+<desc lang="fr">Magazine de télé-achat.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. TV Achat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_4278322.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230405093000 +0200" stop="20230405102000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">48 heures</sub-title>
+<desc lang="fr">Un nouveau chasseur, la tante d'Allison, vient en ville et tire sur Derek. Pour le sauver, Scott doit trouver une balle similaire à celle qui a blessé son ami.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15674646.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230405102000 +0200" stop="20230405111000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Le puma</sub-title>
+<desc lang="fr">Lydia et Jackson se retrouvent face à un loup-garou qui a saccagé un magasin. La créature est le mâle alpha qui fait régner la terreur dans la région.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15674646.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230405111000 +0200" stop="20230405120000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Pulsations</sub-title>
+<desc lang="fr">Scott essaie de contrôler sa transformation en loup-garou. Derek propose de l'aider à condition qu'il se tienne à distance d'Allison, qui le distrait.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15674646.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230405120000 +0200" stop="20230405125500 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Une nuit au lycée</sub-title>
+<desc lang="fr">Scott, Stiles, Allison, Jackson et Lydia se retrouvent enfermés au lycée en pleine nuit, piégés par l'Alpha. Le groupe cherche un moyen de s'enfuir.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15674646.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230405125500 +0200" stop="20230405135000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">L'emprise de la lune</sub-title>
+<desc lang="fr">Scott et Stiles se retrouvent dans les bois pour boire suite à la rupture d'Allison avec Scott. L'influence néfaste de la pleine lune se fait sentir.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15674646.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230405135000 +0200" stop="20230405145000 +0200" channel="NRJ12.fr">
+<title lang="fr">Einstein : équations criminelles</title>
+<sub-title lang="fr">Compression</sub-title>
+<desc lang="fr">Felix Winterberg, l'arrière-arrière-petit-fils d'Albert Einstein, est un physicien mourant d'une maladie rare, qui aide la police dans des enquêtes criminelles, pendant le temps qu'il lui reste à vivre.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_17482553.jpg" />
+<episode-num system="xmltv_ns">1.7.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230405145000 +0200" stop="20230405155000 +0200" channel="NRJ12.fr">
+<title lang="fr">Einstein : équations criminelles</title>
+<sub-title lang="fr">Isobare</sub-title>
+<desc lang="fr">Felix Winterberg, l'arrière-arrière-petit-fils d'Albert Einstein, est un physicien mourant d'une maladie rare, qui aide la police dans des enquêtes criminelles, pendant le temps qu'il lui reste à vivre.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10087113.jpg" />
+<episode-num system="xmltv_ns">1.8.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230405155000 +0200" stop="20230405170500 +0200" channel="NRJ12.fr">
+<title lang="fr">Einstein : équations criminelles</title>
+<sub-title lang="fr">Effondrement</sub-title>
+<desc lang="fr">Alors que tout semblait sourire à Elena et Félix, leur vie est sur le point de basculer brutalement. Comment vont-ils affronter le chaos ?</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_16527140.jpg" />
+<episode-num system="xmltv_ns">1.9.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230405170500 +0200" stop="20230405195500 +0200" channel="NRJ12.fr">
+<title lang="fr">Parents mode d'emploi</title>
+<desc lang="fr">Isa et Gaby Martinet, un couple de quadragénaires, parents de trois enfants, s'efforcent d'être à la hauteur de leur tâche, tout en jonglant avec leurs devoirs conjugaux. Au programme, des désaccords, des ratés, des découragements et des ruses inavouables pour parvenir à leurs fins.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_31353564.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230405195500 +0200" stop="20230405211000 +0200" channel="NRJ12.fr">
+<title lang="fr">Un gars, une fille</title>
+<desc lang="fr">Amour et disputes, colère et calins : Alex et Jean sont un jeune couple à l'humeur très variable, et vivre à deux n'est pas toujours facile.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_13312948.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230405211000 +0200" stop="20230405220500 +0200" channel="NRJ12.fr">
+<title lang="fr">Cameron Black : l'illusionniste</title>
+<sub-title lang="fr">Tada !</sub-title>
+<desc lang="fr">Un illusionniste, dont la carrière s'est arrêtée net, aide le FBI à résoudre des affaires criminelles, qui utilisent certains de ses trucages.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10730116.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230405220500 +0200" stop="20230405230500 +0200" channel="NRJ12.fr">
+<title lang="fr">Cameron Black : l'illusionniste</title>
+<sub-title lang="fr">Question de perspective</sub-title>
+<desc lang="fr">Un avocat, qui défendait des membres de la pègre, a été assassiné en pleine rue. Cameron Black collabore avec le FBI pour retrouver les auteurs du crime.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_12611786.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230405230500 +0200" stop="20230406010000 +0200" channel="NRJ12.fr">
+<title lang="fr">John Wick</title>
+<desc lang="fr">Un fils de mafieux russe, complètement inconscient, tue le chien et vole la voiture de collection d'un ex-tueur à gages, lequel décide de se venger.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_19455592.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
