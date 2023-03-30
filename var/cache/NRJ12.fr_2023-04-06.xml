@@ -1,0 +1,236 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230405230500 +0200" stop="20230406010000 +0200" channel="NRJ12.fr">
+<title lang="fr">John Wick</title>
+<desc lang="fr">Un fils de mafieux russe, complètement inconscient, tue le chien et vole la voiture de collection d'un ex-tueur à gages, lequel décide de se venger.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_19455592.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230406010000 +0200" stop="20230406023500 +0200" channel="NRJ12.fr">
+<title lang="fr">Geo-Disaster</title>
+<desc lang="fr">Une famille de Los Angeles se retrouve séparée lors d'une convergence de plusieurs catastrophes climatiques entraînant les plus grands désastres de l'histoire.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Frisson</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23207209.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230406023500 +0200" stop="20230406063000 +0200" channel="NRJ12.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Programme indéterminé.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_22269110.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406063000 +0200" stop="20230406093000 +0200" channel="NRJ12.fr">
+<title lang="fr">Télé-achat</title>
+<desc lang="fr">Magazine de télé-achat.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. TV Achat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_4278322.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406093000 +0200" stop="20230406102000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Le puma</sub-title>
+<desc lang="fr">Lydia et Jackson se retrouvent face à un loup-garou qui a saccagé un magasin. La créature est le mâle alpha qui fait régner la terreur dans la région.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15674646.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230406102000 +0200" stop="20230406111000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Pulsations</sub-title>
+<desc lang="fr">Scott essaie de contrôler sa transformation en loup-garou. Derek propose de l'aider à condition qu'il se tienne à distance d'Allison, qui le distrait.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15674646.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230406111000 +0200" stop="20230406120000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Une nuit au lycée</sub-title>
+<desc lang="fr">Scott, Stiles, Allison, Jackson et Lydia se retrouvent enfermés au lycée en pleine nuit, piégés par l'Alpha. Le groupe cherche un moyen de s'enfuir.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15674646.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230406120000 +0200" stop="20230406125500 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">L'emprise de la lune</sub-title>
+<desc lang="fr">Scott et Stiles se retrouvent dans les bois pour boire suite à la rupture d'Allison avec Scott. L'influence néfaste de la pleine lune se fait sentir.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15674646.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230406125500 +0200" stop="20230406135000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">L'alpha</sub-title>
+<desc lang="fr">Jackson découvre le secret de Scott et souhaite devenir un loup-garou. Derek, suspecté par la police des crimes commis au lycée, est en fuite.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_15674646.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230406135000 +0200" stop="20230406141500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Massage dorsal</sub-title>
+<desc lang="fr">Après une nuit à Las Vegas, Charlie décide de tenir sa promesse en assistant au match de football de Jake. Il y rencontre une mère célibataire.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_6115654.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406141500 +0200" stop="20230406144500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Problème de communication</sub-title>
+<desc lang="fr">Charlie enseigne à Jake comment éviter de répondre au téléphone quand il s'agit d'interlocuteurs indésirables, comme sa propre mère par exemple.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_6115654.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406144500 +0200" stop="20230406151500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Education sexuelle</sub-title>
+<desc lang="fr">Lors d'un cours de dessin, Jake reproduit exactement le tatouage d'une amie de Charlie, une jolie surfeuse, ce qui ne manque pas de perturber Judith.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_6115654.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406151500 +0200" stop="20230406154000 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">L'art d'accommoder les sauces</sub-title>
+<desc lang="fr">Désireux de se réconcilier avec sa femme, Alan assiste à une répétition du groupe de Jake, en espérant y trouver Judith. Charlie doit gérer une classe.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_6115654.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406154000 +0200" stop="20230406161000 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Phase un, terminée</sub-title>
+<desc lang="fr">Jake et Evelyn se prennent d'affection pour Wendy, la dernière copine, très sympathique, de Charlie. Celui-ci s'en inquiète et décide finalement de rompre.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_6115654.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406161000 +0200" stop="20230406164000 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Joyeux Thanksgiving</sub-title>
+<desc lang="fr">Quand Charlie retrouve son ancienne petite amie, qui est sur le point de se marier, il tente de lui prouver qu'il peut encore être l'homme de sa vie.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_6115654.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406164000 +0200" stop="20230406170500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Le chouchou de ces dames</sub-title>
+<desc lang="fr">Charlie et Jake rencontrent Judith et son nouvel ami. Ils s'aperçoivent que la jeune femme a changé de look et tentent de persuader Alan d'en faire autant.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_18613765.jpg" />
+<episode-num system="xmltv_ns">0.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406170500 +0200" stop="20230406173500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Hormones et phéromones</sub-title>
+<desc lang="fr">Alan et Charlie ont bien du mal à rester de marbre face au charme de Prudence, la petite-fille de Berta, contrainte de l'emmener à son travail.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_18613766.jpg" />
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406173500 +0200" stop="20230406180500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">La fièvre du dimanche soir</sub-title>
+<desc lang="fr">Charlie et Alan obtiennent un rendez-vous avec une voisine très séduisante et sa soeur, non moins sexy. Mais le rhume de Jake bouleverse leurs plans.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_30436961.jpg" />
+<episode-num system="xmltv_ns">0.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406180500 +0200" stop="20230406183500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Plaie d'argent n'est pas mortelle</sub-title>
+<desc lang="fr">Le banquier de Charlie l'informe qu'il est dans le rouge. Il doit maintenant freiner ses dépenses et gérer son budget. Mais il a du mal à renoncer au luxe.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_6250685.jpg" />
+<episode-num system="xmltv_ns">0.13.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406183500 +0200" stop="20230406190000 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">La fille qui avait un grain</sub-title>
+<desc lang="fr">Contre l'avis d'Alan, Charlie tombe amoureux d'une fille ravissante mais un peu folle prénommée Frankie, qui a l'habitude de casser des voitures.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_6236904.jpg" />
+<episode-num system="xmltv_ns">0.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406190000 +0200" stop="20230406192500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Un échange de salive</sub-title>
+<desc lang="fr">Frankie, la pétillante mère célibataire, explique à Alan et Charlie pourquoi elle se cache avec sa fille, Joanie. Celle-ci se dispute avec Jake.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_6236904.jpg" />
+<episode-num system="xmltv_ns">0.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406192500 +0200" stop="20230406195500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Un cheeseburger, s'il vous plaît!</sub-title>
+<desc lang="fr">Alan offense Charlie en décidant que son cousin, qui n'a pas toute sa tête, sera chargé de s'occuper de Jake au cas où Judith et lui viendraient à disparaître.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_3630603.jpg" />
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406195500 +0200" stop="20230406211000 +0200" channel="NRJ12.fr">
+<title lang="fr">Un gars, une fille</title>
+<desc lang="fr">Amour et disputes, colère et calins : Alex et Jean sont un jeune couple à l'humeur très variable, et vivre à deux n'est pas toujours facile.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_13312948.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406211000 +0200" stop="20230406225000 +0200" channel="NRJ12.fr">
+<title lang="fr">Thomas VDB : Bon chienchien</title>
+<desc lang="fr">A 40 ans, devenu papa, ce qui change la vie, Thomas VDB se pose enfin des questions essentielles, cherchant à savoir si un bébé, ça doit manger tous les jours, ce que l'on doit crier entre les morceaux pendant un concert ou si on attend vraiment une réponse quand on demande à son chien &quot;Qui c'est...</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Spectacle</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_11774971.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406225000 +0200" stop="20230407001000 +0200" channel="NRJ12.fr">
+<title lang="fr">Mathieu Madénian, un spectacle familial</title>
+<desc lang="fr">Dans le plus pur style stand up, vêtu d'un jean et de baskets blanches, Mathieu Madenian évoque la famille. Il aborde des vexations mal digérées, des dîners alcoolisés, ou encore des jalousies fraternelles. Il a réalisé que cela lui faisait plus de bien de partager ces petits tracas sur scène,...</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Spectacle</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_12411491.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

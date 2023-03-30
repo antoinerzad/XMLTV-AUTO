@@ -1,0 +1,42 @@
+<!-- racacax\XmlTv\Component\Provider\TeleLoisirs -->
+<programme start="20230406000500 +0200" stop="20230406001500 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Autre</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~8a13f89e313101e7.jpg/640x360/quality/80/tagesschau.jpg" />
+</programme>
+<programme start="20230406053000 +0200" stop="20230406090000 +0200" channel="DasErste.de">
+<title lang="fr">ZDF-Morgenmagazin</title>
+<sub-title lang="fr">Raus ins Leben</sub-title>
+<desc lang="fr">
+Avec :
+Oliver Krischer (Invité), Oberst André Wüstner (Invité), Mirjam Meinhardt (Présentateur), Harriet von Waldenfels (Présentateur)</desc>
+<category lang="fr">Culture Infos</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~b897065c4585d941.jpg/640x360/quality/80/zdf-morgenmagazin.jpg" />
+</programme>
+<programme start="20230406130000 +0200" stop="20230406140000 +0200" channel="DasErste.de">
+<title lang="fr">ARD-Mittagsmagazin</title>
+<sub-title lang="fr">Mit Tagesschau</sub-title>
+<desc lang="fr">
+Avec :
+Nadia Kailouli (Présentateur), Sascha Hingst (Présentateur)</desc>
+<category lang="fr">Culture Infos</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~55b314d4a77bbe4a.jpg/640x360/quality/80/mittagsmagazin.jpg" />
+</programme>
+<programme start="20230406171500 +0200" stop="20230406180000 +0200" channel="DasErste.de">
+<title lang="fr">Brisant</title>
+<sub-title lang="fr">Heiß und kalt</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Culture Infos</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~7556973c18b8acd4.jpg/640x360/quality/80/brisant.jpg" />
+</programme>
+<programme start="20230406214500 +0200" stop="20230406234000 +0200" channel="DasErste.de">
+<title lang="fr">Mord auf Shetland</title>
+<sub-title lang="fr">Alte Wunden</sub-title>
+<desc lang="fr">L'inspecteur Jimmy Perez, ébranlé par le décès de sa mère, voit en outre son père présenter les premiers signes de démence. Malgré ses soucis personnels, le policier se plonge dans une nouvelle enquête compliquée après le meurtre d'un célèbre avocat, très impliqué dans la vie locale. Par ailleurs, Donna Killick, la meurtrière de Lizzie Kilmuir, est de retour sur l'île. Souffrant d'un cancer en phase terminale, elle a bénéficié d'une libération anticipée. Sa présence est une source d'inquiétude pour Perez, qui craint qu'elle ne s'en prenne à Duncan. Une sixième saison sous haute tension qui multiplie les intrigues et les suspects.
+Avec :
+Douglas Henshall (Jimmy Perez), Alison O&amp;#039;Donnell (Alison McIntosh), Steven Robertson (Sandy Wilson), Mark Bonnar (Duncan Hunter), Anneika Rose (Maggie Kean), Lewis Howden (Billy McCabe), Anne Kidd (Cora McLean), Fiona Bell (Donna Killick)</desc>
+<category lang="fr">Série TV</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~344ca04bc39f3e0b.jpg/640x360/quality/80/shetland.jpg" />
+<episode-num system="xmltv_ns">5.0.</episode-num>
+</programme>

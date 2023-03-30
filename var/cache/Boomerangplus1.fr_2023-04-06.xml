@@ -1,0 +1,11 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230406055000 +0200" stop="20230406060500 +0200" channel="Boomerangplus1.fr">
+<title lang="fr">Looney Tunes Show</title>
+<sub-title lang="fr">Le défi de Porky</sub-title>
+<desc lang="fr">Daffy en veut à Porky parce qu'il a brisé les codes de leur cercle d'amis en participant à une course. Sam est irrité d'être redevable à Bugs pour son aide et décide de lui rendre la pareille. Mais, quand Bugs lui sauve la vie, Sam ne le quitte plus d'une semelle...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6A640044262C29F259D08EA5D03A919F.jpg" />
+<episode-num system="xmltv_ns">2.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
