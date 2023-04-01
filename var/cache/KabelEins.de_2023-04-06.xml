@@ -1,0 +1,208 @@
+<!-- racacax\XmlTv\Component\Provider\SFR -->
+<programme start="20230406020500 +0200" stop="20230406021500 +0200" channel="KabelEins.de">
+<title lang="fr">Watch Me - das Kinomagazin</title>
+<sub-title lang="fr">das Kinomagazin</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/5/2459509.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406021500 +0200" stop="20230406022000 +0200" channel="KabelEins.de">
+<title lang="fr">Kabel Eins Late News</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/8/7/5392786.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406022000 +0200" stop="20230406040500 +0200" channel="KabelEins.de">
+<title lang="fr">Escroc, macho et gigolo</title>
+<desc lang="fr">En Floride, les mésaventures d'un gentil voyou, un peu gigolo à ses heures perdues, constamment poursuivi par des maris jaloux, la police et la mafia.</desc>
+<category lang="fr">Comédie</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/0/5801061.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406040500 +0200" stop="20230406041000 +0200" channel="KabelEins.de">
+<title lang="fr">Kabel Eins Late News</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/8/7/5392786.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406041000 +0200" stop="20230406045000 +0200" channel="KabelEins.de">
+<title lang="fr">Castle</title>
+<sub-title lang="fr">La traque</sub-title>
+<desc lang="fr">Alors qu'il est au tribunal pour une audience, le tueur impliqué dans le meurtre de la mère de Beckett s'échappe, vraisemblablement avec l'aide d'un complice.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/3/5/5777539.jpg" />
+<episode-num system="xmltv_ns">2.23.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406045000 +0200" stop="20230406054500 +0200" channel="KabelEins.de">
+<title lang="fr">NCIS : Los Angeles</title>
+<sub-title lang="fr">Au champ d'honneur</sub-title>
+<desc lang="fr">Le NCIS est à la recherche d'un individu qui a mis en ligne des documents secrets du Pentagone. Rapidement, le FBI et des mercenaires interviennent.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/2/5/5762523.jpg" />
+<episode-num system="xmltv_ns">1.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406054500 +0200" stop="20230406063000 +0200" channel="KabelEins.de">
+<title lang="fr">Elementary</title>
+<sub-title lang="fr">Les entrailles de l'affaire</sub-title>
+<desc lang="fr">Sherlock et Watson apportent leur aide sur une enquête qui s'avére sordide : une jeune femme a disparu après avoir été prise en charge par des ambulanciers.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/1/7/5776711.jpg" />
+<episode-num system="xmltv_ns">2.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406063000 +0200" stop="20230406072000 +0200" channel="KabelEins.de">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Un Geek à la mer</sub-title>
+<desc lang="fr">La recherche d'un trésor enfoui dans l'océan tourne mal quand le bateau de Walter et Paige explose, les laissant ainsi perdus au milieu de l'océan Pacifique.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/9/5757954.jpg" />
+<episode-num system="xmltv_ns">2.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406072000 +0200" stop="20230406081500 +0200" channel="KabelEins.de">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Que le meilleur gagne</sub-title>
+<desc lang="fr">Walter et Sylvester prennent part incognito à un tournoi international d'échecs pour sauver une espionne américaine, avant que son identité ne soit découverte.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/9/5757954.jpg" />
+<episode-num system="xmltv_ns">2.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406081500 +0200" stop="20230406091500 +0200" channel="KabelEins.de">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Very bad flip</sub-title>
+<desc lang="fr">Quand une simple mission de protection tourne mal, l'équipe doit sauver Happy, Sylvester et Cabe, qui commencent à souffrir d'hallucinations terrifiantes.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/9/5757954.jpg" />
+<episode-num system="xmltv_ns">2.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406091500 +0200" stop="20230406101000 +0200" channel="KabelEins.de">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Dans sa bulle</sub-title>
+<desc lang="fr">Les agents de Scorpion tentent de sauver une jeune femme, qui risque de perdre la vie car elle ne possède pas un système immunitaire suffisamment efficace.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/9/5757954.jpg" />
+<episode-num system="xmltv_ns">2.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406101000 +0200" stop="20230406110500 +0200" channel="KabelEins.de">
+<title lang="fr">Mentalist</title>
+<sub-title lang="fr">La roue tourne</sub-title>
+<desc lang="fr">L'équipe enquête sur le meurtre de l'avocat d'un groupe de motards. L'homme avait une liaison avec la fiancée du leader, et son épouse était au courant.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/1/5782146.jpg" />
+<episode-num system="xmltv_ns">1.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230406110500 +0200" stop="20230406120500 +0200" channel="KabelEins.de">
+<title lang="fr">Mentalist</title>
+<sub-title lang="fr">Esprit, es-tu là ?</sub-title>
+<desc lang="fr">Un architecte est retrouvé mort dans la maison qu'il venait d'acquérir. Le manoir est considéré comme hanté et abriterait un trésor dans ses murs.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/1/5782146.jpg" />
+<episode-num system="xmltv_ns">1.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406120500 +0200" stop="20230406130000 +0200" channel="KabelEins.de">
+<title lang="fr">Mentalist</title>
+<sub-title lang="fr">L'or noir</sub-title>
+<desc lang="fr">Patrick Jane aide la police à retrouver l'assassin d'un détenu. Le prisonnier était incarcéré dans un centre de détention de très haute sécurité.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/1/5782146.jpg" />
+<episode-num system="xmltv_ns">1.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406130000 +0200" stop="20230406135500 +0200" channel="KabelEins.de">
+<title lang="fr">Mentalist</title>
+<sub-title lang="fr">Pour une poignée de diamants</sub-title>
+<desc lang="fr">Un cambriolage tourne mal et le patron d'une bijouterie est tué. L'équipe du CBI, qui soupçonne une complicité interne, enquête dans le cercle de la famille.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/1/5782146.jpg" />
+<episode-num system="xmltv_ns">1.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406135500 +0200" stop="20230406145000 +0200" channel="KabelEins.de">
+<title lang="fr">Mentalist</title>
+<sub-title lang="fr">Fils prodige</sub-title>
+<desc lang="fr">L'équipe enquête sur la mort du fondateur d'une académie de base-ball. Touché violemment à la tête par une balle, Patrick revoit son enfance au cours d'un flash.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/1/5782146.jpg" />
+<episode-num system="xmltv_ns">1.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406145000 +0200" stop="20230406155000 +0200" channel="KabelEins.de">
+<title lang="fr">Castle</title>
+<sub-title lang="fr">Valkyrie</sub-title>
+<desc lang="fr">Rentrant d'une tournée de dédicaces, Richard se retrouve impliqué malgré lui dans les enquêtes confidentielles de Kate et de sa coéquipière Rachel.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/6/5824621.jpg" />
+<episode-num system="xmltv_ns">5.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406155000 +0200" stop="20230406160000 +0200" channel="KabelEins.de">
+<title lang="fr">News</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/4/9/6679941.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406160000 +0200" stop="20230406165500 +0200" channel="KabelEins.de">
+<title lang="fr">Castle</title>
+<sub-title lang="fr">Secret défense</sub-title>
+<desc lang="fr">Richard est empoisonné par une toxine mortelle et n'a plus qu'une journée à vivre. Kate et Rachel tentent de trouver l'antidote avant qu'il ne soit trop tard.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/6/5824621.jpg" />
+<episode-num system="xmltv_ns">5.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406165500 +0200" stop="20230406175500 +0200" channel="KabelEins.de">
+<title lang="fr">Abenteuer Leben täglich</title>
+<sub-title lang="fr">Achims Hack Check - Eier 2023</sub-title>
+<desc lang="fr">Immer nur Rührei oder höchstens mal ein Omelett? Dann ist es Zeit für ein bisschen Abwechslung am Herd! Chefkoch Achim Müller testet wieder skurrile Hacks und Rezepte aus dem Netz. Denn nie essen die Deutschen mehr Eier, als jetzt zur Osterzeit. Und: Felis Food-Check: Argentinische Pizza</desc>
+<category lang="fr">Magazine de l'art de vivre</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/6/5800654.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406175500 +0200" stop="20230406185500 +0200" channel="KabelEins.de">
+<title lang="fr">Mein Lokal, Dein Lokal - Der Profi kommt</title>
+<sub-title lang="fr">&quot;meergut RESTAURANT&quot;, Kühlungsborn</sub-title>
+<desc lang="fr">Am Finaltag geht es für den Profi und die Gastronom:innen an die Ostsee. In direkter Strandlage mit wunderschönem Ausblick auf die Ostsee befindet sich das &quot;meergut Restaurant&quot;. Die Gastgeberin Irina und ihr Koch Lars bereiten ihren Gästen im gehobenen Ambiente Gerichte aus ihrer deutsch-mediterrane Küche vor, um so bei Konkurrenz zu punkten und den Gastronomenwettstreit zu gewinnen.</desc>
+<category lang="fr">Documentaire</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/4/7/7075744.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406185500 +0200" stop="20230406201500 +0200" channel="KabelEins.de">
+<title lang="fr">Achtung Kontrolle! Wir kümmern uns drum</title>
+<sub-title lang="fr">Die Hausmeister der Autobahn - Autobahnmeisterei Rangsdorf</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/6/8/5800862.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406201500 +0200" stop="20230406222000 +0200" channel="KabelEins.de">
+<title lang="fr">Rush Hour 3</title>
+<desc lang="fr">L'ambassadeur de Chine doit révéler l'identité d'un mafieux. Lee est chargé de protéger le diplomate. Or, Carter apprend qu'un assassin est à leurs trousses.</desc>
+<category lang="fr">Film d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/0/8/6860803.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230406222000 +0200" stop="20230407001500 +0200" channel="KabelEins.de">
+<title lang="fr">Banana Joe</title>
+<desc lang="fr">En Amérique Latine, les mésaventures d'un colosse qui se lance dans le commerce de la banane pour financer la construction d'une nouvelle école.</desc>
+<category lang="fr">Comédie</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/4/9/5782947.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230407001500 +0200" stop="20230407020500 +0200" channel="KabelEins.de">
+<title lang="fr">Ange ou démon</title>
+<desc lang="fr">Un ange et un démon tentent de parfaire le caractère d'un brave chauffeur de taxi, qui n'en conserve pas moins sa personnalité.</desc>
+<category lang="fr">Comédie</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/4/7/7075745.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

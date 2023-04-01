@@ -1,0 +1,125 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230406225900 +0200" stop="20230407004700 +0200" channel="CinePlusFrisson.fr">
+<title lang="fr">Speed</title>
+<desc lang="fr">Un psychopathe place une bombe de son invention dans un bus. L'engin explosera dès que la vitesse du véhicule passera sous la barre des 70 km/h.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_76339.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230407004700 +0200" stop="20230407020800 +0200" channel="CinePlusFrisson.fr">
+<title lang="fr">La gouvernante</title>
+<desc lang="fr">Aux yeux de certains, le personnel de maison n'est plus ce qu'il était. Mais pour d'autres, disposer d'une gouvernante à domicile est un ravissement sans nom...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Carré Rose</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11044951.jpg" />
+<rating system="CSA"><value>-18</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Moins18.svg/200px-Moins18.svg.png" /></rating>
+</programme>
+<programme start="20230407020800 +0200" stop="20230407033200 +0200" channel="CinePlusFrisson.fr">
+<title lang="fr">Rouge</title>
+<desc lang="fr">Embauchée récemment dans l'usine chimique où travaille son père, une jeune femme découvre que ce pilier de l'économie locale cache bien des secrets.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_18132273.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230407033200 +0200" stop="20230407042500 +0200" channel="CinePlusFrisson.fr">
+<title lang="fr">Possessions</title>
+<sub-title lang="fr">Red Wedding</sub-title>
+<desc lang="fr">Natalie, jeune Française expatriée en Israël, est accusée du meurtre de son mari, Eran, poignardé mortellement lors de la cérémonie de mariage.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_26686638.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230407042500 +0200" stop="20230407054400 +0200" channel="CinePlusFrisson.fr">
+<title lang="fr">Possessions</title>
+<sub-title lang="fr">The Reenactment</sub-title>
+<desc lang="fr">Les lieutenants Esti et Raffi organisent une première reconstitution sur les lieux du crime. Cependant, les souvenirs de Natalie demeurent confus.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_26686638.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230407054400 +0200" stop="20230407083000 +0200" channel="CinePlusFrisson.fr">
+<title lang="fr">Laissez-passer</title>
+<desc lang="fr">En 1942, les destins croisés d'un metteur en scène aux activités clandestines, qui travaille pour une société de production allemande, et d'un scénariste-poète.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_15026650.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230407083000 +0200" stop="20230407113300 +0200" channel="CinePlusFrisson.fr">
+<title lang="fr">Kingdom of Heaven (Director's Cut)</title>
+<desc lang="fr">En 1186, un humble forgeron apprend qu'il est de noble lignée et que son père attend de lui qu'il parte en croisade, vers Jérusalem et la Terre sainte.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Histoire</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_3161905.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230407113300 +0200" stop="20230407131100 +0200" channel="CinePlusFrisson.fr">
+<title lang="fr">Centurion</title>
+<desc lang="fr">En 117 après J.-C., un général romain est capturé par les Pictes, dans le Nord de l'Angleterre. Un centurion se fait un devoir de le libérer de ces barbares.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_3540855.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230407131100 +0200" stop="20230407133000 +0200" channel="CinePlusFrisson.fr">
+<title lang="fr">Par ici les sorties</title>
+<desc lang="fr">Toutes les sorties en salle de la semaine.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9813097.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230407133000 +0200" stop="20230407154100 +0200" channel="CinePlusFrisson.fr">
+<title lang="fr">Ça</title>
+<desc lang="fr">Dans une petite ville du Maine, des enfants sont enlevés par un clown mystérieux. Des adolescents mal aimés mènent l'enquête à leurs risques et périls.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Horreur</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12533926.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230407154100 +0200" stop="20230407173200 +0200" channel="CinePlusFrisson.fr">
+<title lang="fr">Conjuring : Sous l'emprise du diable</title>
+<desc lang="fr">Des enquêteurs paranormaux tentent de prouver qu'un homme a tué le propriétaire de son logement en étant sous l'emprise d'une puissance démoniaque.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Horreur</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_34850008.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230407173200 +0200" stop="20230407191300 +0200" channel="CinePlusFrisson.fr">
+<title lang="fr">La nuée</title>
+<desc lang="fr">Mère de famille, une agricultrice endettée se lance dans l'élevage des sauterelles et développe un dévouement quasi obessionnel à ses insectes.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_22056914.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230407191300 +0200" stop="20230407205000 +0200" channel="CinePlusFrisson.fr">
+<title lang="fr">L'autre vie de Richard Kemp</title>
+<desc lang="fr">Un commandant de police croise le tueur en série qu'il avait traqué en vain au début de sa carrière. Un événement mystérieux le renvoie vingt ans en arrière.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12266347.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230407205000 +0200" stop="20230407223100 +0200" channel="CinePlusFrisson.fr">
+<title lang="fr">Life : origine inconnue</title>
+<desc lang="fr">Une équipe d'astronautes doit se débarrasser d'une créature dangereuse qui a décimé Mars afin de ne pas mettre en danger l'espèce humaine sur Terre.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Sc.Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12532311.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230407223100 +0200" stop="20230408001900 +0200" channel="CinePlusFrisson.fr">
+<title lang="fr">Premier contact</title>
+<desc lang="fr">Une linguiste est chargée par le gouvernement de connaître les intentions d'extraterrestres qui viennent de débarquer sur la Terre à bord de leurs vaisseaux.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Sc.Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12510165.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

@@ -1,0 +1,237 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230407230000 +0200" stop="20230408001000 +0200" channel="RAI2.it">
+<title lang="fr">ATuttoCalcio</title>
+<desc lang="fr">Rubrica sportiva dedicata al calcio.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11046423.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408001000 +0200" stop="20230408015500 +0200" channel="RAI2.it">
+<title lang="fr">Paradise</title>
+<desc lang="fr">Divertissement.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_28706358.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408015500 +0200" stop="20230408020000 +0200" channel="RAI2.it">
+<title lang="fr">Appuntamento al cinema</title>
+<desc lang="fr">Appuntamento al cinema. Approfondimenti sul mondo del cinema, interviste agli autori ed attori dei film in uscita. Rubrica di promozione della cultura cinematografica in Italia a cura dell'Anicagis.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623551.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408020000 +0200" stop="20230408060000 +0200" channel="RAI2.it">
+<title lang="fr">RAInews24</title>
+<desc lang="fr">Il programma presenta le ultime notizie in tempo reale. News attualità e aggiornamenti su politica, cronaca, esteri, economia, sport e attualità.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_28200084.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408060000 +0200" stop="20230408063000 +0200" channel="RAI2.it">
+<title lang="fr">RAInews24</title>
+<desc lang="fr">Il programma presenta le ultime notizie in tempo reale. News attualità e aggiornamenti su politica, cronaca, esteri, economia, sport e attualità.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11338307.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408063000 +0200" stop="20230408070000 +0200" channel="RAI2.it">
+<title lang="fr">Il Confronto</title>
+<desc lang="fr">Una rubrica dedicata alle attualità politiche in Italia.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_12504519.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408070000 +0200" stop="20230408083500 +0200" channel="RAI2.it">
+<title lang="fr">Paradise</title>
+<desc lang="fr">Divertissement.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_28706358.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408083500 +0200" stop="20230408101000 +0200" channel="RAI2.it">
+<title lang="fr">Radio Due Social Club</title>
+<desc lang="fr">Versione televisiva della trasmissione radiofonica di Rai Radio 2, condotta da Luca Barbarossa e Andrea Perroni.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623521.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408101000 +0200" stop="20230408105500 +0200" channel="RAI2.it">
+<title lang="fr">Quasar</title>
+<desc lang="fr">Un nuovo programma su scienza, condotto da Valerio Rossi Albertini.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_12567935.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408105500 +0200" stop="20230408110000 +0200" channel="RAI2.it">
+<title lang="fr">Meteo 2</title>
+<desc lang="fr">Il meteo di Rai 2 su informazioni del Servizio Meteorologico dell'Aeronautica Militare.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623448.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408110000 +0200" stop="20230408111500 +0200" channel="RAI2.it">
+<title lang="fr">Rai TG Sport Giorno</title>
+<desc lang="fr">Notiziario sportivo che và in onda ogni giorno su Rai 2 alle 11:00.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_6267421.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408111500 +0200" stop="20230408120500 +0200" channel="RAI2.it">
+<title lang="fr">Pizza Doc</title>
+<desc lang="fr">Programma dal titolo e contenuto sconosciuto, da definirsi in seguito.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_21715284.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408120500 +0200" stop="20230408130000 +0200" channel="RAI2.it">
+<title lang="fr">Um Himmels Willen</title>
+<sub-title lang="fr">Pantoffelheld</sub-title>
+<desc lang="fr">In paese avviene un rapimento. Il Centro di Accoglienza immigrati è pieno e sorella Hanna si reca dal sindaco per trovare una soluzione.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12385572.jpg" />
+<episode-num system="xmltv_ns">13.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408130000 +0200" stop="20230408133000 +0200" channel="RAI2.it">
+<title lang="fr">TG 2 Giorno</title>
+<desc lang="fr">Il quotidiano appuntamento con l'informazione, l'attualità dell'ultimo minuto, gli approfondimenti, i fatti di cronaca, di politica, di cultura e le ultime notizie dal mondo.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623508.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408133000 +0200" stop="20230408140000 +0200" channel="RAI2.it">
+<title lang="fr">TG 2 Week-End</title>
+<desc lang="fr">Rubrica del Tg2 dedicata al tempo libero nel fine settimana. A cura di Francesca Nocerino.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_28200084.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408140000 +0200" stop="20230408150000 +0200" channel="RAI2.it">
+<title lang="fr">Vorrei dirti che</title>
+<desc lang="fr">Un programma realizzato da Rai2 che conduce Elisa Isoardi.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11045185.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408150000 +0200" stop="20230408155000 +0200" channel="RAI2.it">
+<title lang="fr">Top : Tutto quanto fa tendenza</title>
+<desc lang="fr">Un magazine sullo stile italiano.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_12723807.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408155000 +0200" stop="20230408164000 +0200" channel="RAI2.it">
+<title lang="fr">Bellissima Italia</title>
+<desc lang="fr">Le meraviglie del nostro Paese raccontate da Fabrizio Rocca e le inviate Karina Marino e Mariateresa Giarratano.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25624365.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408164000 +0200" stop="20230408180000 +0200" channel="RAI2.it">
+<title lang="fr">Ciclismo: Parigi Roubaix femminile</title>
+<desc lang="fr">Cyclisme.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Cyclisme</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22020658.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408180000 +0200" stop="20230408180500 +0200" channel="RAI2.it">
+<title lang="fr">Gli Imperdibili</title>
+<desc lang="fr">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_16488065.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408180500 +0200" stop="20230408181000 +0200" channel="RAI2.it">
+<title lang="fr">TG 2 L.I.S.</title>
+<desc lang="fr">L'aggiornamento quotidiano sulle notizie dell'ultima ora dall'Italia e dall'estero dedicato ai non udenti.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_21766789.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408181000 +0200" stop="20230408182500 +0200" channel="RAI2.it">
+<title lang="fr">Rai TG Sport Sera</title>
+<desc lang="fr">Le principali notizie di sport dall'Italia e dal mondo, a cura della redazione giornalistica del Tg 2.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_6267418.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408182500 +0200" stop="20230408190000 +0200" channel="RAI2.it">
+<title lang="fr">Novantesimo Minuto</title>
+<desc lang="fr">90° minuto è una celebre trasmissione televisiva della RAI che trasmette una breve sintesi delle partite di calcio del campionato di calcio italiano di Serie A e di Serie B. I commenti a caldo del dopo match, i risultati delle partite, le prestazioni dei giocatori.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_10841145.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408190000 +0200" stop="20230408194500 +0200" channel="RAI2.it">
+<title lang="fr">90' Minuto - Tempi Supplementari</title>
+<desc lang="fr">Un talk per analizzare più approfonditamente i gol e le situazioni arbitrali e di gioco con l'ausilio della lavagna tattica.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11640695.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408194500 +0200" stop="20230408203000 +0200" channel="RAI2.it">
+<title lang="fr">Good Sam</title>
+<desc lang="fr">Sam è arrabbiata con entrambi i genitori per essere stata tenuta all'oscuro della verità sul suo incidente. Intanto continua la relazione con Caleb. Al Lakeshore intanto si vive una giornata frenetica. A causa di una tormenta di neve, in ospedale arrivano i pazienti vittime di un incidente di...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_26364878.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408203000 +0200" stop="20230408210000 +0200" channel="RAI2.it">
+<title lang="fr">TG 2</title>
+<desc lang="fr">Il Tg2. Un appuntamento con l'attualità dell'ultimo minuto, gli approfondimenti, la cronaca.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623508.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408210000 +0200" stop="20230408212000 +0200" channel="RAI2.it">
+<title lang="fr">TG2 Post</title>
+<desc lang="fr">Il format che ha come obiettivo di raccontare le notizie e poi approfondirle.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623537.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408212000 +0200" stop="20230408221000 +0200" channel="RAI2.it">
+<title lang="fr">Sue Thomas, l'oeil du FBI</title>
+<sub-title lang="fr">Meurtre sur le campus</sub-title>
+<desc lang="fr">Série policière.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_11995810.jpg" />
+<episode-num system="xmltv_ns">2.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230408221000 +0200" stop="20230408230000 +0200" channel="RAI2.it">
+<title lang="fr">FBI : International</title>
+<desc lang="fr">In seguito al rapimento della nuova fidanzata di un incallito bugiardo,  si scopre che è un ricercato truffatore seriale, che raggira le donne conosciute su app di incontri per mantenere il suo ricco stile di vita.  Intanto la relazione tra Raines e Maya diventa seria, provocando il turbamento di...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_31484529.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230408230000 +0200" stop="20230409010000 +0200" channel="RAI2.it">
+<title lang="fr">La Domenica Sportiva</title>
+<desc lang="fr">Lo storico appuntamento con il programma sportivo &quot;La Domenica Sportiva&quot; dedicato prevalentemente al calcio.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11046423.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

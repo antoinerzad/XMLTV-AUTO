@@ -1,0 +1,10 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230408034000 +0200" stop="20230408064800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Rugby Sevens Series 2022/2023. 9e manche. Etape de Singapour. 1er jour. Session 1.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B00B3FAA7837490CAAA1171A7BC8F1C1.jpg" />
+<episode-num system="xmltv_ns">0.85.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
