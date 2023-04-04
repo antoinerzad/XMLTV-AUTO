@@ -1,0 +1,156 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230410230500 +0200" stop="20230411010500 +0200" channel="W9.fr">
+<title lang="fr">Deadpool</title>
+<desc lang="fr">Un ancien militaire subit un traitement curatif de son cancer dévastateur. Désormais doté de pouvoirs, il se lance à la poursuite de l'homme qui a détruit sa vie.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_7973839.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230411010500 +0200" stop="20230411060000 +0200" channel="W9.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_22269110.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411060000 +0200" stop="20230411070000 +0200" channel="W9.fr">
+<title lang="fr">Wake Up</title>
+<desc lang="fr">Réveillez-vous de bon pied avec W9 ! Retrouvez une sélection des meilleurs tubes du moment pour un réveil vitaminé...</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19451123.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411070000 +0200" stop="20230411090000 +0200" channel="W9.fr">
+<title lang="fr">Le double expresso RTL2</title>
+<desc lang="fr">Pour un réveil dynamique et tout en musique, Grégory et Justine vous offrent une double dose de son Pop-Rock, d'infos et de bonne humeur.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_24032176.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411090000 +0200" stop="20230411103000 +0200" channel="W9.fr">
+<title lang="fr">W9 Hits</title>
+<desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_21782675.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411103000 +0200" stop="20230411113000 +0200" channel="W9.fr">
+<title lang="fr">W9 Hits Gold</title>
+<desc lang="fr">Retrouvez le meilleur des hits des années 80, 90 et 2000.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_17383995.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411113000 +0200" stop="20230411124500 +0200" channel="W9.fr">
+<title lang="fr">W9 Hits</title>
+<desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_21782675.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411124500 +0200" stop="20230411125000 +0200" channel="W9.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_27479781.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411125000 +0200" stop="20230411134000 +0200" channel="W9.fr">
+<title lang="fr">NCIS : enquêtes spéciales</title>
+<sub-title lang="fr">M. et Mme Smith</sub-title>
+<desc lang="fr">Un marine assassiné au volant de sa voiture menait-il une double vie ? En l'identifiant, l'équipe découvre qu'une autre personne porte le nom de l'officier.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_11275096.jpg" />
+<episode-num system="xmltv_ns">2.4.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230411134000 +0200" stop="20230411143000 +0200" channel="W9.fr">
+<title lang="fr">NCIS : enquêtes spéciales</title>
+<sub-title lang="fr">Meurtre en direct</sub-title>
+<desc lang="fr">Le NCIS enquête sur les assassinats de deux femmes de marines, qui alimentaient en images éloquentes un site pornographique. Le webmaster est un suspect idéal.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_11274181.jpg" />
+<episode-num system="xmltv_ns">2.5.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230411143000 +0200" stop="20230411152000 +0200" channel="W9.fr">
+<title lang="fr">NCIS : enquêtes spéciales</title>
+<sub-title lang="fr">Cheval de Troie</sub-title>
+<desc lang="fr">Jenny se rend en Russie pour y rencontrer un militaire qui était un ennemi de son père : ce rendez-vous lui permet d'en apprendre un peu plus sur son passé.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_14640852.jpg" />
+<episode-num system="xmltv_ns">3.22.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230411152000 +0200" stop="20230411164000 +0200" channel="W9.fr">
+<title lang="fr">NCIS : enquêtes spéciales</title>
+<sub-title lang="fr">Révélations</sub-title>
+<desc lang="fr">Tony et Jeanne sont pris en otages par un dangereux trafiquant de drogue. Tony, bien que désarmé, va tenter de les sortir de cette situation.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_11544988.jpg" />
+<episode-num system="xmltv_ns">3.23.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230411164000 +0200" stop="20230411175000 +0200" channel="W9.fr">
+<title lang="fr">Un dîner presque parfait</title>
+<desc lang="fr">Ils sont cinq et habitent la même région. Ils ne se connaissent pas et pourtant, ils vont s'inviter à dîner à tour de rôle pendant toute une semaine pour tenter de remporter le titre de meilleur hôte.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_35101100.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411175000 +0200" stop="20230411185000 +0200" channel="W9.fr">
+<title lang="fr">Un dîner presque parfait</title>
+<desc lang="fr">Ils sont cinq et habitent la même région. Ils ne se connaissent pas et pourtant, ils vont s'inviter à dîner à tour de rôle pendant toute une semaine pour tenter de remporter le titre de meilleur hôte.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_35101100.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411185000 +0200" stop="20230411195000 +0200" channel="W9.fr">
+<title lang="fr">Un dîner presque parfait</title>
+<desc lang="fr">Ils sont cinq et habitent la même région. Ils ne se connaissent pas et pourtant, ils vont s'inviter à dîner à tour de rôle pendant toute une semaine pour tenter de remporter le titre de meilleur hôte.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_35101100.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411195000 +0200" stop="20230411205500 +0200" channel="W9.fr">
+<title lang="fr">Les apprentis aventuriers</title>
+<desc lang="fr">Téléréalité.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_30603289.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230411205500 +0200" stop="20230411210000 +0200" channel="W9.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_27479781.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411210000 +0200" stop="20230411231000 +0200" channel="W9.fr">
+<title lang="fr">Match préparatoire à la Coupe du monde féminine 2023</title>
+<desc lang="fr">L'équipe de France féminine poursuit sa préparation à la Coupe du monde 2023 en recevant le Canada, au stade Marie-Marvingt du Mans. Un test grandeur nature pour les Bleues, puisqu'elles affrontent ni plus ni moins que les championnes olympiques en titre qui comptent parmi les favorites du...</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Football</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_18120392.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411231000 +0200" stop="20230412000000 +0200" channel="W9.fr">
+<title lang="fr">Enquête d'action</title>
+<desc lang="fr">L'Oise est un département de 800 000 habitants avec ses villages paisibles mais aussi ses quartiers chauds. La commune de Creil compte des cités parmi les plus défavorisées et les plus violentes de France. Ici, on recense une douzaine de crimes et délits par jour en moyenne. Fusillades, rodéos...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_37024186.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>

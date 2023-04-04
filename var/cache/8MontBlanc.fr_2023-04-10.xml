@@ -1,0 +1,308 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230410060000 +0200" stop="20230410063000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Le grand journal des territoires</title>
+<desc lang="fr">En collaboration avec les chaînes de télévision et les rédactions de la presse locales, un tour des régions à la rencontre des acteurs de l'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/766894AABB7EC7FEEC25BEF326876FFF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410063000 +0200" stop="20230410070000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Pêche sportive en Savoie Mont-Blanc</title>
+<desc lang="fr">Magazine</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410070000 +0200" stop="20230410071500 +0200" channel="8MontBlanc.fr">
+<title lang="fr">JT des régions</title>
+<desc lang="fr">Toute l'actu de la semaine en Suisse Romande et France voisine</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/042F60FF2C270207C1B653677FA29088.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410071500 +0200" stop="20230410073000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Web tv culture</title>
+<desc lang="fr">Web Tv Culture se veut un lieu de rencontres et d'échanges pour tous les amoureux des livres : auteurs, éditeurs, libraires, lecteurs Tous ceux dont la vie ne saurait se concevoir sans les livres.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6AC05F2667CD6EF09DBE4A75942C3C5B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410073000 +0200" stop="20230410090000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Auto legend</title>
+<desc lang="fr">Allez à la rencontre des plus grands collectionneurs de voitures anciennes d'exceptions allant des plus rares aux plus populaires! Présentée par la chroniqueuse Angélique Rayssiguier (TéléFoot, Lci, Equipe 21) et Morgan Moulin Traffort, pilote professionnel Champion de France de Grand Tourisme 2013 au coté de Fabien Barthès chez Ferrari.</desc>
+<category lang="fr">Loisirs</category>
+<category lang="fr">Automobilisme</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410090000 +0200" stop="20230410110000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Au coeur des parcs régionaux naturels de France</title>
+<desc lang="fr">Série documentaire sur les Parcs naturels régionaux du Perche, de la Forêt d'Orient, de Camargue et des Volcans d'Auvergne. Ces films invitent à découvrir une journée dans un parc, du levée du jour à la nuit, par le regard d'un animal emblématique.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410110000 +0200" stop="20230410111500 +0200" channel="8MontBlanc.fr">
+<title lang="fr">La santé d'abord</title>
+<desc lang="fr">La santé d'abord, c'est votre rendez-vous santé et bien-être ! Cette émission, animée par Véronique Mounier, a une mission : répondre très concrètement aux questions de santé et de bien-être des Français dans tous les territoires grâce à des vidéos reportages et l'éclairage d'experts en plateau.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410111500 +0200" stop="20230410113000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Cycling Series</title>
+<desc lang="fr">La série Cycling est un ensemble de films parcourant le monde asiatique et les pays de l'Himalaya, à la rencontre des peuples et des nomades… Ces films sont tournés au cours de voyage à VTT, car pour mieux appréhender un peuple, il faut l'approcher lentement. Le vélo tout terrain devient un vecteur de rencontre, d'échange et de partage.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B057A4A4CB8290F78DD99791EAB04EFC.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410113000 +0200" stop="20230410114500 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Découvertes</title>
+<desc lang="fr">Chaque semaine, la rédaction vous propose des rendez-vous découvertes ... Cuisine, jardinage, culture, nature ou encore rando.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410114500 +0200" stop="20230410120000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Les sorties ciné</title>
+<desc lang="fr">Que voir cette semaine au cinéma, cette rubrique vous dit tout.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/72CE72A286C6B6702A0E2A62FE7B0247.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410120000 +0200" stop="20230410130000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Concert</title>
+<desc lang="fr">Une heure de musique de tous styles enregistrée lors d'événements prestigieux tel que Jazz à Vienne, Rhino Jazz Festival et bien d'autres.</desc>
+<category lang="fr">Spectacle</category>
+<category lang="fr">Variétés</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0BB5F7524C2D27BC7D5ADC54FF8B8FB4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410130000 +0200" stop="20230410133000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Le grand journal des territoires</title>
+<desc lang="fr">En collaboration avec les chaînes de télévision et les rédactions de la presse locales, un tour des régions à la rencontre des acteurs de l'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/29848AE16D10FD1768BCA09595DF6CDD.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410133000 +0200" stop="20230410140000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Pêche sportive en Savoie Mont-Blanc</title>
+<desc lang="fr">Magazine</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410140000 +0200" stop="20230410141500 +0200" channel="8MontBlanc.fr">
+<title lang="fr">JT des régions</title>
+<desc lang="fr">Toute l'actu de la semaine en Suisse Romande et France voisine</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/042F60FF2C270207C1B653677FA29088.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410141500 +0200" stop="20230410143000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Web tv culture</title>
+<desc lang="fr">Web Tv Culture se veut un lieu de rencontres et d'échanges pour tous les amoureux des livres : auteurs, éditeurs, libraires, lecteurs Tous ceux dont la vie ne saurait se concevoir sans les livres.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E67D5EDCCFF5D54F043BEEC5FB25EC12.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410143000 +0200" stop="20230410160000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Auto legend</title>
+<desc lang="fr">Allez à la rencontre des plus grands collectionneurs de voitures anciennes d'exceptions allant des plus rares aux plus populaires! Présentée par la chroniqueuse Angélique Rayssiguier (TéléFoot, Lci, Equipe 21) et Morgan Moulin Traffort, pilote professionnel Champion de France de Grand Tourisme 2013 au coté de Fabien Barthès chez Ferrari.</desc>
+<category lang="fr">Loisirs</category>
+<category lang="fr">Automobilisme</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410160000 +0200" stop="20230410180000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Au coeur des parcs régionaux naturels de France</title>
+<desc lang="fr">Série documentaire sur les Parcs naturels régionaux du Perche, de la Forêt d'Orient, de Camargue et des Volcans d'Auvergne. Ces films invitent à découvrir une journée dans un parc, du levée du jour à la nuit, par le regard d'un animal emblématique.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410180000 +0200" stop="20230410181000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">Du lundi au vendredi, retrouvez toute l'info des Pays de Savoie et du bassin Genevois.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7F85F787F42C28BC3DF778A24F1950FB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410181000 +0200" stop="20230410181500 +0200" channel="8MontBlanc.fr">
+<title lang="fr">La Météo</title>
+<desc lang="fr">Chaque soir, du lundi au vendredi, retrouvez le bulletin météo de Thierry Paulme. L'été retrouvez également la météo des lacs, et la météo des neiges en hiver. Le bulletin est enregistré du lundi au vendredi. Pas de bulletin les weeks end. Diffusion : du lundi au vendredi à 18h45 puis toutes les 2 heures.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410181500 +0200" stop="20230410183000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">L'aparté de la rédaction</title>
+<desc lang="fr">La rédaction reçoit sur le plateau de 8 Mont-Blanc une personnalité au coeur de l'actualité des Pays de Savoie et du Grand Genève. Politique, sport, société, économie, culture, santé, sciences… 13 minutes de témoignages, de décryptage, d'interviews et d'analyses.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410183000 +0200" stop="20230410191500 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Les sorties ciné</title>
+<desc lang="fr">Que voir cette semaine au cinéma, cette rubrique vous dit tout.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/72CE72A286C6B6702A0E2A62FE7B0247.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410191500 +0200" stop="20230410193000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Découvertes</title>
+<desc lang="fr">Chaque semaine, la rédaction vous propose des rendez-vous découvertes ... Cuisine, jardinage, culture, nature ou encore rando.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410193000 +0200" stop="20230410200000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Le grand journal des territoires</title>
+<desc lang="fr">En collaboration avec les chaînes de télévision et les rédactions de la presse locales, un tour des régions à la rencontre des acteurs de l'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/93F69315CDC7DE6453824CC10AB28FFA.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410200000 +0200" stop="20230410201000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">Du lundi au vendredi, retrouvez toute l'info des Pays de Savoie et du bassin Genevois.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4334B045B093A90007A2915F54122607.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410201000 +0200" stop="20230410201500 +0200" channel="8MontBlanc.fr">
+<title lang="fr">La Météo</title>
+<desc lang="fr">Chaque soir, du lundi au vendredi, retrouvez le bulletin météo de Thierry Paulme. L'été retrouvez également la météo des lacs, et la météo des neiges en hiver. Le bulletin est enregistré du lundi au vendredi. Pas de bulletin les weeks end. Diffusion : du lundi au vendredi à 18h45 puis toutes les 2 heures.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410201500 +0200" stop="20230410220000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">L'aparté de la rédaction</title>
+<desc lang="fr">La rédaction reçoit sur le plateau de 8 Mont-Blanc une personnalité au coeur de l'actualité des Pays de Savoie et du Grand Genève. Politique, sport, société, économie, culture, santé, sciences… 13 minutes de témoignages, de décryptage, d'interviews et d'analyses.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410220000 +0200" stop="20230410221000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">Du lundi au vendredi, retrouvez toute l'info des Pays de Savoie et du bassin Genevois.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4334B045B093A90007A2915F54122607.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410221000 +0200" stop="20230410221500 +0200" channel="8MontBlanc.fr">
+<title lang="fr">La Météo</title>
+<desc lang="fr">Chaque soir, du lundi au vendredi, retrouvez le bulletin météo de Thierry Paulme. L'été retrouvez également la météo des lacs, et la météo des neiges en hiver. Le bulletin est enregistré du lundi au vendredi. Pas de bulletin les weeks end. Diffusion : du lundi au vendredi à 18h45 puis toutes les 2 heures.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410221500 +0200" stop="20230410223000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">L'aparté de la rédaction</title>
+<desc lang="fr">La rédaction reçoit sur le plateau de 8 Mont-Blanc une personnalité au coeur de l'actualité des Pays de Savoie et du Grand Genève. Politique, sport, société, économie, culture, santé, sciences… 13 minutes de témoignages, de décryptage, d'interviews et d'analyses.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410223000 +0200" stop="20230410231500 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Les sorties ciné</title>
+<desc lang="fr">Que voir cette semaine au cinéma, cette rubrique vous dit tout.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/72CE72A286C6B6702A0E2A62FE7B0247.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410231500 +0200" stop="20230410233000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Découvertes</title>
+<desc lang="fr">Chaque semaine, la rédaction vous propose des rendez-vous découvertes ... Cuisine, jardinage, culture, nature ou encore rando.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410233000 +0200" stop="20230411030000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Le grand journal des territoires</title>
+<desc lang="fr">En collaboration avec les chaînes de télévision et les rédactions de la presse locales, un tour des régions à la rencontre des acteurs de l'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/93F69315CDC7DE6453824CC10AB28FFA.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411030000 +0200" stop="20230411031000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">Du lundi au vendredi, retrouvez toute l'info des Pays de Savoie et du bassin Genevois.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4334B045B093A90007A2915F54122607.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411031000 +0200" stop="20230411031500 +0200" channel="8MontBlanc.fr">
+<title lang="fr">La Météo</title>
+<desc lang="fr">Chaque soir, du lundi au vendredi, retrouvez le bulletin météo de Thierry Paulme. L'été retrouvez également la météo des lacs, et la météo des neiges en hiver. Le bulletin est enregistré du lundi au vendredi. Pas de bulletin les weeks end. Diffusion : du lundi au vendredi à 18h45 puis toutes les 2 heures.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411031500 +0200" stop="20230411032000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">L'aparté de la rédaction</title>
+<desc lang="fr">La rédaction reçoit sur le plateau de 8 Mont-Blanc une personnalité au coeur de l'actualité des Pays de Savoie et du Grand Genève. Politique, sport, société, économie, culture, santé, sciences… 13 minutes de témoignages, de décryptage, d'interviews et d'analyses.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411032000 +0200" stop="20230411033000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Découvertes</title>
+<desc lang="fr">Chaque semaine, la rédaction vous propose des rendez-vous découvertes ... Cuisine, jardinage, culture, nature ou encore rando.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411033000 +0200" stop="20230411033500 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Le grand journal des territoires</title>
+<desc lang="fr">En collaboration avec les chaînes de télévision et les rédactions de la presse locales, un tour des régions à la rencontre des acteurs de l'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/29848AE16D10FD1768BCA09595DF6CDD.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411033500 +0200" stop="20230411040000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Les sorties ciné</title>
+<desc lang="fr">Que voir cette semaine au cinéma, cette rubrique vous dit tout.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/72CE72A286C6B6702A0E2A62FE7B0247.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411040000 +0200" stop="20230411041000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">Du lundi au vendredi, retrouvez toute l'info des Pays de Savoie et du bassin Genevois.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7F85F787F42C28BC3DF778A24F1950FB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411041000 +0200" stop="20230411041500 +0200" channel="8MontBlanc.fr">
+<title lang="fr">La Météo</title>
+<desc lang="fr">Chaque soir, du lundi au vendredi, retrouvez le bulletin météo de Thierry Paulme. L'été retrouvez également la météo des lacs, et la météo des neiges en hiver. Le bulletin est enregistré du lundi au vendredi. Pas de bulletin les weeks end. Diffusion : du lundi au vendredi à 18h45 puis toutes les 2 heures.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411041500 +0200" stop="20230411060000 +0200" channel="8MontBlanc.fr">
+<title lang="fr">L'aparté de la rédaction</title>
+<desc lang="fr">La rédaction reçoit sur le plateau de 8 Mont-Blanc une personnalité au coeur de l'actualité des Pays de Savoie et du Grand Genève. Politique, sport, société, économie, culture, santé, sciences… 13 minutes de témoignages, de décryptage, d'interviews et d'analyses.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

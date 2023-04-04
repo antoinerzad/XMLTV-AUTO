@@ -1,0 +1,237 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230409060000 +0200" stop="20230409070000 +0200" channel="TVE.es">
+<title lang="fr">Noticias 24H</title>
+<desc lang="fr">Información continua 24 horas, nacional e internacional, 365 días al año.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A66F28ADB1B9F12CE0DA953072E1FD27.jpg" />
+<episode-num system="xmltv_ns">0.97.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409070000 +0200" stop="20230409071500 +0200" channel="TVE.es">
+<title lang="fr">Medina en TVE</title>
+<sub-title lang="fr">Halal y ayuno: Un estilo de vida saludable</sub-title>
+<desc lang="fr">El producto Halal es beneficioso para el ser humano, propiciando una mejora de la calidad de vida y la reducción de riesgos para la salud.</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Religions</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8ADE85F876E86541CE4D1F3642A4CD08.jpg" />
+<episode-num system="xmltv_ns">0.275.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409071500 +0200" stop="20230409073000 +0200" channel="TVE.es">
+<title lang="fr">Buenas noticias TV</title>
+<sub-title lang="fr">Razones para celebrar la resurrección</sub-title>
+<desc lang="fr">Si alguien fuera capaz de demostrar que Jesús no resucitó, acabaría con el cristianismo. Muchos lo han intentado desde el principio, pero hasta ahora nadie lo ha conseguido. Por eso, sigue habiendo razones para celebrar que Jesús está vivo.</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Religions</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C5EFFAC980630074CADB669B386AF481.jpg" />
+<episode-num system="xmltv_ns">0.270.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409073000 +0200" stop="20230409074500 +0200" channel="TVE.es">
+<title lang="fr">Shalom</title>
+<sub-title lang="fr">David Broza en su experiencia española</sub-title>
+<desc lang="fr">David Broza es un cantautor israelí de fama internacional, reconocido por sus actuaciones en pro de la justicia social y la defensa de la paz. Vuelve a España 40 años después, presentando su nuevo disco ¿La Mujer Que Yo Quiero¿, actualización en español de aquellos clásicos de Serrat, Paco Ibáñez.</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Education</category>
+<episode-num system="xmltv_ns">0.278.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409074500 +0200" stop="20230409081000 +0200" channel="TVE.es">
+<title lang="fr">Últimas preguntas</title>
+<sub-title lang="fr">El Evangelio en los cuentos</sub-title>
+<desc lang="fr">Diego Blanco nos descubre cómo los cuentos clásicos tienen una narrativa en la que podemos descubrir los valores evangélicos. Con él conversamos sobre la salvación, el bien y el mal o el miedo.</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Religions</category>
+<episode-num system="xmltv_ns">0.243.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409081000 +0200" stop="20230409081500 +0200" channel="TVE.es">
+<title lang="fr">Testimonio</title>
+<sub-title lang="fr">Gente de Dios</sub-title>
+<desc lang="fr">Santi Riesco, periodista de RTVE, nos presenta el libro and#34;Gente de Dios,¡Dios qué gente. El libro hace un recorrido por un buen puñado de impactantes testimonios, que fueron para el autor presencia visible de Dios en tantos lugares del mundo que recorrió con las cámaras.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0316A405E773BAE732432B9949FAAFA2.jpg" />
+<episode-num system="xmltv_ns">0.261.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409081500 +0200" stop="20230409084500 +0200" channel="TVE.es">
+<title lang="fr">Pueblo de Dios</title>
+<desc lang="fr">Documentales y reportajes sobre la vocación misionera de la Iglesia.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0B31AC3F1A0B4C178B9AC081C84EC6A6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409084500 +0200" stop="20230409091000 +0200" channel="TVE.es">
+<title lang="fr">Bloque infantil</title>
+<sub-title lang="fr">Mironins</sub-title>
+<desc lang="fr">Incluye: - MIRONINS - MYA GO - MOMONSTERS PARA TODOS LOS PUBLICOS.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3C31DB5BB7607EA0CDAB5770EB4E2D01.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409091000 +0200" stop="20230409094000 +0200" channel="TVE.es">
+<title lang="fr">Zoom tendencias</title>
+<desc lang="fr">ZOOM TENDENCIAS viaja cada semana por diferentes rincones de España, mostrándonos innovadoras propuestas gastronómicas y hoteleras. Descubriendo las últimas tendencias en bienestar y ocio; y recorriendo nuestro rico patrimonio histórico, cultural y artístico.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409094000 +0200" stop="20230409103000 +0200" channel="TVE.es">
+<title lang="fr">La romanización de Hispania</title>
+<desc lang="fr">La civilización romana dejó en España un enorme legado que hoy, 1600 años después, sigue siendo el cimiento principal en que se sustenta la cultura, la lengua, las leyes, las costumbres y buena parte de las formas de vida de los españoles.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Histoire</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409103000 +0200" stop="20230409113000 +0200" channel="TVE.es">
+<title lang="fr">Saber vivir</title>
+<desc lang="fr">Programa divulgativo en el que se abordan hábitos saludables para prevenir enfermedades y tener una vida saludable.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<episode-num system="xmltv_ns">0.168.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409113000 +0200" stop="20230409140000 +0200" channel="TVE.es">
+<title lang="fr">MasterChef Spain</title>
+<desc lang="fr">Los aspirantes de and#34;MasterChefand#34; se sumergirán en el extraordinario Oceanogràfic de Valencia, construido en el corazón de la Ciudad de las Artes y las Ciencias, que conmemora este año su 20 aniversario.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<episode-num system="xmltv_ns">0.29.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409140000 +0200" stop="20230409143000 +0200" channel="TVE.es">
+<title lang="fr">Flash Moda</title>
+<desc lang="fr">Programa divulgativo sobre el mundo de la moda.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/73C86FAF26038D3D7B2DC1489B585587.jpg" />
+<episode-num system="xmltv_ns">0.232.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409143000 +0200" stop="20230409150000 +0200" channel="TVE.es">
+<title lang="fr">Corazón</title>
+<desc lang="fr">Magazine en directo, en donde en 30 minutos hacemos un repaso a toda la actualidad social de nuestro país.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/AEDAFB77BEE8728E01AF4C023C0EC72B.jpg" />
+<episode-num system="xmltv_ns">0.879.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409150000 +0200" stop="20230409160000 +0200" channel="TVE.es">
+<title lang="fr">Telediario 1</title>
+<desc lang="fr">Espacio diario de información nacional e internacional en directo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D6FCCB902F17622656E3BFD1F08FA868.jpg" />
+<episode-num system="xmltv_ns">0.98.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409160000 +0200" stop="20230409164500 +0200" channel="TVE.es">
+<title lang="fr">Saber y ganar</title>
+<desc lang="fr">Programa concurso.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E98B391CBB56A85AE8024F8F2CCC3B3A.jpg" />
+<episode-num system="xmltv_ns">0.229.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409164500 +0200" stop="20230409191500 +0200" channel="TVE.es">
+<title lang="fr">Cover Night</title>
+<desc lang="fr">Los cantantes interpretarán, de uno en uno, una singular versión en otro estilo musical de un conocido éxito internacional delante de un exigente jurado compuesto por 3 famosos artistas. Cuando al menos 2 de ellos voten a favor del intérprete, éste pasará a ocupar una de las cabinas.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Variétés</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B1FC36F957B6F407827D19977B1F991A.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409191500 +0200" stop="20230409204500 +0200" channel="TVE.es">
+<title lang="fr">Plan de tarde</title>
+<desc lang="fr">Una ventana abierta a la actualidad los domingos por la tarde. Un programa en el que abordaremos la última hora de la crónica social.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409204500 +0200" stop="20230409210000 +0200" channel="TVE.es">
+<title lang="fr">Zoom net</title>
+<desc lang="fr">Programa de actualidad dedicado a los video juegos y las novedades en tecnologia en general.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sciences et technique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BF727F10716EA883B0373FD2415BA148.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409210000 +0200" stop="20230409220000 +0200" channel="TVE.es">
+<title lang="fr">Telediario 2</title>
+<desc lang="fr">Programa diario de noticias nacionales e internacionales en directo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/770616CD0A5E49E649EE905C85D59023.jpg" />
+<episode-num system="xmltv_ns">0.98.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409220000 +0200" stop="20230409225500 +0200" channel="TVE.es">
+<title lang="fr">Comando Actualidad</title>
+<sub-title lang="fr">Gente extraordinaria</sub-title>
+<desc lang="fr">Han decidido llevar una vida fuera de lo normal. Creen que las cosas pueden ser de otra manera y defienden el derecho a ser diferentes. David, Lorena, Ángela, Marcos¿ Son únicos, no cumplen con lo establecido y rompen las estadísticas.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4AB46A654BF3AEB0284A37DAD34F52D2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409225500 +0200" stop="20230409235500 +0200" channel="TVE.es">
+<title lang="fr">Comando Actualidad</title>
+<sub-title lang="fr">Desatención primaria</sub-title>
+<desc lang="fr">La tasa de médicos en España en 2020 se situó en 5,83 por cada 1.000 habitantes, la de enfermeros en 6,86, según el INE, muy por debajo de la media europea.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9138BD93A53CFE985222E1D281E8035F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409235500 +0200" stop="20230410005500 +0200" channel="TVE.es">
+<title lang="fr">Comando Actualidad</title>
+<sub-title lang="fr">Teruel</sub-title>
+<desc lang="fr">Comando Actualidad viaja a Teruel para desvelar quiénes son los habitantes de Teruel que han conseguido un antes y un después liderando la batalla en defensa de la España vaciada. Son pocos, pero han metido los problemas de su tierra en la agenda política.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9138BD93A53CFE985222E1D281E8035F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410005500 +0200" stop="20230410012500 +0200" channel="TVE.es">
+<title lang="fr">Plano general</title>
+<sub-title lang="fr">Eulàlia Ramon</sub-title>
+<desc lang="fr">Programa que ofrece una visión íntima y personal de un invitado que aporta su testimonio sobre temas de actualidad y semblanza vital.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Interview</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EDC5365200D319DE69383B28C2B4F567.jpg" />
+<episode-num system="xmltv_ns">0.43.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410012500 +0200" stop="20230410022000 +0200" channel="TVE.es">
+<title lang="fr">Cultivo talento</title>
+<desc lang="fr">El documental recorre el país, desde el paraje de Las Médulas de El Bierzo, en León, hasta Sanlúcar de Barrameda, junto al Parque Natural de Doñana, dirigiendo el objetivo hacia las historias humanas que contribuyen a cambiar la crónica de la España despoblada.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410022000 +0200" stop="20230410053000 +0200" channel="TVE.es">
+<title lang="fr">Noticias 24H</title>
+<desc lang="fr">Información continua 24 horas, nacional e internacional, 365 días al año.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9F12308DD4B9B0B2EBB5786A66DE8F5B.jpg" />
+<episode-num system="xmltv_ns">0.98.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410053000 +0200" stop="20230410063000 +0200" channel="TVE.es">
+<title lang="fr">La aventura del saber</title>
+<desc lang="fr">Ofrecemos los reportajes and#34;La Estela y el Dolmen de Toriñueloand#34; y and#34;Juan Muñoz. Todo lo que veo me sobreviviráand#34;. Además. Mara Peterssen y el divulgador Luis Quevedo comentan algunas noticias científicas destacadas.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/708F54FFC753247B565127D35F9D5646.jpg" />
+<episode-num system="xmltv_ns">0.812.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

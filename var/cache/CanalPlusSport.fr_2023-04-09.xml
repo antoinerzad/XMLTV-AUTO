@@ -1,0 +1,126 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230409044000 +0200" stop="20230409070000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Rugby Sevens Series 2022/2023. 9e manche. Etape de Singapour. 2e jour. Session 1, 1re partie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/47962181A32684E6A5BD4DDDFC018D78.jpg" />
+<episode-num system="xmltv_ns">0.89.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409070000 +0200" stop="20230409093000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Rugby Sevens Series 2022/2023. 9e manche. Etape de Singapour. 2e jour. Session 1, 2e partie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B00B3FAA7837490CAAA1171A7BC8F1C1.jpg" />
+<episode-num system="xmltv_ns">0.90.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409093000 +0200" stop="20230409120000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Rugby Sevens Series 2022/2023. 9e manche. Etape de Singapour. 2e jour. Session 1, 3e partie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/47962181A32684E6A5BD4DDDFC018D78.jpg" />
+<episode-num system="xmltv_ns">0.91.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409120000 +0200" stop="20230409135800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Rugby Sevens Series 2022/2023. 9e manche. Etape de Singapour. 2e jour. Super Session.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/47962181A32684E6A5BD4DDDFC018D78.jpg" />
+<episode-num system="xmltv_ns">0.92.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409135800 +0200" stop="20230409153900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 7e journée. Reds / Brumbies.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FD34DC8C821AEECAD2CAFBAA03FD5D95.jpg" />
+<episode-num system="xmltv_ns">0.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409153900 +0200" stop="20230409163000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rallye : WRC, Rallye du Mexique</title>
+<desc lang="fr">Championnat du monde des rallyes 2023. Rallye du Mexique.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rallye</category>
+<icon src="https://img.bouygtel.fr/CMS/images/68F5D26079C42735932EC39FC3B50C85.jpg" />
+<episode-num system="xmltv_ns">0.64.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409163000 +0200" stop="20230409170000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Grand Prix</title>
+<sub-title lang="fr">Grand Prix d'Australie</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4E793771F377B0D3EAAC10E75CC2542B.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409170000 +0200" stop="20230409200000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Masters d'Augusta</title>
+<desc lang="fr">Masters d'Augusta 2023. 4e tour. Featured Groups.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/65827C07BF513C540B9729EA402BF010.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409200000 +0200" stop="20230409230000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Masters d'Augusta</title>
+<desc lang="fr">Masters d'Augusta 2023. 4e tour, 1re partie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8B01F1F360A10F046B2A5CA6EBEECA30.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409230000 +0200" stop="20230410010000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Masters d'Augusta</title>
+<desc lang="fr">Masters d'Augusta 2023. 4e tour, 2e partie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8B01F1F360A10F046B2A5CA6EBEECA30.jpg" />
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410010000 +0200" stop="20230410025900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Rugby Sevens Series 2022/2023. 9e manche. Etape de Singapour. 2e jour. Super Session.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B00B3FAA7837490CAAA1171A7BC8F1C1.jpg" />
+<episode-num system="xmltv_ns">0.92.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410025900 +0200" stop="20230410031000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">La compile Zapsport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410031000 +0200" stop="20230410051100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Masters d'Augusta</title>
+<desc lang="fr">Masters d'Augusta 2023. 4e tour, 2e partie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DB0E558A3B2016F1F965F79FF46043BD.jpg" />
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410051100 +0200" stop="20230410070900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Sonic 2, le film</title>
+<desc lang="fr">A Green Hills, les habitants se sont habitués aux frasques de Sonic, un hérisson bleu humanoïde aux allures de superhéros. Après avoir vaincu diverses menaces, Sonic coule des jours heureux et profite des attractions de la ville. Mais le répit se révèle finalement de courte durée : le redoutable docteur Robotnik refait surface avec un plan diabolique en tête, celui de raser l'humanité entière de la surface de la Terre à l'aide d'une mystérieuse émeraude. Pour empêcher la catastrophe, Sonic se lance dans une quête désespérée avec Tails, son fidèle acolyte, en espérant mettre la main sur la précieuse pierre avant le savant fou.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9E6CC8D045DD6E590F5CFC1CEF5EF4DC.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

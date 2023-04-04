@@ -1,0 +1,84 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230410060000 +0200" stop="20230410090000 +0200" channel="MTVHits.fr">
+<title lang="fr">MTV Breakfast Club</title>
+<desc lang="fr">Une sélection musicale taillée pour se lever du bon pied.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://img.bouygtel.fr/CMS/images/678FF5167DAAC240FF9B3EF03253817D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410090000 +0200" stop="20230410125900 +0200" channel="MTVHits.fr">
+<title lang="fr">Les 50 meilleurs clips</title>
+<desc lang="fr">Les 50 Meilleurs Clips c'est le classement des meilleurs clips d'un artiste ou d'un genre musical.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410125900 +0200" stop="20230410160000 +0200" channel="MTVHits.fr">
+<title lang="fr">Beats &amp; Lyrics</title>
+<desc lang="fr">Vous avez envie de chanter à tue-tête les tops du moment mais vous ne connaissez pas les paroles?! Branchez-vous sur MTV BASE et regardez &quot;Beats and Lyrics&quot;! Vous retrouverez les paroles de vos artistes préférés!</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FC9CB1F12F70CBF7F613F96D8109154D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410160000 +0200" stop="20230410190000 +0200" channel="MTVHits.fr">
+<title lang="fr">Music &amp; News</title>
+<desc lang="fr">La playlist des meilleurs clips du moment avec les dernières news</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410190000 +0200" stop="20230410194500 +0200" channel="MTVHits.fr">
+<title lang="fr">10 Meilleurs Clips Electro</title>
+<desc lang="fr">Les 10 meilleurs clips Electro du moment</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410194500 +0200" stop="20230410203000 +0200" channel="MTVHits.fr">
+<title lang="fr">10 Meilleurs Clips Fr</title>
+<desc lang="fr">Les 10 meilleurs clips Français du moment</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410203000 +0200" stop="20230410210000 +0200" channel="MTVHits.fr">
+<title lang="fr">Brand New</title>
+<desc lang="fr">La meilleure sélection des nouveautés par MTV Hits.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230410210000 +0200" stop="20230411010000 +0200" channel="MTVHits.fr">
+<title lang="fr">Les 50 meilleurs clips</title>
+<desc lang="fr">Les 50 Meilleurs Clips c'est le classement des meilleurs clips d'un artiste ou d'un genre musical.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411010000 +0200" stop="20230411012500 +0200" channel="MTVHits.fr">
+<title lang="fr">Yo ! MTV Raps *2022</title>
+<sub-title lang="fr">Freddie Gibbs</sub-title>
+<desc lang="fr">Freddie Gibbs, une légence du Midwest, est l'invité de cet épisode. Baby Tate, David Sebastian, et Ruben Vince participeront au cypher, et on découvrira les tubes de Freddie Gibbs et Bree Runway.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Variétés</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411012500 +0200" stop="20230411020000 +0200" channel="MTVHits.fr">
+<title lang="fr">Yo ! MTV Raps *2022</title>
+<sub-title lang="fr">Latto</sub-title>
+<desc lang="fr">Yo ! Latto parle de sa célébrité et de son dernier album 777&quot; avec Conceited et DJ Diamond Kuts. Sans oublier la présence de Just Blaze, Sheek Louch de The LOX, et bien plus encore.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Variétés</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411020000 +0200" stop="20230411060000 +0200" channel="MTVHits.fr">
+<title lang="fr">MTV Insomnia</title>
+<desc lang="fr">La playlist pour accompagner les plus insomniaques d'entre nous</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

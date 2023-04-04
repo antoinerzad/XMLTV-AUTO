@@ -1,0 +1,375 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230409000000 +0200" stop="20230409000500 +0200" channel="France5.fr">
+<title lang="fr">La p'tite librairie</title>
+<desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12608951.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409000500 +0200" stop="20230409014000 +0200" channel="France5.fr">
+<title lang="fr">Rochefort, Noiret, Marielle : les copains d'abord</title>
+<desc lang="fr">L'épopée joyeuse d'une bande de copains, celle des derniers géants du cinéma français, en suivant au gré des décennies le fil ininterrompu de leur amitié.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_25203574.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409014000 +0200" stop="20230409023000 +0200" channel="France5.fr">
+<title lang="fr">Sur les traces du roi Midas</title>
+<desc lang="fr">A la fin du XIXe siècle, la découverte, en Turquie, des ruines de la capitale de l'empire phrygien, a incité les archéologues à enquêter sur le mythique roi Midas.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Histoire</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_36903260.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409023000 +0200" stop="20230409050000 +0200" channel="France5.fr">
+<title lang="fr">La nuit France 5</title>
+<desc lang="fr">Magazine de reportages</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14239439.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409050000 +0200" stop="20230409060000 +0200" channel="France5.fr">
+<title lang="fr">Okoo</title>
+<desc lang="fr">Une sélection de dessins animés, des reportages, des expériences pour apprendre en s'amusant, des découvertes et des exclus, avec Okoo il y en aura pour tous les goûts et pour tous les enfants de 3 à 12 ans !</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Jeunesse Mag</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14186967.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409070000 +0200" stop="20230409070800 +0200" channel="France5.fr">
+<title lang="fr">Hé, Oua-Oua</title>
+<sub-title lang="fr">Le badge cassette</sub-title>
+<desc lang="fr">Le chien Oua-Oua qui anime le Club des Ecureuils, un centre d'activités extrascolaires, règle les problèmes, dans la bonne humeur avec sa bande d'amis.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_32062950.jpg" />
+<episode-num system="xmltv_ns">2.22.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409070800 +0200" stop="20230409071900 +0200" channel="France5.fr">
+<title lang="fr">Tangranimo</title>
+<sub-title lang="fr">Tic-tac panique</sub-title>
+<desc lang="fr">Fan de jeux de construction, Géo se retrouve transporté sur la Tangraplanète peuplée de créatures géométriques rigolotes. Il exerce aussitôt son talent avec ses amis Tangranimos qui ont le pouvoir de donner vie à la forme de leur choix. Au cours de leurs aventures créatives, Géo propose à ses...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_36901023.jpg" />
+<episode-num system="xmltv_ns">0.22.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409071900 +0200" stop="20230409073100 +0200" channel="France5.fr">
+<title lang="fr">Tangranimo</title>
+<desc lang="fr">Fan de jeux de construction, Géo se retrouve transporté sur la Tangraplanète peuplée de créatures géométriques rigolotes. Il exerce aussitôt son talent avec ses amis Tangranimos qui ont le pouvoir de donner vie à la forme de leur choix. Au cours de leurs aventures créatives, Géo propose à ses...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_36901023.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409073100 +0200" stop="20230409074000 +0200" channel="France5.fr">
+<title lang="fr">Masha et Michka</title>
+<desc lang="fr">Les aventures d'une fillette curieuse et d'un ours débonnaire.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_34070177.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409074000 +0200" stop="20230409074700 +0200" channel="France5.fr">
+<title lang="fr">Masha et Michka</title>
+<desc lang="fr">Les aventures d'une fillette curieuse et d'un ours débonnaire.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10698815.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409074700 +0200" stop="20230409075500 +0200" channel="France5.fr">
+<title lang="fr">Masha et Michka</title>
+<desc lang="fr">Les aventures d'une fillette curieuse et d'un ours débonnaire.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10698815.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409075500 +0200" stop="20230409080200 +0200" channel="France5.fr">
+<title lang="fr">Bluey</title>
+<sub-title lang="fr">Pâques</sub-title>
+<desc lang="fr">La série suit Bluey, un chiot anthropomorphe de six ans, Bouvier australien, caractérisé par son abondance d'énergie, son imagination et sa curiosité.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_33747235.jpg" />
+<episode-num system="xmltv_ns">1.51.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409080200 +0200" stop="20230409080800 +0200" channel="France5.fr">
+<title lang="fr">Bluey</title>
+<sub-title lang="fr">Au salon de coiffure</sub-title>
+<desc lang="fr">Les coiffeuses Bluey et Bingo découvrent que leur client favori, Bert Handsome, a des poux.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_33748343.jpg" />
+<episode-num system="xmltv_ns">1.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409080800 +0200" stop="20230409081700 +0200" channel="France5.fr">
+<title lang="fr">Bluey</title>
+<sub-title lang="fr">Le gecko collant</sub-title>
+<desc lang="fr">Bluey et Bingo ne partiront pas rejoindre leur amie Judo tant qu'un gecko en caoutchouc ne sera pas tombé du plafond où il est collé.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_33748309.jpg" />
+<episode-num system="xmltv_ns">1.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409081700 +0200" stop="20230409082100 +0200" channel="France5.fr">
+<title lang="fr">Peppa Pig</title>
+<desc lang="fr">Peppa est une petite fille cochon un brin impertinente dont les aventures tendres et émouvantes se terminent toujours dans de grands éclats de rire.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23714419.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409082100 +0200" stop="20230409082600 +0200" channel="France5.fr">
+<title lang="fr">Peppa Pig</title>
+<desc lang="fr">Peppa est une petite fille cochon un brin impertinente dont les aventures tendres et émouvantes se terminent toujours dans de grands éclats de rire.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23714419.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409082600 +0200" stop="20230409083000 +0200" channel="France5.fr">
+<title lang="fr">Peppa Pig</title>
+<desc lang="fr">Peppa est une petite fille cochon un brin impertinente dont les aventures tendres et émouvantes se terminent toujours dans de grands éclats de rire.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23714419.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409083000 +0200" stop="20230409083500 +0200" channel="France5.fr">
+<title lang="fr">Peppa Pig</title>
+<desc lang="fr">Peppa est une petite fille cochon un brin impertinente dont les aventures tendres et émouvantes se terminent toujours dans de grands éclats de rire.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23714419.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409083500 +0200" stop="20230409084000 +0200" channel="France5.fr">
+<title lang="fr">Peppa Pig</title>
+<sub-title lang="fr">Le lapin de Pâques</sub-title>
+<desc lang="fr">Peppa est une fillette cochon un brin impertinente et quelquefois autoritaire. Elle vit avec ses parents et son petit frère George. Comme tous ses congénères, son passe-temps préféré est de sauter un peu partout dans les flaques de boue, de grogner et de rire. George et Peppa découvrent le monde...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_22285834.jpg" />
+<episode-num system="xmltv_ns">4.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409084000 +0200" stop="20230409084700 +0200" channel="France5.fr">
+<title lang="fr">Peppa Pig</title>
+<sub-title lang="fr">Le printemps</sub-title>
+<desc lang="fr">Papy Cochon organise une chasse aux oeufs en chocolat pour Peppa et ses amis. Mais les tout-petits sont tristes quand ils ne trouvent pas les friandises. Grand-père et grand-mère Cochon leur montrent alors les poussins dans le jardin...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_37385949.jpg" />
+<episode-num system="xmltv_ns">2.32.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409084700 +0200" stop="20230409085400 +0200" channel="France5.fr">
+<title lang="fr">Bing</title>
+<sub-title lang="fr">Les coeurs</sub-title>
+<desc lang="fr">Sula offre un carnet d'autocollants en forme de coeurs à Bing. Ils les collent sur leurs objets préférés. Mais lorsque Sula colle un coeur sur Hoppity, le lapin préféré de Bing, ce dernier n'est pas d'accord...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23085195.jpg" />
+<episode-num system="xmltv_ns">0.24.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409085400 +0200" stop="20230409090200 +0200" channel="France5.fr">
+<title lang="fr">Bing</title>
+<sub-title lang="fr">Les histoires du soir</sub-title>
+<desc lang="fr">Bing prend son bain et veut lire dans la baignoire. Mais les livres n'aiment pas l'eau. Le bouquin tombe dans le bain et les pages sont imbibées d'eau savonneuse. Mais ce n'est pas si grave, lorsqu'on connaît l'histoire par coeur...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23085195.jpg" />
+<episode-num system="xmltv_ns">0.25.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409090200 +0200" stop="20230409091000 +0200" channel="France5.fr">
+<title lang="fr">Oggy Oggy</title>
+<sub-title lang="fr">Un amour de bateau</sub-title>
+<desc lang="fr">Curieux, Oggy Oggy a toujours hâte de vivre de nouvelles aventures avec ses amis. Sa maladresse le conduit parfois à faire des erreurs, mais ses idées géniales et farfelues gagnent toujours.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34173681.jpg" />
+<episode-num system="xmltv_ns">0.47.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409091000 +0200" stop="20230409091500 +0200" channel="France5.fr">
+<title lang="fr">Oggy Oggy</title>
+<sub-title lang="fr">Le nouveau coussin</sub-title>
+<desc lang="fr">Curieux, Oggy Oggy a toujours hâte de vivre de nouvelles aventures avec ses amis. Sa maladresse le conduit parfois à faire des erreurs, mais ses idées géniales et farfelues gagnent toujours.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34173681.jpg" />
+<episode-num system="xmltv_ns">0.49.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409091500 +0200" stop="20230409092000 +0200" channel="France5.fr">
+<title lang="fr">La p'tite librairie</title>
+<desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12608951.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409092000 +0200" stop="20230409102000 +0200" channel="France5.fr">
+<title lang="fr">Silence, ça pousse !</title>
+<desc lang="fr">Rencontre : Michel Morelli. Découverte : la bio-économie. Visite de jardin : le Pazo de Oca, en Galice. Pas de panique : chez Agnès.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14830074.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409102000 +0200" stop="20230409120000 +0200" channel="France5.fr">
+<title lang="fr">Echappées belles</title>
+<desc lang="fr">Angkor, un trésor à préserver. Parfum d'aventure dans un pays aux multiples visages. Poivre et sel, recettes d'une cuisine épicée. Une jeunesse trait d'union entre deux Cambodge. Le bouddhisme dans la peau. L'art du théâtre d'ombres.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_37023094.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409120000 +0200" stop="20230409123000 +0200" channel="France5.fr">
+<title lang="fr">Les routes de l'impossible</title>
+<desc lang="fr">En Arménie, les derniers résistants du Caucase se battent pour reconstruire l'économie après l'effondrement de l'URSS et un terrible tremblement de terre.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_12980981.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409123000 +0200" stop="20230409133000 +0200" channel="France5.fr">
+<title lang="fr">C l'hebdo</title>
+<desc lang="fr">Retour sur l'actualité de la semaine avec Ali Baddou, avec son équipe de chroniqueurs et de nombreux invités.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10353198.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409133000 +0200" stop="20230409142900 +0200" channel="France5.fr">
+<title lang="fr">C Médiatique</title>
+<desc lang="fr">Magazine des médias.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_33746480.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409142900 +0200" stop="20230409143000 +0200" channel="France5.fr">
+<title lang="fr">Place au spectacle</title>
+<desc lang="fr">Magazine culturel.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12511183.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409143000 +0200" stop="20230409155500 +0200" channel="France5.fr">
+<title lang="fr">Planet par Sofiane Pamart à l'Opéra de Nice Côte d'Azur</title>
+<desc lang="fr">Sur la scène de l'Opéra de Nice, Sofiane Pamart bouscule les codes classiques autant qu'il émeut son public. Invité à retravailler ses collaborations avec des guests d'exception, Chilla, puis Swing, et accompagné de l'Orchestre philharmonique de Nice, le virtuose du piano allie hip-hop et...</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Variétés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_31086518.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409155500 +0200" stop="20230409162500 +0200" channel="France5.fr">
+<title lang="fr">Les 100 lieux qu'il faut voir</title>
+<desc lang="fr">Au frontières de Paris, l'Oise accueille des bijoux d'architectures comme le somptueux domaine de Chantilly ou la majestueuse capitale de Beauvais.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_12999853.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409162500 +0200" stop="20230409172500 +0200" channel="France5.fr">
+<title lang="fr">Very good tripes</title>
+<desc lang="fr">Les produits tripiers désertent les assiettes des Français. Leurs goûts puissants et leurs textures étonnantes bousculent. Ne seraient-ils pas plutôt de grands incompris ?</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_36903871.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409172500 +0200" stop="20230409182500 +0200" channel="France5.fr">
+<title lang="fr">Apocalypse : la 2e Guerre mondiale</title>
+<desc lang="fr">Fin 1941, l'attaque de Pearl Harbor provoque l'entrée des Etats-Unis dans la guerre ; début 1942, les nazis mettent en oeuvre la &quot;solution finale&quot;.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Histoire</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_14872149.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230409182500 +0200" stop="20230409183000 +0200" channel="France5.fr">
+<title lang="fr">C'est bon à savoir</title>
+<desc lang="fr">&quot;C'est bon à savoir&quot; décrypte les bénéfices pour la santé de la consommation des fruits et légumes et analyse leur mode de culture, sans oublier de parler d'environnement. Avec la complicité d'experts, ce programme revient quelques idées reçues.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_25827458.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409183000 +0200" stop="20230409200000 +0200" channel="France5.fr">
+<title lang="fr">C politique</title>
+<desc lang="fr">Magazine politique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_33466286.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409200000 +0200" stop="20230409205000 +0200" channel="France5.fr">
+<title lang="fr">C politique, la suite</title>
+<desc lang="fr">Dans cette seconde partie de l'émission, l'animateur et ses chroniqueurs proposent un débat autour d'une thématique avec des acteurs de la société civile, des intellectuels, des hommes politiques et des éditorialistes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_33466406.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409205000 +0200" stop="20230409205400 +0200" channel="France5.fr">
+<title lang="fr">Ma maison de A à Z</title>
+<desc lang="fr">Les différentes étapes de la construction, de l'aménagement et de la décoration d'une maison.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_32107308.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409205400 +0200" stop="20230409205500 +0200" channel="France5.fr">
+<title lang="fr">Le monde en face</title>
+<desc lang="fr">Débat.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23358015.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409205500 +0200" stop="20230409220500 +0200" channel="France5.fr">
+<title lang="fr">Nos terres en danger</title>
+<desc lang="fr">En France, l'artificialisation des sols fait disparaître l'équivalent d'un département de terres naturelles tous les dix ans, menaçant la production agricole.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_37372980.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409220500 +0200" stop="20230409224500 +0200" channel="France5.fr">
+<title lang="fr">Le monde en face</title>
+<desc lang="fr">Des documentaires éclectiques, aux points de vue affirmés, et des débats avec des experts, telles sont les ambitions de l'émission &quot;Le monde en face&quot;. Dans un monde en pleine mutation, jamais le besoin d'une parole brute et sincère n'a été aussi fort, pour raconter la société française et le...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23358015.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230409224500 +0200" stop="20230409234500 +0200" channel="France5.fr">
+<title lang="fr">La petite fille au napalm : histoire d'une photographie</title>
+<desc lang="fr">&quot;La petite fille au napalm&quot; est l'une des photos de guerre les plus célèbres : comment ce cliché, pris au Sud-Vietnam en 1972, a-t-il influencé le conflit ?</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Histoire</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_37373109.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230409234500 +0200" stop="20230410001000 +0200" channel="France5.fr">
+<title lang="fr">A vous de voir</title>
+<desc lang="fr">Aujourd'hui, les frères et soeurs d'enfants en situation de handicap sont très souvent les grands oubliés : trois familles ont accepté de se confier.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_37397652.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

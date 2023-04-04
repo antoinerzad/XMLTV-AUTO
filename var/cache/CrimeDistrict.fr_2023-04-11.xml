@@ -1,0 +1,11 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230411050000 +0200" stop="20230411060100 +0200" channel="CrimeDistrict.fr">
+<title lang="fr">Verdict</title>
+<sub-title lang="fr">L'affaire Lafosse</sub-title>
+<desc lang="fr">Pourquoi Marianne Lafosse a-t-elle empoisonné son mari, un de ses fils et sa fille avant de poignarder les deux premiers et de tenter de se suicider ?</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Justice</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EAB49B80BAA941D7D11E075569078088.jpg" />
+<episode-num system="xmltv_ns">6.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
