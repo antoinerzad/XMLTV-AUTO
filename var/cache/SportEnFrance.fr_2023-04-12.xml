@@ -1,0 +1,38 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230411210000 +0200" stop="20230412090000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Hockey sur glace : Championnat du monde</title>
+<desc lang="fr">Suède - France, championnat du monde de hockey sur glace.</desc>
+<category lang="fr">Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_17018081.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412120000 +0200" stop="20230412153000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Basket-ball : Ligue féminine</title>
+<desc lang="fr">Toulouse - Tarbes, 20ème journée du championnat LFB.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Basketball</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14526907.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412153000 +0200" stop="20230412190000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Hockey sur glace : Championnat du monde féminin</title>
+<desc lang="fr">Suède - France, championnat du monde de hockey sur glace.</desc>
+<category lang="fr">Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_18468448.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412190000 +0200" stop="20230412203000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Génération jeunes</title>
+<desc lang="fr">Cette semaine, Maxine Eouzan reçoit Nélia Barbosa ! En seulement quelques années, Nélia est devenue une athlète phare du paracanoë, avec en point d'orgue de ses excellents résultats un titre de vice-championne paralympique à Tokyo sur le KL3 200. Désormais son objectif est clair : l'or et rien...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_8038607.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412203000 +0200" stop="20230413090000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Hockey sur glace : Ligue Magnus</title>
+<desc lang="fr">Retransmission d'un match de la Ligue Magnus, le plus haut niveau de hockey sur glace français. Elle existe depuis 1907, elle a souvent changé de nom avant de s'appeler finalement Ligue Magnus. Elle est composée de 12 clubs, qui se rencontrent en double aller retour pendant la saison régulière...</desc>
+<category lang="fr">Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_18672585.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

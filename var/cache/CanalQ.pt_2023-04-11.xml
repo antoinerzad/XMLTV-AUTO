@@ -1,0 +1,381 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230411055400 +0200" stop="20230411063400 +0200" channel="CanalQ.pt">
+<title lang="fr">A Rede</title>
+<desc lang="fr">Programa que conta com uma reputada crítica de pornografia, uma jogadora inveterada de videojogos e muito desconstrutivismo musical e cinematográfico. Neste magazine enredam-se discos, filmes e estilos de vida.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Loisirs</category>
+<episode-num system="xmltv_ns">1.66.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411063400 +0200" stop="20230411071900 +0200" channel="CanalQ.pt">
+<title lang="fr">Ah, a Literatura!</title>
+<desc lang="fr">Programa que começa num espírito de &quot;clube de leitura&quot;. A desconstrução dos livros servirá de espinha dorsal ao programa que, todas as semanas, conta com um convidado ligado ao mundo literário.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411071900 +0200" stop="20230411081100 +0200" channel="CanalQ.pt">
+<title lang="fr">Agora a sério</title>
+<desc lang="fr">Tudo o que se relaciona com os assuntos públicos, as relações de poder e as consequências do seu exercício. Entrevistas exigentes, olhos nos olhos, com perguntas incisivas e sem cedências ao politicamente correcto.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411081100 +0200" stop="20230411083400 +0200" channel="CanalQ.pt">
+<title lang="fr">Vem ao Quê?</title>
+<desc lang="fr">Espaço de opinião do Canal Q. Em 10 minutos, os nossos cronistas dizem ao Q vêm e o Q vêem. Enrique Pinto Coelho é o anfitrião.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.80.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411083400 +0200" stop="20230411091500 +0200" channel="CanalQ.pt">
+<title lang="fr">A Rede</title>
+<desc lang="fr">Programa que conta com uma reputada crítica de pornografia, uma jogadora inveterada de videojogos e muito desconstrutivismo musical e cinematográfico. Neste magazine enredam-se discos, filmes e estilos de vida.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Loisirs</category>
+<episode-num system="xmltv_ns">1.66.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411091500 +0200" stop="20230411095500 +0200" channel="CanalQ.pt">
+<title lang="fr">Ah, a Literatura!</title>
+<desc lang="fr">Programa que começa num espírito de &quot;clube de leitura&quot;. A desconstrução dos livros servirá de espinha dorsal ao programa que, todas as semanas, conta com um convidado ligado ao mundo literário.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411095500 +0200" stop="20230411100500 +0200" channel="CanalQ.pt">
+<title lang="fr">Temperos de Amor</title>
+<desc lang="fr">Apaixonada por gastronomia, lifestyle e viagens, Daniela Cunha traz-nos Temperos de Amor, receitas práticas para o dia-a-dia para que nunca lhe faltem ideias para viver o estilo de vida saudável e equilibrado que tanto deseja.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4AF93AA560507A37A298238986AE83F5.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411100500 +0200" stop="20230411103900 +0200" channel="CanalQ.pt">
+<title lang="fr">Quem desdenha</title>
+<desc lang="fr">Susana Romana recebe um convidado que lhe confessa o livro que nunca leu, a série do momento que acha um secador, o filme amado por tantos que considera digno de desdém.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/05638ED490024D3F81D9810F875C51C1.jpg" />
+<episode-num system="xmltv_ns">1.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411103900 +0200" stop="20230411111500 +0200" channel="CanalQ.pt">
+<title lang="fr">Slow TV</title>
+<desc lang="fr">Programa que recorre a planos fixos e de longa duração para mostrar um local ou uma situação. É um formato contemplativo que tem como objetivo relaxar o espectador mostrando-lhe imagens que não costumam ser admiradas com calma.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Loisirs</category>
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411111500 +0200" stop="20230411120000 +0200" channel="CanalQ.pt">
+<title lang="fr">InMusic Portugal</title>
+<desc lang="fr">18 músicos, 18 distritos e uma visita guiada pela música. Num tom descontraído o &quot;InMusic Portugal&quot; dá a conhecer músicos portugueses de renome nacional e internacional, os seus percursos, a sua paixão artística e muito mais.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411120000 +0200" stop="20230411125400 +0200" channel="CanalQ.pt">
+<title lang="fr">Super Swing</title>
+<desc lang="fr">Talk show que vive da dinâmica e personalidade da dupla que o apresenta. As duplas rodam a cada mês, justificando assim o conceito de swing. O formato é maleável à vontade de cada parelha, permitindo rubricas, reportagens e convidados.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9DCE517523A293DF317853DC7F032158.jpg" />
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411125400 +0200" stop="20230411132600 +0200" channel="CanalQ.pt">
+<title lang="fr">Quem desdenha</title>
+<desc lang="fr">Susana Romana recebe um convidado que lhe confessa o livro que nunca leu, a série do momento que acha um secador, o filme amado por tantos que considera digno de desdém.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/86D3AD18DBDAB69ABF7B4553C233AA27.jpg" />
+<episode-num system="xmltv_ns">1.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411132600 +0200" stop="20230411141000 +0200" channel="CanalQ.pt">
+<title lang="fr">Querem Drama?</title>
+<desc lang="fr">&quot;&quot;Querem Drama?&quot; Então tomem lá! Conversas não assim tão profundas, com artistas variados e de variedades. Sempre com o fio condutor do Teatro, um passeio desavergonhado por memórias catitas, leituras e autores, e claro, com um cheirinho a drama</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Interview</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FBC57E24C4468606820D48BB5D6447E3.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411141000 +0200" stop="20230411150900 +0200" channel="CanalQ.pt">
+<title lang="fr">Bitalk</title>
+<desc lang="fr">Negócios que são paixões e paixões que são negócios! Bem-vindos ao Bitalk, um programa que recebe o melhor do empreendedorismo português, numa conversa que junta José Serra e Tocha, e um convidado, cheio de talento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Interview</category>
+<episode-num system="xmltv_ns">0.28.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411150900 +0200" stop="20230411151500 +0200" channel="CanalQ.pt">
+<title lang="fr">Temperos de Amor</title>
+<desc lang="fr">Apaixonada por gastronomia, lifestyle e viagens, Daniela Cunha traz-nos Temperos de Amor, receitas práticas para o dia-a-dia para que nunca lhe faltem ideias para viver o estilo de vida saudável e equilibrado que tanto deseja.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DAD87A55D4D9E8EE2F994BB27565BC2C.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411151500 +0200" stop="20230411152700 +0200" channel="CanalQ.pt">
+<title lang="fr">Car Online TV</title>
+<desc lang="fr">&quot;Car Online&quot; promove o conhecimento e o interesse pelas novas tecnologias e pela cultura automóvel, num formato que mistura informação e entretenimento, nunca esquecendo os momentos humorísticos que caracterizam o Canal Q.</desc>
+<category lang="fr">Loisirs</category>
+<category lang="fr">Automobilisme</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F858093BE8CC0FD6AEC33A6D7A76F780.jpg" />
+<episode-num system="xmltv_ns">0.37.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411152700 +0200" stop="20230411160700 +0200" channel="CanalQ.pt">
+<title lang="fr">Querem Drama?</title>
+<desc lang="fr">&quot;&quot;Querem Drama?&quot; Então tomem lá! Conversas não assim tão profundas, com artistas variados e de variedades. Sempre com o fio condutor do Teatro, um passeio desavergonhado por memórias catitas, leituras e autores, e claro, com um cheirinho a drama</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Interview</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D967AB4B81DE7C2F6F79E1DD7B4A18C9.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411160700 +0200" stop="20230411162000 +0200" channel="CanalQ.pt">
+<title lang="fr">No Palco</title>
+<desc lang="fr">No Palco é um programa que visa promover projectos de artistas portugueses, com residência em Portugal ou no estrangeiro, que desenvolvam trabalho original em diversas expressões, nomeadamente música, dança e design.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3D9CAFF81FCB8354BB1CECE97385B748.jpg" />
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411162000 +0200" stop="20230411172400 +0200" channel="CanalQ.pt">
+<title lang="fr">Baseado numa história verídica</title>
+<desc lang="fr">A nossa vida é um filme que fazemos na cabeça, com personagens principais e secundárias. A entrevista biográfica do programa segue as regras da escrita dos guiões de cinema. Olhamos para a vida das personagens públicas e pedimos-lhes que a contem dessa fo</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Interview</category>
+<episode-num system="xmltv_ns">6.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411172400 +0200" stop="20230411175700 +0200" channel="CanalQ.pt">
+<title lang="fr">Faz Acontecer</title>
+<desc lang="fr">De Norte a Sul do país (e Ilhas) André Leonardo vai à procura de pessoas de mangas arregaçadas que conseguiram pegar numa ideia de negócio e fazê-la acontecer. Uma oportunidade de conhecer melhor Portugal e os mais promissores negócios nacionais.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BBBA59BEB066AC7054E020D531DF9DF1.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411175700 +0200" stop="20230411185800 +0200" channel="CanalQ.pt">
+<title lang="fr">Arena da Mentira</title>
+<desc lang="fr">Duas equipas vão bater-se com o objectivo de apurar a verdade ou inventar uma mentira melhor que a verdade. Ganha quem convencer o Júri e o Host António Raminhos. Os vencedores progridem até à grande final onde podem ganhar um programa no Canal Q.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5C21C6525961DEA3AD8573B994457333.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411185800 +0200" stop="20230411192300 +0200" channel="CanalQ.pt">
+<title lang="fr">Car Online TV</title>
+<desc lang="fr">&quot;Car Online&quot; promove o conhecimento e o interesse pelas novas tecnologias e pela cultura automóvel, num formato que mistura informação e entretenimento, nunca esquecendo os momentos humorísticos que caracterizam o Canal Q.</desc>
+<category lang="fr">Loisirs</category>
+<category lang="fr">Automobilisme</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F858093BE8CC0FD6AEC33A6D7A76F780.jpg" />
+<episode-num system="xmltv_ns">0.35.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411192300 +0200" stop="20230411200200 +0200" channel="CanalQ.pt">
+<title lang="fr">No Palco</title>
+<desc lang="fr">No Palco é um programa que visa promover projectos de artistas portugueses, com residência em Portugal ou no estrangeiro, que desenvolvam trabalho original em diversas expressões, nomeadamente música, dança e design.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3D9CAFF81FCB8354BB1CECE97385B748.jpg" />
+<episode-num system="xmltv_ns">0.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411200200 +0200" stop="20230411202500 +0200" channel="CanalQ.pt">
+<title lang="fr">As Receitas do Chef Bernas</title>
+<desc lang="fr">Isto não é de todo um programa de cozinha.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/16A7BDA9A098CAFC66A3CBD739CCD3F3.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411202500 +0200" stop="20230411205300 +0200" channel="CanalQ.pt">
+<title lang="fr">Filho da Mãe</title>
+<desc lang="fr">Rui Pêgo acredita que a fama e o prestígio são hereditários. Este documentário, que o próprio encomenda e financia, mostra o filho de Júlia Pinheiro à luta pelo que é seu por direito: um lugar de destaque, nem que seja às custas da sua família.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411205300 +0200" stop="20230411213800 +0200" channel="CanalQ.pt">
+<title lang="fr">InMusic Portugal</title>
+<desc lang="fr">18 músicos, 18 distritos e uma visita guiada pela música. Num tom descontraído o &quot;InMusic Portugal&quot; dá a conhecer músicos portugueses de renome nacional e internacional, os seus percursos, a sua paixão artística e muito mais.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411213800 +0200" stop="20230411214900 +0200" channel="CanalQ.pt">
+<title lang="fr">No Palco</title>
+<desc lang="fr">No Palco é um programa que visa promover projectos de artistas portugueses, com residência em Portugal ou no estrangeiro, que desenvolvam trabalho original em diversas expressões, nomeadamente música, dança e design.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3D9CAFF81FCB8354BB1CECE97385B748.jpg" />
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411214900 +0200" stop="20230411220300 +0200" channel="CanalQ.pt">
+<title lang="fr">A Vida e Obra de Um Desanimado</title>
+<desc lang="fr">O Desanimado, um homem que só quer que não o chateiem.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C5F4C084DF54606BC4C84952B0D6D95C.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411220300 +0200" stop="20230411224000 +0200" channel="CanalQ.pt">
+<title lang="fr">Paradoxo da Tangência</title>
+<desc lang="fr">&quot;Eduardo Jaime&quot; apresenta entrevistas viscerais em que grandes vultos das artes, do espetáculo e do meio intelectual se vão despojar perante uma figura incontornável do audiovisual, dando-se a conhecer como seres tangíveis.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9E1FE7BBA73672595F3B414E39B772D2.jpg" />
+<episode-num system="xmltv_ns">3.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411224000 +0200" stop="20230411231300 +0200" channel="CanalQ.pt">
+<title lang="fr">Quem desdenha</title>
+<desc lang="fr">Susana Romana recebe um convidado que lhe confessa o livro que nunca leu, a série do momento que acha um secador, o filme amado por tantos que considera digno de desdém.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/86D3AD18DBDAB69ABF7B4553C233AA27.jpg" />
+<episode-num system="xmltv_ns">1.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411231300 +0200" stop="20230411235000 +0200" channel="CanalQ.pt">
+<title lang="fr">Querem Drama?</title>
+<desc lang="fr">&quot;&quot;Querem Drama?&quot; Então tomem lá! Conversas não assim tão profundas, com artistas variados e de variedades. Sempre com o fio condutor do Teatro, um passeio desavergonhado por memórias catitas, leituras e autores, e claro, com um cheirinho a drama</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Interview</category>
+<icon src="https://img.bouygtel.fr/CMS/images/970ED8C92EF6813115D8E1CC367D9849.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230411235000 +0200" stop="20230412001000 +0200" channel="CanalQ.pt">
+<title lang="fr">Car Online TV</title>
+<desc lang="fr">&quot;Car Online&quot; promove o conhecimento e o interesse pelas novas tecnologias e pela cultura automóvel, num formato que mistura informação e entretenimento, nunca esquecendo os momentos humorísticos que caracterizam o Canal Q.</desc>
+<category lang="fr">Loisirs</category>
+<category lang="fr">Automobilisme</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F858093BE8CC0FD6AEC33A6D7A76F780.jpg" />
+<episode-num system="xmltv_ns">0.44.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412001000 +0200" stop="20230412010000 +0200" channel="CanalQ.pt">
+<title lang="fr">Bitalk</title>
+<desc lang="fr">Negócios que são paixões e paixões que são negócios! Bem-vindos ao Bitalk, um programa que recebe o melhor do empreendedorismo português, numa conversa que junta José Serra e Tocha, e um convidado, cheio de talento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Interview</category>
+<episode-num system="xmltv_ns">1.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412010000 +0200" stop="20230412013000 +0200" channel="CanalQ.pt">
+<title lang="fr">Curtas YMOTION</title>
+<desc lang="fr">O Canal Q e o YMOTION juntam-se para divulgar o cinema nacional com uma selecção de curtas metragens produzidas por jovens dos 12 aos 35 anos</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9E95371E56F597B6C96EA46B7F2BED80.jpg" />
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412013000 +0200" stop="20230412023000 +0200" channel="CanalQ.pt">
+<title lang="fr">Freuda-se</title>
+<desc lang="fr">Hugo Van der Ding e Manuel Moreira viajam até ao consultório do Freud. Com psicanálise de algibeira e hipnose de trazer por casa, regressam a vidas passadas e conduzem os convidados ao famoso divã, onde sonhos são decifrados.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D698A74A5F0FCB295BA8CC7360F3BD71.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412023000 +0200" stop="20230412025500 +0200" channel="CanalQ.pt">
+<title lang="fr">Sexo com Sentido</title>
+<desc lang="fr">Um projecto da Abraço, Sexo Com Sentido, com apresentação de Beatriz Gosta (Marta Bateira) e várias participações especiais: António Raminhos, Sónia Tavares, Raquel Tillo, João Caçador, Toy, Tânia Graça, Pedro Crispim e outros. Conversas descontraídas sobre sexualidade, VIH, Hepatites e ISTs. Prazer e informação sem tabus!</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Pornographie</category>
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412025500 +0200" stop="20230412030500 +0200" channel="CanalQ.pt">
+<title lang="fr">No Palco</title>
+<desc lang="fr">No Palco é um programa que visa promover projectos de artistas portugueses, com residência em Portugal ou no estrangeiro, que desenvolvam trabalho original em diversas expressões, nomeadamente música, dança e design.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3D9CAFF81FCB8354BB1CECE97385B748.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412030500 +0200" stop="20230412040500 +0200" channel="CanalQ.pt">
+<title lang="fr">Bitalk</title>
+<desc lang="fr">Negócios que são paixões e paixões que são negócios! Bem-vindos ao Bitalk, um programa que recebe o melhor do empreendedorismo português, numa conversa que junta José Serra e Tocha, e um convidado, cheio de talento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Interview</category>
+<episode-num system="xmltv_ns">1.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412040500 +0200" stop="20230412042000 +0200" channel="CanalQ.pt">
+<title lang="fr">39 Semanas e Meia</title>
+<desc lang="fr">Um falso documentário sobre uma gravidez verdadeira, com Inês Lopes Gonçalves e Ana Markl.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FEF2C6672B1371C940FDF25861EB0AB5.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412042000 +0200" stop="20230412043500 +0200" channel="CanalQ.pt">
+<title lang="fr">39 Semanas e Meia</title>
+<desc lang="fr">Um falso documentário sobre uma gravidez verdadeira, com Inês Lopes Gonçalves e Ana Markl.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8E757EC495D0F310C90D740D6F05AE29.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412043500 +0200" stop="20230412045500 +0200" channel="CanalQ.pt">
+<title lang="fr">Car Online TV</title>
+<desc lang="fr">&quot;Car Online&quot; promove o conhecimento e o interesse pelas novas tecnologias e pela cultura automóvel, num formato que mistura informação e entretenimento, nunca esquecendo os momentos humorísticos que caracterizam o Canal Q.</desc>
+<category lang="fr">Loisirs</category>
+<category lang="fr">Automobilisme</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F39384C8465D82EB03C94A036A0C8139.jpg" />
+<episode-num system="xmltv_ns">0.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412045500 +0200" stop="20230412051500 +0200" channel="CanalQ.pt">
+<title lang="fr">Car Online TV</title>
+<desc lang="fr">&quot;Car Online&quot; promove o conhecimento e o interesse pelas novas tecnologias e pela cultura automóvel, num formato que mistura informação e entretenimento, nunca esquecendo os momentos humorísticos que caracterizam o Canal Q.</desc>
+<category lang="fr">Loisirs</category>
+<category lang="fr">Automobilisme</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F39384C8465D82EB03C94A036A0C8139.jpg" />
+<episode-num system="xmltv_ns">0.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412051500 +0200" stop="20230412055500 +0200" channel="CanalQ.pt">
+<title lang="fr">Curtas YMOTION</title>
+<desc lang="fr">O Canal Q e o YMOTION juntam-se para divulgar o cinema nacional com uma selecção de curtas metragens produzidas por jovens dos 12 aos 35 anos</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C301DFB3306B78020EA92E7359CC2D27.jpg" />
+<episode-num system="xmltv_ns">2.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412055500 +0200" stop="20230412065500 +0200" channel="CanalQ.pt">
+<title lang="fr">A Rede</title>
+<desc lang="fr">Programa que conta com uma reputada crítica de pornografia, uma jogadora inveterada de videojogos e muito desconstrutivismo musical e cinematográfico. Neste magazine enredam-se discos, filmes e estilos de vida.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Loisirs</category>
+<episode-num system="xmltv_ns">1.67.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
