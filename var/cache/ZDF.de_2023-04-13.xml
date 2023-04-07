@@ -1,0 +1,236 @@
+<!-- racacax\XmlTv\Component\Provider\SFR -->
+<programme start="20230413051500 +0200" stop="20230413053000 +0200" channel="ZDF.de">
+<title lang="fr">hallo deutschland</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Divertissement</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/1/8/5816816.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413053000 +0200" stop="20230413090000 +0200" channel="ZDF.de">
+<title lang="fr">Morgenmagazin</title>
+<sub-title lang="fr">Morgenmagazin</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de services</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/1/7134173.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413090000 +0200" stop="20230413090500 +0200" channel="ZDF.de">
+<title lang="fr">Heute Xpress</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/4/6539454.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413090500 +0200" stop="20230413103000 +0200" channel="ZDF.de">
+<title lang="fr">Volle Kanne - Service täglich</title>
+<sub-title lang="fr">Service täglich</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de services</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/0/8/5816802.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413103000 +0200" stop="20230413111500 +0200" channel="ZDF.de">
+<title lang="fr">Notruf Hafenkante</title>
+<sub-title lang="fr">Wo ist Papa?</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série humoristique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/5/5/7114550.jpg" />
+<episode-num system="xmltv_ns">8.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413111500 +0200" stop="20230413120000 +0200" channel="ZDF.de">
+<title lang="fr">SOKO Wismar</title>
+<sub-title lang="fr">Mord mit Ansage</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série dramatique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/5/7114551.jpg" />
+<episode-num system="xmltv_ns">5.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413120000 +0200" stop="20230413121000 +0200" channel="ZDF.de">
+<title lang="fr">Heute</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/4/1/5797148.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413121000 +0200" stop="20230413130000 +0200" channel="ZDF.de">
+<title lang="fr">drehscheibe</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Divertissement</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/7/1/7134176.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413130000 +0200" stop="20230413140000 +0200" channel="ZDF.de">
+<title lang="fr">ZDF-Mittagsmagazin</title>
+<sub-title lang="fr">Mit heute Xpress</sub-title>
+<desc lang="fr">Gut informiert zur Mittagszeit</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/7/1/7134177.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413140000 +0200" stop="20230413141500 +0200" channel="ZDF.de">
+<title lang="fr">heute - in Deutschland</title>
+<sub-title lang="fr">in Deutschland</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/8/5816809.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413141500 +0200" stop="20230413150000 +0200" channel="ZDF.de">
+<title lang="fr">Die Küchenschlacht</title>
+<sub-title lang="fr">Johann Lafer sucht den Spitzenkoch</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de services</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/2/3/7154324.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413150000 +0200" stop="20230413150500 +0200" channel="ZDF.de">
+<title lang="fr">Heute Xpress</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/4/6539454.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413150500 +0200" stop="20230413160000 +0200" channel="ZDF.de">
+<title lang="fr">Bares für Rares</title>
+<sub-title lang="fr">Die Trödel-Show</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Téléréalité</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/5/2/5818258.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413160000 +0200" stop="20230413161000 +0200" channel="ZDF.de">
+<title lang="fr">heute - in Europa</title>
+<sub-title lang="fr">in Europa</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/8/5816814.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413161000 +0200" stop="20230413170000 +0200" channel="ZDF.de">
+<title lang="fr">Die Rosenheim-Cops</title>
+<sub-title lang="fr">Der letzte Akt</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/5/7114552.jpg" />
+<episode-num system="xmltv_ns">15.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413170000 +0200" stop="20230413171000 +0200" channel="ZDF.de">
+<title lang="fr">Heute</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/4/1/5797148.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413171000 +0200" stop="20230413174500 +0200" channel="ZDF.de">
+<title lang="fr">hallo deutschland</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Divertissement</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/1/8/5816816.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413174500 +0200" stop="20230413180000 +0200" channel="ZDF.de">
+<title lang="fr">Leute heute</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/2/6638252.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413180000 +0200" stop="20230413190000 +0200" channel="ZDF.de">
+<title lang="fr">SOKO Stuttgart</title>
+<sub-title lang="fr">Gift</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/5/5/7114553.jpg" />
+<episode-num system="xmltv_ns">10.24.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413190000 +0200" stop="20230413192000 +0200" channel="ZDF.de">
+<title lang="fr">Heute</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/4/1/5797148.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413192000 +0200" stop="20230413192500 +0200" channel="ZDF.de">
+<title lang="fr">Wetter</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Météo</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/1/7134181.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413192500 +0200" stop="20230413201500 +0200" channel="ZDF.de">
+<title lang="fr">Notruf Hafenkante</title>
+<sub-title lang="fr">Die Sex-Party</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série humoristique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/5/7114554.jpg" />
+<episode-num system="xmltv_ns">12.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413201500 +0200" stop="20230413214500 +0200" channel="ZDF.de">
+<title lang="fr">Die Bergretter</title>
+<sub-title lang="fr">Grüner Mond</sub-title>
+<desc lang="fr">Die Biologin Valerie will in die USA angenommen. Um zu verhindern, dass seine Eltern sich trennen, sieht Sohn Elias nur eine Möglichkeit.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/5/5/7114555.jpg" />
+<episode-num system="xmltv_ns">13.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413214500 +0200" stop="20230413221500 +0200" channel="ZDF.de">
+<title lang="fr">Heute-journal</title>
+<sub-title lang="fr">Wetter</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/7/5816773.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413221500 +0200" stop="20230413231500 +0200" channel="ZDF.de">
+<title lang="fr">maybrit illner</title>
+<sub-title lang="fr">Der Polit-Talk im ZDF</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Emission politique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/7/7/7000776.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413231500 +0200" stop="20230414003000 +0200" channel="ZDF.de">
+<title lang="fr">Markus Lanz</title>
+<desc lang="fr">Markus Lanz spricht in seiner Talkshow mit seinen Gästen über aktuelle und gesellschaftlich relevante Themen - unterhaltend und journalistisch hintergründig.</desc>
+<category lang="fr">Débat</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/1/7134182.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230414003000 +0200" stop="20230414004500 +0200" channel="ZDF.de">
+<title lang="fr">heute journal update</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/8/1/7134185.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230414004500 +0200" stop="20230414005500 +0200" channel="ZDF.de">
+<title lang="fr">Filmgorillas</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/0/2/5940203.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230414005500 +0200" stop="20230414014000 +0200" channel="ZDF.de">
+<title lang="fr">Schuld nach Ferdinand von Schirach</title>
+<sub-title lang="fr">Die Illuminaten</sub-title>
+<desc lang="fr">Internatsschüler exorzieren einen Jungen. Sie fühlen sich als Illuminaten und foltern ihn fast zu Tode.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/5/7114556.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230414014000 +0200" stop="20230414022500 +0200" channel="ZDF.de">
+<title lang="fr">Schuld nach Ferdinand von Schirach</title>
+<sub-title lang="fr">DNA</sub-title>
+<desc lang="fr">15 Jahre, nachdem ein obdachloses Paar einen Mann beraubt und getötet hat, bringt ein DNA-Test ihre Schuld zutage.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/5/5/7114557.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

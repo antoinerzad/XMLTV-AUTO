@@ -1,0 +1,160 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230413032700 +0200" stop="20230413071900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413071900 +0200" stop="20230413081700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf+, le mag</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/68686C48B3BAF600512B6DD46FD4C765.jpg" />
+<episode-num system="xmltv_ns">0.29.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413081700 +0200" stop="20230413104800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Le 5e tour</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/544A5981173D79B572B932CADF32E5E5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413104800 +0200" stop="20230413114100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rallye : WRC, Rallye du Mexique</title>
+<desc lang="fr">Championnat du monde des rallyes 2023. Rallye du Mexique.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rallye</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8F233A98FD424B78D3CD3E523F50F5F8.jpg" />
+<episode-num system="xmltv_ns">0.64.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413114100 +0200" stop="20230413123600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">IndyCar Series : Grand Prix du Texas</title>
+<desc lang="fr">IndyCar Series 2023. Grand Prix du Texas.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Indycar</category>
+<icon src="https://img.bouygtel.fr/CMS/images/400F94D5272C91DF51E9C1DB98FAAF19.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413123600 +0200" stop="20230413152100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix d'Australie</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix d'Australie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/63EBAC11C0CF1F6EC0AAF1AA98936558.jpg" />
+<episode-num system="xmltv_ns">0.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413152100 +0200" stop="20230413153900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Le podium</title>
+<sub-title lang="fr">Grand Prix d'Australie</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/979C52575A3738091BDB2FD893954A0C.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413153900 +0200" stop="20230413161100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formula One, le mag</title>
+<sub-title lang="fr">Grand Prix d'Australie</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D39BE9EDB02DA24FB3DFDBB609500973.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413161100 +0200" stop="20230413163200 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fractionné Rugby</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E0B93F9224497A104B261AE9B9754E49.jpg" />
+<episode-num system="xmltv_ns">0.55.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413163200 +0200" stop="20230413181400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 7e journée. Crusaders / Moana Pasifika.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FD34DC8C821AEECAD2CAFBAA03FD5D95.jpg" />
+<episode-num system="xmltv_ns">0.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413181400 +0200" stop="20230413195700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BA98F032948E2DAD840469BF32C32E74.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413195700 +0200" stop="20230413205000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Rugby Sevens Series 2022/2023. 9e manche. Etape de Singapour, les temps forts.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B00B3FAA7837490CAAA1171A7BC8F1C1.jpg" />
+<episode-num system="xmltv_ns">0.93.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413205000 +0200" stop="20230413210000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Avant-match Pro D2</title>
+<sub-title lang="fr">Aurillac - Agen</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5748A758D55E7A37AD57505C6181C25A.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413210000 +0200" stop="20230413225500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023. 28e journée. Aurillac / Agen.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/89DCD923BCC916E69B1A703550775DF5.jpg" />
+<episode-num system="xmltv_ns">0.222.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413225500 +0200" stop="20230414003700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 7e journée. Highlanders / Hurricanes.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FD34DC8C821AEECAD2CAFBAA03FD5D95.jpg" />
+<episode-num system="xmltv_ns">0.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230414003700 +0200" stop="20230414023800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Open de Hilton Head</title>
+<desc lang="fr">Circuit américain 2022/2023. Open de Hilton Head.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5027F381489D5C806E6E26771B82FDCB.jpg" />
+<episode-num system="xmltv_ns">0.152.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230414023800 +0200" stop="20230414043700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Sonic 2, le film</title>
+<desc lang="fr">A Green Hills, les habitants se sont habitués aux frasques de Sonic, un hérisson bleu humanoïde aux allures de superhéros. Après avoir vaincu diverses menaces, Sonic coule des jours heureux et profite des attractions de la ville. Mais le répit se révèle finalement de courte durée : le redoutable docteur Robotnik refait surface avec un plan diabolique en tête, celui de raser l'humanité entière de la surface de la Terre à l'aide d'une mystérieuse émeraude. Pour empêcher la catastrophe, Sonic se lance dans une quête désespérée avec Tails, son fidèle acolyte, en espérant mettre la main sur la précieuse pierre avant le savant fou.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9E6CC8D045DD6E590F5CFC1CEF5EF4DC.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230414043700 +0200" stop="20230414060000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

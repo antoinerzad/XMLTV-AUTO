@@ -1,0 +1,386 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230412060000 +0200" stop="20230412063000 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxNews Evening</title>
+<desc lang="fr">VoxNews est le journal télévisé des rédactions de VoxAfrica.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">13.96.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412063000 +0200" stop="20230412070000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Washington Forum</title>
+<desc lang="fr">30 minutes d'actualité africaine, américaine et internationale.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">7.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412070000 +0200" stop="20230412073000 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxNews Evening</title>
+<desc lang="fr">VoxNews est le journal télévisé des rédactions de VoxAfrica.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">13.96.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412073000 +0200" stop="20230412080000 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxNews Evening</title>
+<desc lang="fr">VoxNews est le journal télévisé des rédactions de VoxAfrica.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">13.96.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412080000 +0200" stop="20230412083000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Focus Spécial</title>
+<desc lang="fr">Arlindo Monteiro Fondateur de la société Elipse AE-TICA inventeur du plastique biodégradable pour le public africain</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412083000 +0200" stop="20230412084500 +0200" channel="VoxAfrica.af">
+<title lang="fr">Eco News</title>
+<desc lang="fr">Le journal de l'économie, votre émission quotidienne d'information économique sur l'Afrique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412084500 +0200" stop="20230412090000 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxNews</title>
+<desc lang="fr">VoxNews est le journal télévisé des rédactions de VoxAfrica.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">13.96.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412090000 +0200" stop="20230412092900 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxNews Evening</title>
+<desc lang="fr">VoxNews est le journal télévisé des rédactions de VoxAfrica.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">13.96.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412092900 +0200" stop="20230412095900 +0200" channel="VoxAfrica.af">
+<title lang="fr">Washington Forum</title>
+<desc lang="fr">30 minutes d'actualité africaine, américaine et internationale.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">7.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412095900 +0200" stop="20230412115000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Archives d'Afrique</title>
+<desc lang="fr">Si la France l'a choisi pour remplacer Léon Mba, c'est parce qu'elle voulait un collaborateur arrangeant qui veille sur les importantes richesses pétrolières vitales pour sa politique énergétique. Mais réussira-t-elle à maintenir Omar Bongo sous contrôle ? Episode 3</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412115000 +0200" stop="20230412120100 +0200" channel="VoxAfrica.af">
+<title lang="fr">Eco News</title>
+<desc lang="fr">Le journal de l'économie, votre émission quotidienne d'information économique sur l'Afrique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412120100 +0200" stop="20230412123300 +0200" channel="VoxAfrica.af">
+<title lang="fr">Strategy Eco</title>
+<desc lang="fr">StrategyEco accueille Cedric Yamdjeu, le président du Think Tank 50 Afrique</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<episode-num system="xmltv_ns">1.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412123300 +0200" stop="20230412130100 +0200" channel="VoxAfrica.af">
+<title lang="fr">On en parle ou pas</title>
+<desc lang="fr">Retrouvez votre talkshow, qui,sans langue de bois qui analyse les sujets d'actualités et les grandes questions sociétales intemporelles. Sabrina reçoit des invités qui traitent la question sous le prisme de leur vécu et qui se livrent à coeur ouvert sans tabou!</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412130100 +0200" stop="20230412140000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Echos de Paris</title>
+<desc lang="fr">Eugenie Diecky reçoit l'auteur compositeur producteur et interprète congolais Garcia 85 qui vient de recevoir un diplôme du l'Unesco pour ses actions humanitaires</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<episode-num system="xmltv_ns">3.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412140000 +0200" stop="20230412143000 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxNews Evening</title>
+<desc lang="fr">VoxNews est le journal télévisé des rédactions de VoxAfrica.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">13.96.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412143000 +0200" stop="20230412150000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Initiative Africa</title>
+<desc lang="fr">Magazine hebdomadaire sur la croissance sociale du continent africain et sa diaspora.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<episode-num system="xmltv_ns">0.36.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412150000 +0200" stop="20230412153000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Let's focus on</title>
+<desc lang="fr">Let's Focus On (Le Mag) est une émission qui valorise la culture afro au travers de portraits et d'initiatives de personalités issues du continent africain et de sa diaspora.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<episode-num system="xmltv_ns">0.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412153000 +0200" stop="20230412154500 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxNews</title>
+<desc lang="fr">VoxNews est le journal télévisé des rédactions de VoxAfrica.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">13.96.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412154500 +0200" stop="20230412160000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Eco News</title>
+<desc lang="fr">Le journal de l'économie, votre émission quotidienne d'information économique sur l'Afrique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412160000 +0200" stop="20230412163000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Vous et Nous</title>
+<desc lang="fr">Connexion Afrique Amérique inédite où africains et américains se rencontrent, se racontent loin des clichés.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<episode-num system="xmltv_ns">7.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412163000 +0200" stop="20230412170000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Afro People</title>
+<desc lang="fr">AfroPeople n°19, Le business artistique. Avec : Vanessa Sognon (journaliste - présentatrice)... Invité : intervenant KOFFI OLOMIDE &amp;quot; Présentation du nouvel album Légende Ed. Diamond &amp;quot; Chroniqueuses (Judith Bape Ngalamulume) Chroniqueurs : Yoni Mavoungou and Brice MICKAL</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<episode-num system="xmltv_ns">1.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412170000 +0200" stop="20230412171500 +0200" channel="VoxAfrica.af">
+<title lang="fr">Eco News</title>
+<desc lang="fr">Le journal de l'économie, votre émission quotidienne d'information économique sur l'Afrique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412171500 +0200" stop="20230412173000 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxNews</title>
+<desc lang="fr">VoxNews est le journal télévisé des rédactions de VoxAfrica.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">13.96.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412173000 +0200" stop="20230412180000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Les Maternelles d'Afrique</title>
+<desc lang="fr">Enceinte de jumeaux</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<episode-num system="xmltv_ns">1.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412180000 +0200" stop="20230412190000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Solattitude</title>
+<desc lang="fr">Floby, auteur compositeur et interprète Burkinabe.. Le papa des orphelins comme l'appellent les enfants défavorisés vient parler de son engagement humanitaire ainsi que de son actualité artistique</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Mode</category>
+<episode-num system="xmltv_ns">4.36.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412190000 +0200" stop="20230412191500 +0200" channel="VoxAfrica.af">
+<title lang="fr">Eco News</title>
+<desc lang="fr">Le journal de l'économie, votre émission quotidienne d'information économique sur l'Afrique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412191500 +0200" stop="20230412193000 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxNews</title>
+<desc lang="fr">VoxNews est le journal télévisé des rédactions de VoxAfrica.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">13.96.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412193000 +0200" stop="20230412195200 +0200" channel="VoxAfrica.af">
+<title lang="fr">African chroniques</title>
+<desc lang="fr">Face à la Chine et la Russie, la France constipée et frustrée.. La Chronique du Dr Maurice Simo Djom</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<episode-num system="xmltv_ns">0.21.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412195200 +0200" stop="20230412200000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Afro People</title>
+<desc lang="fr">MARIAMA CAMARA: Une société africaine non discriminante, une société qui valorise la Femme Africaine, qui loue ses efforts, sa combativité, ses ambitions. Voici la volonté bien affichée qu'à ce rôle model qui de par ses actions et ses prises de paroles n'a cessé de sensibiliser certains esprits à plus d'ouverture afin de saisir l'importance de femme Africaine dans la société et plus encore saisir la nécessité de croire au rêve Africain sans quoi il serait difficile pour nous de faire du continent, un nouvel Eldorado.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<episode-num system="xmltv_ns">0.36.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412200000 +0200" stop="20230412203000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Business Africa</title>
+<desc lang="fr">Émission TV sur la croissance économique et les initiatives du continent africain.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/80154423BA40D3DF52C883D10C0358DC.jpg" />
+<episode-num system="xmltv_ns">0.36.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412203000 +0200" stop="20230412210000 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxNews Evening</title>
+<desc lang="fr">VoxNews est le journal télévisé des rédactions de VoxAfrica.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">13.97.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412210000 +0200" stop="20230412211500 +0200" channel="VoxAfrica.af">
+<title lang="fr">Eco News</title>
+<desc lang="fr">Le journal de l'économie, votre émission quotidienne d'information économique sur l'Afrique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412211500 +0200" stop="20230412225600 +0200" channel="VoxAfrica.af">
+<title lang="fr">Archives d'Afrique</title>
+<desc lang="fr">Si la France l'a choisi pour remplacer Léon Mba, c'est parce qu'elle voulait un collaborateur arrangeant qui veille sur les importantes richesses pétrolières vitales pour sa politique énergétique. Mais réussira-t-elle à maintenir Omar Bongo sous contrôle ? Episode 4</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412225600 +0200" stop="20230412231600 +0200" channel="VoxAfrica.af">
+<title lang="fr">African chroniques</title>
+<desc lang="fr">Face à la Chine et la Russie, la France constipée et frustrée.. La Chronique du Dr Maurice Simo Djom</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<episode-num system="xmltv_ns">0.21.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412231600 +0200" stop="20230412233000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Eco News</title>
+<desc lang="fr">Le journal de l'économie, votre émission quotidienne d'information économique sur l'Afrique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230412233000 +0200" stop="20230413000000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Vous et Nous</title>
+<desc lang="fr">Connexion Afrique Amérique inédite où africains et américains se rencontrent, se racontent loin des clichés.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<episode-num system="xmltv_ns">7.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413000000 +0200" stop="20230413003000 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxNews Evening</title>
+<desc lang="fr">VoxNews est le journal télévisé des rédactions de VoxAfrica.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">13.97.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413003000 +0200" stop="20230413010000 +0200" channel="VoxAfrica.af">
+<title lang="fr">CHACHA Talks</title>
+<desc lang="fr">Chacha Talks est une plateforme d'expression entreprenariale, un outil de sensibilisation pour la jeune fille africaine et la jeunesse en particulier sur l'importance de penser aux activités génératrices de revenus. Chacha Talks, c'est par ailleurs une partie débat sur des thématiques liées à l'entrepreneuriat féminin. Thème : Comment réorienter son business model en temps de crise ?</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413010000 +0200" stop="20230413020000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Solattitude</title>
+<desc lang="fr">Floby, auteur compositeur et interprète Burkinabe.. Le papa des orphelins comme l'appellent les enfants défavorisés vient parler de son engagement humanitaire ainsi que de son actualité artistique</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Mode</category>
+<episode-num system="xmltv_ns">4.36.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413020000 +0200" stop="20230413023000 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxNews Evening</title>
+<desc lang="fr">VoxNews est le journal télévisé des rédactions de VoxAfrica.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">13.97.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413023000 +0200" stop="20230413024500 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxPlay Coaches Voice Kids Playlist</title>
+<desc lang="fr">Sélection de clips vidéos d'artistes Afros par genre musical (Afrobeat, Rumba, Rnb, Kizomba, Gospel, Rap...)</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413024500 +0200" stop="20230413030000 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxPlay Coaches Voice Kids Playlist</title>
+<desc lang="fr">Sélection de clips vidéos d'artistes Afros par genre musical (Afrobeat, Rumba, Rnb, Kizomba, Gospel, Rap...)</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413030000 +0200" stop="20230413031500 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxPlay Coaches Voice Kids Playlist</title>
+<desc lang="fr">Sélection de clips vidéos d'artistes Afros par genre musical (Afrobeat, Rumba, Rnb, Kizomba, Gospel, Rap...)</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413031500 +0200" stop="20230413033000 +0200" channel="VoxAfrica.af">
+<title lang="fr">VoxPlay Coaches Voice Kids Playlist</title>
+<desc lang="fr">Sélection de clips vidéos d'artistes Afros par genre musical (Afrobeat, Rumba, Rnb, Kizomba, Gospel, Rap...)</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413033000 +0200" stop="20230413040000 +0200" channel="VoxAfrica.af">
+<title lang="fr">AfroBuzz Paris</title>
+<desc lang="fr">Le salon AKAA d'art contemporain Africain, le Grand Carnaval de Dakar, l'interview de Tino Versace et son clip &amp;quot; Je fais le beau &amp;quot;</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413040000 +0200" stop="20230413043000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Escale Musique</title>
+<desc lang="fr">Retransmission des concerts des plus grands artistes africains du moment.</desc>
+<category lang="fr">Spectacle</category>
+<category lang="fr">Variétés</category>
+<episode-num system="xmltv_ns">0.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413043000 +0200" stop="20230413050000 +0200" channel="VoxAfrica.af">
+<title lang="fr">Africa 54</title>
+<desc lang="fr">A daily news magazine that focuses on a younger demographic looking at technological trends, lifestyles, entertainment and other issues that resonate on the 54 countries that make up Africa.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">4.96.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230413050000 +0200" stop="20230413060000 +0200" channel="VoxAfrica.af">
+<title lang="fr">The FaSttest shedder</title>
+<desc lang="fr">Nigeria's first weight loss reality TV show, the Fastest Shedder is intended at raising awareness against obesity and inspiring plus size people to maintain a healthy lifestyle.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Téléréalité</category>
+<episode-num system="xmltv_ns">3.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
