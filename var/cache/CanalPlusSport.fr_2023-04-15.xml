@@ -1,0 +1,161 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230415025800 +0200" stop="20230415074700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415074700 +0200" stop="20230415084700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Late Sport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EF631D16B1E186486BA50A0587BE97E2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415084700 +0200" stop="20230415102900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023. 28e journée. Aurillac / Agen.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0CCAE31914A0DA373EC3E257208E761A.jpg" />
+<episode-num system="xmltv_ns">0.222.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415102900 +0200" stop="20230415104600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Jour de rugby Pro D2 avant-match</title>
+<sub-title lang="fr">Soyaux-Angoulême - Biarritz</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5E5AF9AFED65E773B6A95E276C4D87FE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415104600 +0200" stop="20230415122900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023. 28e journée. Soyaux-Angoulême / Biarritz.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BA98F032948E2DAD840469BF32C32E74.jpg" />
+<episode-num system="xmltv_ns">0.218.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415122900 +0200" stop="20230415123900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Jour de rugby Pro D2 avant-match</title>
+<sub-title lang="fr">Nevers - Grenoble</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/29800DF58402B14134F331B57CF6D392.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415123900 +0200" stop="20230415142300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023. 28e journée. Nevers / Grenoble.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0CCAE31914A0DA373EC3E257208E761A.jpg" />
+<episode-num system="xmltv_ns">0.223.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415142300 +0200" stop="20230415145000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Jour de rugby Pro D2 débrief</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5E5AF9AFED65E773B6A95E276C4D87FE.jpg" />
+<episode-num system="xmltv_ns">0.25.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415145000 +0200" stop="20230415165500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023. 22e journée. Racing 92 / Bordeaux-Bègles.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/98656E25156EBC018B4224F92549720E.jpg" />
+<episode-num system="xmltv_ns">0.151.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415165500 +0200" stop="20230415190000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023. 22e journée. Montpellier / Castres.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/98656E25156EBC018B4224F92549720E.jpg" />
+<episode-num system="xmltv_ns">0.150.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415190000 +0200" stop="20230415195400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Les virtuoses</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4500723DCB294BAD56914830172B61D9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415195400 +0200" stop="20230415203100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Canal Foot Manager</title>
+<sub-title lang="fr">Le mode de la défense à 3</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Football</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F48DE3E8815912424F661D2700931D4D.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415203100 +0200" stop="20230415205500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Soir de Ligue 1 l'avant-match</title>
+<sub-title lang="fr">Paris-SG - Lens</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Football</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5DAFABF78838128F8D5143846F997AD8.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415205500 +0200" stop="20230415225600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Football : Ligue 1 Uber Eats</title>
+<desc lang="fr">Ligue 1 Uber Eats 2022/2023. 31e journée. Paris-SG / Lens.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Football</category>
+<icon src="https://img.bouygtel.fr/CMS/images/294762DCBA2F70D65C00877E247A5820.jpg" />
+<episode-num system="xmltv_ns">0.305.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415225600 +0200" stop="20230415234300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Soir de Ligue 1</title>
+<sub-title lang="fr">Paris-SG - Lens</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Football</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E0D7B63805FECB62D64BA4E2FD22F67A.jpg" />
+<episode-num system="xmltv_ns">0.28.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415234300 +0200" stop="20230416010900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">IndyCar : Grand Prix de Long Beach</title>
+<desc lang="fr">IndyCar Series 2023. Grand Prix de Long Beach.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Indycar</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4FB569BD0F78097405E5D711A6E3B1E9.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230416010900 +0200" stop="20230416031300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Open de Hilton Head</title>
+<desc lang="fr">Circuit américain 2022/2023. Open de Hilton Head.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EC2B28D8339AF1F9F3C6F9BB574BF9B4.jpg" />
+<episode-num system="xmltv_ns">0.155.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230416031300 +0200" stop="20230416073800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FE94A7D93AAD8E38CC5F134073111ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

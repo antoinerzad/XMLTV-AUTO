@@ -1,0 +1,99 @@
+<!-- racacax\XmlTv\Component\Provider\SFR -->
+<programme start="20230415030000 +0200" stop="20230415060000 +0200" channel="RMCSport2.fr">
+<title lang="fr">MMA : PFL</title>
+<desc lang="fr">Suivez des combats de la Professionnal Fighters League de MMA, une des fédérations de ce sport de combat.</desc>
+<category lang="fr">Sports de combat</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/0/7/6031706.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230415060000 +0200" stop="20230415070000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe</title>
+<desc lang="fr">Diffusion d'une compétition de boxe, un sport de combat.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/9/2/5758292.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415070000 +0200" stop="20230415100000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde IBF</title>
+<desc lang="fr">Suivez les combats du Championnat du monde de boxe IBF.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/3/4/6657431.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415100000 +0200" stop="20230415130000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde WBC</title>
+<desc lang="fr">Suivez des combats de boxe se disputant dans le cadre du Championnat du monde organisé pa la WBC.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/9/0/7125091.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415130000 +0200" stop="20230415140000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat d'Europe WBA</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/0/6511073.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415140000 +0200" stop="20230415150000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Premier Boxing Champions</title>
+<desc lang="fr">Diffusion du Premier Boxing Champions, une réunion de combats de boxe.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/3/3/5796335.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415150000 +0200" stop="20230415151500 +0200" channel="RMCSport2.fr">
+<title lang="fr">Pépite RMC Sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire sportif</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/5/5757560.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415151500 +0200" stop="20230415181500 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat WBC Continental des Amériques</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/0/6511073.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415181500 +0200" stop="20230415183000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Pépite RMC Sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire sportif</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/5/5757560.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415183000 +0200" stop="20230415193000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe</title>
+<desc lang="fr">Diffusion d'une compétition de boxe, un sport de combat.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/9/2/5758292.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415193000 +0200" stop="20230415203000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde WBC</title>
+<desc lang="fr">Suivez des combats de boxe se disputant dans le cadre du Championnat du monde organisé pa la WBC.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/9/0/7125091.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415203000 +0200" stop="20230415220000 +0200" channel="RMCSport2.fr">
+<title lang="fr">MMA : Cage Warriors</title>
+<desc lang="fr">Découvrez le MMA Cage Warriors, une discipline composée de divers arts martiaux et sports de combat.</desc>
+<category lang="fr">Sports de combat</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/4/2/6987245.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230415220000 +0200" stop="20230416010000 +0200" channel="RMCSport2.fr">
+<title lang="fr">MMA : Cage Warriors</title>
+<desc lang="fr">Découvrez le MMA Cage Warriors, une discipline composée de divers arts martiaux et sports de combat.</desc>
+<category lang="fr">Sports de combat</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/4/2/6987245.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230416010000 +0200" stop="20230416020000 +0200" channel="RMCSport2.fr">
+<title lang="fr">MMA : UFC</title>
+<desc lang="fr">Diffusion de combats de MMA, un sport extrême venu d'Outre-Atlantique et fusion de plusieurs arts martiaux.</desc>
+<category lang="fr">Sports de combat</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/3/8/7146835.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>

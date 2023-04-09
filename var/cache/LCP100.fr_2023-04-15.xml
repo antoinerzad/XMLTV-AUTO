@@ -1,0 +1,395 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230415055800 +0200" stop="20230415070100 +0200" channel="LCP100.fr">
+<title lang="fr">Ça vous regarde</title>
+<desc lang="fr">Chaque jour, &quot;Ça vous regarde&quot; propose d'expliquer et de partager l'information parlementaire pour la rendre plus attractive, plus claire, plus lisible. En invitant les internautes à poser des questions aux députés, experts ou personnalités présents sur le plateau, l'émission se veut le reflet des préoccupations citoyennes. Un thème au coeur de l'actualité est ainsi quotidiennement abordé et décliné sous plusieurs formes : reportage, chronique et débat. Un moyen d'en éclairer les différents aspects et d'entendre la variété des points de vue.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0F9117BED971D077734038D0FE979E85.jpg" />
+<episode-num system="xmltv_ns">0.101.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415070100 +0200" stop="20230415080000 +0200" channel="LCP100.fr">
+<title lang="fr">Ces idées qui gouvernent le monde</title>
+<sub-title lang="fr">L'identité et le territoire</sub-title>
+<desc lang="fr">La mondialisation a rebattu les cartes du village planétaire avec le télétravail, les mobilités découlant de la transition énergétique et de la révolution numérique. Avec aussi des services publics plus ou moins performants, la montée des communautarismes, des replis identitaires et des violences, des révoltes se propagent sur fond d'inégalités sociales et de désindustrialisation des territoires.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/ECC9CB0D4A44C6C2FC1A3669E34561FE.jpg" />
+<episode-num system="xmltv_ns">0.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415080000 +0200" stop="20230415083000 +0200" channel="LCP100.fr">
+<title lang="fr">LCP le mag</title>
+<sub-title lang="fr">Scoutisme, l'école de la politique</sub-title>
+<desc lang="fr">Jacques Chirac, Lionel Jospin, Simone Veil, Michel Rocard : toutes et tous ont été louveteaux jeannettes ou guides des scouts. Avec ses camps, sa méthode éducative basée sur le jeu dans la nature, et l'autonomie, le scoutisme développerait une certaine appétence pour l'engagement, la vie publique et des carrières politiques.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8EEFD6205DF109F22B5AD1A77F0956FE.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415083000 +0200" stop="20230415090000 +0200" channel="LCP100.fr">
+<title lang="fr">Etat de santé</title>
+<sub-title lang="fr">Handicap : la France est-elle validiste ?</sub-title>
+<desc lang="fr">Invisibilisées, présentées comme des causes caritatives ou, au contraire, des héros inspirants, les personnes en situation de handicap dénoncent de plus en plus le &quot;validisme&quot; de la société française. Ce terme, connu des universitaires et des militants depuis plusieurs décennies, a récemment fait son apparition dans le débat public. Il désigne un rapport de domination qui discrimine tout ce qui contrevient à la norme du sain, de l'absence de maladie ou d'infirmité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9FA32F54FD095E17768C9C8064EFCE50.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415090000 +0200" stop="20230415093000 +0200" channel="LCP100.fr">
+<title lang="fr">Le journal de la Défense</title>
+<sub-title lang="fr">Robots : des nouveaux soldats ?</sub-title>
+<desc lang="fr">La robotisation des armées est en marche, mais jusqu'où ira-t-elle ? A quoi ressemblera le champ de bataille de demain : moins d'humains et plus de robots ? La guerre sera-t-elle bientôt menée par des machines autonomes ? En France, la ligne de conduite est claire : l'humain est et restera aux commandes, mais qu'en sera-t-il dans le camp adverse : le robot sera-t-il bientôt un nouvel ennemi à combattre ?</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/023776125283CA01A6BB943944B36C7E.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415093000 +0200" stop="20230415095900 +0200" channel="LCP100.fr">
+<title lang="fr">Le grand journal des territoires</title>
+<desc lang="fr">En collaboration avec les chaînes de télévision et les rédactions de la presse locales, un tour des régions à la rencontre des acteurs de l'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/93F69315CDC7DE6453824CC10AB28FFA.jpg" />
+<episode-num system="xmltv_ns">0.32.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415095900 +0200" stop="20230415102500 +0200" channel="LCP100.fr">
+<title lang="fr">La faute à l'Europe ?</title>
+<desc lang="fr">Depuis le grand hall du parlement européen de Bruxelles, un magazine d'analyse didactique et décalée sur l'Union européenne.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/55E9410C994AC93BA1853209AC362B88.jpg" />
+<episode-num system="xmltv_ns">0.25.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415102500 +0200" stop="20230415103100 +0200" channel="LCP100.fr">
+<title lang="fr">Conseil constitutionnel, mode d'emploi</title>
+<sub-title lang="fr">L'État de droit</sub-title>
+<desc lang="fr">Cinq minutes pour comprendre le fonctionnement du Conseil constitutionnel, l'instance qui statue sur la conformité à la Constitution des lois et règlements dont il est saisi.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EDE019BE5EF0FD6CF91EB55163275287.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415103100 +0200" stop="20230415104600 +0200" channel="LCP100.fr">
+<title lang="fr">La politique et moi</title>
+<sub-title lang="fr">Jean-Philippe Tanguy</sub-title>
+<desc lang="fr">Pourquoi s'engage-t-on en politique ? Comment tombe-t-on dans le grand chaudron de l'Assemblée ? Clément Méric, dans un entretien en tête-à-tête, interroge un parlementaire pour tâcher de comprendre ce qui l'a conduit à choisir la vie publique. Rencontres, événements historiques ou personnels : chaque élu a une histoire différente à raconter.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CD069152821900CD7BA82AC0209D57A4.jpg" />
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415104600 +0200" stop="20230415110000 +0200" channel="LCP100.fr">
+<title lang="fr">La politique et moi</title>
+<sub-title lang="fr">Eva Sas</sub-title>
+<desc lang="fr">Pourquoi s'engage-t-on en politique ? Comment tombe-t-on dans le grand chaudron de l'Assemblée ? Clément Méric, dans un entretien en tête-à-tête, interroge un parlementaire pour tâcher de comprendre ce qui l'a conduit à choisir la vie publique. Rencontres, événements historiques ou personnels : chaque élu a une histoire différente à raconter.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/31B6C7AE6FDD34F1061DDC1560164207.jpg" />
+<episode-num system="xmltv_ns">0.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415110000 +0200" stop="20230415120000 +0200" channel="LCP100.fr">
+<title lang="fr">Maman j'ai arrêté l'avion</title>
+<desc lang="fr">Chaque mois, Daphné Roulier aborde un thème lié à la transition écologique, suivi d'un débat avec ses invités. Comment réduire l'empreinte carbone en évitant les fausses pistes ? Des reportages tournés sur le terrain alternent avec des interviews de politiques et d'experts. Raphaël Hitier, docteur en neuroscience, apporte ses lumières, tandis que Camille Etienne offre son regard de militante écologiste.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Nature</category>
+<icon src="https://img.bouygtel.fr/CMS/images/35FC3D83B902A471F5BD22B48A66774D.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415120000 +0200" stop="20230415122600 +0200" channel="LCP100.fr">
+<title lang="fr">Liberté, égalité, scolarité !</title>
+<desc lang="fr">Chaque jour, 12 millions d'élèves passent la porte des 60 000 établissements scolaires français. Sait-on vraiment comment fonctionne cette institution, quel est le quotidien de tous ces métiers qui font l'école ? Les équipes de LCP, avec Valérie Brochard, franchissent à leur tour les portes, posent leurs caméras au milieu des élèves, des équipes éducatives et des partenaires de l'école.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4A531166B9CAA418447F84E1AF5444D6.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415122600 +0200" stop="20230415123000 +0200" channel="LCP100.fr">
+<title lang="fr">1001 métiers d'avenir</title>
+<desc lang="fr">Découvrez un métier d'avenir, au travers d'une personne décrivant toute son activité et son poste en détails.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/782FC274AA41EC6D7344C98589FAF7C4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415123000 +0200" stop="20230415133000 +0200" channel="LCP100.fr">
+<title lang="fr">Politiques, à table !</title>
+<desc lang="fr">L'interview d'une personnalité politique menée lors d'un déjeuner. Outre des questions d'actualité, sont abordés des sujets comme le rapport de l'invité avec la gastronomie, sa gourmandise ou ses orientations culinaires. Des reportages se penchent également sur les préoccupations alimentaires et sociales des Français.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/53E7778EE4B9534F6FF48FD4E2CEF57D.jpg" />
+<episode-num system="xmltv_ns">0.22.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415133000 +0200" stop="20230415140000 +0200" channel="LCP100.fr">
+<title lang="fr">LCP le mag</title>
+<desc lang="fr">Un rendez-vous au coeur des grands dossiers d'actualité qui sont débattus à l'Assemblée nationale. Enquêtes, reportages et rencontres servent à éclairer chaque débat.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C333E52A3BE78FA7039843C9A713364F.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415140000 +0200" stop="20230415160000 +0200" channel="LCP100.fr">
+<title lang="fr">Rembob'INA</title>
+<sub-title lang="fr">Le Huguenot récalcitrant</sub-title>
+<desc lang="fr">Diffusé en 1969, le téléfilm &quot;Le Huguenot récalcitrant&quot;, avec Jacques Dufilho en tête d'affiche, raconte les dragonnades, ces persécutions contre les protestants après la révocation de l'édit de Nantes. Dans ce contexte, un chanteur insoumis nargue les soldats de Louis XIV du haut de son rocher, jusqu'à rendre à moitié fou le maréchal des logis Boutre, incarné par Dufilho. Jean L'Hôte, réalisateur du téléfilm, fut aussi le scénariste de Jacques Tati.</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Médias</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A18657460B421741ADD0FD9CD0C94985.jpg" />
+<episode-num system="xmltv_ns">0.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415160000 +0200" stop="20230415161500 +0200" channel="LCP100.fr">
+<title lang="fr">Circo</title>
+<desc lang="fr">Loin du tumulte des séances de l'Assemblée nationale, une plongée au coeur d'une circonscription en compagnie de son député, pour découvrir le quotidien d'un élu.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/93F69315CDC7DE6453824CC10AB28FFA.jpg" />
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415161500 +0200" stop="20230415163000 +0200" channel="LCP100.fr">
+<title lang="fr">Circo</title>
+<sub-title lang="fr">Fin de vie : comment faire mieux ?</sub-title>
+<desc lang="fr">Loin du tumulte des séances de l'Assemblée nationale, une plongée au coeur d'une circonscription en compagnie de son député, pour découvrir le quotidien d'un élu.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/93F69315CDC7DE6453824CC10AB28FFA.jpg" />
+<episode-num system="xmltv_ns">0.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415163000 +0200" stop="20230415183100 +0200" channel="LCP100.fr">
+<title lang="fr">Questions au gouvernement</title>
+<desc lang="fr">L'émission se déroule en deux étapes : une interview politique précède la diffusion des questions des groupes parlementaires et des réponses des membres du gouvernement.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat parlementaire</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2119DC26C898047B7F37BCB1BF90DDDA.jpg" />
+<episode-num system="xmltv_ns">0.28.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415183100 +0200" stop="20230415184400 +0200" channel="LCP100.fr">
+<title lang="fr">La politique et moi</title>
+<sub-title lang="fr">Nicolas Turquois</sub-title>
+<desc lang="fr">Pourquoi s'engage-t-on en politique ? Comment tombe-t-on dans le grand chaudron de l'Assemblée ? Clément Méric, dans un entretien en tête-à-tête, interroge un parlementaire pour tâcher de comprendre ce qui l'a conduit à choisir la vie publique. Rencontres, événements historiques ou personnels : chaque élu a une histoire différente à raconter.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CD069152821900CD7BA82AC0209D57A4.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415184400 +0200" stop="20230415185900 +0200" channel="LCP100.fr">
+<title lang="fr">La politique et moi</title>
+<sub-title lang="fr">Ségolène Amiot</sub-title>
+<desc lang="fr">Pourquoi s'engage-t-on en politique ? Comment tombe-t-on dans le grand chaudron de l'Assemblée ? Clément Méric, dans un entretien en tête-à-tête, interroge un parlementaire pour tâcher de comprendre ce qui l'a conduit à choisir la vie publique. Rencontres, événements historiques ou personnels : chaque élu a une histoire différente à raconter.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CD069152821900CD7BA82AC0209D57A4.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415185900 +0200" stop="20230415192600 +0200" channel="LCP100.fr">
+<title lang="fr">LCP le mag</title>
+<sub-title lang="fr">Scoutisme, l'école de la politique</sub-title>
+<desc lang="fr">Jacques Chirac, Lionel Jospin, Simone Veil, Michel Rocard : toutes et tous ont été louveteaux jeannettes ou guides des scouts. Avec ses camps, sa méthode éducative basée sur le jeu dans la nature, et l'autonomie, le scoutisme développerait une certaine appétence pour l'engagement, la vie publique et des carrières politiques.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C333E52A3BE78FA7039843C9A713364F.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415192600 +0200" stop="20230415193000 +0200" channel="LCP100.fr">
+<title lang="fr">Conspirations ?</title>
+<sub-title lang="fr">Le nouvel ordre mondial</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/93F69315CDC7DE6453824CC10AB28FFA.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415193000 +0200" stop="20230415195700 +0200" channel="LCP100.fr">
+<title lang="fr">Le journal de la Défense</title>
+<sub-title lang="fr">Robots : des nouveaux soldats ?</sub-title>
+<desc lang="fr">La robotisation des armées est en marche, mais jusqu'où ira-t-elle ? A quoi ressemblera le champ de bataille de demain : moins d'humains et plus de robots ? La guerre sera-t-elle bientôt menée par des machines autonomes ? En France, la ligne de conduite est claire : l'humain est et restera aux commandes, mais qu'en sera-t-il dans le camp adverse : le robot sera-t-il bientôt un nouvel ennemi à combattre ?</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EE66137C2058B24FCB29802AD7C9234B.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415195700 +0200" stop="20230415202300 +0200" channel="LCP100.fr">
+<title lang="fr">Le journal de la Défense</title>
+<sub-title lang="fr">Frégates multi-missions, alerte en haute mer</sub-title>
+<desc lang="fr">Alors que les océans et leurs richesses sont désormais l'objet de toutes les convoitises, les tensions n'ont jamais été aussi élevées en haute mer. Pour y faire face, la Marine nationale a intensifié son entraînement. Ce reportage raconte de l'intérieur la préparation opérationnelle de l'équipage d'une frégate multi-missions dans un contexte de remilitarisation des espaces maritimes. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F0C6AB8FE971EB2DBE154B9EEE25351B.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415202300 +0200" stop="20230415202600 +0200" channel="LCP100.fr">
+<title lang="fr">L'habit ne fait pas le politique</title>
+<sub-title lang="fr">Jack Lang casse les codes</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/44F974E5342E41F3CEB8E74CA5C5D9DB.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415202600 +0200" stop="20230415202900 +0200" channel="LCP100.fr">
+<title lang="fr">L'habit ne fait pas le politique</title>
+<sub-title lang="fr">Patrice Carvalho, un député en bleu de travail</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/71FDD6B4122B834776071493A2E169F3.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415202900 +0200" stop="20230415205800 +0200" channel="LCP100.fr">
+<title lang="fr">Etat de santé</title>
+<sub-title lang="fr">Handicap : la France est-elle validiste ?</sub-title>
+<desc lang="fr">Invisibilisées, présentées comme des causes caritatives ou, au contraire, des héros inspirants, les personnes en situation de handicap dénoncent de plus en plus le &quot;validisme&quot; de la société française. Ce terme, connu des universitaires et des militants depuis plusieurs décennies, a récemment fait son apparition dans le débat public. Il désigne un rapport de domination qui discrimine tout ce qui contrevient à la norme du sain, de l'absence de maladie ou d'infirmité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7A326A1744A0D9643DB4509EC3B1C1BC.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415205800 +0200" stop="20230415210100 +0200" channel="LCP100.fr">
+<title lang="fr">Photo politique</title>
+<sub-title lang="fr">François Hollande et le drapeau français</sub-title>
+<desc lang="fr">13 Novembre 2016 : François Hollande et le drapeau français lors de la 1ère cérémonie en hommage de la victime de l'attentat au Stade de France. Ouvrez l'oeil et écoutez Eliot Blondet raconter l'histoire de son cliché ! Où, quand et à quelle occasion la photo a-t-elle été prise ? Dans quelles conditions ? L'anecdotique vient éclairer l'histoire. Suivez-nous sur les réseaux ! Twitter : https://twitter.com/lcp Facebook : https://fr-fr.facebook.com/LCP Instagram : https://www.instagram.com/lcp_an/ Retrouvez nous sur notre site : https://www.lcp.fr/ #LCP</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3A0134A5AD5A253791D252745E63B849.jpg" />
+<episode-num system="xmltv_ns">1.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415210100 +0200" stop="20230415225800 +0200" channel="LCP100.fr">
+<title lang="fr">Rembob'INA</title>
+<sub-title lang="fr">&quot;Le petit Claus et le grand Claus&quot;, un conte d'Andersen à la sauce Prévert</sub-title>
+<desc lang="fr">Diffusée à la télévision le jour de Noël 1964, Le Petit Claus et le Grand Claus&quot;, de Jacques et Pierre Prévert, réunit les acteurs Maurice Baquet, Roger Blin et Elisabeth Wiener. &quot;Rembob'Ina&quot; revient sur la genèse de l'oeuvre avec une interview jeunesse des deux frères, une rencontre entre Jacques Prévert et des collégiens, un hommage rendu par ses proches et un portrait de Paul Grimault, pionnier du film d'animation, responsable des décors du film.</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Médias</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D2522AD6A34E8836B21122D509D16CB6.jpg" />
+<episode-num system="xmltv_ns">0.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415225800 +0200" stop="20230415230200 +0200" channel="LCP100.fr">
+<title lang="fr">Conspirations ?</title>
+<sub-title lang="fr">Les chemtrails</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/766894AABB7EC7FEEC25BEF326876FFF.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415230200 +0200" stop="20230415232800 +0200" channel="LCP100.fr">
+<title lang="fr">Les grands entretiens de Daphné Roulier</title>
+<sub-title lang="fr">Hervé Témime</sub-title>
+<desc lang="fr">Toujours dans le même décor plongé dans l'obscurité, c'est au tour de Daphné Roulier de poursuivre &quot;Les Grands Entretiens&quot;. Seuls les visages de la présentatrice et de son invité s'éclairent dans l'intensité de cet échange.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Interview</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8C71AE40F58283CFD130ABEDB3FB44E9.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415232800 +0200" stop="20230415235500 +0200" channel="LCP100.fr">
+<title lang="fr">Les grands entretiens de Daphné Roulier</title>
+<sub-title lang="fr">La défense dans la peau</sub-title>
+<desc lang="fr">Distinguée par ses prises de position déterminées sur des sujets clivants comme le sort des enfants détenus en Syrie ou l'importance de la prescription, Marie Dosé dénonce au cours de cet entretien la montée d'un &quot;populisme pénal&quot; qui valorise &quot;l'identité victimaire&quot; et empêche de dissocier justice et vengeance. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Interview</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B897667BF471F9AA6A20B47DF163C668.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415235500 +0200" stop="20230416000100 +0200" channel="LCP100.fr">
+<title lang="fr">Conseil constitutionnel, mode d'emploi</title>
+<sub-title lang="fr">L'État de droit</sub-title>
+<desc lang="fr">Cinq minutes pour comprendre le fonctionnement du Conseil constitutionnel, l'instance qui statue sur la conformité à la Constitution des lois et règlements dont il est saisi.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/556A4BC79D4BFEA8B0306834FB813F06.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230416000100 +0200" stop="20230416012900 +0200" channel="LCP100.fr">
+<title lang="fr">Séance publique à l'Assemblée nationale</title>
+<desc lang="fr">Le point sur l'actualité du Palais Bourbon, les séances pléniaires et le travail des commission permanentes de l'Assemblée nationale.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat parlementaire</category>
+<icon src="https://img.bouygtel.fr/CMS/images/674E0C0778DC02732503B4BB41134A11.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230416012900 +0200" stop="20230416014200 +0200" channel="LCP100.fr">
+<title lang="fr">Circo</title>
+<sub-title lang="fr">Guillaume Garot et Yannick Favennec, deux députés unis contre les déserts médicaux</sub-title>
+<desc lang="fr">Ils ne sont pas issus de la même famille politique mais partagent le même combat : la lutte contre les déserts médicaux. Guillaume Garot est député socialiste de la 1re circonscription de la Mayenne. Yannick Favennec est député Horizons de la 3e circonscription de la Mayenne. Ensemble, dans leur département, 3e désert médical de France, ils sillonnent leurs circonscriptions pour trouver des solutions.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/766894AABB7EC7FEEC25BEF326876FFF.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230416014200 +0200" stop="20230416015600 +0200" channel="LCP100.fr">
+<title lang="fr">Circo</title>
+<sub-title lang="fr">Pierre Morel-À-L'Huissier, un député face au loup</sub-title>
+<desc lang="fr">Seul député de Lozère, département classé au patrimoine mondial de l'Unesco pour son pastoralisme, Pierre Morel-À-L'Huissier fait face aux attaques toujours plus nombreuses du loup sur les troupeaux ovins et bovins.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7D82E53E3743FE35E760DE312E30B319.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230416015600 +0200" stop="20230416020000 +0200" channel="LCP100.fr">
+<title lang="fr">Histoires de timbres</title>
+<sub-title lang="fr">Pour la natalité</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5B08712FEB1FA17A577C8FC7834459D0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230416020000 +0200" stop="20230416040000 +0200" channel="LCP100.fr">
+<title lang="fr">Questions au gouvernement</title>
+<desc lang="fr">L'émission se déroule en deux étapes : une interview politique précède la diffusion des questions des groupes parlementaires et des réponses des membres du gouvernement.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat parlementaire</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2119DC26C898047B7F37BCB1BF90DDDA.jpg" />
+<episode-num system="xmltv_ns">0.28.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230416040000 +0200" stop="20230416053000 +0200" channel="LCP100.fr">
+<title lang="fr">Séance publique à l'Assemblée nationale</title>
+<desc lang="fr">Le point sur l'actualité du Palais Bourbon, les séances pléniaires et le travail des commission permanentes de l'Assemblée nationale.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat parlementaire</category>
+<icon src="https://img.bouygtel.fr/CMS/images/674E0C0778DC02732503B4BB41134A11.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230416053000 +0200" stop="20230416070000 +0200" channel="LCP100.fr">
+<title lang="fr">Séance publique à l'Assemblée nationale</title>
+<desc lang="fr">Le point sur l'actualité du Palais Bourbon, les séances pléniaires et le travail des commission permanentes de l'Assemblée nationale.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat parlementaire</category>
+<icon src="https://img.bouygtel.fr/CMS/images/674E0C0778DC02732503B4BB41134A11.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

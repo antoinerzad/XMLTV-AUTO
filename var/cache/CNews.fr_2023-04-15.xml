@@ -1,0 +1,505 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230414235800 +0200" stop="20230415000100 +0200" channel="CNews.fr">
+<title lang="fr">Journal</title>
+<desc lang="fr">Les actualités et les informations du jour mis en directe.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_14256784.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415000100 +0200" stop="20230415004800 +0200" channel="CNews.fr">
+<title lang="fr">L'Heure des Pros 2</title>
+<desc lang="fr">Les invités de #HDPros2 débattent des grands thèmes de l'actualité. Présenté par Pascal Praud du lundi au jeudi et Julien Pasquet le vendredi.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706084.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415004800 +0200" stop="20230415005900 +0200" channel="CNews.fr">
+<title lang="fr">L'heure des livres</title>
+<desc lang="fr">Anne Fulda vous présente chaque jour l'actualité littéraire dans #HDLivres, du lundi à vendredi à 21h.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29705034.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415005900 +0200" stop="20230415010100 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions météo pour le lendemain</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415010100 +0200" stop="20230415012200 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_30960672.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415012200 +0200" stop="20230415012800 +0200" channel="CNews.fr">
+<title lang="fr">L'hebdo de l'éco</title>
+<desc lang="fr">Le magazine économique qui traite de tous les sujets importants financiers et qui vous donne les actualités sur l'économie française et étrangère, les marchés, les bourses, les entreprises, la crise etc. en vous offrant des analyses exclusives de la part d'invités, des experts du monde économique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Economie</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29705244.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415012800 +0200" stop="20230415012900 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions météo pour le lendemain</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415012900 +0200" stop="20230415015100 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_30960672.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415015100 +0200" stop="20230415015600 +0200" channel="CNews.fr">
+<title lang="fr">L'heure des livres</title>
+<desc lang="fr">Anne Fulda vous présente chaque jour l'actualité littéraire dans #HDLivres, du lundi à vendredi à 21h.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29705034.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415015600 +0200" stop="20230415015700 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions météo pour le lendemain</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415015700 +0200" stop="20230415021900 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_30960672.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415021900 +0200" stop="20230415022400 +0200" channel="CNews.fr">
+<title lang="fr">L'hebdo de l'éco</title>
+<desc lang="fr">Le magazine économique qui traite de tous les sujets importants financiers et qui vous donne les actualités sur l'économie française et étrangère, les marchés, les bourses, les entreprises, la crise etc. en vous offrant des analyses exclusives de la part d'invités, des experts du monde économique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Economie</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29705244.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415022400 +0200" stop="20230415022600 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions météo pour le lendemain</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415022600 +0200" stop="20230415024700 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_30960672.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415024700 +0200" stop="20230415025300 +0200" channel="CNews.fr">
+<title lang="fr">L'hebdo de l'éco</title>
+<desc lang="fr">Le magazine économique qui traite de tous les sujets importants financiers et qui vous donne les actualités sur l'économie française et étrangère, les marchés, les bourses, les entreprises, la crise etc. en vous offrant des analyses exclusives de la part d'invités, des experts du monde économique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Economie</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29705244.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415025300 +0200" stop="20230415025400 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions météo pour le lendemain</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415025400 +0200" stop="20230415031600 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_30960672.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415031600 +0200" stop="20230415032100 +0200" channel="CNews.fr">
+<title lang="fr">L'hebdo de l'éco</title>
+<desc lang="fr">Le magazine économique qui traite de tous les sujets importants financiers et qui vous donne les actualités sur l'économie française et étrangère, les marchés, les bourses, les entreprises, la crise etc. en vous offrant des analyses exclusives de la part d'invités, des experts du monde économique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Economie</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29705244.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415032100 +0200" stop="20230415032300 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions météo pour le lendemain</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415032300 +0200" stop="20230415034400 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_30960672.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415034400 +0200" stop="20230415034500 +0200" channel="CNews.fr">
+<title lang="fr">La sélection</title>
+<desc lang="fr">Bienvenue dans La Sélection CNEWS, l'agenda des événements du moment à ne pas manquer : culture, cinéma, théâtre, spectacle, exposition, festival, concert?</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_27668285.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415034500 +0200" stop="20230415034700 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions météo pour le lendemain</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415034700 +0200" stop="20230415040800 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_30960672.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415040800 +0200" stop="20230415041400 +0200" channel="CNews.fr">
+<title lang="fr">L'heure des livres</title>
+<desc lang="fr">Anne Fulda vous présente chaque jour l'actualité littéraire dans #HDLivres, du lundi à vendredi à 21h.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29705034.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415041400 +0200" stop="20230415041500 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions météo pour le lendemain</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415041500 +0200" stop="20230415043700 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_30960672.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415043700 +0200" stop="20230415045800 +0200" channel="CNews.fr">
+<title lang="fr">L'hebdo de l'éco</title>
+<desc lang="fr">Le magazine économique qui traite de tous les sujets importants financiers et qui vous donne les actualités sur l'économie française et étrangère, les marchés, les bourses, les entreprises, la crise etc. en vous offrant des analyses exclusives de la part d'invités, des experts du monde économique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Economie</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29705244.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415045800 +0200" stop="20230415045900 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions météo pour le lendemain</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415045900 +0200" stop="20230415052100 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_30960672.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415052100 +0200" stop="20230415052600 +0200" channel="CNews.fr">
+<title lang="fr">L'hebdo de l'éco</title>
+<desc lang="fr">Le magazine économique qui traite de tous les sujets importants financiers et qui vous donne les actualités sur l'économie française et étrangère, les marchés, les bourses, les entreprises, la crise etc. en vous offrant des analyses exclusives de la part d'invités, des experts du monde économique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Economie</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29705244.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415052600 +0200" stop="20230415052700 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions météo pour le lendemain</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415052700 +0200" stop="20230415054900 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_30960672.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415054900 +0200" stop="20230415055500 +0200" channel="CNews.fr">
+<title lang="fr">L'hebdo de l'éco</title>
+<desc lang="fr">Le magazine économique qui traite de tous les sujets importants financiers et qui vous donne les actualités sur l'économie française et étrangère, les marchés, les bourses, les entreprises, la crise etc. en vous offrant des analyses exclusives de la part d'invités, des experts du monde économique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Economie</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29705244.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415055500 +0200" stop="20230415055600 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions météo pour le lendemain</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415055600 +0200" stop="20230415061600 +0200" channel="CNews.fr">
+<title lang="fr">Zap politique Cnews</title>
+<desc lang="fr">Le zapping de l'actualité politique.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_24487532.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415061600 +0200" stop="20230415061700 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions météo pour le lendemain</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415061700 +0200" stop="20230415063900 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_30960672.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415063900 +0200" stop="20230415065500 +0200" channel="CNews.fr">
+<title lang="fr">Zap politique Cnews</title>
+<desc lang="fr">Le zapping de l'actualité politique.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_24487532.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415065500 +0200" stop="20230415100200 +0200" channel="CNews.fr">
+<title lang="fr">La matinale week-end</title>
+<desc lang="fr">Anthony Favalli vous informe et reçoit des invités tous les samedis et dimanches matin dans #LaMatinaleWE</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11190350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415100200 +0200" stop="20230415102900 +0200" channel="CNews.fr">
+<title lang="fr">Bonjour Dr Milhau</title>
+<desc lang="fr">Les conseils de notre docteur Brigitte Milhau sur les sujets santé qui vous concernent dans #BonjourDrMilhau.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_28406967.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415102900 +0200" stop="20230415105800 +0200" channel="CNews.fr">
+<title lang="fr">Midi News week-end</title>
+<desc lang="fr">Thierry Cabannes reçoit les acteurs de l'info du jour, des experts et nos journalistes dans #MidiNewsWE</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11237556.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415105800 +0200" stop="20230415110000 +0200" channel="CNews.fr">
+<title lang="fr">Météo 9h-11h</title>
+<desc lang="fr">Météo.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415110000 +0200" stop="20230415112800 +0200" channel="CNews.fr">
+<title lang="fr">Les belles figures de l'histoire</title>
+<desc lang="fr">Retour chronologique sur les grands personnages de l'histoire avec Aymeric Pourbaix et ses invités dans #LBFDLH.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Histoire</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29707163.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415112800 +0200" stop="20230415115700 +0200" channel="CNews.fr">
+<title lang="fr">Les belles figures de l'histoire</title>
+<desc lang="fr">Retour chronologique sur les grands personnages de l'histoire avec Aymeric Pourbaix et ses invités dans #LBFDLH.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Histoire</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29707163.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415115700 +0200" stop="20230415115800 +0200" channel="CNews.fr">
+<title lang="fr">Météo 12h</title>
+<desc lang="fr">Météo.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415115800 +0200" stop="20230415135300 +0200" channel="CNews.fr">
+<title lang="fr">Midi News week-end</title>
+<desc lang="fr">Thierry Cabannes reçoit les acteurs de l'info du jour, des experts et nos journalistes dans #MidiNewsWE</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11237556.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415135300 +0200" stop="20230415135800 +0200" channel="CNews.fr">
+<title lang="fr">L'éphéméride</title>
+<desc lang="fr">Une courte présentation de l'histoire du saint du jour qui se conclut par un dicton.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_31153146.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415135800 +0200" stop="20230415135900 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Suivez le bulletin météorologique pour découvrir quel temps il fera en France durant les jours à venir.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415135900 +0200" stop="20230415151200 +0200" channel="CNews.fr">
+<title lang="fr">La parole aux Français Week-End</title>
+<desc lang="fr">L'actualité vue par les témoins du quotidien dans #LaParoleAuxFrancaisWE</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11338307.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415151200 +0200" stop="20230415151400 +0200" channel="CNews.fr">
+<title lang="fr">A l'écoute du monde</title>
+<desc lang="fr">A l'écoute du monde revient sur l'actualité de la semaine en images. Ce programme vous est proposé en audiodescription.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_18905350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415151400 +0200" stop="20230415152300 +0200" channel="CNews.fr">
+<title lang="fr">L'hebdo de l'éco</title>
+<desc lang="fr">Le magazine économique qui traite de tous les sujets importants financiers et qui vous donne les actualités sur l'économie française et étrangère, les marchés, les bourses, les entreprises, la crise etc. en vous offrant des analyses exclusives de la part d'invités, des experts du monde économique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Economie</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29705244.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415152300 +0200" stop="20230415152700 +0200" channel="CNews.fr">
+<title lang="fr">La sélection</title>
+<desc lang="fr">Bienvenue dans La Sélection CNEWS, l'agenda des événements du moment à ne pas manquer : culture, cinéma, théâtre, spectacle, exposition, festival, concert?</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_27668285.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415152700 +0200" stop="20230415152900 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Suivez le bulletin météorologique pour découvrir quel temps il fera en France durant les jours à venir.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415152900 +0200" stop="20230415165700 +0200" channel="CNews.fr">
+<title lang="fr">90 Minutes Info Week-End</title>
+<desc lang="fr">Les invités de #90minutesInfoWE débattent de l'actualité le samedi et le dimanche.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_36152015.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415165700 +0200" stop="20230415165800 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Suivez le bulletin météorologique pour découvrir quel temps il fera en France durant les jours à venir.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415165800 +0200" stop="20230415185700 +0200" channel="CNews.fr">
+<title lang="fr">Punchline Week-End</title>
+<desc lang="fr">Les invités de #PunchlineWE débattent de l'actualité du vendredi au dimanche.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_12504519.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415185700 +0200" stop="20230415185800 +0200" channel="CNews.fr">
+<title lang="fr">Météo du soir</title>
+<desc lang="fr">Découvrez les prévisions météorologiques du lendemain présentées par l'équipe de CNews qui suit pour vous les dernières informations de Météo France.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415185800 +0200" stop="20230415195600 +0200" channel="CNews.fr">
+<title lang="fr">Ça se dispute</title>
+<desc lang="fr">Eliot Deval anime un débat entre deux éditorialistes qui analysent l'actualité politique de la semaine dans #CaSeDispute.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_28584892.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415195600 +0200" stop="20230415195800 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions météo pour le lendemain</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415195800 +0200" stop="20230415205700 +0200" channel="CNews.fr">
+<title lang="fr">Face à Bock-Côté</title>
+<desc lang="fr">Mathieu Bock-Côté propose un décryptage de l'actualité mais aussi une analyse des enjeux fondamentaux qui secouent les sociétés occidentales des deux côtés de l'Atlantique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29707624.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415205700 +0200" stop="20230415205800 +0200" channel="CNews.fr">
+<title lang="fr">Météo du soir</title>
+<desc lang="fr">Découvrez les prévisions météorologiques du lendemain présentées par l'équipe de CNews qui suit pour vous les dernières informations de Météo France.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415205800 +0200" stop="20230415215600 +0200" channel="CNews.fr">
+<title lang="fr">Face à Rioufol</title>
+<desc lang="fr">Décryptage et analyse : Ivan Rioufol avec Véronique Jacquier passe en revue l'essentiel de l'actualité de la semaine</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29707865.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415215600 +0200" stop="20230415215800 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions météo pour le lendemain</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415215800 +0200" stop="20230415235700 +0200" channel="CNews.fr">
+<title lang="fr">Les visiteurs du soir</title>
+<desc lang="fr">Frédéric Taddeï et ses invités débattent des grandes questions du XXIe siècle dans les #VisiteursDuSoir</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_36894491.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415235700 +0200" stop="20230415235800 +0200" channel="CNews.fr">
+<title lang="fr">Météo du soir</title>
+<desc lang="fr">Découvrez les prévisions météorologiques du lendemain présentées par l'équipe de CNews qui suit pour vous les dernières informations de Météo France.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_29706344.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415235800 +0200" stop="20230416000100 +0200" channel="CNews.fr">
+<title lang="fr">Journal</title>
+<desc lang="fr">Les actualités et les informations du jour mis en directe.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_14256784.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

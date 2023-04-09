@@ -1,0 +1,47 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230415210000 +0200" stop="20230416090000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Hockey sur glace : Ligue Magnus</title>
+<desc lang="fr">Rouen - Grenoble, match 6 de la finale de la Ligue Magnus.</desc>
+<category lang="fr">Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11596957.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230416090000 +0200" stop="20230416110000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Athlètes</title>
+<desc lang="fr">Magazine sportif.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_12638411.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230416110000 +0200" stop="20230416120000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Le club Sport en France</title>
+<desc lang="fr">Cette semaine, rendez-vous avec l'une des Fédérations du Mouvement Olympique les plus connues : l'Union Nationale du Sport Scolaire, la fameuse UNSS. Forte de plus d'un million de licenciés, elle est la deuxième plus grande Fédération du pays après la FFF.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11046421.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230416120000 +0200" stop="20230416151500 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Rugby à XIII : Championnat de France</title>
+<desc lang="fr">Albi - Lézignan, 18ème journée du championnat de France Elite 1 de rugby XIII.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_16350289.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230416151500 +0200" stop="20230416200000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Hockey sur glace : Ligue Magnus</title>
+<desc lang="fr">Grenoble - Rouen, match 7 de la finale de la Ligue Magnus.</desc>
+<category lang="fr">Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_12353004.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230416200000 +0200" stop="20230417090000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Rugby à XIII : Championnat de France</title>
+<desc lang="fr">Albi - Lézignan, 18ème journée du championnat de France Elite 1 de rugby XIII.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_15402566.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

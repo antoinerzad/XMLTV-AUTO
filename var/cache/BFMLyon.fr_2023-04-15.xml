@@ -1,0 +1,33 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230414230000 +0200" stop="20230415063000 +0200" channel="BFMLyon.fr">
+<title lang="fr">Lyon Express</title>
+<desc lang="fr">Tout images retour sur l'actualité à la mi-journée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4CE0DF9E0601B88567879AFA1B85D50B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415063000 +0200" stop="20230415080000 +0200" channel="BFMLyon.fr">
+<title lang="fr">Lyon Express</title>
+<desc lang="fr">Tout images retour sur l'actualité à la mi-journée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4CB4664BBEF1E09238C0C772492FE410.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415080000 +0200" stop="20230415130000 +0200" channel="BFMLyon.fr">
+<title lang="fr">Lyon week-end</title>
+<desc lang="fr">Toute l'info du week-end présentée par Jérôme Jarny.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5FF4E22DCBCBB667B4212B7D1ACE7C93.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230415130000 +0200" stop="20230416063000 +0200" channel="BFMLyon.fr">
+<title lang="fr">Lyon Express</title>
+<desc lang="fr">Tout images retour sur l'actualité à la mi-journée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/43AD309D8D7810C612E5A35A63C39B55.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
