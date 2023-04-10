@@ -1,0 +1,10 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230417053000 +0200" stop="20230417062500 +0200" channel="PublicSenat.fr">
+<title lang="fr">Sport, etc.</title>
+<desc lang="fr">Réalisé en partenariat avec l'Equipe, &quot;Sport, etc.&quot; s'adresse aussi bien à ceux qui souhaitent mieux comprendre l'influence grandissante du sport dans les sociétés contemporaines, et sa part dans l'économie, la sociologie et la politique, qu'aux férus de sport désireux d'aborder le sujet autrement.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EEEDB33E410BA9E4D65F764C54C71FCB.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
