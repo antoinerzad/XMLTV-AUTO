@@ -1,0 +1,236 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230417230000 +0200" stop="20230418005000 +0200" channel="NRJ12.fr">
+<title lang="fr">Crimes</title>
+<desc lang="fr">Le mystère d'Arriance. La braqueuse aux gants de velours.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_24009062.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230418005000 +0200" stop="20230418023500 +0200" channel="NRJ12.fr">
+<title lang="fr">Crimes</title>
+<desc lang="fr">La fleuriste d'Avon. Macabre subterfuge.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_21816766.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230418023500 +0200" stop="20230418063000 +0200" channel="NRJ12.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Programme indéterminé.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22269110.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418063000 +0200" stop="20230418093000 +0200" channel="NRJ12.fr">
+<title lang="fr">Télé-achat</title>
+<desc lang="fr">Magazine de télé-achat.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. TV Achat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_4278322.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418093000 +0200" stop="20230418102000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">L'art de la guerre</sub-title>
+<desc lang="fr">Le combat entre Derek et le Kanima est interrompu par Chris et Gerard, qui sont surpris par la réaction de la créature. Jackson tombe évanoui dans l'action.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_4427809.jpg" />
+<episode-num system="xmltv_ns">1.5.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230418102000 +0200" stop="20230418111000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Sous contrôle</sub-title>
+<desc lang="fr">Scott et Jackson se retrouvent en prison à cause d'une bagarre. Jackson se transforme, blesse Matt et Erica et s'enfuit en laissant un avertissement.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_4427809.jpg" />
+<episode-num system="xmltv_ns">1.6.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230418111000 +0200" stop="20230418120000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">L'imagination et le savoir</sub-title>
+<desc lang="fr">Jackson est chargé d'une nouvelle mission par son maître. Stiles et le shérif Stilinski finissent par comprendre qu'un point commun unit toutes les victimes de la créature...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6088681.jpg" />
+<episode-num system="xmltv_ns">1.7.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230418120000 +0200" stop="20230418125500 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">La lune des vers</sub-title>
+<desc lang="fr">Stiles constate que toutes les victimes étaient membres de l'équipe de natation du lycée dont l'entraîneur était, à l'époque, le père d'Isaac.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12221463.jpg" />
+<episode-num system="xmltv_ns">1.8.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230418125500 +0200" stop="20230418135000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Furie</sub-title>
+<desc lang="fr">Matt, qui retient Melissa, Stiles, le shérif et Scott, avoue à ce dernier la raison des meurtres. Pendant ce temps, Gerard pousse Allison à se venger de Derek.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6324992.jpg" />
+<episode-num system="xmltv_ns">1.9.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230418135000 +0200" stop="20230418141500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Grand-mère indigne</sub-title>
+<desc lang="fr">Charlie et Alan ont mis Evelyn à la porte, car elle critiquait l'éducation de Jake. Dans la foulée, ils apprennent qu'elle est à l'hôpital.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6250699.jpg" />
+<episode-num system="xmltv_ns">1.13.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418141500 +0200" stop="20230418144500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Charlie garde-malade</sub-title>
+<desc lang="fr">Alan s'inquiète au sujet d'une intervention médicale qu'il doit subir. Pour lui changer les idées, Charlie lui propose d'aller à Las Vegas...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6250699.jpg" />
+<episode-num system="xmltv_ns">1.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418144500 +0200" stop="20230418151500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Qui aime bien, oublie bien</sub-title>
+<desc lang="fr">Les frères Harper se retrouvent à assumer seuls la responsabilité du jeune Jake. En effet, Judith a décidé de partir en vacances et leur a confié le garçon.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6250700.jpg" />
+<episode-num system="xmltv_ns">1.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418151500 +0200" stop="20230418154000 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Le mal de dos</sub-title>
+<desc lang="fr">Tandis que Charlie ne parvient pas à se souvenir s'il a eu ou non une liaison avec le médecin qui s'occupe de lui, Berta décide d'apprendre la propreté à Jake.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6250701.jpg" />
+<episode-num system="xmltv_ns">1.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418154000 +0200" stop="20230418161000 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Troubles érectiles</sub-title>
+<desc lang="fr">Au cours d'une soirée, Charlie se fait passer pour un homosexuel. Quand il rencontre une jolie femme, il ne peut pas s'empêcher d'essayer de la séduire.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_11996232.jpg" />
+<episode-num system="xmltv_ns">1.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418161000 +0200" stop="20230418164000 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Fiancé de substitution</sub-title>
+<desc lang="fr">Sherri, une ancienne conquête de Charlie, refait surface par le plus grand des hasards. Alan tente de la séduire, ce qui se révèle plus compliqué que prévu.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6250689.jpg" />
+<episode-num system="xmltv_ns">1.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418164000 +0200" stop="20230418170500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Faux frères</sub-title>
+<desc lang="fr">Judith reproche à Alan d'avoir offert une paire de baskets hors de prix à Jake. Charlie et Alan apprennent à verbaliser leur colère contre les femmes.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6250705.jpg" />
+<episode-num system="xmltv_ns">1.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418170500 +0200" stop="20230418173500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Drague à l'enterrement</sub-title>
+<desc lang="fr">Le décès de son second mari bouleverse Evelyn, qui apprend qu'Alan avait gardé le contact avec lui et que son époux l'avait quittée pour une femme plus jeune.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6250689.jpg" />
+<episode-num system="xmltv_ns">1.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418173500 +0200" stop="20230418180500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Ma vieille peau de mère</sub-title>
+<desc lang="fr">Evelyn offre à Alan une nouvelle voiture, une magnifique Porsche, ce qui rend Charlie fou de jalousie. Une certaine Trudy fait son apparition.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6250689.jpg" />
+<episode-num system="xmltv_ns">1.21.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418180500 +0200" stop="20230418183500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Soirée de folie</sub-title>
+<desc lang="fr">Quand Evelyn apprend que Jake passe toutes ses vacances avec ses autres grands-parents, elle réclame à Alan qu'il lui laisse son petit-fils pour une nuit.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6250689.jpg" />
+<episode-num system="xmltv_ns">1.22.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418183500 +0200" stop="20230418190000 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">La fiancée de grand-père</sub-title>
+<desc lang="fr">Charlie a une liaison avec une femme mariée à un vieil homme. A l'école, Jake raconte que la veille, un monsieur âgé est venu chercher sa femme.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6250703.jpg" />
+<episode-num system="xmltv_ns">1.23.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418190000 +0200" stop="20230418192500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Une mauvaise chute</sub-title>
+<desc lang="fr">Après être tombé du toit, Alan a besoin de quelqu'un pour s'occuper de Jake. Charlie se porte volontaire, mais sa vie sociale en est toute chamboulée.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_5864158.jpg" />
+<episode-num system="xmltv_ns">2.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418192500 +0200" stop="20230418195500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Vidange express</sub-title>
+<desc lang="fr">Alan laisse Charlie surveiller son cabinet, le temps d'un rendez-vous avec la principale de l'école de Jake, qui vient de se faire renvoyer.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6250703.jpg" />
+<episode-num system="xmltv_ns">2.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418195500 +0200" stop="20230418211000 +0200" channel="NRJ12.fr">
+<title lang="fr">Un gars, une fille</title>
+<desc lang="fr">Amour et disputes, colère et calins : Alex et Jean sont un jeune couple à l'humeur très variable, et vivre à deux n'est pas toujours facile.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13312948.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418211000 +0200" stop="20230418233000 +0200" channel="NRJ12.fr">
+<title lang="fr">Real Steel</title>
+<desc lang="fr">Dans le futur, les combats de boxe n'opposent plus que des androïdes. Un homme et son fils construisent un robot destiné à devenir la nouvelle star du ring.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Sc.Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12162821.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418233000 +0200" stop="20230419014500 +0200" channel="NRJ12.fr">
+<title lang="fr">Hellboy II : Les légions d'or maudites</title>
+<desc lang="fr">Hellboy et ses camarades partent à la recherche d'une couronne. Convoitée par le prince d'un royaume fantastique, elle permet de contrôler une armée invincible.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12067122.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>

@@ -1,0 +1,48 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230418063000 +0200" stop="20230418090000 +0200" channel="LaChaineMeteo.fr">
+<title lang="fr">La Matinale</title>
+<sub-title lang="fr">L'éphéméride de Sandrine</sub-title>
+<desc lang="fr">C'est de l'info, de la météo, mais surtout la meilleure manière de débuter la journée.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/30/014175fdd769a2ec5d042c1d81a65df1b282225d.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418090000 +0200" stop="20230418120000 +0200" channel="LaChaineMeteo.fr">
+<title lang="fr">NonStop 9h-12h</title>
+<sub-title lang="fr">L'éphéméride de Sandrine</sub-title>
+<desc lang="fr">&quot;Non-stop 9h-12h&quot; vous propose prévisions nationales, prévisions régionales, prévisions Europe, prévisions monde, temps du week-end, météo marine et les différentes destinations de l'Europe. </desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/30/e3801a17c4afde5c095dc14ba772a5670df276d0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418120000 +0200" stop="20230418140000 +0200" channel="LaChaineMeteo.fr">
+<title lang="fr">Le 12/14</title>
+<sub-title lang="fr">Prévisions nationales</sub-title>
+<desc lang="fr">Grace à cette émission &quot;Le 12/14&quot; vous pouvez vous informer sur des prévisions météorologiques nationales, régionales, de toute l'Europe!</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/30/ce40927d4b95bfb70aa3896eed65e2d719b4035a.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418140000 +0200" stop="20230418180000 +0200" channel="LaChaineMeteo.fr">
+<title lang="fr">NonStop 14h-18h</title>
+<desc lang="fr">&quot;NonStop 14h-18h&quot; revient sur les prévisions météorologiques actuelles.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/30/e3801a17c4afde5c095dc14ba772a5670df276d0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418180000 +0200" stop="20230418220000 +0200" channel="LaChaineMeteo.fr">
+<title lang="fr">L'Édition du soir</title>
+<sub-title lang="fr">Prévisions nationales</sub-title>
+<desc lang="fr">Soyez informés sur les prévisions météorologiques nationales !</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/08/1bd140369d8e5a73948304de83d3feac79a72a88.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230418220000 +0200" stop="20230419063000 +0200" channel="LaChaineMeteo.fr">
+<title lang="fr">Le journal de la nuit</title>
+<sub-title lang="fr">Prévisions nationales</sub-title>
+<desc lang="fr">&quot;Le journal de la nuit&quot; vous donne toutes les informations sur les prévisions météorologiques actuelles.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/24b61331aaeef0eff8c4a23622b754aff879b633.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
