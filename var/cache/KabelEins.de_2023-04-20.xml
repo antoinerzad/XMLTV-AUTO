@@ -1,0 +1,215 @@
+<!-- racacax\XmlTv\Component\Provider\SFR -->
+<programme start="20230420024500 +0200" stop="20230420025500 +0200" channel="KabelEins.de">
+<title lang="fr">Watch Me - das Kinomagazin</title>
+<sub-title lang="fr">das Kinomagazin</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/6/4/7023469.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420025500 +0200" stop="20230420030000 +0200" channel="KabelEins.de">
+<title lang="fr">Kabel Eins Late News</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/8/7/5392786.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420030000 +0200" stop="20230420050500 +0200" channel="KabelEins.de">
+<title lang="fr">Hannibal Lecter : les origines du Mal</title>
+<desc lang="fr">A la fin de la Seconde Guerre mondiale, un enfant assiste impuissant au meurtre de sa soeur. A sa sortie de l'orphelinat, il ne songe qu'à se venger.</desc>
+<category lang="fr">Film d'horreur</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/2/5/5764525.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420050500 +0200" stop="20230420051000 +0200" channel="KabelEins.de">
+<title lang="fr">Kabel Eins Late News</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/8/7/5392786.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420051000 +0200" stop="20230420055000 +0200" channel="KabelEins.de">
+<title lang="fr">Rosewood</title>
+<sub-title lang="fr">L'idole des Maures</sub-title>
+<desc lang="fr">Le corps d'un plongeur est découvert avec une pierre précieuse dans l'estomac. Chasseur de trésor, l'homme était à la recherche d'émeraudes disparues.</desc>
+<category lang="fr">Série dramatique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/4/5876470.jpg" />
+<episode-num system="xmltv_ns">1.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420055000 +0200" stop="20230420063500 +0200" channel="KabelEins.de">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Les naufragés</sub-title>
+<desc lang="fr">L'avion de l'équipe, à destination de Tahiti, est contraint à un atterrissage d'urgence. Tout le monde est indemne, sauf Scotty, le pilote.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/9/5757954.jpg" />
+<episode-num system="xmltv_ns">2.23.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420063500 +0200" stop="20230420072500 +0200" channel="KabelEins.de">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Les naufragés</sub-title>
+<desc lang="fr">Trois semaines après le crash de l'avion, l'équipe doit trouver un moyen urgent de quitter l'île. Mais les avis divergent concernant les solutions.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/9/5757954.jpg" />
+<episode-num system="xmltv_ns">2.24.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420072500 +0200" stop="20230420082000 +0200" channel="KabelEins.de">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">L'union fait la force</sub-title>
+<desc lang="fr">La nouvelle mission de Scorpion, sur un site militaire, risque de tourner au drame lorsque la chute d'un outil endommage un missile nucléaire.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/3/5785307.jpg" />
+<episode-num system="xmltv_ns">3.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420082000 +0200" stop="20230420091500 +0200" channel="KabelEins.de">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Otages</sub-title>
+<desc lang="fr">Quatre individus prennent en otages les participants de la Tech-Splosion, une grand-messe où se pressent les acteurs des nouvelles technologies.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/3/5785307.jpg" />
+<episode-num system="xmltv_ns">3.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420091500 +0200" stop="20230420101000 +0200" channel="KabelEins.de">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Le vaisseau fantôme</sub-title>
+<desc lang="fr">Pour aider un producteur d'émissions télévisées à prouver ou à réfuter l'existence des fantômes, les membres de Scorpion se rendent sur un paquebot.</desc>
+<category lang="fr">Série d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/0/3/5785307.jpg" />
+<episode-num system="xmltv_ns">3.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420101000 +0200" stop="20230420111000 +0200" channel="KabelEins.de">
+<title lang="fr">Elementary</title>
+<sub-title lang="fr">Le miroir de l'âme</sub-title>
+<desc lang="fr">Watson et Holmes enquêtent sur le meurtre d'un agent du FBI retraité. Cet assassinat pourrait être lié à la réapparition d'une jeune fille enlevée.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/4/5771481.jpg" />
+<episode-num system="xmltv_ns">3.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420111000 +0200" stop="20230420120500 +0200" channel="KabelEins.de">
+<title lang="fr">Elementary</title>
+<sub-title lang="fr">Copy Cat</sub-title>
+<desc lang="fr">Holmes et Watson enquêtent sur l'homicide d'une femme, assassinée selon le même opératoire que privilégiait son père, un tueur en série incarcéré.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/4/5771481.jpg" />
+<episode-num system="xmltv_ns">3.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420120500 +0200" stop="20230420130000 +0200" channel="KabelEins.de">
+<title lang="fr">Elementary</title>
+<sub-title lang="fr">Cocktail Zolotov</sub-title>
+<desc lang="fr">Holmes et Watson sont sur la piste d'un pirate informatique, soupçonné de trois meurtres, dont celui d'un millionnaire russe en visite à New York.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/4/5771481.jpg" />
+<episode-num system="xmltv_ns">3.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420130000 +0200" stop="20230420135500 +0200" channel="KabelEins.de">
+<title lang="fr">Elementary</title>
+<sub-title lang="fr">Une aiguille dans une botte de foin</sub-title>
+<desc lang="fr">La directrice d'un centre de réinsertion fait appel à Holmes et Watson pour étayer ses accusations contre une université privée après le meurtre d'un recruteur.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/4/5771481.jpg" />
+<episode-num system="xmltv_ns">3.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420135500 +0200" stop="20230420145500 +0200" channel="KabelEins.de">
+<title lang="fr">Elementary</title>
+<sub-title lang="fr">Bombe humaine</sub-title>
+<desc lang="fr">Sherlock enquête lorsqu'un cadavre piégé explose à la morgue. De son côté, Watson se méfie de Gina Cortes, venue lui demander de l'aide pour résoudre une affaire.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/4/5771481.jpg" />
+<episode-num system="xmltv_ns">3.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420145500 +0200" stop="20230420155000 +0200" channel="KabelEins.de">
+<title lang="fr">Castle</title>
+<sub-title lang="fr">Sport de rue</sub-title>
+<desc lang="fr">Castle et Beckett enquêtent sur la mort d'un as du skateboard. Les premiers indices les conduisent à se rendre au festival &quot;New York Street Sport&quot;.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/6/5824621.jpg" />
+<episode-num system="xmltv_ns">5.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420155000 +0200" stop="20230420160000 +0200" channel="KabelEins.de">
+<title lang="fr">News</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/4/9/6679941.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420160000 +0200" stop="20230420165500 +0200" channel="KabelEins.de">
+<title lang="fr">Castle</title>
+<sub-title lang="fr">Veritas</sub-title>
+<desc lang="fr">Beckett se lance à la poursuite d'un homme qu'elle pense être impliqué dans la mort de sa mère. La situation se complique lorsque l'individu est retrouvé mort.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/6/5824621.jpg" />
+<episode-num system="xmltv_ns">5.21.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420165500 +0200" stop="20230420175500 +0200" channel="KabelEins.de">
+<title lang="fr">Abenteuer Leben täglich</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de l'art de vivre</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/6/5800654.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420175500 +0200" stop="20230420185500 +0200" channel="KabelEins.de">
+<title lang="fr">Mein Lokal, Dein Lokal - Der Profi kommt</title>
+<sub-title lang="fr">&quot;NEUE FÄRBEREI&quot;, Hagen</sub-title>
+<desc lang="fr">Heute geht es zu Gastgeber Stephan. Ganz nach dem Motto &quot;Futtern wie bei Muttern&quot; erwartet die Mitstreiter laut Stephan ein Konzept, das so noch nicht in der Region vertreten ist. Ob er damit bei den Kollegen punkten kann?</desc>
+<category lang="fr">Documentaire</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/6/2/7146267.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420185500 +0200" stop="20230420201500 +0200" channel="KabelEins.de">
+<title lang="fr">Achtung Kontrolle! Wir kümmern uns drum</title>
+<sub-title lang="fr">Schatzsuche im Messihaus - Entrümpler Kaiserslautern</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/6/8/5800862.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420201500 +0200" stop="20230420222000 +0200" channel="KabelEins.de">
+<title lang="fr">Achtung Abzocke - Betrügern auf der Spur</title>
+<sub-title lang="fr">Betrügern auf der Spur</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/2/6637237.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420222000 +0200" stop="20230420232000 +0200" channel="KabelEins.de">
+<title lang="fr">K1 Magazin</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de l'art de vivre</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/8/4/6526487.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230420232000 +0200" stop="20230421012500 +0200" channel="KabelEins.de">
+<title lang="fr">Deutschlands größte Geheimnisse</title>
+<desc lang="fr">In dieser Sendung werden folgende Geheimnisse gelüftet: Eine italienische Spezialität stammt nicht aus dem Repertoire der italienischen Küche, sondern wurde in Deutschland erfunden. Die Weltbevölkerung umfasst derzeit fast acht Milliarden Menschen. Ein Berliner hat es geschafft, dass ihn unglaubliche zwei Milliarden Menschen kennen. Ein Filmteam lüftet diese und andere Geheimnisse.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/7/6615712.jpg" />
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230421012500 +0200" stop="20230421013000 +0200" channel="KabelEins.de">
+<title lang="fr">Kabel Eins Late News</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/8/7/5392786.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230421013000 +0200" stop="20230421031000 +0200" channel="KabelEins.de">
+<title lang="fr">Achtung Abzocke - Betrügern auf der Spur</title>
+<sub-title lang="fr">Betrügern auf der Spur</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/2/6637237.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
