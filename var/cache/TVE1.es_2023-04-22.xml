@@ -1,0 +1,29 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230422060000 +0200" stop="20230422105000 +0200" channel="TVE1.es">
+<title lang="fr">Noticias 24H</title>
+<desc lang="fr">Información continua 24 horas los 365 días del año. Este informativo ofrece una mirada detallada a las noticias que marcan cada jornada, desde los puntos donde se generan y con sus imágenes, voces y sonidos en directo.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/25/0c459f74725aec44f42a9162c398181a061b1155.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230422233000 +0200" stop="20230423010000 +0200" channel="TVE1.es">
+<title lang="fr">Film non communiqué</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/02a28e0e3d00c2f697c3c4c964f633e3c9fdb4e3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423010000 +0200" stop="20230423022000 +0200" channel="TVE1.es">
+<title lang="fr">Film non communiqué</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/02a28e0e3d00c2f697c3c4c964f633e3c9fdb4e3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423022000 +0200" stop="20230423040500 +0200" channel="TVE1.es">
+<title lang="fr">Film non communiqué</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/02a28e0e3d00c2f697c3c4c964f633e3c9fdb4e3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

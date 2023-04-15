@@ -1,0 +1,189 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230422060000 +0200" stop="20230422103500 +0200" channel="RTSUn.ch">
+<title lang="fr">RTS Kids</title>
+<desc lang="fr">Le magazine jeunesse de la RTS qui propose les plus récentes, amusantes et intéressantes séries d'animation. Un vrai bonheur et une source d'étonnement pour les plus jeunes à ne pas manquer!</desc>
+<category lang="fr">Magazine jeunesse</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/16/bf9f66cf32481d490a7bb136d111078a57b84fd4.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230422103500 +0200" stop="20230422104500 +0200" channel="RTSUn.ch">
+<title lang="fr">Quel temps fait-il ?</title>
+<desc lang="fr">Magazine d'info sur le temps qu'il fait en Suisse et sur les différents titres de l'actualité.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/09/e49e11f3192af06f586585d9558bd3de541e4318.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230422104500 +0200" stop="20230422114500 +0200" channel="RTSUn.ch">
+<title lang="fr">Amanda Lear : &quot;Appelez-moi mademoiselle&quot;</title>
+<desc lang="fr">Troubler pour séduire, séduire pour dissimuler : Amanda Lear cultive brillamment son mystère depuis plus d'un demi-siècle. Au gré du temps et des interviews, la blonde créature a multiplié les versions de sa propre histoire, changeant notamment de date et de lieu de naissance (entre 1939 et 1950, Hongkong ou Saigon). Voix rauque et jambes interminables, elle a surtout entretenu l'ambiguïté sur son identité sexuelle, encouragée par celui dont elle a été la muse : le peintre Salvador Dalí, adepte des coups d'éclat médiatiques, avec lequel elle noue dans les années 1960 une relation à l'aura légendaire.</desc>
+<category lang="fr">Documentaire culture</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/04/08/5e49d12617b3c25273a5e75921923f057004b16a_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230422114500 +0200" stop="20230422124500 +0200" channel="RTSUn.ch">
+<title lang="fr">Des trains pas comme les autres</title>
+<sub-title lang="fr">Norvège du Nord</sub-title>
+<desc lang="fr">Saison 3 Episode 7
+Philippe Gougler parcourt la Norvège du Nord au mois de juin, lorsque le soleil ne se couche jamais. Ce voyage étonnant le mène sur l'île du Spitzberg où l'histoire ferroviaire est principalement liée à l'exploitation du charbon. Sur cette île située à 1200 kilomètres du pôle Nord, il découvre le train le plus septentrional au monde, rencontre le seul habitant d'une ville fantôme et accompagne une pasteure, armée d'un fusil de chasse pour se protéger des ours, à une messe en plein air. Puis, Philippe rejoint en train les paysages grandioses des îles Lofoten avant de retrouver le propriétaire d'un train pas comme les autres, perché sur un pont, qui accueille des pêcheurs de tout le pays.
+Année de réalisation : 2022</desc>
+<category lang="fr">Documentaire voyage</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/17/c78e5023ed7bfd498ba56e3a472ded4a0b219136.jpg" />
+<episode-num system="xmltv_ns">2.6.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230422124500 +0200" stop="20230422131000 +0200" channel="RTSUn.ch">
+<title lang="fr">Le 12h45</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/93589f17a784983b611d8b69a8a55ef013059f7f.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230422131000 +0200" stop="20230422131500 +0200" channel="RTSUn.ch">
+<title lang="fr">Météo</title>
+<desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230422131500 +0200" stop="20230422134000 +0200" channel="RTSUn.ch">
+<title lang="fr">#Helvetica</title>
+<desc lang="fr">Quelles sont les personnalités qui comptent le plus en Suisse ? Quelle est leur vision du pays ? La RTS propose un nouveau rendez-vous d'information pour faire connaissance avec celles et ceux qui font la Suisse, en priorité sur le plan économique mais aussi politique. Invité.es sur le plateau de la RTS, les leaders de notre pays prennent le temps de partager leur expérience.</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/13/d8e7d77d421859e1fbbcb513afd59a888c80640b.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230422134000 +0200" stop="20230422151500 +0200" channel="RTSUn.ch">
+<title lang="fr">Le message des papillons</title>
+<desc lang="fr">Nés au temps des dinosaures, les papillons ont inventé une multitude de stratégies d'adaptation. Des scientifiques tentent de percer les secrets de ces insectes aux couleurs et motifs raffinés. </desc>
+<category lang="fr">Documentaire animalier</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/13/5b93e91b4602a531c7a6f649ff6d9c7078030c91.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230422151500 +0200" stop="20230422165000 +0200" channel="RTSUn.ch">
+<title lang="fr">Columbo</title>
+<sub-title lang="fr">Un seul suffira</sub-title>
+<desc lang="fr">Saison 11 Episode 3
+A Beverly Hills, Harold McCain, un joueur invétéré, neveu d'un richissime propriétaire, Big Fred McCain, traverse une très mauvaise passe. Le bookmaker à qui il doit une forte somme d'argent l'a menacé de mort s'il n'honorait pas ses dettes dans les prochains jours. McCain n'a plus qu'une issue, hâter la disparition de son oncle. Il piège donc sa voiture. Mais le hasard est facétieux. Big Fred se fait renverser par un chauffard en faisant son jogging et c'est le jardinier qui trouve la mort dans l'explosion de la voiture infernale. Impavide, McCain se retourne contre Dolores, l'épouse de Big Fred, qui est aussi sa maîtresse, et entreprend de la faire chanter. Dolores a d'autres projets et décide de se débarrasser de son amant encombrant. Il est grand temps que le lieutenant Columbo intervienne...
+Année de réalisation : 1991</desc>
+<category lang="fr">Série policière</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/03/29/911dc10a-6dcc-4190-b51c-cee40a6e2c89.jpg" />
+<episode-num system="xmltv_ns">10.2.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230422165000 +0200" stop="20230422174000 +0200" channel="RTSUn.ch">
+<title lang="fr">Alerte Cobra</title>
+<sub-title lang="fr">L'équipe</sub-title>
+<desc lang="fr">Saison 26 Episode 13
+Ben et Sami tentent de trouver une solution pour anéantir le virus mortel qui les a contaminés. Pour les besoins de leur enquête sur le meurtre d'un homme, les deux policiers s'intéressent à la vie nocturne à Cologne. Ils volent ensuite au secours d'une jeune fille dont la vie est en danger et se lancent à la poursuite d'un cambrioleur, qui s'avère être le père de Kim Krüger. L'équipe de la brigade autoroutière accueille une nouvelle collègue, la fille d'un vieil ami de Henri. Une troisième saison pour le duo de policiers interprété par Erdogan Atalay et Tom Beck.
+Année de réalisation : 2020</desc>
+<category lang="fr">Série policière</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/06/17/81721f537f401c74d959c8dd6a2e4be8311e88e5.jpg" />
+<episode-num system="xmltv_ns">25.12.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230422174000 +0200" stop="20230422184500 +0200" channel="RTSUn.ch">
+<title lang="fr">Meurtres au paradis</title>
+<sub-title lang="fr">La lettre anonyme</sub-title>
+<desc lang="fr">Saison 12 Episode 7
+Neville est en garde à vue, soupçonné d'avoir tué le professeur David Cartwright, un éminent criminologue. L'inspectrice Karen Flitcroft de la police londonienne est dépêchée sur place pour mener les investigations. Elle est rapidement persuadée de l'implication de Neville. L'équipe du policier, elle, est convaincue de son innocence et est déterminée à la prouver. Le commandant Selwyn Patterson veut découvrir l'identité du véritable tueur. Il comprend que l'auteur de l'intrusion dans la maison de Neville est Justin West. Il découvre également qu'Andrew Buckley essaye d'échapper à l'enquête du DPS en se cachant à Sainte-Marie...
+Année de réalisation : 2023</desc>
+<category lang="fr">Série de suspense</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/13/f5fd91321b08378e2cc91bc6222cd5595b02a925.jpg" />
+<episode-num system="xmltv_ns">11.6.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230422184500 +0200" stop="20230422191500 +0200" channel="RTSUn.ch">
+<title lang="fr">Les saisons de pique-assiette</title>
+<sub-title lang="fr">Passatelli aux blettes, sauce feta</sub-title>
+<desc lang="fr">Pour la troisième année consécutive, Annick Jeanmairet sillonne la Suisse romande à la recherche de produits et producteurs innovants, soucieux de la préservation de l'environnement, amoureux du bon goût et adeptes du circuit court. Cette semaine : Passatelli aux blettes, sauce feta. Avec Francesca Fucci, cheffe du Fiskebar à Genève.</desc>
+<category lang="fr">Magazine culinaire</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/4b8da47f55c62ffc8abfec38ba7c8acb069a14b5_686DE6EC621D14698FFA3C07C2D8E209.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230422191500 +0200" stop="20230422192000 +0200" channel="RTSUn.ch">
+<title lang="fr">Météo</title>
+<desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230422192000 +0200" stop="20230422193000 +0200" channel="RTSUn.ch">
+<title lang="fr">Swiss Loto</title>
+<desc lang="fr">C'est le tirage très attendu du Swiss Lotto. Vérifiez en direct si vous avez la combinaison heureuse...</desc>
+<category lang="fr">Loterie</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/c2c3a0e502eb2aef151f7ea96640687d2c34b95e.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230422193000 +0200" stop="20230422200500 +0200" channel="RTSUn.ch">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/18/59dda809b02648f35eb849940def237ccff6b555_0B6E8CAADCD72313852141747079476B.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230422200500 +0200" stop="20230422201000 +0200" channel="RTSUn.ch">
+<title lang="fr">Météo</title>
+<desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230422201000 +0200" stop="20230422210000 +0200" channel="RTSUn.ch">
+<title lang="fr">52 minutes</title>
+<desc lang="fr">Vincent Kucholl et Vincent Veillon sont de retour avec 52 minutes ! Invités : Alizé Oswald et Xavier Michel du groupe Aliose. Les parodies vont bon train !</desc>
+<category lang="fr">Divertissement-humour</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/23/d8cbe6c2d0340b26438d9474ee3f4b2be5810a68.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230422210000 +0200" stop="20230422223000 +0200" channel="RTSUn.ch">
+<title lang="fr">Momo</title>
+<desc lang="fr">Un soir, monsieur et madame Prioux tombent nez à nez sur un intrus dans leur maison. C'est un homme étrange qui se prénomme Patrick et qui les appelle papa et maman. Or, les Prioux n'ont jamais eu d'enfants. Madame Prioux se prend immédiatement d'affection pour le jeune homme à qui elle prête la luxueuse voiture de son mari. Ulcéré, ce dernier part porter plainte. Madame Prioux est persuadée que son mari lui a caché la vérité : il avait une maîtresse et Patrick est le fruit de cette liaison. André, qui nie cette filiation, veut en avoir le coeur net en retrouvant cette femme. Il veut savoir si Patrick est un manipulateur, tandis que son épouse reporte sur cet hurluberlu tout l'amour maternel qu'elle n'a jamais pu donner...
+Année de réalisation : 2017</desc>
+<category lang="fr">Comédie</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/16/7_795074.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230422223000 +0200" stop="20230423002000 +0200" channel="RTSUn.ch">
+<title lang="fr">Gentlemen cambrioleurs</title>
+<desc lang="fr">Brian Reader, un cambrioleur de haut vol âgé de 77 ans, perd sa femme adorée et se retrouve désemparé dans une maison vide. Basil, un expert en ordinateurs et alarmes, le contacte pour lui proposer un coup : dévaliser les coffres du Hatton Garden Safe Deposit. Brian réunit une équipe constituée de membres de son âge : Terry Perkins, John Kenny Collins, Danny Jones et Carl Wood. Il s'agit de percer un trou dans un mur en béton de la chambre forte. Une opération qui prend plus d'une journée. C'est un succès et la bande repart avec le butin. Mais tout dérape à cause d'inévitables trahisons. De son côté, la police mène l'enquête à partir des vidéos de surveillance...
+Année de réalisation : 2018</desc>
+<category lang="fr">Film de suspense</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/16/7_885889.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230423002000 +0200" stop="20230423022000 +0200" channel="RTSUn.ch">
+<title lang="fr">The Operative</title>
+<desc lang="fr">À la fin des années 2000, alors que la crise du nucléaire entre l'Iran et l'Occident est à son apogée, Rachel Currin, agente du Mossad surdouée et actrice principale d'une conspiration internationale, disparaît dans d'étranges circonstances. Cependant, un matin, Thomas, cadre du Mossad et référent de la mission de Rachel, reçoit un message codé de la disparue. La crainte que la jeune femme ne soit passée à l'ennemi gagne alors l'organisation israélienne qui confie à Thomas la mission de la retrouver au plus vite et de la ramener dans son giron, sous peine de devoir l'exécuter…
+Année de réalisation : 2019</desc>
+<category lang="fr">Film d'espionnage</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/03/28/056aaef2-eda3-437c-802b-1cf2a32276f7.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230423022000 +0200" stop="20230423022100 +0200" channel="RTSUn.ch">
+<title lang="fr">Météo</title>
+<desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230423022100 +0200" stop="20230423025000 +0200" channel="RTSUn.ch">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/18/59dda809b02648f35eb849940def237ccff6b555_0B6E8CAADCD72313852141747079476B.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230423025000 +0200" stop="20230423050000 +0200" channel="RTSUn.ch">
+<title lang="fr">Sport dernière</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Multisports</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/95b8817884ce52055fe2fcaf21eb2fb115be2d34.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230423050000 +0200" stop="20230423060000 +0200" channel="RTSUn.ch">
+<title lang="fr">La Suisse vue du ciel</title>
+<desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+<category lang="fr">Documentaire découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/09/12/8038cc7ce2c9f2781747a838ae4374ae6437c19a.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>

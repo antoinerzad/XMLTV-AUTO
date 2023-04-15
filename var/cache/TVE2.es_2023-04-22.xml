@@ -1,0 +1,29 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230422060000 +0200" stop="20230422073000 +0200" channel="TVE2.es">
+<title lang="fr">Inglés en TVE</title>
+<desc lang="fr">Richard Vaughan da clases de 26 minutos de inglés siguiendo el manual del estudiante creado en Vaughan Systems.</desc>
+<category lang="fr">Magazine éducatif</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/3dbd0a54c73cc21f0627b3c5c5d931cef3f4e361.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230422073000 +0200" stop="20230422080000 +0200" channel="TVE2.es">
+<title lang="fr">UNED</title>
+<desc lang="fr">Programa educativo vinculado a los cursos de la Universidad Nacional de Educación a Distancia. Ofrece la información sobre los contenidos de las asignaturas que integran las distintas carreras y del curso de acceso a la universidad para mayores de 25 años.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/4b7388a8eb3536bc76fdcf10f0ea255c71c12492_94E9E4F0391A96D38A1660CBF4DBB195.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230422080000 +0200" stop="20230422093000 +0200" channel="TVE2.es">
+<title lang="fr">Los conciertos de La 2</title>
+<desc lang="fr">Conciertos sinfónicos, recitales, galas líricas, música coral y de cámara. Simplemente, siéntense y disfruten de la mejor música clásica desde donde quieran. Los Conciertos de La 2 acercan más de 110 horas al año de conciertos con una nueva cita cada sábado y domingo.</desc>
+<category lang="fr">Variétés</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/28/f39b81cfade1c053c8bf49023f4f83aa82679832.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230422093000 +0200" stop="20230422102000 +0200" channel="TVE2.es">
+<title lang="fr">Agrosfera</title>
+<desc lang="fr">Con vocación de servicio público y participación ciudadana, Agrosfera quiere llevar la actualidad del campo y el mar a agricultores, ganaderos, pescadores y habitantes del medio rural.</desc>
+<category lang="fr">Magazine de l'économie</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/4fde0c101c61e7f83130406906b4e312e6e64de0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

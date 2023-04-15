@@ -1,0 +1,11 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230422055800 +0200" stop="20230422060500 +0200" channel="BabyTV.fr">
+<title lang="fr">Sort du lit petit endormi</title>
+<sub-title lang="fr">Le réveil du château</sub-title>
+<desc lang="fr">Se réveiller tous les jours au château n'est pas facile, mais nos deux héros réussissent à surmonter les obstacles et à préparer le royaume à temps pour le nouveau jour.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8C7482E8092593556641C592E4B5827D.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
