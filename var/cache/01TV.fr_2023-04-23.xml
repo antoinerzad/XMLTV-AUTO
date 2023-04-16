@@ -1,0 +1,150 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230423000000 +0200" stop="20230423070000 +0200" channel="01TV.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Programme indéterminé.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10572422.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423070000 +0200" stop="20230423080000 +0200" channel="01TV.fr">
+<title lang="fr">Ultra Haute Emission</title>
+<desc lang="fr">L'Ultra Haute Emission, c'est le meilleur des contenus (Netflix, Apple TV+, Prime Vidéo...) avec le meilleur des technos.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_20563002.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423080000 +0200" stop="20230423083000 +0200" channel="01TV.fr">
+<title lang="fr">Objectif 2050</title>
+<desc lang="fr">Magazine du multimédia.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_8038723.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423083000 +0200" stop="20230423090000 +0200" channel="01TV.fr">
+<title lang="fr">Tech RH</title>
+<desc lang="fr">La gestion des ressources humaines est changée par le développement des nouvelles technologies. Tech RH essaie de nous présenter les vertus de ces nouveaux outils pour améliorer les performances et optimiser le bien-être.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_28295460.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423090000 +0200" stop="20230423093000 +0200" channel="01TV.fr">
+<title lang="fr">Métadonnées</title>
+<desc lang="fr">Magazine scientifique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_36675425.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423093000 +0200" stop="20230423103000 +0200" channel="01TV.fr">
+<title lang="fr">Tech&amp;Co (Best of)</title>
+<desc lang="fr">Magazine scientifique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23384519.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423103000 +0200" stop="20230423110000 +0200" channel="01TV.fr">
+<title lang="fr">En route pour demain</title>
+<desc lang="fr">Un magazine qui tient au courant sa public avec les innovations.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_28295494.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423110000 +0200" stop="20230423120000 +0200" channel="01TV.fr">
+<title lang="fr">De Quoi J'me Mail</title>
+<desc lang="fr">Dans De Quoi J'me Mail tous les vendredis dès 19h30, François Sorel et le club de la presse IT décryptent les enjeux des actus fortes de la semaine. Retrouvez aussi chaque semaine les trouvailles de Victor Jachimovicz et Pascal Petitpas.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23754078.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423120000 +0200" stop="20230423123000 +0200" channel="01TV.fr">
+<title lang="fr">Culture geek</title>
+<desc lang="fr">Divertissement.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_18603453.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423123000 +0200" stop="20230423130000 +0200" channel="01TV.fr">
+<title lang="fr">Tech&amp;débat TIKTOK</title>
+<desc lang="fr">Magazine du multimédia.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_17602994.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423130000 +0200" stop="20230423150000 +0200" channel="01TV.fr">
+<title lang="fr">Tech&amp;Co Business</title>
+<desc lang="fr">Magazine de l'économie.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Economie</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11343620.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423150000 +0200" stop="20230423160000 +0200" channel="01TV.fr">
+<title lang="fr">Tech Hebdo</title>
+<desc lang="fr">Magazine scientifique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_6633366.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423160000 +0200" stop="20230423163000 +0200" channel="01TV.fr">
+<title lang="fr">Village Startup</title>
+<desc lang="fr">Magazine de société.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_7750373.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423163000 +0200" stop="20230423170000 +0200" channel="01TV.fr">
+<title lang="fr">En route pour demain</title>
+<desc lang="fr">Un magazine qui tient au courant sa public avec les innovations.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_28295494.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423170000 +0200" stop="20230423180000 +0200" channel="01TV.fr">
+<title lang="fr">Tech&amp;Co (Best of)</title>
+<desc lang="fr">Magazine scientifique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23384519.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423180000 +0200" stop="20230423190000 +0200" channel="01TV.fr">
+<title lang="fr">Ultra Haute Emission</title>
+<desc lang="fr">Premiers résultats pour Disney+ et Netflix. Le Pass Warner débarque sur Prime Video. La force des marques programmes. Le top 5 des séries par SensCritique. Réel Média, un nouveau média 100% digital tourné vers l'écologie et l'innovation. La crème des séries à Séries Mania 2023. La série Monk va...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_20563002.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423190000 +0200" stop="20230423210000 +0200" channel="01TV.fr">
+<title lang="fr">Tech&amp;Co Business</title>
+<desc lang="fr">Magazine de l'économie.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Economie</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11343620.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423210000 +0200" stop="20230423230000 +0200" channel="01TV.fr">
+<title lang="fr">Multijoueur</title>
+<desc lang="fr">Magazine d'information.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11691312.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423230000 +0200" stop="20230424030000 +0200" channel="01TV.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Programme indéterminé.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10572422.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

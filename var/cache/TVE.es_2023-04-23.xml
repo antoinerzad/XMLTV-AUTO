@@ -1,0 +1,214 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230423060000 +0200" stop="20230423070000 +0200" channel="TVE.es">
+<title lang="fr">Noticias 24H</title>
+<desc lang="fr">Información continua 24 horas, nacional e internacional, 365 días al año.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/25/0c459f74725aec44f42a9162c398181a061b1155.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423070000 +0200" stop="20230423071500 +0200" channel="TVE.es">
+<title lang="fr">Medina en TVE</title>
+<desc lang="fr">Program de religión y cultura islámica.</desc>
+<category lang="fr">Magazine religieux</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/dc06a93bb078ed83381940369540d932a7091f7a.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423071500 +0200" stop="20230423073000 +0200" channel="TVE.es">
+<title lang="fr">Buenas noticias TV</title>
+<desc lang="fr">Programa de información sobre la fe evangélica, una alternativa cristiana perseguida en España.</desc>
+<category lang="fr">Magazine religieux</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/87e8137945a3baecd5592ff85ffc225192274aca.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423073000 +0200" stop="20230423074500 +0200" channel="TVE.es">
+<title lang="fr">Shalom</title>
+<desc lang="fr">Programa de cultura y religión hebrea.</desc>
+<category lang="fr">Magazine éducatif</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/4bd831c52254f52c81181def1689ecdf60123221.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423074500 +0200" stop="20230423081000 +0200" channel="TVE.es">
+<title lang="fr">Últimas preguntas</title>
+<desc lang="fr">Programa de culto católico.</desc>
+<category lang="fr">Magazine religieux</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/26/2e1a9444ac3b12e278e998280bff3723c53906df_CF52A378D3D37BC41A546212F9652E42.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423081000 +0200" stop="20230423081500 +0200" channel="TVE.es">
+<title lang="fr">Testimonio</title>
+<desc lang="fr">Testimonio de fe católica.</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/26/157947e73cb2648265a61f064509bbe8ceeb52cc_9FC83A94B112EE62FA07FDEDCE7CF1ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423081500 +0200" stop="20230423084500 +0200" channel="TVE.es">
+<title lang="fr">Pueblo de Dios</title>
+<desc lang="fr">Documentales y reportajes sobre la vocación misionera de la Iglesia.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/1b9e3862ed2d30eef5580c6b9ccabdb6885cb365.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423084500 +0200" stop="20230423094000 +0200" channel="TVE.es">
+<title lang="fr">Bloque infantil</title>
+<sub-title lang="fr">Mironins</sub-title>
+<desc lang="fr">Incluye: - MIRONINS - MYA GO - MOMONSTERS PARA TODOS LOS PUBLICOS.</desc>
+<category lang="fr">Emission jeunesse</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/4bf6b514a6bec23b669d29583bba0713f582decc.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423094000 +0200" stop="20230423101000 +0200" channel="TVE.es">
+<title lang="fr">Zoom tendencias</title>
+<desc lang="fr">ZOOM TENDENCIAS viaja cada semana por diferentes rincones de España, mostrándonos innovadoras propuestas gastronómicas y hoteleras. Descubriendo las últimas tendencias en bienestar y ocio; y recorriendo nuestro rico patrimonio histórico, cultural y artístico.</desc>
+<category lang="fr">Magazine de l'art de vivre</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/26/d285c82b9e3907bf81598cdfe94997d050c112c4_62C0A9F5D63A7D7DD281F89FCE310351.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423101000 +0200" stop="20230423104000 +0200" channel="TVE.es">
+<title lang="fr">El escarabajo verde</title>
+<sub-title lang="fr">Perros de caza</sub-title>
+<desc lang="fr">Programa divulgativo sobre Ecología y Medio Ambiente, el objetivo del mismo es abogar por el desarrollo sostenible.</desc>
+<category lang="fr">Magazine de la nature</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/26/228e6563a83d2ee21a39fdb11815775544dc6e9d_2776D9A7003B9393565F75A26036476A.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423104000 +0200" stop="20230423111000 +0200" channel="TVE.es">
+<title lang="fr">Arqueomanía</title>
+<sub-title lang="fr">El robo de Aratis</sub-title>
+<desc lang="fr">En este capítulo contamos como fue descubierto y recuperado un expolio arqueológico: el de los cascos de Aratis.</desc>
+<category lang="fr">Documentaire histoire</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/0734f6f8aa21472de46487f9b613bf19f5903775.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423111000 +0200" stop="20230423114000 +0200" channel="TVE.es">
+<title lang="fr">Un país para leerlo</title>
+<sub-title lang="fr">Ciudad Real</sub-title>
+<desc lang="fr">Programa literario semanal donde se informa de novedades editoriales viajando a una ciudad diferente de España.</desc>
+<category lang="fr">Magazine littéraire</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/08/d810a226972a874e45baab712e64e34dfa11f99e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423114000 +0200" stop="20230423123500 +0200" channel="TVE.es">
+<title lang="fr">Saber vivir</title>
+<desc lang="fr">Programa divulgativo en el que se abordan hábitos saludables para prevenir enfermedades y tener una vida saludable.</desc>
+<category lang="fr">Magazine médical</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/90ea805c432db3a8e0a9701a3a995b13adcc3fbe_B5F8EAF2038A2C6594F4901712176510.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423123500 +0200" stop="20230423130500 +0200" channel="TVE.es">
+<title lang="fr">El señor de los bosques</title>
+<sub-title lang="fr">Senda del hornillo</sub-title>
+<desc lang="fr">En la provincia de Madrid, si nos adentramos en la vertiente noroeste de la Sierra de Guadarrama, llegamos a la senda del Hornillo. Un lugar cuyo patrimonio ecológico lo atesoran varias especies de pinos. El naturalista César Palacios ha invitado a este bosque a Inés La Maga.</desc>
+<category lang="fr">Documentaire nature</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/4b0f8262ca8071869c785242fca8f74b5a754989.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423130500 +0200" stop="20230423140000 +0200" channel="TVE.es">
+<title lang="fr">Las rutas de Ambrosio</title>
+<sub-title lang="fr">Canarias volcánica y tropical</sub-title>
+<desc lang="fr">El chef Gonzalo Dand#39;Ambrosio llega al archipiélago canario para conocer la relación entre la gastronomía y el ecosistema canario, en el que destaca su tierra de origen volcánico y su clima subtropical. Plátanos, mangos y café serán algunos de los protagonistas de esta ruta.</desc>
+<category lang="fr">Magazine culinaire</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/14e44775c1cf462edba2143674e7119875aeb58c_A287116722D7EAA0BB3DB201D80839C7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423140000 +0200" stop="20230423143000 +0200" channel="TVE.es">
+<title lang="fr">Flash Moda</title>
+<desc lang="fr">Programa divulgativo sobre el mundo de la moda.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/62d3b9129260ba1209f60ec8545a57394ebcb32c.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423143000 +0200" stop="20230423150000 +0200" channel="TVE.es">
+<title lang="fr">Corazón</title>
+<desc lang="fr">Magazine en directo, en donde en 30 minutos hacemos un repaso a toda la actualidad social de nuestro país.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/92286da836dc762e75b142b1cc2bc53fda342052.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423150000 +0200" stop="20230423160000 +0200" channel="TVE.es">
+<title lang="fr">Telediario 1</title>
+<desc lang="fr">Espacio diario de información nacional e internacional en directo.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/25/0c459f74725aec44f42a9162c398181a061b1155.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423160000 +0200" stop="20230423164500 +0200" channel="TVE.es">
+<title lang="fr">Saber y ganar</title>
+<desc lang="fr">Programa concurso.</desc>
+<category lang="fr">Jeu</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/7b6bdbab2e9ac33cf57c645949bc0bff5122f12e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423164500 +0200" stop="20230423191500 +0200" channel="TVE.es">
+<title lang="fr">Cover Night</title>
+<desc lang="fr">Los cantantes interpretarán, de uno en uno, una singular versión en otro estilo musical de un conocido éxito internacional delante de un exigente jurado compuesto por 3 famosos artistas. Cuando al menos 2 de ellos voten a favor del intérprete, éste pasará a ocupar una de las cabinas.</desc>
+<category lang="fr">Variétés</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/06/c65d756fff55e0d0b762892add9b12c13206ca07.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423191500 +0200" stop="20230423204500 +0200" channel="TVE.es">
+<title lang="fr">Plan de tarde</title>
+<desc lang="fr">Una ventana abierta a la actualidad los domingos por la tarde. Un programa en el que abordaremos la última hora de la crónica social.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/03/12/9185c9e3ea617ca48429a852b2abf8713965f944.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423204500 +0200" stop="20230423210000 +0200" channel="TVE.es">
+<title lang="fr">Zoom net</title>
+<desc lang="fr">Programa de actualidad dedicado a los video juegos y las novedades en tecnologia en general.</desc>
+<category lang="fr">Magazine du multimédia</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/c37c522dce34c2973bd6f14b70596d17db1864db.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423210000 +0200" stop="20230423220000 +0200" channel="TVE.es">
+<title lang="fr">Telediario 2</title>
+<desc lang="fr">Programa diario de noticias nacionales e internacionales en directo.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/22/2b122a0afbab8a3eeee891884fd377972c33a0aa.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423220000 +0200" stop="20230423230000 +0200" channel="TVE.es">
+<title lang="fr">Comando Actualidad</title>
+<sub-title lang="fr">Se alquila</sub-title>
+<desc lang="fr">Programa de reportajes de actualidad, donde se analizan los temas sociales desde miradas distintas.</desc>
+<category lang="fr">Documentaire société</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/283a8fbdc5bbe8cf068d97464055f8779b65a738.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423230000 +0200" stop="20230423235500 +0200" channel="TVE.es">
+<title lang="fr">Comando Actualidad</title>
+<sub-title lang="fr">Fiebre cosmética</sub-title>
+<desc lang="fr">Cuidamos la piel más que nunca. Se estima que cada día nos echamos en el cuerpo hasta 160 ingredientes. La fiebre por el cuidado personal llena nuestras estanterías de cosméticos.</desc>
+<category lang="fr">Documentaire société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/5de23b54-38e9-464b-b01c-9f5dc32fc960.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230423235500 +0200" stop="20230424010500 +0200" channel="TVE.es">
+<title lang="fr">Comando Actualidad</title>
+<sub-title lang="fr">La burbuja de la felicidad</sub-title>
+<desc lang="fr">Comando Actualidad analiza qué hay detrás de esa tendencia de venerar el bienestar constante y a la que se recurre para vender todo tipo de productos.</desc>
+<category lang="fr">Documentaire société</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/283a8fbdc5bbe8cf068d97464055f8779b65a738.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230424010500 +0200" stop="20230424013500 +0200" channel="TVE.es">
+<title lang="fr">Plano general</title>
+<desc lang="fr">Programa que ofrece una visión íntima y personal de un invitado que aporta su testimonio sobre temas de actualidad y semblanza vital.</desc>
+<category lang="fr">Interview</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/08/29/26fce68665611b9053a633fa2a4a52d9a6f859b3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230424013500 +0200" stop="20230424020500 +0200" channel="TVE.es">
+<title lang="fr">Metrópolis</title>
+<sub-title lang="fr">Bolit</sub-title>
+<desc lang="fr">Metrópolis trata todas las tendencias artísticas de vanguardia que se producen dentro y fuera del país.</desc>
+<category lang="fr">Magazine des beaux-arts</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/2680870b95dba94bd554a04196746e4a4434cc40.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230424020500 +0200" stop="20230424053000 +0200" channel="TVE.es">
+<title lang="fr">Noticias 24H</title>
+<desc lang="fr">Información continua 24 horas, nacional e internacional, 365 días al año.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/25/0c459f74725aec44f42a9162c398181a061b1155.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
