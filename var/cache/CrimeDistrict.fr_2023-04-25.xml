@@ -1,0 +1,11 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230425050000 +0200" stop="20230425061100 +0200" channel="CrimeDistrict.fr">
+<title lang="fr">Verdict</title>
+<sub-title lang="fr">L'affaire Seridi</sub-title>
+<desc lang="fr">La découverte, en avril 2007, du corps de Jennifer Charron dans un bois près de Royan mène à l'arrestation d'Abdelaziz Seridi, son ex-petit ami, et de José Mendes Abrantes.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Justice</category>
+<icon src="https://img.bouygtel.fr/CMS/images/19E943B0FD5F3EA9BBA23262E23130AC.jpg" />
+<episode-num system="xmltv_ns">6.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
