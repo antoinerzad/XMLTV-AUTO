@@ -1,0 +1,17 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230430220000 +0200" stop="20230501014600 +0200" channel="MTVHits.fr">
+<title lang="fr">Les 50 meilleurs clips</title>
+<desc lang="fr">Les 50 Meilleurs Clips c'est le classement des meilleurs clips d'un artiste ou d'un genre musical.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Musique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_8058901.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501014600 +0200" stop="20230501060100 +0200" channel="MTVHits.fr">
+<title lang="fr">MTV Insomnia</title>
+<desc lang="fr">La playlist pour accompagner les plus insomniaques d'entre nous</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_12670873.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

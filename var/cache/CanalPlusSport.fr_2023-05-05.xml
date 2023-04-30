@@ -1,0 +1,166 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230505034400 +0200" stop="20230505073100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FE94A7D93AAD8E38CC5F134073111ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505073100 +0200" stop="20230505082900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Late Sport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0B4F7F187CFD46997BDF4B425101E430.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505082900 +0200" stop="20230505090000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Grand Prix</title>
+<sub-title lang="fr">Grand Prix d'Azerbaïdjan</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B0819478A1EABE6E808E8CC969F34E44.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505090000 +0200" stop="20230505104100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 11e journée. Highlanders / Chiefs.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C2ABEC5E084A6260879A9F0A89C4901F.jpg" />
+<episode-num system="xmltv_ns">0.30.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505104100 +0200" stop="20230505104700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Zapsport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EF631D16B1E186486BA50A0587BE97E2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505104700 +0200" stop="20230505121900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Cesta Punta : Championnat de France</title>
+<desc lang="fr">Championnat de France 2023. Finale.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Cesta punta</category>
+<icon src="https://img.bouygtel.fr/CMS/images/92464FC5C83D482877DE6B742DE4E3E4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505121900 +0200" stop="20230505131300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Indycar : Grand Prix d'Alabama</title>
+<desc lang="fr">IndyCar Series 2023. Grand Prix d'Alabama.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Indycar</category>
+<icon src="https://img.bouygtel.fr/CMS/images/50E8D1A64AF63EA2A164108AFF47BFF2.jpg" />
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505131300 +0200" stop="20230505134500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Grand Prix</title>
+<sub-title lang="fr">Grand Prix d'Azerbaïdjan</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B0819478A1EABE6E808E8CC969F34E44.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505134500 +0200" stop="20230505162000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rallye : WRC, Rallye de Croatie</title>
+<desc lang="fr">Championnat du monde des rallyes 2023. Rallye de Croatie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rallye</category>
+<icon src="https://img.bouygtel.fr/CMS/images/97202C829055F9A657671B5BF189717B.jpg" />
+<episode-num system="xmltv_ns">0.86.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505162000 +0200" stop="20230505185600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/89DCD923BCC916E69B1A703550775DF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505185600 +0200" stop="20230505194500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 11e journée. Highlanders / Chiefs.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9F39AAE43AD4FB46B4F34848E7894C11.jpg" />
+<episode-num system="xmltv_ns">0.30.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505194500 +0200" stop="20230505201000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fractionné Rugby</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F08BD5BDF5E9FCCFAA39AB20ED12A14B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505201000 +0200" stop="20230505214000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix de Miami</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix de Miami.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B0819478A1EABE6E808E8CC969F34E44.jpg" />
+<episode-num system="xmltv_ns">0.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505214000 +0200" stop="20230505221000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Grand Prix</title>
+<sub-title lang="fr">Grand Prix d'Azerbaïdjan</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4E793771F377B0D3EAAC10E75CC2542B.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505221000 +0200" stop="20230505234000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Jackie Stewart : Histoire secrète d'un pilote de légende</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Automobilisme</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7EEF51A5FB851C2C98805C143B1F2A8E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505234000 +0200" stop="20230506011100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix de Miami</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix de Miami.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/17B218DC0888F4E98908075C92B0BEF5.jpg" />
+<episode-num system="xmltv_ns">0.21.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506011100 +0200" stop="20230506031200 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Open de Charlotte</title>
+<desc lang="fr">Circuit américain 2022/2023. Open de Charlotte.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/39C1411853D383D3950C751A846C7932.jpg" />
+<episode-num system="xmltv_ns">0.174.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506031200 +0200" stop="20230506044800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Les Tuche 4</title>
+<desc lang="fr">Lassé de sa vie à l'Elysée, Jeff revient à Bouzolles avec toute sa famille après avoir quitté ses fonctions présidentielles. Ravis de revenir dans leur village, ils attendent Noël avec impatience, et Cathy souhaite profiter de l'occasion pour inviter Maguy, sa soeur, et son mari Jean-Yves que Jeff ne peut pas voir en peinture après une brouille vieille de dix ans. Il accepte tout de même la requête de sa femme, mais dès l'arrivée de la belle-famille, un désaccord oppose à nouveau les deux hommes. Rapidement, Jeff prend la décision de racheter une entreprise de jouets convoitée par Jean-Yves, un financier sans scrupules à ses yeux...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6BBDE061D771CDA6FBC645815A5E4807.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506044800 +0200" stop="20230506073400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

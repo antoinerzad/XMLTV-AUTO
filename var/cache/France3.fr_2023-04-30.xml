@@ -1,0 +1,589 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230429224000 +0200" stop="20230430001500 +0200" channel="France3.fr">
+<title lang="fr">Meurtres à...</title>
+<sub-title lang="fr">Meurtres à Saint-Malo</sub-title>
+<desc lang="fr">Un cadavre est découvert sur la plage de Saint-Malo. La capitaine de la PJ de Rennes, chargée de l'enquête, flaire une histoire de piraterie.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12257770.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230430001500 +0200" stop="20230430002000 +0200" channel="France3.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique du service de presse de France 3-Météo France.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_10256508.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430002000 +0200" stop="20230430015500 +0200" channel="France3.fr">
+<title lang="fr">Islands</title>
+<desc lang="fr">Les jeunes danseurs du Cannes Jeune Ballet Rosella Hightower interprètent cinq oeuvres de la célèbre chorégraphe franco-américaine Carolyn Carlson.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Danse</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_37196053.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430015500 +0200" stop="20230430040900 +0200" channel="France3.fr">
+<title lang="fr">Le grand show de l'humour</title>
+<desc lang="fr">Jean-Luc Lemoine est au Dôme de Paris pour parcourir 50 ans de sketchs inoubliables sur scène et en images. A ses côtés, plusieurs générations de stars de l'humour jouent sur scène leurs meilleurs sketchs : notamment les Chevaliers du Fiel, Muriel Robin, Popeck, Elodie Poux, Philippe Chevallier,...</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_36312338.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430040900 +0200" stop="20230430041000 +0200" channel="France3.fr">
+<title lang="fr">La p'tite librairie</title>
+<desc lang="fr">François Busnel propose chaque jour de vous faire découvrir ou redécouvrir une ?uvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_12608951.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430041000 +0200" stop="20230430043500 +0200" channel="France3.fr">
+<title lang="fr">Outremer.gourmand</title>
+<desc lang="fr">Magazine culinaire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_35677732.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430043500 +0200" stop="20230430051000 +0200" channel="France3.fr">
+<title lang="fr">Les matinales</title>
+<desc lang="fr">Programme de musique classique pour se réveiller en douceur.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Musique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23705388.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430051000 +0200" stop="20230430060000 +0200" channel="France3.fr">
+<title lang="fr">Questions pour un super champion</title>
+<desc lang="fr">Jeu.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_30448454.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430060000 +0200" stop="20230430061000 +0200" channel="France3.fr">
+<title lang="fr">Mike, une vie de chien</title>
+<sub-title lang="fr">Tanière piégée</sub-title>
+<desc lang="fr">Dans la vie, Mike n'a qu'un seul souhait : profiter de l'absence de ses maîtres pour lire le journal dans son rocking chair, une tasse de thé à portée de patte. Une vie de chien, quoi? Mais apparemment, c'est impossible. Car, malheureusement pour lui, les autres animaux domestiques préfèrent...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_22283598.jpg" />
+<episode-num system="xmltv_ns">0.74.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430061000 +0200" stop="20230430061500 +0200" channel="France3.fr">
+<title lang="fr">Mike, une vie de chien</title>
+<sub-title lang="fr">Silence, on tourne !</sub-title>
+<desc lang="fr">Dans la vie, Mike n'a qu'un seul souhait : profiter de l'absence de ses maîtres pour lire le journal dans son rocking chair, une tasse de thé à portée de patte. Une vie de chien, quoi? Mais apparemment, c'est impossible. Car, malheureusement pour lui, les autres animaux domestiques préfèrent...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_22283434.jpg" />
+<episode-num system="xmltv_ns">0.70.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430061500 +0200" stop="20230430062500 +0200" channel="France3.fr">
+<title lang="fr">Mike, une vie de chien</title>
+<sub-title lang="fr">Mercury en solo</sub-title>
+<desc lang="fr">Dans la vie, Mike n'a qu'un seul souhait : profiter de l'absence de ses maîtres pour lire le journal dans son rocking chair, une tasse de thé à portée de patte. Une vie de chien, quoi? Mais apparemment, c'est impossible. Car, malheureusement pour lui, les autres animaux domestiques préfèrent...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_22282493.jpg" />
+<episode-num system="xmltv_ns">0.72.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430062500 +0200" stop="20230430063000 +0200" channel="France3.fr">
+<title lang="fr">Mike, une vie de chien</title>
+<sub-title lang="fr">Iris a disparu</sub-title>
+<desc lang="fr">Les ratons passent aux choses sérieuses et kidnappent Iris afin de faire diversion. Mercury est chargé de surveiller la chienne retenue dans la tanière pendant que Freddy dévalise la propriété des Mikkelsen. Mais Iris se révèle être une prisonnière peu coopérative...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_22281253.jpg" />
+<episode-num system="xmltv_ns">0.71.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430063000 +0200" stop="20230430064000 +0200" channel="France3.fr">
+<title lang="fr">Nawak</title>
+<sub-title lang="fr">La plume</sub-title>
+<desc lang="fr">Nawak adore sa plume. C'est la plus belle de toutes les plumes. Alors, quand un coup de vent l'arrache et l'emporte au loin, Nawak est prêt à retourner ciel et terre pour la retrouver...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_33596207.jpg" />
+<episode-num system="xmltv_ns">0.30.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430064000 +0200" stop="20230430064500 +0200" channel="France3.fr">
+<title lang="fr">Nawak</title>
+<sub-title lang="fr">Le hoquet</sub-title>
+<desc lang="fr">Rêveur, insouciant et surtout maladroit, Nawak est toujours partant pour résoudre, à sa façon bien particulière, les petits soucis de ses amis.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_33596207.jpg" />
+<episode-num system="xmltv_ns">0.31.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430064500 +0200" stop="20230430065000 +0200" channel="France3.fr">
+<title lang="fr">Nawak</title>
+<sub-title lang="fr">Les carottes</sub-title>
+<desc lang="fr">C'est l'automne et la tribu n'a plus grand-chose à se mettre sous la dent. Alors quand Nawak découvre une petite carotte sauvage, il est prêt à tout pour la sortir de terre. Mais la carotte résiste. Pas le choix, s'il veut manger, Nawak va devoir se muscler...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_33596207.jpg" />
+<episode-num system="xmltv_ns">0.32.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430065000 +0200" stop="20230430070000 +0200" channel="France3.fr">
+<title lang="fr">Nawak</title>
+<sub-title lang="fr">Le dino</sub-title>
+<desc lang="fr">Rêveur, insouciant et surtout maladroit, Nawak est toujours partant pour résoudre, à sa façon bien particulière, les petits soucis de ses amis.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_33596207.jpg" />
+<episode-num system="xmltv_ns">0.33.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430070000 +0200" stop="20230430070500 +0200" channel="France3.fr">
+<title lang="fr">Nawak</title>
+<sub-title lang="fr">L'amour vache</sub-title>
+<desc lang="fr">Quand Kawak rencontre une grosse vache impassible, c'est le coup de foudre. Mais le poney, amoureux transi, n'est pas franchement un grand séducteur. Charge à Nawak de l'aider pour tenter de faire chavirer le bovidé...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_33596207.jpg" />
+<episode-num system="xmltv_ns">0.34.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430070500 +0200" stop="20230430071500 +0200" channel="France3.fr">
+<title lang="fr">Les lapins crétins : invasion</title>
+<desc lang="fr">Après un long moment de vie souterraine, les Lapins crétins décident d'envahir la Terre et de la découvrir dans ses moindres recoins. Munis de leurs yeux globuleux qui parfois deviennent rouges, de leur célèbre cri &quot;Bwaaaaaah !&quot;, ils s'en vont à l'aventure. Dès lors, les catastrophes s'enchaînent...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14192270.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430071500 +0200" stop="20230430072000 +0200" channel="France3.fr">
+<title lang="fr">Les lapins crétins : invasion</title>
+<desc lang="fr">Après un long moment de vie souterraine, les Lapins crétins décident d'envahir la Terre et de la découvrir dans ses moindres recoins. Munis de leurs yeux globuleux qui parfois deviennent rouges, de leur célèbre cri &quot;Bwaaaaaah !&quot;, ils s'en vont à l'aventure. Dès lors, les catastrophes s'enchaînent...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14192017.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430072000 +0200" stop="20230430073000 +0200" channel="France3.fr">
+<title lang="fr">Les lapins crétins : invasion</title>
+<desc lang="fr">Après un long moment de vie souterraine, les Lapins crétins décident d'envahir la Terre et de la découvrir dans ses moindres recoins. Munis de leurs yeux globuleux qui parfois deviennent rouges, de leur célèbre cri &quot;Bwaaaaaah !&quot;, ils s'en vont à l'aventure. Dès lors, les catastrophes s'enchaînent...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14192203.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430073000 +0200" stop="20230430073500 +0200" channel="France3.fr">
+<title lang="fr">Les lapins crétins : invasion</title>
+<desc lang="fr">Après un long moment de vie souterraine, les Lapins crétins décident d'envahir la Terre et de la découvrir dans ses moindres recoins. Munis de leurs yeux globuleux qui parfois deviennent rouges, de leur célèbre cri &quot;Bwaaaaaah !&quot;, ils s'en vont à l'aventure. Dès lors, les catastrophes s'enchaînent...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14192034.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430073500 +0200" stop="20230430074500 +0200" channel="France3.fr">
+<title lang="fr">Les lapins crétins : invasion</title>
+<desc lang="fr">Après un long moment de vie souterraine, les Lapins crétins décident d'envahir la Terre et de la découvrir dans ses moindres recoins. Munis de leurs yeux globuleux qui parfois deviennent rouges, de leur célèbre cri &quot;Bwaaaaaah !&quot;, ils s'en vont à l'aventure. Dès lors, les catastrophes s'enchaînent...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14192194.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430074500 +0200" stop="20230430075000 +0200" channel="France3.fr">
+<title lang="fr">Tom et Jerry Tales</title>
+<desc lang="fr">Sur un site de construction, Tom mange le repas des ouvriers et se voit pourchassé par Spike...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_5863545.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430075000 +0200" stop="20230430075500 +0200" channel="France3.fr">
+<title lang="fr">Tom et Jerry Tales</title>
+<desc lang="fr">Se montrant incapable d'attraper les souris, Tom est remplacé par un chat mécanique...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_1185907.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430075500 +0200" stop="20230430080500 +0200" channel="France3.fr">
+<title lang="fr">Tom et Jerry Tales</title>
+<desc lang="fr">Tom s'entraîne dur pour être musclé et séduire la belle Kitty. Jerry le pousse à se surpasser...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_5863545.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430080500 +0200" stop="20230430081000 +0200" channel="France3.fr">
+<title lang="fr">Tom et Jerry Tales</title>
+<desc lang="fr">Tom l'Hollywoodien désire être une star à la campagne, mais Jerry occupe déjà cette place...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_5863545.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430081000 +0200" stop="20230430082000 +0200" channel="France3.fr">
+<title lang="fr">Tom et Jerry Tales</title>
+<desc lang="fr">Au Japon, Tom est un maître zen. Son voisin, Jerry, fait tout son possible pour le pousser à bout...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_5863545.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430082000 +0200" stop="20230430082500 +0200" channel="France3.fr">
+<title lang="fr">Un jour, une question</title>
+<desc lang="fr">A quoi ça sert ? Ça veut dire quoi ? C'est qui ? Pourquoi c'est comme ça ? Les questions des enfants trouvent quotidiennement une réponse.</desc>
+<category lang="fr">Jeunesse</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22415841.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430082500 +0200" stop="20230430084500 +0200" channel="France3.fr">
+<title lang="fr">Les mystérieuses cités d'or</title>
+<desc lang="fr">Après avoir découvert une deuxième cité en Chine, Esteban, Tao et Zia mettent le cap sur le Japon. Au fil de leurs aventures, les jeunes héros en apprennent davantage sur la civilisation de Mu. Face à eux se dresse à nouveau Zarès, qui a enlevé Atanaos, le père d'Esteban, ainsi qu'un certain...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12730313.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430084500 +0200" stop="20230430091000 +0200" channel="France3.fr">
+<title lang="fr">Les mystérieuses cités d'or</title>
+<desc lang="fr">Après avoir découvert une deuxième cité en Chine, Esteban, Tao et Zia mettent le cap sur le Japon. Au fil de leurs aventures, les jeunes héros en apprennent davantage sur la civilisation de Mu. Face à eux se dresse à nouveau Zarès, qui a enlevé Atanaos, le père d'Esteban, ainsi qu'un certain...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12730306.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430091000 +0200" stop="20230430091500 +0200" channel="France3.fr">
+<title lang="fr">Les Dalton</title>
+<desc lang="fr">Les Dalton se font passer pour fous afin d'être transférés dans l'asile d'aliénés de Hole Gulch, dont il est plus facile de s'échapper...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14190327.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430091500 +0200" stop="20230430092500 +0200" channel="France3.fr">
+<title lang="fr">Les Dalton</title>
+<desc lang="fr">Les Dalton construisent une cheminée pour le Père Noël dans le dessein secret de s'évader par le conduit. Mais certains prisonniers ont une dent contre le Père Noël et comptent bien se venger de lui...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14191070.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430092500 +0200" stop="20230430093000 +0200" channel="France3.fr">
+<title lang="fr">Les Dalton</title>
+<desc lang="fr">Loup Cinglé n'arrive plus à dormir à cause de son bébé qui pleure tout le temps. Le temps de se reposer quelques heures, le chef indien le confie à Averell...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14190986.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430093000 +0200" stop="20230430093400 +0200" channel="France3.fr">
+<title lang="fr">Les Dalton</title>
+<desc lang="fr">Pour lui redonner un peu d'énergie et d'enthousiasme, le directeur du pénitencier accueille son neveu pour les vacances. Le jeune homme semble ne s'intéresser à rien</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14190764.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430093400 +0200" stop="20230430093500 +0200" channel="France3.fr">
+<title lang="fr">#DansLaToile</title>
+<sub-title lang="fr">L'e-sport</sub-title>
+<desc lang="fr">Pour comprendre les différents usages d'Internet, Mitzi et Noah plongent littéralement dans la toile à la suite de Châpo le chat.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13255667.jpg" />
+<episode-num system="xmltv_ns">1.13.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430093500 +0200" stop="20230430094000 +0200" channel="France3.fr">
+<title lang="fr">Mr Magoo</title>
+<desc lang="fr">Retraité bienveillant, mister Magoo cherche toujours à régler les problèmes qui se présentent à lui. Hélas, sa terrible myopie l'induit souvent en erreur...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14189134.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430094000 +0200" stop="20230430094500 +0200" channel="France3.fr">
+<title lang="fr">Les Dalton</title>
+<desc lang="fr">Un jeune technocrate arrive au pénitencier pour le moderniser. Dorénavant, tout est automatisé, de l'ouverture des portes au cassage de cailloux.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6322575.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430094500 +0200" stop="20230430094700 +0200" channel="France3.fr">
+<title lang="fr">Les Dalton</title>
+<desc lang="fr">Un jeune technocrate arrive au pénitencier pour le moderniser. Dorénavant, tout est automatisé, de l'ouverture des portes au cassage de cailloux.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14191150.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430094700 +0200" stop="20230430095300 +0200" channel="France3.fr">
+<title lang="fr">Mr Magoo</title>
+<desc lang="fr">Retraité bienveillant, mister Magoo cherche toujours à régler les problèmes qui se présentent à lui. Hélas, sa terrible myopie l'induit souvent en erreur...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14189124.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430095300 +0200" stop="20230430095500 +0200" channel="France3.fr">
+<title lang="fr">Mr Magoo</title>
+<desc lang="fr">Retraité bienveillant, mister Magoo cherche toujours à régler les problèmes qui se présentent à lui. Hélas, sa terrible myopie l'induit souvent en erreur...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14189089.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430095500 +0200" stop="20230430100000 +0200" channel="France3.fr">
+<title lang="fr">Mr Magoo</title>
+<desc lang="fr">Retraité bienveillant, mister Magoo cherche toujours à régler les problèmes qui se présentent à lui. Hélas, sa terrible myopie l'induit souvent en erreur...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14189619.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430100000 +0200" stop="20230430103000 +0200" channel="France3.fr">
+<title lang="fr">En sortant de l'école</title>
+<desc lang="fr">Des courts métrages, imaginés par de jeunes réalisateurs fraîchement diplômés d'écoles d'animation françaises, illustrent des poèmes célèbres ou moins connus.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13257741.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430103000 +0200" stop="20230430110000 +0200" channel="France3.fr">
+<title lang="fr">Outremer.story</title>
+<desc lang="fr">(Reprise du 05/02/23)</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_14501093.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430110000 +0200" stop="20230430111000 +0200" channel="France3.fr">
+<title lang="fr">Expression directe</title>
+<desc lang="fr">Organisations syndicales, partis politiques, mais aussi mouvements d'entrepreneurs prennent la parole.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_16487055.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430111000 +0200" stop="20230430111500 +0200" channel="France3.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique du service de presse de France 3-Météo France.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_10256508.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430111500 +0200" stop="20230430113000 +0200" channel="France3.fr">
+<title lang="fr">Outremer.l'info</title>
+<desc lang="fr">Journal.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_36935890.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430113000 +0200" stop="20230430120000 +0200" channel="France3.fr">
+<title lang="fr">Dimanche en politique en régions</title>
+<desc lang="fr">Les rédactions régionales de France 3 traitent des sujets qui font débat et des enjeux politiques, sociaux et sociétaux. Hommes et femmes politiques, citoyens engagés et habitants de la région apportent leurs réponses à la question de la semaine.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_7976377.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430120000 +0200" stop="20230430120500 +0200" channel="France3.fr">
+<title lang="fr">12/13 : Journal régional</title>
+<desc lang="fr">Journal de l'actualité régionale par la rédaction de France 3.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_5867132.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430120500 +0200" stop="20230430121000 +0200" channel="France3.fr">
+<title lang="fr">12/13 : Météo régionale</title>
+<desc lang="fr">Un aperçu des prévisions météorologiques concernant la région pour la journée et le lendemain.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_14212690.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430121000 +0200" stop="20230430125500 +0200" channel="France3.fr">
+<title lang="fr">Dimanche en politique</title>
+<desc lang="fr">Francis Letellier reçoit, en direct, un homme ou une femme politique pour débattre de l'actualité nationale et internationale.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_27341900.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430125500 +0200" stop="20230430132500 +0200" channel="France3.fr">
+<title lang="fr">Les nouveaux nomades</title>
+<desc lang="fr">La diversité des territoires est riche de belles surprises : des bords de la Méditerranée aux sommets alpins, de la Loire aux côtes atlantiques, des Pyrénées au coeur de la capitale, rencontre avec des passionnés de leur région.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9810067.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430132500 +0200" stop="20230430151500 +0200" channel="France3.fr">
+<title lang="fr">Rugby : Challenge Cup</title>
+<desc lang="fr">Sur sa pelouse de Mayol, le RC Toulon, seul club français encore en lice en Challenge Cup, va tenter de se qualifier pour la finale du 19 mai prochain, en essayant de battre les Italiens du Benetton Trévise.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_37975458.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430151500 +0200" stop="20230430152500 +0200" channel="France3.fr">
+<title lang="fr">Cyclisme : Liège-Bastogne-Liège</title>
+<desc lang="fr">A suivre la course de cyclisme Liège?Bastogne?Liège, appelée aussi La Doyenne. Organisée par l'UCI, la course se déroule en avril et c'est la plus vieille course des cinq monuments du cyclisme, avec Milan-San Remo, Paris-Roubaix, le Tour des Flandres et le Tour de Lombardie. Sa première édition a...</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Cyclisme</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_20785351.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430152500 +0200" stop="20230430161500 +0200" channel="France3.fr">
+<title lang="fr">Thalassa</title>
+<desc lang="fr">Chaque année, l'archipel des Glénan, au large du Finistère sud, attire de plus en plus de monde en quête de nature grandiose et d'espaces sauvages. A une demi-heure de bateau du continent, ces neuf petites îles et leurs bancs de sable paradisiaques sont souvent comparées aux lagons antillais ou...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_34036686.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430161500 +0200" stop="20230430170500 +0200" channel="France3.fr">
+<title lang="fr">Thalassa</title>
+<desc lang="fr">Grande pêche à bord du &quot;Joseph Roty&quot;. Les belles-soeurs de Gruissan.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_18594609.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430170500 +0200" stop="20230430171000 +0200" channel="France3.fr">
+<title lang="fr">La p'tite librairie</title>
+<desc lang="fr">François Busnel propose chaque jour de vous faire découvrir ou redécouvrir une ?uvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_12608951.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430171000 +0200" stop="20230430175500 +0200" channel="France3.fr">
+<title lang="fr">Des chiffres et des lettres</title>
+<desc lang="fr">Jeu.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_33605192.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430175500 +0200" stop="20230430185800 +0200" channel="France3.fr">
+<title lang="fr">Le grand Slam</title>
+<desc lang="fr">Jeu.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_11005080.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430185800 +0200" stop="20230430190000 +0200" channel="France3.fr">
+<title lang="fr">19/20 : Météo régionale</title>
+<desc lang="fr">Un aperçu des prévisions météorologiques qui devraient concerner la région pour les jours à venir.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_14212690.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430190000 +0200" stop="20230430192300 +0200" channel="France3.fr">
+<title lang="fr">19/20 : Journal régional</title>
+<desc lang="fr">Toute l'actualité régionale par la rédaction de France 3.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_10197700.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430192300 +0200" stop="20230430193000 +0200" channel="France3.fr">
+<title lang="fr">19/20 : Météo régionale</title>
+<desc lang="fr">Un aperçu des prévisions météorologiques qui devraient concerner la région pour les jours à venir.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_14212690.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430193000 +0200" stop="20230430200000 +0200" channel="France3.fr">
+<title lang="fr">19/20 : Journal national</title>
+<desc lang="fr">Toute l'actualité nationale par la rédaction de France 3.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12944807.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430200000 +0200" stop="20230430200400 +0200" channel="France3.fr">
+<title lang="fr">Météo régionale</title>
+<desc lang="fr">Météo.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13255991.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430200400 +0200" stop="20230430205000 +0200" channel="France3.fr">
+<title lang="fr">Stade 2</title>
+<desc lang="fr">Stade 2 vous propose chaque fin de semaine des portraits, des grands reportages, des interviews en plateau ou en duplex, des enquêtes, des résultats. Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_10352850.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430205000 +0200" stop="20230430210500 +0200" channel="France3.fr">
+<title lang="fr">Destination 2024</title>
+<desc lang="fr">Paris accueillera en 2024 les XXXIIIe Jeux olympiques d'été. Zoom sur un champion en préparation.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_35571542.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430210500 +0200" stop="20230430211000 +0200" channel="France3.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique du service de presse de France 3-Météo France.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_10256508.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430211000 +0200" stop="20230430215500 +0200" channel="France3.fr">
+<title lang="fr">Enquêtes à Morecambe</title>
+<sub-title lang="fr">Enquêtes à Morecambe</sub-title>
+<desc lang="fr">Le jour des funérailles de Saif, Jenn est à l'affût du moindre comportement suspect. Les tensions sont exacerbées au sein de la famille Rahman.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_37703239.jpg" />
+<episode-num system="xmltv_ns">2.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430215500 +0200" stop="20230430224000 +0200" channel="France3.fr">
+<title lang="fr">Enquêtes à Morecambe</title>
+<sub-title lang="fr">Enquêtes à Morecambe</sub-title>
+<desc lang="fr">Alors que la propre famille de Jenn vit une période compliquée, la famille Rahman est au bord de l'implosion suite à la révélation de Shazia.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_37555634.jpg" />
+<episode-num system="xmltv_ns">2.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430224000 +0200" stop="20230430232500 +0200" channel="France3.fr">
+<title lang="fr">Enquêtes à Morecambe</title>
+<sub-title lang="fr">Enquêtes à Morecambe</sub-title>
+<desc lang="fr">Jenn reste déterminée à découvrir la vérité sur le meurtre de Saif, et quand un suspect est arrêté, une véritable course contre la montre démarre.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_37704316.jpg" />
+<episode-num system="xmltv_ns">2.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430232500 +0200" stop="20230430233000 +0200" channel="France3.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique du service de presse de France 3-Météo France.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_10256508.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430233000 +0200" stop="20230501002500 +0200" channel="France3.fr">
+<title lang="fr">The Flatey Enigma</title>
+<sub-title lang="fr">The Flatey Enigma</sub-title>
+<desc lang="fr">Jóhanna rentre en Islande avec son fils de neuf ans après avoir vécu à Paris pendant des années ; elle se rend à Flatey pour enterrer son père.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_22897081.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

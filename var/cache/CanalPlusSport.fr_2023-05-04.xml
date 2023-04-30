@@ -1,0 +1,144 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230504041300 +0200" stop="20230504073000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FE94A7D93AAD8E38CC5F134073111ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504073000 +0200" stop="20230504083000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Late Sport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EF631D16B1E186486BA50A0587BE97E2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504083000 +0200" stop="20230504105900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Le 5e tour</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B13A343921F20B656549B1BEB37321E8.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504105900 +0200" stop="20230504110400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Zapsport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F7E27A26F28C4C1AEBED8A16D1BA9428.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504110400 +0200" stop="20230504115900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rallye : WRC, Rallye de Croatie</title>
+<desc lang="fr">Championnat du monde des rallyes 2023. Rallye de Croatie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rallye</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D737083BB61A422C77C0D0580B661EBC.jpg" />
+<episode-num system="xmltv_ns">0.86.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504115900 +0200" stop="20230504141800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fractionné Rugby</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F08BD5BDF5E9FCCFAA39AB20ED12A14B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504141800 +0200" stop="20230504144900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 10e journée. Chiefs / Crusaders.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FD34DC8C821AEECAD2CAFBAA03FD5D95.jpg" />
+<episode-num system="xmltv_ns">0.29.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504144900 +0200" stop="20230504154400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 10e journée. Waratahs / Highlanders.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C2ABEC5E084A6260879A9F0A89C4901F.jpg" />
+<episode-num system="xmltv_ns">0.28.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504154400 +0200" stop="20230504173000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf+, le mag</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A8C7F93EA26D81DE922754D3A22EA49E.jpg" />
+<episode-num system="xmltv_ns">0.32.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504173000 +0200" stop="20230504191000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/89DCD923BCC916E69B1A703550775DF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504191000 +0200" stop="20230504200300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BA98F032948E2DAD840469BF32C32E74.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504200300 +0200" stop="20230504210000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Indycar : Grand Prix d'Alabama</title>
+<desc lang="fr">IndyCar Series 2023. Grand Prix d'Alabama.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Indycar</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5C0843AA7A8219A3102E9000BB9B0A52.jpg" />
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504210000 +0200" stop="20230504223300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Jean Todt, la méthode</title>
+<desc lang="fr">Jean Todt est l'une des figures les plus importantes du sport automobile dans le monde, et du sport en général. Partout où il est passé, il a inculqué la culture du travail et de la victoire, comme copilote, patron de Peugeot Sport, puis de la Scuderia Ferrari, et enfin président de la FIA. Depuis le début de sa carrière, il suscite admiration, respect, jalousie parfois, mais également fantasme, tant l'homme est secret et se livre peu. Jean Todt a ouvert les portes de son quotidien à Canal+ depuis décembre 2021, depuis les derniers jours de son mandat de président de la FIA jusqu'aux coulisses de son travail d'envoyé spécial pour la Sécurité Routière aux Nations Unies. L'occasion de comprendre les principes qu'il a appliqués sa vie durant, sa méthode, toujours la même, pour gagner. </desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7115F3BD174CB30E132669D084ABB114.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504223300 +0200" stop="20230505000100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Open de Charlotte</title>
+<desc lang="fr">Circuit américain 2022/2023. Open de Charlotte.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EC2B28D8339AF1F9F3C6F9BB574BF9B4.jpg" />
+<episode-num system="xmltv_ns">0.172.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505000100 +0200" stop="20230505014500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 10e journée. Hurricanes / Brumbies.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C2ABEC5E084A6260879A9F0A89C4901F.jpg" />
+<episode-num system="xmltv_ns">0.27.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505014500 +0200" stop="20230505034400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">En attendant Bojangles</title>
+<desc lang="fr">Au premier coup d'oeil, Camille et Georges semblent former un couple comme tous les autres en cette fin des années 50. En réalité, depuis les débuts de leur relation, tout est trop extraordinaire. Mariés le jour même de leur rencontre à une soirée mondaine, leur amour n'a cessé de grandir, et un petit Gary n'a pas tardé à rejoindre leur foyer. Malheureusement, cette vie faite d'excès, de légèreté, et de trop d'insouciance prend soudainement fin quand Camille est rattrapée par des démons qu'elle ne parvient désormais plus à combattre. George se retrouve seul avec son fils, faisant face à ses terribles remords, empli d'incertitudes...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/39F498DBA2B239F89763F8221A94517E.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230505034400 +0200" stop="20230505073100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

@@ -1,0 +1,11 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230504234000 +0200" stop="20230505001000 +0200" channel="Toonami.fr">
+<title lang="fr">Rick et Morty</title>
+<sub-title lang="fr">A la recherche de la pierre verte</sub-title>
+<desc lang="fr">Tandis que Jerry et Beth divorcent, Rick emmène Summer et Morty dans un monde post-apocalyptique pour y voler une pierre verte à un groupe de pillards.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14805451.jpg" />
+<episode-num system="xmltv_ns">2.1.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>

@@ -1,0 +1,518 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230504000000 +0200" stop="20230504004500 +0200" channel="GameOne.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Sans coeur</sub-title>
+<desc lang="fr">Scoot et Liam tentent de capturer un Ghost Rider pendant que Malia et Peter enquêtent toujours sur la chasse sauvage...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_12518192.jpg" />
+<episode-num system="xmltv_ns">5.6.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230504004500 +0200" stop="20230504011500 +0200" channel="GameOne.fr">
+<title lang="fr">South Park</title>
+<sub-title lang="fr">Pauvre et stupide</sub-title>
+<desc lang="fr">Cartman rêve de devenir pilote de stock-car, mais il ne s'estime pas assez pauvre et stupide pour y parvenir...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_16789941.jpg" />
+<episode-num system="xmltv_ns">13.7.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504011500 +0200" stop="20230504014000 +0200" channel="GameOne.fr">
+<title lang="fr">South Park</title>
+<sub-title lang="fr">Captain Konstadt</sub-title>
+<desc lang="fr">Le Coon et sa nouvelle équipe de super-héros sont confrontés à un désastre sans précédent : l'usine BP et ses pétroliers sont à l'origine d'une gigantesque marée noire...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_16788299.jpg" />
+<episode-num system="xmltv_ns">13.10.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504014000 +0200" stop="20230504015500 +0200" channel="GameOne.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">#TeamG1 story - L'émission</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504015500 +0200" stop="20230504021500 +0200" channel="GameOne.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">Donjons et Dragons est de la partie. Le fondateur du jeu de rôle a droit à son dossier, on revient sur ses adaptations en jeu vidéo et le casting du film est en interview.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504021500 +0200" stop="20230504022000 +0200" channel="GameOne.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">#TEAMG1 STORY, c'est toute l'actualité du jeu vidéo, de la BD, du cinéma et des séries, un concentré de culture pop sur Game One, à la télé et sur Internet</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504022000 +0200" stop="20230504023500 +0200" channel="GameOne.fr">
+<title lang="fr">Hard Looters</title>
+<desc lang="fr">Vous cherchez un lieu vintage pour partager votre passion du rétrogaming ? N'allez pas plus loin, les looters l'ont trouvé pour vous.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542210.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504023500 +0200" stop="20230504025000 +0200" channel="GameOne.fr">
+<title lang="fr">Hard Looters</title>
+<desc lang="fr">L'Histoire du jeu vidéo, c'est aussi une longue liste de bides commerciaux. Les Looters ont réuni pour vous les plus prestigieux.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542210.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504025000 +0200" stop="20230504030000 +0200" channel="GameOne.fr">
+<title lang="fr">Retro Game One</title>
+<desc lang="fr">Zoom sur les jeux vidéo s'inspirant des jeux télévisés.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504030000 +0200" stop="20230504031000 +0200" channel="GameOne.fr">
+<title lang="fr">Retro Game One</title>
+<desc lang="fr">Marcus dresse un portrait express d'Hideo Kojima, le créateur de la série Metal Gear Solid.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504031000 +0200" stop="20230504032000 +0200" channel="GameOne.fr">
+<title lang="fr">Retro Game One</title>
+<desc lang="fr">Marcus dresse un portrait express d'Hideo Kojima, le créateur de la série Metal Gear Solid.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504032000 +0200" stop="20230504033500 +0200" channel="GameOne.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">#TeamG1 story - L'émission</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504033500 +0200" stop="20230504035000 +0200" channel="GameOne.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">Donjons et Dragons est de la partie. Le fondateur du jeu de rôle a droit à son dossier, on revient sur ses adaptations en jeu vidéo et le casting du film est en interview.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504035000 +0200" stop="20230504035500 +0200" channel="GameOne.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">#TEAMG1 STORY, c'est toute l'actualité du jeu vidéo, de la BD, du cinéma et des séries, un concentré de culture pop sur Game One, à la télé et sur Internet</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504035500 +0200" stop="20230504041000 +0200" channel="GameOne.fr">
+<title lang="fr">Mémoire Vive 2.0</title>
+<desc lang="fr">Série de jeu de plates-formes avec une héroïne japonaise de type manga (inédit en France)</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34462765.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504041000 +0200" stop="20230504042500 +0200" channel="GameOne.fr">
+<title lang="fr">Mémoire Vive 2.0</title>
+<desc lang="fr">Jeux de football sur la Neo Geo de SNK, particulièrement nombreux sur cette console</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34462765.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504042500 +0200" stop="20230504043000 +0200" channel="GameOne.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">#TEAMG1 STORY, c'est toute l'actualité du jeu vidéo, de la BD, du cinéma et des séries, un concentré de culture pop sur Game One, à la télé et sur Internet</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504043000 +0200" stop="20230504044500 +0200" channel="GameOne.fr">
+<title lang="fr">Hard Looters</title>
+<desc lang="fr">Vous cherchez un lieu vintage pour partager votre passion du rétrogaming ? N'allez pas plus loin, les looters l'ont trouvé pour vous.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542210.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504044500 +0200" stop="20230504050000 +0200" channel="GameOne.fr">
+<title lang="fr">Hard Looters</title>
+<desc lang="fr">L'Histoire du jeu vidéo, c'est aussi une longue liste de bides commerciaux. Les Looters ont réuni pour vous les plus prestigieux.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542210.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504050000 +0200" stop="20230504051000 +0200" channel="GameOne.fr">
+<title lang="fr">Retro Game One</title>
+<desc lang="fr">Zoom sur les jeux vidéo s'inspirant des jeux télévisés.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504051000 +0200" stop="20230504052000 +0200" channel="GameOne.fr">
+<title lang="fr">Retro Game One</title>
+<desc lang="fr">Marcus dresse un portrait express d'Hideo Kojima, le créateur de la série Metal Gear Solid.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504052000 +0200" stop="20230504053000 +0200" channel="GameOne.fr">
+<title lang="fr">Retro Game One</title>
+<desc lang="fr">Marcus dresse un portrait express d'Hideo Kojima, le créateur de la série Metal Gear Solid.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504053000 +0200" stop="20230504054500 +0200" channel="GameOne.fr">
+<title lang="fr">Mémoire Vive 2.0</title>
+<desc lang="fr">Série de jeu de plates-formes avec une héroïne japonaise de type manga (inédit en France)</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34462765.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504054500 +0200" stop="20230504060000 +0200" channel="GameOne.fr">
+<title lang="fr">Mémoire Vive 2.0</title>
+<desc lang="fr">Jeux de football sur la Neo Geo de SNK, particulièrement nombreux sur cette console</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34462765.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504060000 +0200" stop="20230504061500 +0200" channel="GameOne.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">On vous met des étoiles plein les yeux avec une sélection de films et de séries dernièrement sortis, au cinéma et sur les plates-formes de streaming.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504061500 +0200" stop="20230504062500 +0200" channel="GameOne.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">#TEAMG1 STORY, c'est toute l'actualité du jeu vidéo, de la BD, du cinéma et des séries, un concentré de culture pop sur Game One, à la télé et sur Internet</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504062500 +0200" stop="20230504064500 +0200" channel="GameOne.fr">
+<title lang="fr">Hard Looters</title>
+<desc lang="fr">Embarquez avec Benzaie, Mr Quaraté &amp; Asenka pour une aventure ludique et intemporelle. Au programme : la visite des meilleures boutiques de rétrogaming et de toys du Japon. Une série documentée et décalée pour cultiver sa passion tout en s'amusant.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542210.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504064500 +0200" stop="20230504071000 +0200" channel="GameOne.fr">
+<title lang="fr">Hard Looters</title>
+<desc lang="fr">Vous cherchez un lieu vintage pour partager votre passion du rétrogaming ? N'allez pas plus loin, les looters l'ont trouvé pour vous.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542210.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504071000 +0200" stop="20230504071500 +0200" channel="GameOne.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">#TEAMG1 STORY, c'est toute l'actualité du jeu vidéo, de la BD, du cinéma et des séries, un concentré de culture pop sur Game One, à la télé et sur Internet</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504071500 +0200" stop="20230504073000 +0200" channel="GameOne.fr">
+<title lang="fr">Retro Game One</title>
+<desc lang="fr">Marcus et sa bande d'acolytes un peu bizarres vous emmènent dans un voyage déjanté à travers l'histoire des jeux vidéo! Attention effets très spéciaux!</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504073000 +0200" stop="20230504074500 +0200" channel="GameOne.fr">
+<title lang="fr">Retro Game One</title>
+<desc lang="fr">Marcus et sa bande d'acolytes un peu bizarres vous emmènent dans un voyage déjanté à travers l'histoire des jeux vidéo! Attention effets très spéciaux!</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504074500 +0200" stop="20230504080000 +0200" channel="GameOne.fr">
+<title lang="fr">Retro Game One</title>
+<desc lang="fr">Marcus et sa bande d'acolytes un peu bizarres vous emmènent dans un voyage déjanté à travers l'histoire des jeux vidéo! Attention effets très spéciaux!</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6571112.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504080000 +0200" stop="20230504081500 +0200" channel="GameOne.fr">
+<title lang="fr">#Teamg1 Story</title>
+<desc lang="fr">On vous met des étoiles plein les yeux avec une sélection de films et de séries dernièrement sortis, au cinéma et sur les plates-formes de streaming.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_19542180.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504081500 +0200" stop="20230504084000 +0200" channel="GameOne.fr">
+<title lang="fr">Martin Mystère</title>
+<desc lang="fr">Une créature qui amène le Chaos solide, liquide et gazeux s'en prend aux habitants d'un village.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7975430.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504084000 +0200" stop="20230504091000 +0200" channel="GameOne.fr">
+<title lang="fr">Martin Mystère</title>
+<desc lang="fr">Martin, Diana et Java enquêtent sur une créature qui ne cesse de terroriser des vacanciers dans une station de ski des Alpes suisses. Sur place, ils découvrent que la bête frappe sa proie en surgissant de la neige. Le trio gravit la montagne pour tenter de la surprendre dans sa tanière...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7975430.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504091000 +0200" stop="20230504093500 +0200" channel="GameOne.fr">
+<title lang="fr">Martin Mystère</title>
+<desc lang="fr">Un loup-garou s'en prend aux promoteurs immobiliers travaillant sur un territoire indien.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7975430.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504093500 +0200" stop="20230504100000 +0200" channel="GameOne.fr">
+<title lang="fr">Martin Mystère</title>
+<desc lang="fr">Un marchand de sable emmène ses victimes dans leurs pires cauchemars.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7975430.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504100000 +0200" stop="20230504102500 +0200" channel="GameOne.fr">
+<title lang="fr">Hunter X Hunter</title>
+<desc lang="fr">Après l'attaque des enchères par la Brigade Fantôme, tous les hommes de la mafia qui étaient à leur poursuite ont été massacrés par Uvôguine...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_3433055.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504102500 +0200" stop="20230504105000 +0200" channel="GameOne.fr">
+<title lang="fr">Hunter X Hunter</title>
+<desc lang="fr">Kurapika a réussi à capturer Uvôguine, l'un des membres de la brigade. Mais il a du mal à se contrôler. C'est à ce moment qu'il reçoit un email de la part d'Hisoka...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_3433055.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504105000 +0200" stop="20230504112000 +0200" channel="GameOne.fr">
+<title lang="fr">Hunter X Hunter</title>
+<desc lang="fr">Uvôguine s'est échappé avec l'aide d'autres bandits. Il est maintenant déterminé à traquer Kurapika...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_3433055.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504112000 +0200" stop="20230504114500 +0200" channel="GameOne.fr">
+<title lang="fr">One Piece</title>
+<desc lang="fr">Après cette journée fatidique, Denjiro est allé dans une hutte et il a émergé après une longue période de temps, son apparence ayant totalement changée en raison de sa rage. Il est allé à la capitale des fleurs et il a commencé à attirer des adeptes, se faisant appeler Kyoshiro. En tant que...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_17250143.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504114500 +0200" stop="20230504121000 +0200" channel="GameOne.fr">
+<title lang="fr">One Piece</title>
+<desc lang="fr">Alors qu'Oden survit tant bien que mal dans le chaudron d'huile bouillante, ses vassaux sur ses épaules, la populace, sous le choc, apprend la vérité de la bouche de Shinobu. Oden en profite pour prévenir ses samouraïs de l'importance cruciale que revêt l'ouverture des frontières du pays de Wano....</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_34649442.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504121000 +0200" stop="20230504124000 +0200" channel="GameOne.fr">
+<title lang="fr">One Piece</title>
+<desc lang="fr">À Kuri, la nouvelle du décès d'Oden arrive jusqu'à Toki et elle se souvient qu'Oden lui avait donné ses deux katanas pour les transmettre à leurs enfants. La lettre qu'il lui a remise avant son départ lui disait d'utiliser son pouvoir pour se préparer à une grande guerre qui éclatera dans 20 ans....</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_17250143.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504124000 +0200" stop="20230504131000 +0200" channel="GameOne.fr">
+<title lang="fr">Dragon Quest : La quête de Daï</title>
+<desc lang="fr">Le Doruora de Daï annihile le réacteur magique. Accompagné de Léona, il parvient au sommet de la tour de l'hégémonie. L'empereur du mal, Vearn, les y attend, prêt à en découdre. Face à lui, Daï se retrouve de nouveau confronté à la terreur du sceptre de lumière démoniaque.</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_18559185.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504131000 +0200" stop="20230504134000 +0200" channel="GameOne.fr">
+<title lang="fr">Dragon Quest : La quête de Daï</title>
+<desc lang="fr">Le Doruora de Daï annihile le réacteur magique. Accompagné de Léona, il parvient au sommet de la tour de l'hégémonie. L'empereur du mal, Vearn, les y attend, prêt à en découdre. Face à lui, Daï se retrouve de nouveau confronté à la terreur du sceptre de lumière démoniaque.</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_18559185.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504134000 +0200" stop="20230504140500 +0200" channel="GameOne.fr">
+<title lang="fr">Martin Mystère</title>
+<desc lang="fr">Un loup-garou s'en prend aux promoteurs immobiliers travaillant sur un territoire indien.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7975430.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504140500 +0200" stop="20230504143500 +0200" channel="GameOne.fr">
+<title lang="fr">Martin Mystère</title>
+<desc lang="fr">Un marchand de sable emmène ses victimes dans leurs pires cauchemars.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7975430.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504143500 +0200" stop="20230504150000 +0200" channel="GameOne.fr">
+<title lang="fr">Martin Mystère</title>
+<desc lang="fr">Un portail spatio-temporel transporte les passagers d'un métro dans une dimension où règne un dragon.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7975430.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504150000 +0200" stop="20230504152500 +0200" channel="GameOne.fr">
+<title lang="fr">Martin Mystère</title>
+<desc lang="fr">Des extraterrestres enfouis sous les lignes Nazca au Pérou tentent de faire redécoller leur vaisseau et de reprendre le contrôle de la planète.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7975430.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504152500 +0200" stop="20230504155000 +0200" channel="GameOne.fr">
+<title lang="fr">Hunter X Hunter</title>
+<desc lang="fr">Après l'attaque des enchères par la Brigade Fantôme, tous les hommes de la mafia qui étaient à leur poursuite ont été massacrés par Uvôguine...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_3433055.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504155000 +0200" stop="20230504161500 +0200" channel="GameOne.fr">
+<title lang="fr">Hunter X Hunter</title>
+<desc lang="fr">Kurapika a réussi à capturer Uvôguine, l'un des membres de la brigade. Mais il a du mal à se contrôler. C'est à ce moment qu'il reçoit un email de la part d'Hisoka...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_3433055.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504161500 +0200" stop="20230504165000 +0200" channel="GameOne.fr">
+<title lang="fr">Hunter X Hunter</title>
+<desc lang="fr">Uvôguine s'est échappé avec l'aide d'autres bandits. Il est maintenant déterminé à traquer Kurapika...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_3433055.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504165000 +0200" stop="20230504171500 +0200" channel="GameOne.fr">
+<title lang="fr">One Piece</title>
+<desc lang="fr">Après cette journée fatidique, Denjiro est allé dans une hutte et il a émergé après une longue période de temps, son apparence ayant totalement changée en raison de sa rage. Il est allé à la capitale des fleurs et il a commencé à attirer des adeptes, se faisant appeler Kyoshiro. En tant que...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_17250143.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504171500 +0200" stop="20230504174000 +0200" channel="GameOne.fr">
+<title lang="fr">One Piece</title>
+<desc lang="fr">Alors qu'Oden survit tant bien que mal dans le chaudron d'huile bouillante, ses vassaux sur ses épaules, la populace, sous le choc, apprend la vérité de la bouche de Shinobu. Oden en profite pour prévenir ses samouraïs de l'importance cruciale que revêt l'ouverture des frontières du pays de Wano....</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_34649442.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504174000 +0200" stop="20230504181000 +0200" channel="GameOne.fr">
+<title lang="fr">One Piece</title>
+<desc lang="fr">À Kuri, la nouvelle du décès d'Oden arrive jusqu'à Toki et elle se souvient qu'Oden lui avait donné ses deux katanas pour les transmettre à leurs enfants. La lettre qu'il lui a remise avant son départ lui disait d'utiliser son pouvoir pour se préparer à une grande guerre qui éclatera dans 20 ans....</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_17250143.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504181000 +0200" stop="20230504183500 +0200" channel="GameOne.fr">
+<title lang="fr">Dragon Quest : La quête de Daï</title>
+<desc lang="fr">&quot; La moindre bataille doit servir au héros ! &quot; L'appel de Léona ramène la coterie à la raison. Hélas, Mystvearn les tient en déroute. Larhart, revêtu de la lance-armure démoniaque, vole à la rescousse de nos héros. Le guerrier narre son serment à Baran, et ainsi Daï apprend les réelles intentions...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_18559185.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504183500 +0200" stop="20230504190000 +0200" channel="GameOne.fr">
+<title lang="fr">Dragon Quest : La quête de Daï</title>
+<desc lang="fr">Le Doruora de Daï annihile le réacteur magique. Accompagné de Léona, il parvient au sommet de la tour de l'hégémonie. L'empereur du mal, Vearn, les y attend, prêt à en découdre. Face à lui, Daï se retrouve de nouveau confronté à la terreur du sceptre de lumière démoniaque.</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_18559185.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504190000 +0200" stop="20230504193000 +0200" channel="GameOne.fr">
+<title lang="fr">Dragon Quest : La quête de Daï</title>
+<desc lang="fr">Le Doruora de Daï annihile le réacteur magique. Accompagné de Léona, il parvient au sommet de la tour de l'hégémonie. L'empereur du mal, Vearn, les y attend, prêt à en découdre. Face à lui, Daï se retrouve de nouveau confronté à la terreur du sceptre de lumière démoniaque.</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_18559185.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504193000 +0200" stop="20230504200000 +0200" channel="GameOne.fr">
+<title lang="fr">Hunter X Hunter</title>
+<desc lang="fr">Gon et Kirua parviennent enfin à retrouver Neferupitô, la garde royale qui a tué Kaito. Gon est pressé d'en découdre, mais le spectacle est déroutant : Pitô est occupée à soigner Komugi et refuse de se battre...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_3433055.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504200000 +0200" stop="20230504202500 +0200" channel="GameOne.fr">
+<title lang="fr">Hunter X Hunter</title>
+<desc lang="fr">Tandis que Gon patiente auprès de Pitô, Kirua s'éloigne avec Meleolon afin que celui-ci lui fasse part de l'évolution de la situation. Knuckle, quant à lui, comprend que Yupî n'a pas pour objectif de le tuer, mais seulement de tenir tout intrus à l'écart de la salle du trône. Il décide alors...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_3433055.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504202500 +0200" stop="20230504205000 +0200" channel="GameOne.fr">
+<title lang="fr">Hunter X Hunter</title>
+<desc lang="fr">Ikarugo continue de chercher Pâmu dans les sous-sols du palais et finit par arriver dans le hangar où Bizev cachait ses femmes. Mais une surprise désagréable l'attend : Burovûta a des doutes sur lui et le guette en embuscade à la sortie du sous-sol. De son côté, Knuckle attend que Yupî explose de...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_3433055.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504205000 +0200" stop="20230504212000 +0200" channel="GameOne.fr">
+<title lang="fr">Hunter X Hunter</title>
+<desc lang="fr">Kirua a sauvé Knuckle in extremis et se défoule maintenant sur Yupî, qui ne comprend pas ce qui lui arrive. De son côté, Ikarugo réfléchit au meilleur moyen de neutraliser Burovûta, qui ne peut plus utiliser l'ascenseur pour remonter au rez-de-chaussée du palais...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_3433055.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504212000 +0200" stop="20230504220000 +0200" channel="GameOne.fr">
+<title lang="fr">Level One</title>
+<desc lang="fr">Marcus, l'inventeur du Let's Play, teste le premier niveau d'un jeu vidéo.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_27400627.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504220000 +0200" stop="20230504223000 +0200" channel="GameOne.fr">
+<title lang="fr">Level One</title>
+<desc lang="fr">Marcus, l'inventeur du Let's Play, teste en direct le premier niveau d'un nouveau jeu vidéo.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_27400627.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504223000 +0200" stop="20230504231500 +0200" channel="GameOne.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Sans coeur</sub-title>
+<desc lang="fr">Scoot et Liam tentent de capturer un Ghost Rider pendant que Malia et Peter enquêtent toujours sur la chasse sauvage...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_12518192.jpg" />
+<episode-num system="xmltv_ns">5.6.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230504231500 +0200" stop="20230505000000 +0200" channel="GameOne.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Guerre éclair</sub-title>
+<desc lang="fr">Theo donne des informations sur Douglas à Liam et Hayden. Douglas a besoin de Parrish pour ouvrir la faille. Scott et Malia se mettent en travers de leur route.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_17220959.jpg" />
+<episode-num system="xmltv_ns">5.7.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>

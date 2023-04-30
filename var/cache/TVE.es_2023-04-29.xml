@@ -1,0 +1,266 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230429060000 +0200" stop="20230429070000 +0200" channel="TVE.es">
+<title lang="fr">Noticias 24H</title>
+<desc lang="fr">Información continua 24 horas, nacional e internacional, 365 días al año.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9F12308DD4B9B0B2EBB5786A66DE8F5B.jpg" />
+<episode-num system="xmltv_ns">0.117.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429070000 +0200" stop="20230429073000 +0200" channel="TVE.es">
+<title lang="fr">Para todos La 2</title>
+<desc lang="fr">Magazine semanal que a traves de reportajes, entrevistas y secciones fijas analiza los aspectos más sociales que pasan a nuestro alrededor.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5CB8F0DBA31CFF5E2DEEAA1752DC0C4E.jpg" />
+<episode-num system="xmltv_ns">0.106.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429073000 +0200" stop="20230429074500 +0200" channel="TVE.es">
+<title lang="fr">Emprende</title>
+<desc lang="fr">Programa dedicado al emprendimiento y nuevos empresarios en españa.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/033DD81A0AEA8541DF56616A446AA399.jpg" />
+<episode-num system="xmltv_ns">0.217.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429074500 +0200" stop="20230429081500 +0200" channel="TVE.es">
+<title lang="fr">En lengua de signos</title>
+<desc lang="fr">Es un programa semanal que acerca la actualidad del mundo a las personas sordas en su lengua y con subtítulos.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/245CDE31D35F960F7B7EDB3ED7AEEDA5.jpg" />
+<episode-num system="xmltv_ns">0.695.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429081500 +0200" stop="20230429084500 +0200" channel="TVE.es">
+<title lang="fr">Parlamento</title>
+<desc lang="fr">Programa de actualidad parlamentaria con secciones fijas y debate político.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<episode-num system="xmltv_ns">0.556.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429084500 +0200" stop="20230429090500 +0200" channel="TVE.es">
+<title lang="fr">Bloque infantil</title>
+<sub-title lang="fr">Mya Go</sub-title>
+<desc lang="fr">Mya go tutú.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/68BF2DDE999FE033BBE699A18C4C6EF1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429090500 +0200" stop="20230429093500 +0200" channel="TVE.es">
+<title lang="fr">El camino del Cid: Diario de una ciclista</title>
+<sub-title lang="fr">Las tres taifas: De Daroca a Molina de Aragón</sub-title>
+<desc lang="fr">Ainara Hernando comienza esta etapa en dirección al Anilló de Montalbán, otra de las rutas cicloturistas diseñadas por el Consorcio del Cid. Pasará por pueblos que están en una de las zonas más despobladas de España.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429093500 +0200" stop="20230429100500 +0200" channel="TVE.es">
+<title lang="fr">Página 2</title>
+<sub-title lang="fr">Rosa Montero, Olivier Truc y Víctor Sombra</sub-title>
+<desc lang="fr">Página Dos reúne a Rosa Montero y Olivier Truc para que presenten La desconocida. [Alfaguara], la novela negra que han escrito a cuatro manos. Víctor Sombra denuncia en A doble ciego [Random House] ciertas malas prácticas de la industria farmacéutica.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D984E49857A46478B9AC718A0297E454.jpg" />
+<episode-num system="xmltv_ns">0.224.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429100500 +0200" stop="20230429105500 +0200" channel="TVE.es">
+<title lang="fr">Programa a determinar</title>
+<desc lang="fr">Programación a determinar.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Programme indéterminé</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429105500 +0200" stop="20230429133000 +0200" channel="TVE.es">
+<title lang="fr">MasterChef Spain</title>
+<desc lang="fr">En la primera prueba, van a descubrir la influencia de los planetas en la cocina de la mano del gran Maestro Astral, encarnado por el humorista y actor Carlos Latre. Además, el mejor de la prueba logrará una ventaja cósmica: el pin de la inmunidad.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<episode-num system="xmltv_ns">0.34.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429133000 +0200" stop="20230429140000 +0200" channel="TVE.es">
+<title lang="fr">Audiencia abierta</title>
+<desc lang="fr">Es un programa de periodicidad semanal que tiene, como prioridad, el informar sobre las actividades de la Jefatura del Estado de manera contextual.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2A70983CDDAC90691EBE0B85251E6743.jpg" />
+<episode-num system="xmltv_ns">0.491.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429140000 +0200" stop="20230429143000 +0200" channel="TVE.es">
+<title lang="fr">Viaje al centro de la tele</title>
+<sub-title lang="fr">Una saga triunfal, grandes éxitos</sub-title>
+<desc lang="fr">Viaje al centro de la tele te ofrece los mejores momentos que hemos podido vivir a través de la pequeña pantalla con grandes dosis de humor.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8C903D335F22B6CBFBECB98B2492FBA7.jpg" />
+<episode-num system="xmltv_ns">0.142.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429143000 +0200" stop="20230429150000 +0200" channel="TVE.es">
+<title lang="fr">Corazón</title>
+<desc lang="fr">Magazine en directo, en donde en 30 minutos hacemos un repaso a toda la actualidad social de nuestro país.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/AEDAFB77BEE8728E01AF4C023C0EC72B.jpg" />
+<episode-num system="xmltv_ns">0.884.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429150000 +0200" stop="20230429160000 +0200" channel="TVE.es">
+<title lang="fr">Telediario 1</title>
+<desc lang="fr">Espacio diario de información nacional e internacional en directo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BF236206F3A2C0603E88BF29638C6F45.jpg" />
+<episode-num system="xmltv_ns">0.118.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429160000 +0200" stop="20230429164500 +0200" channel="TVE.es">
+<title lang="fr">Saber y ganar</title>
+<desc lang="fr">Programa concurso.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E98B391CBB56A85AE8024F8F2CCC3B3A.jpg" />
+<episode-num system="xmltv_ns">0.234.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429164500 +0200" stop="20230429191000 +0200" channel="TVE.es">
+<title lang="fr">Españoles en el mundo</title>
+<sub-title lang="fr">La Toscana</sub-title>
+<desc lang="fr">Descubrimos La Toscana con Elena, Diego, Almudena, Montse, Maite y Adrián:el valle de Chianti desde el aire, la costa de Livorno, las aguas termales de Saturnia,belleza de Florencia,.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/70B1FE616D6E4E9E1389A14724272367.jpg" />
+<episode-num system="xmltv_ns">0.45.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429191000 +0200" stop="20230429192500 +0200" channel="TVE.es">
+<title lang="fr">Cine de barrio</title>
+<sub-title lang="fr">Los tramposos</sub-title>
+<desc lang="fr">En el día de San Isidro, patrono de Madrid, Cine de Barrio emite la película and#34;Los Trampososand#34; (1959), película cómica dirigida por Pedro Lazaga y protagonizada por Tony Leblanc y Antonio Ozores. Alaska charla con Fernando Colomo, uno de los padres de la comedia madrileña.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F5F48C0761EC58D3880B3E72E2104C4B.jpg" />
+<episode-num system="xmltv_ns">0.251.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429192500 +0200" stop="20230429210000 +0200" channel="TVE.es">
+<title lang="fr">Los Tramposos</title>
+<desc lang="fr">Virgilio y Paco se ganan la vida poniendo en práctica todo tipo de timos. Un día deciden ser decentes y buscar empleo.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Comédie</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429210000 +0200" stop="20230429213000 +0200" channel="TVE.es">
+<title lang="fr">Telediario 2</title>
+<desc lang="fr">Programa diario de noticias nacionales e internacionales en directo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D216C8700ECAA452915A0820D31CF316.jpg" />
+<episode-num system="xmltv_ns">0.118.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429213000 +0200" stop="20230429220500 +0200" channel="TVE.es">
+<title lang="fr">Informe Semanal</title>
+<sub-title lang="fr">Fuegos, pensiones Francia</sub-title>
+<desc lang="fr">Informe semanal , incluye reportajes de actualidad nacional , internacional ,cultura , sociedad , deportes ,de entre 10 y 15 minutos de duración cada.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2D850B90348B16B9DE50375CFEAB4E12.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429220500 +0200" stop="20230429221000 +0200" channel="TVE.es">
+<title lang="fr">Historia de nuestro cine</title>
+<sub-title lang="fr">Un año sin Juan Diego</sub-title>
+<desc lang="fr">Coincidiendo con el primer aniversario del fallecimiento del actor Juan Diego, Historia de Nuestro Cine le rinde homenaje con dos títulos que, marcaron definitivamente su carrera: and#34;Vete de míand#34; (Víctor García León, 2006) y and#34;La noche oscuraand#34; (Carlos Saura, 1989).</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B12419F1C5D3100A265F006287FDEFCF.jpg" />
+<episode-num system="xmltv_ns">0.707.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429221000 +0200" stop="20230429233700 +0200" channel="TVE.es">
+<title lang="fr">Vete de mí</title>
+<desc lang="fr">Año producción: 2006 calificación: 2006 santiago nunca ha sido protagonista de nada... ni de teatro, ni de cine..., ni siquiera de su propia vida. pero santiago nunca pensó que alojar en su casa a su treintañero hijo guillermo durante unosdías cambiaría tanto su vida...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Comédie dramatique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429233700 +0200" stop="20230430000200 +0200" channel="TVE.es">
+<title lang="fr">Historia de nuestro cine</title>
+<sub-title lang="fr">Un año sin Juan Diego</sub-title>
+<desc lang="fr">Coincidiendo con el primer aniversario del fallecimiento del actor Juan Diego, Historia de Nuestro Cine le rinde homenaje con dos títulos que, marcaron definitivamente su carrera: and#34;Vete de míand#34; (Víctor García León, 2006) y and#34;La noche oscuraand#34; (Carlos Saura, 1989).</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B12419F1C5D3100A265F006287FDEFCF.jpg" />
+<episode-num system="xmltv_ns">0.707.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430000200 +0200" stop="20230430014000 +0200" channel="TVE.es">
+<title lang="fr">La nuit obscure</title>
+<desc lang="fr">En enero de 1577, fray Juan de la Cruz es encarcelado en una mazmorra toledana y allí escribe la Noche oscura del alma.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Drame</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430014000 +0200" stop="20230430024000 +0200" channel="TVE.es">
+<title lang="fr">Días de cine</title>
+<desc lang="fr">Programa de información y crítica, en el que se repasan los estrenos cinematográficos más importantes de la semana.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<episode-num system="xmltv_ns">0.295.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430024000 +0200" stop="20230430031000 +0200" channel="TVE.es">
+<title lang="fr">¡Atención Obras!</title>
+<sub-title lang="fr">Nuria Mencía</sub-title>
+<desc lang="fr">Magazine cultural sobre las más diversas manifestaciones artísticas conducido por Cayetana Guillén Cuervo.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/87A8DA3F6D4158B2A4420DC99382E992.jpg" />
+<episode-num system="xmltv_ns">0.225.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430031000 +0200" stop="20230430033500 +0200" channel="TVE.es">
+<title lang="fr">Repor</title>
+<sub-title lang="fr">Un país, 500 programas</sub-title>
+<desc lang="fr">and#34;REPORand#34; ES UN PROGRAMA DE REPORTAJES DE TVE QUE ABORDA CONTENIDOS SOCIALES, DE DENUNCIA O RETRATOS Y SITUACIONES DE LA VIDA COTIDIANA Y QUE RE.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E1D76B4583DA1D2C0784A4E0AED9FD51.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430033500 +0200" stop="20230430042000 +0200" channel="TVE.es">
+<title lang="fr">Tendido cero</title>
+<desc lang="fr">Actualidad taurina y todos los aspectos relacionados con el mundo del toro.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/90A86DA3DA9F1B9E71CBE2832EED458E.jpg" />
+<episode-num system="xmltv_ns">0.251.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430042000 +0200" stop="20230430045500 +0200" channel="TVE.es">
+<title lang="fr">Informe Semanal</title>
+<sub-title lang="fr">Fuegos, pensiones Francia</sub-title>
+<desc lang="fr">Informe semanal , incluye reportajes de actualidad nacional , internacional ,cultura , sociedad , deportes ,de entre 10 y 15 minutos de duración cada.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CE66F196D70563C1F73E1ADCE69AD45F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430045500 +0200" stop="20230430060000 +0200" channel="TVE.es">
+<title lang="fr">Noticias 24H</title>
+<desc lang="fr">Información continua 24 horas, nacional e internacional, 365 días al año.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A66F28ADB1B9F12CE0DA953072E1FD27.jpg" />
+<episode-num system="xmltv_ns">0.118.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

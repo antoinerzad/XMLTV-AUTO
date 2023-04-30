@@ -1,0 +1,18 @@
+<!-- racacax\XmlTv\Component\Provider\TeleLoisirs -->
+<programme start="20230429010200 +0200" stop="20230429073000 +0200" channel="Canvas.fr">
+<title lang="fr">Canvaslus</title>
+<sub-title lang="fr">Doorlopende herhaling tot de start van de ochtenduitzendingen</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Culture Infos</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~568670627548cffc.jpg/640x360/quality/80/canvaslus.jpg" />
+</programme>
+<programme start="20230429204000 +0200" stop="20230429212500 +0200" channel="Canvas.fr">
+<title lang="fr">Agent Hamilton</title>
+<sub-title lang="fr">Episode 1</sub-title>
+<desc lang="fr">
+Avec :
+Jakob Oftebro (Acteur), Nina Zanjani (Acteur), Jörgen Thorsson (Acteur), Annika Hallin (Acteur), Felice Jankell (Acteur), Renée Axö (Réalisateur)</desc>
+<category lang="fr">Série TV</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~122e8f20d381bf1b.jpg/640x360/quality/80/hamilton.jpg" />
+<episode-num system="xmltv_ns">1.0.</episode-num>
+</programme>

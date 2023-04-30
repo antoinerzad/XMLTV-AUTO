@@ -1,0 +1,175 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230503060000 +0200" stop="20230503090000 +0200" channel="MTVHits.fr">
+<title lang="fr">MTV Breakfast Club</title>
+<desc lang="fr">Une sélection musicale taillée pour se lever du bon pied.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://img.bouygtel.fr/CMS/images/678FF5167DAAC240FF9B3EF03253817D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503090000 +0200" stop="20230503130000 +0200" channel="MTVHits.fr">
+<title lang="fr">Les 50 meilleurs clips</title>
+<desc lang="fr">Les 50 Meilleurs Clips c'est le classement des meilleurs clips d'un artiste ou d'un genre musical.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503130000 +0200" stop="20230503160000 +0200" channel="MTVHits.fr">
+<title lang="fr">Beats &amp; Lyrics</title>
+<desc lang="fr">Vous avez envie de chanter à tue-tête les tops du moment mais vous ne connaissez pas les paroles?! Branchez-vous sur MTV BASE et regardez &quot;Beats and Lyrics&quot;! Vous retrouverez les paroles de vos artistes préférés!</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FC9CB1F12F70CBF7F613F96D8109154D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503160000 +0200" stop="20230503190000 +0200" channel="MTVHits.fr">
+<title lang="fr">Music &amp; News</title>
+<desc lang="fr">La playlist des meilleurs clips du moment avec les dernières news</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503190000 +0200" stop="20230503194500 +0200" channel="MTVHits.fr">
+<title lang="fr">10 Meilleurs Clips Fr</title>
+<desc lang="fr">Les 10 meilleurs clips Français du moment</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503194500 +0200" stop="20230503201500 +0200" channel="MTVHits.fr">
+<title lang="fr">10 meilleurs clips US</title>
+<desc lang="fr">Les 10 meilleurs clips US du moment</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503201500 +0200" stop="20230503202500 +0200" channel="MTVHits.fr">
+<title lang="fr">Fresh Out Live</title>
+<desc lang="fr">Fresh Out Live offre les dernières actus musique et pop de la semaine avec des interviews exclusives et des performances lives dans les studios d'MTV.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<episode-num system="xmltv_ns">3.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503202500 +0200" stop="20230503210000 +0200" channel="MTVHits.fr">
+<title lang="fr">Brand New</title>
+<desc lang="fr">La meilleure sélection des nouveautés par MTV Hits.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503210000 +0200" stop="20230503212600 +0200" channel="MTVHits.fr">
+<title lang="fr">Nick Cannon présente : Wild 'N Out</title>
+<sub-title lang="fr">Kirk &amp; Rasheeda / Money Mo</sub-title>
+<desc lang="fr">Nick Cannon, Kirk &amp; Rasheeda s'affrontent dans les jeux : Baby Daddy Baby Mama, Can I Cancel, Backseat Of My Ride, et la Wildstyle battle. Money Mo interprète &quot;Aye, Aye, Aye&quot;.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<episode-num system="xmltv_ns">15.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503212600 +0200" stop="20230503215100 +0200" channel="MTVHits.fr">
+<title lang="fr">Nick Cannon présente : Wild 'N Out</title>
+<sub-title lang="fr">42 Dugg</sub-title>
+<desc lang="fr">Nick Cannon et 42 Dugg s'affrontent dans les jeux : Eat That Ass Up, Are You Smarter Than A Rapper, Kick'Em Out The Classroom, et la Wildstyle battle. 42 Dugg interprète &quot;4 Da Gang&quot;.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<episode-num system="xmltv_ns">15.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503215100 +0200" stop="20230503221600 +0200" channel="MTVHits.fr">
+<title lang="fr">Nick Cannon présente : Wild 'N Out</title>
+<sub-title lang="fr">CJ</sub-title>
+<desc lang="fr">Nick Cannon, CJ s'affrontent dans les jeux : Big Ol' Booty, Are You Smart Than A Rapper, Got Damned, et la Wildstyle battle. CJ interprète &quot;Whoopty&quot;.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<episode-num system="xmltv_ns">15.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503221600 +0200" stop="20230503224100 +0200" channel="MTVHits.fr">
+<title lang="fr">Nick Cannon présente : Wild 'N Out</title>
+<sub-title lang="fr">Erica Banks</sub-title>
+<desc lang="fr">Nick Cannon, Erica Banks s'affrontent dans les jeux : Big Ol' Booty, Are You Smarter Than A Rapper, Kick'Em Out The Classroom, et la Wildstyle battle. Erica Banks interprète &quot;Buss It&quot;.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<episode-num system="xmltv_ns">15.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503224100 +0200" stop="20230503230100 +0200" channel="MTVHits.fr">
+<title lang="fr">Nick Cannon présente : Wild 'N Out</title>
+<sub-title lang="fr">Big Freedia</sub-title>
+<desc lang="fr">Nick Cannon, Big Freedia s'affrontent dans les jeux : What You Scared Of, Greenery Screenery, Creepin' In The Dark, et la Wildstyle battle. Big Freedia interprète &quot;Platinum&quot;.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<episode-num system="xmltv_ns">15.21.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503230100 +0200" stop="20230503232600 +0200" channel="MTVHits.fr">
+<title lang="fr">Nick Cannon présente : Wild 'N Out</title>
+<sub-title lang="fr">Malaysia / Nick Canno</sub-title>
+<desc lang="fr">Nick Cannon et un invité mèneront deux équipes d'habitués de l'improvisation dans une battle royal comique en direct devant un public.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<episode-num system="xmltv_ns">15.22.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503232600 +0200" stop="20230503235100 +0200" channel="MTVHits.fr">
+<title lang="fr">Nick Cannon présente : Wild 'N Out</title>
+<sub-title lang="fr">Too $hort</sub-title>
+<desc lang="fr">Nick Cannon, Too $hort s'affrontent dans des jeux : Trap'n Out, Are You Smarter Than A Rapper, Greenery Screenery et la Wildstyle battle. Too $hort interprète &quot;Ain't Gunna Do It&quot;.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<episode-num system="xmltv_ns">15.23.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503235100 +0200" stop="20230504001600 +0200" channel="MTVHits.fr">
+<title lang="fr">Nick Cannon présente : Wild 'N Out</title>
+<sub-title lang="fr">Hotboii</sub-title>
+<desc lang="fr">Nick Cannon, Hotboii s'affrontent dans des jeux : Baby Daddy Baby Mama, Are You Smarter Than A Rapper, Hot Fire Cypher et la Wildstyle battle. Hotboii interprète &quot;Don't Need Time&quot;.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<episode-num system="xmltv_ns">15.24.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504001600 +0200" stop="20230504004100 +0200" channel="MTVHits.fr">
+<title lang="fr">Nick Cannon présente : Wild 'N Out</title>
+<sub-title lang="fr">Mooski</sub-title>
+<desc lang="fr">Nick Cannon, Mooski s'affrontent dans des jeux : Baby Daddy Baby Mama, It's My Birthday, R&amp;Beef et la Wildstyle battle. Mooski interprète &quot;Track Star&quot;.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<episode-num system="xmltv_ns">15.25.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504004100 +0200" stop="20230504010000 +0200" channel="MTVHits.fr">
+<title lang="fr">Nick Cannon présente : Wild 'N Out</title>
+<sub-title lang="fr">Trina</sub-title>
+<desc lang="fr">Nick Cannon et Trina s'affrontent dans des jeux : Baby Daddy Baby Mama, Are You Smarter Than A Rapper, Greenery Screenery, et la Wildstyle battle. Trina interprète &quot;Receipt&quot;.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<episode-num system="xmltv_ns">15.26.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504010000 +0200" stop="20230504012300 +0200" channel="MTVHits.fr">
+<title lang="fr">Hip Hop My House</title>
+<sub-title lang="fr">24KGoldn</sub-title>
+<desc lang="fr">Cam'ron et Zeez rencontrent Kelechi, le super fan de 24KGoldn. Fraîchement diplômé et célibataire, il a besoin d'aide avec son appart. Le duo lui propose un style inspiré de la région de la baie.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Musicale</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504012300 +0200" stop="20230504020000 +0200" channel="MTVHits.fr">
+<title lang="fr">Hip Hop My House</title>
+<sub-title lang="fr">Erica Banks</sub-title>
+<desc lang="fr">Cam'ron et Zeez se rendent à Compton pour rencontrer Lala, qui adore la rappeuse Erika Banks. Leur but est de redécorer la maison de Lala avec un style urbain et coloré inspiré de celui la rappeuse.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Musicale</category>
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504020000 +0200" stop="20230504060000 +0200" channel="MTVHits.fr">
+<title lang="fr">MTV Insomnia</title>
+<desc lang="fr">La playlist pour accompagner les plus insomniaques d'entre nous</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

@@ -1,0 +1,91 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230504060000 +0200" stop="20230504090000 +0200" channel="MTVHits.fr">
+<title lang="fr">MTV Breakfast Club</title>
+<desc lang="fr">Une sélection musicale taillée pour se lever du bon pied.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://img.bouygtel.fr/CMS/images/10FCB9EBDFC865E84E0D3ABB7103B197.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504090000 +0200" stop="20230504130000 +0200" channel="MTVHits.fr">
+<title lang="fr">Les 50 meilleurs clips</title>
+<desc lang="fr">Les 50 Meilleurs Clips c'est le classement des meilleurs clips d'un artiste ou d'un genre musical.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504130000 +0200" stop="20230504160000 +0200" channel="MTVHits.fr">
+<title lang="fr">Beats &amp; Lyrics</title>
+<desc lang="fr">Vous avez envie de chanter à tue-tête les tops du moment mais vous ne connaissez pas les paroles?! Branchez-vous sur MTV BASE et regardez &quot;Beats and Lyrics&quot;! Vous retrouverez les paroles de vos artistes préférés!</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FC9CB1F12F70CBF7F613F96D8109154D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504160000 +0200" stop="20230504190000 +0200" channel="MTVHits.fr">
+<title lang="fr">Music &amp; News</title>
+<desc lang="fr">La playlist des meilleurs clips du moment avec les dernières news</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504190000 +0200" stop="20230504194700 +0200" channel="MTVHits.fr">
+<title lang="fr">10 meilleurs clips rap</title>
+<desc lang="fr">Les 10 meilleurs clips Rap du moment</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504194700 +0200" stop="20230504202500 +0200" channel="MTVHits.fr">
+<title lang="fr">10 meilleurs clips pop</title>
+<desc lang="fr">Les 10 meilleurs clips Pop du moment</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504202500 +0200" stop="20230504210000 +0200" channel="MTVHits.fr">
+<title lang="fr">Brand New</title>
+<desc lang="fr">La meilleure sélection des nouveautés par MTV Hits.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504210000 +0200" stop="20230504230500 +0200" channel="MTVHits.fr">
+<title lang="fr">Rap Only</title>
+<desc lang="fr">La playlist rap avec les meilleurs clips du moment</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504230500 +0200" stop="20230505010000 +0200" channel="MTVHits.fr">
+<title lang="fr">MTV Classics Only</title>
+<desc lang="fr">La seule playlist pour réviser ses classiques Rap et R&amp;B !</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505010000 +0200" stop="20230505012500 +0200" channel="MTVHits.fr">
+<title lang="fr">Hip Hop My House</title>
+<sub-title lang="fr">A Boogie Wit Da Hoodie</sub-title>
+<desc lang="fr">Cam'ron et Zeez rendent visite à Mariah. Elle est fan d'A Boogie Wit A Hoodie, elle a une famille nombreuse et fait de la coiffure. Cam'ron et Zeez vont devoir accommoder tous ces aspects de sa vie.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Musicale</category>
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505012500 +0200" stop="20230505020000 +0200" channel="MTVHits.fr">
+<title lang="fr">Hip Hop My House</title>
+<sub-title lang="fr">Cam'ron</sub-title>
+<desc lang="fr">Cam'ron et Zeez rendent visite à Flower. Elle est cheffe végane et mère célibataire, et elle a du mal à concilier les deux. Cam'ron et Zeez vont rénover sa maison pour lui offrir un nouveau départ.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Musicale</category>
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505020000 +0200" stop="20230505060000 +0200" channel="MTVHits.fr">
+<title lang="fr">MTV Insomnia</title>
+<desc lang="fr">La playlist pour accompagner les plus insomniaques d'entre nous</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

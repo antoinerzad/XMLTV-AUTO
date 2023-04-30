@@ -1,0 +1,257 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230501011500 +0200" stop="20230501100000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Retrospective du journal / Météo / Le journal des territoires / Vue du ciel / L'atelier du jardin</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501100000 +0200" stop="20230501103000 +0200" channel="VosgesTV.fr">
+<title lang="fr">La santé d'abord</title>
+<desc lang="fr">L'émission traite du thème de la santé, de l'actualité du monde médical et des analyses d'experts. Tous les sujets sur la santé et le bien-être et comment prendre soin de son corps.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501103000 +0200" stop="20230501110000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Sur le Vif</title>
+<desc lang="fr">Retrouvez toute l'actualité vosgienne avec le magazine &quot;L'hebdo&quot; qui vous emmène découvrir chaque semaine des lieux intéressants ou des événements actuels culturels ou sportif dans la région. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501110000 +0200" stop="20230501113000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Des livres et vous</title>
+<desc lang="fr">Immergez-vous dans le monde de la littérature et de l'art avec Sarah Polacci qui présente les écrivains et les illustrateurs et leurs nouveaux oeuvres dans votre magazine &quot;Des livres et vous&quot;. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/62AA0F3FED984913269168B033B3738B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501113000 +0200" stop="20230501120000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Qu'on se le dise</title>
+<desc lang="fr">L'émission hebdomadaire présentée par Livia Buchler accueille des invités aux profils certes très différents, mais ayant pour point commun leur département de résidence. Culture, sport, entreprenariat, politique... Différents thèmes sont abordés dans chaque épisode.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501120000 +0200" stop="20230501121000 +0200" channel="VosgesTV.fr">
+<title lang="fr">À feu doux</title>
+<desc lang="fr">Magazine culinaire à la découverte des restaurants de la région lorraine.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8C983615591EB79F76BA5FEBDAE8C759.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501121000 +0200" stop="20230501123000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Rétro / Sur le Vif</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501123000 +0200" stop="20230501130000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal des territoires</title>
+<desc lang="fr">Magazine sur l'actualité, la politique, l'emploi, la justice et la géopolitique des territoires de France.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501130000 +0200" stop="20230501133000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Ça nous regarde</title>
+<desc lang="fr">Ça nous regarde est une émissions de société qui s'intéresse a différents thèmes tel que la santé, la mobilité, éducation, l'artisanat, les médias, les loisirs...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501133000 +0200" stop="20230501134500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Busin'Est le reportage / Activ' ton souffle / Le bois, les forêts et nous ! / La minute info</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501134500 +0200" stop="20230501140000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Films à l'affiche / L'atelier du jardin</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501140000 +0200" stop="20230501143000 +0200" channel="VosgesTV.fr">
+<title lang="fr">1, 2, 3 musette</title>
+<desc lang="fr"># 24</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501143000 +0200" stop="20230501150000 +0200" channel="VosgesTV.fr">
+<title lang="fr">1, 2, 3 Dansez</title>
+<desc lang="fr">2022</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.29.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501150000 +0200" stop="20230501153000 +0200" channel="VosgesTV.fr">
+<title lang="fr">1, 2, 3 musette</title>
+<desc lang="fr">2021</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.27.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501153000 +0200" stop="20230501160000 +0200" channel="VosgesTV.fr">
+<title lang="fr">La santé d'abord</title>
+<desc lang="fr">L'émission traite du thème de la santé, de l'actualité du monde médical et des analyses d'experts. Tous les sujets sur la santé et le bien-être et comment prendre soin de son corps.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501160000 +0200" stop="20230501163000 +0200" channel="VosgesTV.fr">
+<title lang="fr">À feu doux</title>
+<sub-title lang="fr">La Cambrousse</sub-title>
+<desc lang="fr">Emission culinaire</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F743505154C6EF9FF0087C5E4E3C3743.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501163000 +0200" stop="20230501170000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Des livres et vous</title>
+<desc lang="fr">Immergez-vous dans le monde de la littérature et de l'art avec Sarah Polacci qui présente les écrivains et les illustrateurs et leurs nouveaux oeuvres dans votre magazine &quot;Des livres et vous&quot;. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A33610FDE81DB903B11ECA0A6AF1A0EF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501170000 +0200" stop="20230501173000 +0200" channel="VosgesTV.fr">
+<title lang="fr">100% Jeunesse</title>
+<desc lang="fr">Valentin Piovesan présente cette émission où il invite des jeunes Mosellans à s'exprimer. Rencontre avec une jeunesse surprenante à chaque épisode !</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501173000 +0200" stop="20230501174500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Du Champ à l'assiette</title>
+<desc lang="fr">&quot;Du champ à l'assiette&quot; est un programme télévisé présenté par David Bachoffe, qui met en valeur des producteurs locaux et leurs produits authentiques. </desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501174500 +0200" stop="20230501180000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Ça va chez vous ?</title>
+<desc lang="fr">Ca va chez vous? est une émission anime par Livia Buchler. Elle part à la découverte des territoires que font les Vosges. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501180000 +0200" stop="20230501190000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Mag de la rédac / Météo / Sur le vif / Busin'Est le reportage / Activ' ton souffle / Le bois, les forêts et nous ! / La minute info</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501190000 +0200" stop="20230501194000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Le monde comme il va</title>
+<sub-title lang="fr">Character de Paul Heintz</sub-title>
+<desc lang="fr">Dans son roman futuriste 1984, publié en 1948, George Orwell raconte le destin d'un londonien qui mène une résistance solitaire face au parti dominant et totalitaire Big Brother. Son nom : Winston Smith. D'après l'annuaire anglais, il existe au moins vingt-cinq personnes portant le même patronyme que ce personnage résidant actuellement à Londres. Le réalisateur propose par ce film d'aller à leur rencontre. De chercher s'il existe, entre tous ces homonymes, et le héros d'Orwell, un lien indicible.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501194000 +0200" stop="20230501200000 +0200" channel="VosgesTV.fr">
+<title lang="fr">L'Hebdo</title>
+<desc lang="fr">Retrouvez toute l'actualité vosgienne avec le magazine &quot;L'hebdo&quot; qui vous emmène découvrir chaque semaine des lieux intéressants ou des événements actuels culturels ou sportif dans la région. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501200000 +0200" stop="20230501203000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Mag de la rédac / Météo / Sur le vif / Busin'Est le reportage / Activ' ton souffle / Le bois, les forêts et nous ! / La minute info</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501203000 +0200" stop="20230501204500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Mag de la rédac / Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501204500 +0200" stop="20230501215500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Le monde comme il va</title>
+<sub-title lang="fr">Dans le corridor de Antoine Chesné</sub-title>
+<desc lang="fr">Le corridor est un espace intermédiaire qui permet d'accéder à un autre espace. Moussa Mara est dans le corridor du pouvoir républicain. Les élections présidentielles de la République malienne auront lieu à la fin de l'année 2018. Arrivé en politique par l'action associative, Moussa Mara est un candidat bien singulier. En réaction à la crise sans fin qui mine le pays, il prépare une campagne électorale en dehors des cercles partisans. Les intentions politiques qui marquent son passé et définissent son discours sont-elles de réelles motivations pour l'action à venir ? Ne sont-elles pas autant une affiche spectaculaire au service d'une stratégie électorale?</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501215500 +0200" stop="20230501220000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Films à l'affiche</title>
+<desc lang="fr">Découvrez le programme des cinémas du département.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501220000 +0200" stop="20230501223000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Le monde comme il va</title>
+<sub-title lang="fr">La Bobine 11 004 de Mirabelle Fréville</sub-title>
+<desc lang="fr">En 1946, huit mois après les bombardements atomiques, une équipe de cinéma de l'armée américaine réalise au Japon un long métrage documentaire. Plusieurs bobines sont tournées à Hiroshima et Nagasaki mais à leur arrivée aux États-Unis, les images visionnées sont immédiatement classées &quot;secret défense&quot;. La Bobine 11004 explore les 19 minutes d'une bobine de ces rushes et révèle, image par image, la première censure de l'histoire du nucléaire.&quot;</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501223000 +0200" stop="20230501230000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Mag de la rédac / Météo / Sur le vif / Busin'Est le reportage / Activ' ton souffle / Le bois, les forêts et nous ! / La minute info</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501230000 +0200" stop="20230501233000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal des territoires</title>
+<desc lang="fr">Magazine sur l'actualité, la politique, l'emploi, la justice et la géopolitique des territoires de France.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501233000 +0200" stop="20230502000000 +0200" channel="VosgesTV.fr">
+<title lang="fr">L'Hebdo</title>
+<desc lang="fr">Retrouvez toute l'actualité vosgienne avec le magazine &quot;L'hebdo&quot; qui vous emmène découvrir chaque semaine des lieux intéressants ou des événements actuels culturels ou sportif dans la région. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502000000 +0200" stop="20230502003000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Mag de la rédac / Météo / Sur le vif / Busin'Est le reportage / Activ' ton souffle / Le bois, les forêts et nous ! / La minute info</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502003000 +0200" stop="20230502014000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Le monde comme il va</title>
+<sub-title lang="fr">Dans le corridor de Antoine Chesné</sub-title>
+<desc lang="fr">Le corridor est un espace intermédiaire qui permet d'accéder à un autre espace. Moussa Mara est dans le corridor du pouvoir républicain. Les élections présidentielles de la République malienne auront lieu à la fin de l'année 2018. Arrivé en politique par l'action associative, Moussa Mara est un candidat bien singulier. En réaction à la crise sans fin qui mine le pays, il prépare une campagne électorale en dehors des cercles partisans. Les intentions politiques qui marquent son passé et définissent son discours sont-elles de réelles motivations pour l'action à venir ? Ne sont-elles pas autant une affiche spectaculaire au service d'une stratégie électorale?</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502014000 +0200" stop="20230502100000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Mag de la rédac / Météo / Sur le vif / Busin'Est le reportage / Activ' ton souffle / Le bois, les forêts et nous ! / La minute info</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

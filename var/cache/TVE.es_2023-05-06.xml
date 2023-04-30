@@ -1,0 +1,205 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230506060000 +0200" stop="20230506070000 +0200" channel="TVE.es">
+<title lang="fr">Noticias 24H</title>
+<desc lang="fr">Información continua 24 horas, nacional e internacional, 365 días al año.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A66F28ADB1B9F12CE0DA953072E1FD27.jpg" />
+<episode-num system="xmltv_ns">0.124.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506070000 +0200" stop="20230506073000 +0200" channel="TVE.es">
+<title lang="fr">Para todos La 2</title>
+<desc lang="fr">Magazine semanal que a traves de reportajes, entrevistas y secciones fijas analiza los aspectos más sociales que pasan a nuestro alrededor.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5CB8F0DBA31CFF5E2DEEAA1752DC0C4E.jpg" />
+<episode-num system="xmltv_ns">0.107.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506073000 +0200" stop="20230506074500 +0200" channel="TVE.es">
+<title lang="fr">Emprende</title>
+<desc lang="fr">Programa dedicado al emprendimiento en españa.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8D73FA7E07F0DECED058BEAF9BE0A143.jpg" />
+<episode-num system="xmltv_ns">0.218.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506074500 +0200" stop="20230506081500 +0200" channel="TVE.es">
+<title lang="fr">En lengua de signos</title>
+<desc lang="fr">Es un programa semanal de media hora de duración. Acerca la actualidad del mundo a las personas sordas en su lengua y con subtítulos para aquellos sordos no sigantes.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/245CDE31D35F960F7B7EDB3ED7AEEDA5.jpg" />
+<episode-num system="xmltv_ns">0.696.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506081500 +0200" stop="20230506084500 +0200" channel="TVE.es">
+<title lang="fr">Parlamento</title>
+<desc lang="fr">Programa de actualidad parlamentaria con secciones fijas y debate político.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<episode-num system="xmltv_ns">0.557.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506084500 +0200" stop="20230506091000 +0200" channel="TVE.es">
+<title lang="fr">Bloque infantil</title>
+<sub-title lang="fr">Mironins</sub-title>
+<desc lang="fr">Incluye: - MIRONINS - MYA GO - MOMONSTERS PARA TODOS LOS PUBLICOS.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/68BF2DDE999FE033BBE699A18C4C6EF1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506091000 +0200" stop="20230506094000 +0200" channel="TVE.es">
+<title lang="fr">El camino del Cid: Diario de una ciclista</title>
+<sub-title lang="fr">Las Tres Taifas: De Molina de Aragón a Cella</sub-title>
+<desc lang="fr">Después de salir de Molina de Aragón, Ainara visitará el parque natural del Alto Tajo en Guadalajara. Luego recorrerá el camino hasta llegar a Chequilla, para terminar el día en Checa, un importante yacimiento celtibero. Terminará en Albarracín, donde viajará en el tiempo hasta la época medieval.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506094000 +0200" stop="20230506101000 +0200" channel="TVE.es">
+<title lang="fr">Página 2</title>
+<desc lang="fr">Página Dos es un magazín divulgativo de la 2 sobre el mundo de los libros.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/83A2EFF79C67DADF11ED84E1893B76AF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506101000 +0200" stop="20230506110000 +0200" channel="TVE.es">
+<title lang="fr">Programa a determinar</title>
+<desc lang="fr">Programación a determinar.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Programme indéterminé</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506110000 +0200" stop="20230506140000 +0200" channel="TVE.es">
+<title lang="fr">Especial informativo</title>
+<sub-title lang="fr">Coronación Carlos III</sub-title>
+<desc lang="fr">Espacio informativo dedicado a la actualidad informativa, política y cultural nacional e internacional. </desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506140000 +0200" stop="20230506150000 +0200" channel="TVE.es">
+<title lang="fr">Corazón</title>
+<desc lang="fr">Magazine en directo, en donde en 30 minutos hacemos un repaso a toda la actualidad social de nuestro país.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FF2AED9B88DD8F3065B8CA09BE4B101A.jpg" />
+<episode-num system="xmltv_ns">0.886.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506150000 +0200" stop="20230506160000 +0200" channel="TVE.es">
+<title lang="fr">Telediario 1</title>
+<desc lang="fr">Espacio diario de información nacional e internacional en directo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D6FCCB902F17622656E3BFD1F08FA868.jpg" />
+<episode-num system="xmltv_ns">0.125.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506160000 +0200" stop="20230506164500 +0200" channel="TVE.es">
+<title lang="fr">Saber y ganar</title>
+<desc lang="fr">Programa concurso.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E98B391CBB56A85AE8024F8F2CCC3B3A.jpg" />
+<episode-num system="xmltv_ns">0.236.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506164500 +0200" stop="20230506190000 +0200" channel="TVE.es">
+<title lang="fr">Días de tele</title>
+<desc lang="fr">Show semanal que rememora grandes momentos vistos a través de la televisión. El impacto de las noticias que han marcado la Historia, los personajes que aparecen en nuestros recuerdos vistos desde la perspectiva actual.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3BB1C5A31435E9778BC01534A52F045A.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506190000 +0200" stop="20230506210000 +0200" channel="TVE.es">
+<title lang="fr">Cine de barrio</title>
+<desc lang="fr">Programa presentado por Concha Velasco con entrevistas y reportajes sobre la película que se emite y la época en la que se produjo.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5E446C9D9FA40DEC10882BE433882D79.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506210000 +0200" stop="20230506213000 +0200" channel="TVE.es">
+<title lang="fr">Telediario 2</title>
+<desc lang="fr">Programa diario de noticias nacionales e internacionales en directo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D216C8700ECAA452915A0820D31CF316.jpg" />
+<episode-num system="xmltv_ns">0.125.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506213000 +0200" stop="20230506220000 +0200" channel="TVE.es">
+<title lang="fr">Informe Semanal</title>
+<desc lang="fr">Incluye reportajes de actualidad nacional, internacional, cultura, sociedad, deportes de entre 10 y 15 minutos de duración.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2B759187BDBCE77F912A10A1BFF8F3C5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506220000 +0200" stop="20230507003000 +0200" channel="TVE.es">
+<title lang="fr">Cover Night</title>
+<desc lang="fr">Los cantantes interpretarán, de uno en uno, una singular versión en otro estilo musical de un conocido éxito internacional delante de un exigente jurado compuesto por 3 famosos artistas. Cuando al menos 2 de ellos voten a favor del intérprete, éste pasará a ocupar una de las cabinas.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Variétés</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B1FC36F957B6F407827D19977B1F991A.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230507003000 +0200" stop="20230507013000 +0200" channel="TVE.es">
+<title lang="fr">Días de cine</title>
+<desc lang="fr">Programa de información y crítica, en el que se repasan los estrenos cinematográficos más importantes de la semana.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<episode-num system="xmltv_ns">0.296.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230507013000 +0200" stop="20230507020000 +0200" channel="TVE.es">
+<title lang="fr">¡Atención Obras!</title>
+<desc lang="fr">Magazine cultural sobre las más diversas manifestaciones artísticas conducido por Cayetana Guillén Cuervo.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/150E985F176F0BAEBF2FB2A087FEF52B.jpg" />
+<episode-num system="xmltv_ns">0.226.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230507020000 +0200" stop="20230507023000 +0200" channel="TVE.es">
+<title lang="fr">Repor</title>
+<desc lang="fr">Es un programa de reportajes de TVE que aborda contenidos sociales, denuncia y situaciones de la vida cotidiana.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4650E25D59EBB65BE598721AD597CF72.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230507023000 +0200" stop="20230507031500 +0200" channel="TVE.es">
+<title lang="fr">Tendido cero</title>
+<desc lang="fr">Actualidad taurina y todos los aspectos relacionados con el mundo del toro.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3E2386594FE95890CC1526DFC6B1FB17.jpg" />
+<episode-num system="xmltv_ns">0.252.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230507031500 +0200" stop="20230507034500 +0200" channel="TVE.es">
+<title lang="fr">Informe Semanal</title>
+<desc lang="fr">Incluye reportajes de actualidad nacional, internacional, cultura, sociedad, deportes de entre 10 y 15 minutos de duración.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2B759187BDBCE77F912A10A1BFF8F3C5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230507034500 +0200" stop="20230507060000 +0200" channel="TVE.es">
+<title lang="fr">Noticias 24H</title>
+<desc lang="fr">Información continua 24 horas, nacional e internacional, 365 días al año.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A66F28ADB1B9F12CE0DA953072E1FD27.jpg" />
+<episode-num system="xmltv_ns">0.125.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

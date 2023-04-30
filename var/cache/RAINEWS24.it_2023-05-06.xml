@@ -1,0 +1,645 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230506000000 +0200" stop="20230506003000 +0200" channel="RAINEWS24.it">
+<title lang="fr">News</title>
+<desc lang="fr">Notiziario, attualità con approfondimento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200084.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506003000 +0200" stop="20230506005700 +0200" channel="RAINEWS24.it">
+<title lang="fr">News + Rassegna Stampa</title>
+<desc lang="fr">Rassegna stampa delle principali notizie del giorno dall'Italia e dal mondo, a cura della redazione giornalistica Rai News.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9560630.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506005700 +0200" stop="20230506010000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Meteo</title>
+<desc lang="fr">Le previsioni metereologiche della giornata e della settimana.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_2192977.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506010000 +0200" stop="20230506013000 +0200" channel="RAINEWS24.it">
+<title lang="fr">News</title>
+<desc lang="fr">Notiziario, attualità con approfondimento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200312.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506013000 +0200" stop="20230506013300 +0200" channel="RAINEWS24.it">
+<title lang="fr">Riepilogo News</title>
+<desc lang="fr">In 3 o 5 minuti scoprite tutte le notizie più importanti.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11190350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506013300 +0200" stop="20230506015800 +0200" channel="RAINEWS24.it">
+<title lang="fr">News + Approfondimento</title>
+<desc lang="fr">News, approfondimenti e rassegne stampa giornaliere.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200312.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506015800 +0200" stop="20230506020000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Meteo</title>
+<desc lang="fr">Le previsioni metereologiche della giornata e della settimana.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_2192977.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506020000 +0200" stop="20230506023000 +0200" channel="RAINEWS24.it">
+<title lang="fr">News + Rassegna Stampa</title>
+<desc lang="fr">Rassegna stampa delle principali notizie del giorno dall'Italia e dal mondo, a cura della redazione giornalistica Rai News.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9560630.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506023000 +0200" stop="20230506023300 +0200" channel="RAINEWS24.it">
+<title lang="fr">Riepilogo News</title>
+<desc lang="fr">In 3 o 5 minuti scoprite tutte le notizie più importanti.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11338307.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506023300 +0200" stop="20230506025800 +0200" channel="RAINEWS24.it">
+<title lang="fr">News + Approfondimento</title>
+<desc lang="fr">News, approfondimenti e rassegne stampa giornaliere.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11237556.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506025800 +0200" stop="20230506030000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Meteo</title>
+<desc lang="fr">Le previsioni metereologiche della giornata e della settimana.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_2192977.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506030000 +0200" stop="20230506033000 +0200" channel="RAINEWS24.it">
+<title lang="fr">News + Rassegna Stampa</title>
+<desc lang="fr">Rassegna stampa delle principali notizie del giorno dall'Italia e dal mondo, a cura della redazione giornalistica Rai News.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9560630.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506033000 +0200" stop="20230506033300 +0200" channel="RAINEWS24.it">
+<title lang="fr">Riepilogo News</title>
+<desc lang="fr">In 3 o 5 minuti scoprite tutte le notizie più importanti.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200084.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506033300 +0200" stop="20230506035800 +0200" channel="RAINEWS24.it">
+<title lang="fr">News + Approfondimento</title>
+<desc lang="fr">News, approfondimenti e rassegne stampa giornaliere.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200704.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506035800 +0200" stop="20230506040000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Meteo</title>
+<desc lang="fr">Le previsioni metereologiche della giornata e della settimana.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_2192977.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506040000 +0200" stop="20230506043000 +0200" channel="RAINEWS24.it">
+<title lang="fr">News + Rassegna Stampa</title>
+<desc lang="fr">Rassegna stampa delle principali notizie del giorno dall'Italia e dal mondo, a cura della redazione giornalistica Rai News.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9560630.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506043000 +0200" stop="20230506045700 +0200" channel="RAINEWS24.it">
+<title lang="fr">News + Approfondimento</title>
+<desc lang="fr">News, approfondimenti e rassegne stampa giornaliere.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11190350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506045700 +0200" stop="20230506050000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Meteo</title>
+<desc lang="fr">Le previsioni metereologiche della giornata e della settimana.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_2192977.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506050000 +0200" stop="20230506053000 +0200" channel="RAINEWS24.it">
+<title lang="fr">News + Rassegna Stampa</title>
+<desc lang="fr">Rassegna stampa delle principali notizie del giorno dall'Italia e dal mondo, a cura della redazione giornalistica Rai News.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9560630.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506053000 +0200" stop="20230506055700 +0200" channel="RAINEWS24.it">
+<title lang="fr">News + Rassegna Stampa</title>
+<desc lang="fr">Rassegna stampa delle principali notizie del giorno dall'Italia e dal mondo, a cura della redazione giornalistica Rai News.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9560630.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506055700 +0200" stop="20230506055800 +0200" channel="RAINEWS24.it">
+<title lang="fr">Meteo</title>
+<desc lang="fr">Le previsioni metereologiche della giornata e della settimana.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_2192977.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506055800 +0200" stop="20230506060000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Traffico</title>
+<desc lang="fr">Un bollettino del traffico. In sessanta secondi viene presentata la situazione attuale sulla viabilità.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_15713859.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506060000 +0200" stop="20230506062000 +0200" channel="RAINEWS24.it">
+<title lang="fr">News Titoli</title>
+<desc lang="fr">In tre minuti, scoprite i titoli delle notizie più importanti che potrete seguire in dettaglio in un altro programma informativa.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200704.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506062000 +0200" stop="20230506062600 +0200" channel="RAINEWS24.it">
+<title lang="fr">Rassegna Stampa Prime Pagine</title>
+<desc lang="fr">Raccolta di titoli e articoli più importanti del giorno.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6336386.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506062600 +0200" stop="20230506063000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Meteo Show</title>
+<desc lang="fr">Le previsioni metereologiche della giornata e della settimana.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_16810087.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506063000 +0200" stop="20230506064500 +0200" channel="RAINEWS24.it">
+<title lang="fr">News</title>
+<desc lang="fr">Notiziario, attualità con approfondimento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11338307.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506064500 +0200" stop="20230506065700 +0200" channel="RAINEWS24.it">
+<title lang="fr">Best Of Ar</title>
+<desc lang="fr">Un contenuto televisivo dedicato all'attualità.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11237556.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506065700 +0200" stop="20230506070000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Ciss</title>
+<desc lang="fr">Notiziario, attualità con approfondimento.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11190350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506070000 +0200" stop="20230506073000 +0200" channel="RAINEWS24.it">
+<title lang="fr">News Titoli</title>
+<desc lang="fr">In tre minuti, scoprite i titoli delle notizie più importanti che potrete seguire in dettaglio in un altro programma informativa.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11190350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506073000 +0200" stop="20230506075400 +0200" channel="RAINEWS24.it">
+<title lang="fr">Rassegna Stampa</title>
+<desc lang="fr">Raccolta di titoli e articoli più importanti del giorno.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6336386.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506075400 +0200" stop="20230506080000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Meteo Show</title>
+<desc lang="fr">Le previsioni metereologiche della giornata e della settimana.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_16810087.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506080000 +0200" stop="20230506082600 +0200" channel="RAINEWS24.it">
+<title lang="fr">News</title>
+<desc lang="fr">Notiziario, attualità con approfondimento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200084.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506082600 +0200" stop="20230506083000 +0200" channel="RAINEWS24.it">
+<title lang="fr">CCISS</title>
+<desc lang="fr">Journal.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200084.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506083000 +0200" stop="20230506085300 +0200" channel="RAINEWS24.it">
+<title lang="fr">Rassegna Stampa</title>
+<desc lang="fr">Raccolta di titoli e articoli più importanti del giorno.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6336386.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506085300 +0200" stop="20230506090000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Meteo Show</title>
+<desc lang="fr">Le previsioni metereologiche della giornata e della settimana.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_16810087.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506090000 +0200" stop="20230506092600 +0200" channel="RAINEWS24.it">
+<title lang="fr">News Titoli</title>
+<desc lang="fr">In tre minuti, scoprite i titoli delle notizie più importanti che potrete seguire in dettaglio in un altro programma informativa.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11338307.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506092600 +0200" stop="20230506093000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Ciss</title>
+<desc lang="fr">Notiziario, attualità con approfondimento.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11338307.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506093000 +0200" stop="20230506100000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Tuttifrutti</title>
+<desc lang="fr">Storie gustose di arte, spettacolo, design e moda, musica, letteratura e cinema.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_25625984.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506100000 +0200" stop="20230506101500 +0200" channel="RAINEWS24.it">
+<title lang="fr">News Titoli</title>
+<desc lang="fr">In tre minuti, scoprite i titoli delle notizie più importanti che potrete seguire in dettaglio in un altro programma informativa.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200084.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506101500 +0200" stop="20230506103000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Filo Diretto Guerra in Ucraina</title>
+<desc lang="fr">Il programma televisivo dedicato all'attualità in riferimento alla guerra in Ucraina.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200704.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506103000 +0200" stop="20230506104500 +0200" channel="RAINEWS24.it">
+<title lang="fr">Filo Diretto Guerra in Ucraina</title>
+<desc lang="fr">Il programma televisivo dedicato all'attualità in riferimento alla guerra in Ucraina.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11190350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506104500 +0200" stop="20230506105700 +0200" channel="RAINEWS24.it">
+<title lang="fr">Amarcord</title>
+<desc lang="fr">Intervista agli anziani che hanno vissuto gli anni della guerra.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Histoire</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_18671863.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506105700 +0200" stop="20230506110000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Promo Prima Serata Rai del Giorno</title>
+<desc lang="fr">Tutte le informazioni su Promo Prima Serata Rai del Giorno in onda su Rai News24.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200312.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506110000 +0200" stop="20230506113000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Tg Lis + News</title>
+<desc lang="fr">Il notiziario nella lingua italiana dei segni. Le notizie del giorno.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_6258470.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506113000 +0200" stop="20230506114500 +0200" channel="RAINEWS24.it">
+<title lang="fr">News</title>
+<desc lang="fr">Notiziario, attualità con approfondimento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200312.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506114500 +0200" stop="20230506120000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Focus 24</title>
+<desc lang="fr">Journal.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200084.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506120000 +0200" stop="20230506123000 +0200" channel="RAINEWS24.it">
+<title lang="fr">News</title>
+<desc lang="fr">Notiziario, attualità con approfondimento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11237556.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506123000 +0200" stop="20230506124500 +0200" channel="RAINEWS24.it">
+<title lang="fr">News</title>
+<desc lang="fr">Notiziario, attualità con approfondimento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200704.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506124500 +0200" stop="20230506130000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Sport 24</title>
+<desc lang="fr">JT sport.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_6267421.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506130000 +0200" stop="20230506132700 +0200" channel="RAINEWS24.it">
+<title lang="fr">News Titoli</title>
+<desc lang="fr">In tre minuti, scoprite i titoli delle notizie più importanti che potrete seguire in dettaglio in un altro programma informativa.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200312.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506132700 +0200" stop="20230506133000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Promo Prima Serata Rai del Giorno</title>
+<desc lang="fr">Tutte le informazioni su Promo Prima Serata Rai del Giorno in onda su Rai News24.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11237556.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506133000 +0200" stop="20230506134500 +0200" channel="RAINEWS24.it">
+<title lang="fr">News</title>
+<desc lang="fr">Notiziario, attualità con approfondimento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11190350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506134500 +0200" stop="20230506140000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Focus 24</title>
+<desc lang="fr">Journal.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200312.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506140000 +0200" stop="20230506143000 +0200" channel="RAINEWS24.it">
+<title lang="fr">News Titoli</title>
+<desc lang="fr">In tre minuti, scoprite i titoli delle notizie più importanti che potrete seguire in dettaglio in un altro programma informativa.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11237556.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506143000 +0200" stop="20230506143300 +0200" channel="RAINEWS24.it">
+<title lang="fr">Sommario</title>
+<desc lang="fr">Journal.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_6258470.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506143300 +0200" stop="20230506150000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Sapori e Colori Estate</title>
+<desc lang="fr">Magazine culinaire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_14480525.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506150000 +0200" stop="20230506153000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Focus 24 - Un'estate Italiana</title>
+<desc lang="fr">Journal.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11237556.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506153000 +0200" stop="20230506154500 +0200" channel="RAINEWS24.it">
+<title lang="fr">Focus 24 - Un'estate Italiana</title>
+<desc lang="fr">Journal.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200704.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506154500 +0200" stop="20230506160000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Amarcord</title>
+<desc lang="fr">Intervista agli anziani che hanno vissuto gli anni della guerra.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Histoire</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_18608895.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506160000 +0200" stop="20230506162700 +0200" channel="RAINEWS24.it">
+<title lang="fr">News Titoli</title>
+<desc lang="fr">In tre minuti, scoprite i titoli delle notizie più importanti che potrete seguire in dettaglio in un altro programma informativa.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200704.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506162700 +0200" stop="20230506163000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Promo Prima Serata Rai del Giorno</title>
+<desc lang="fr">Tutte le informazioni su Promo Prima Serata Rai del Giorno in onda su Rai News24.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200704.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506163000 +0200" stop="20230506164500 +0200" channel="RAINEWS24.it">
+<title lang="fr">News</title>
+<desc lang="fr">Notiziario, attualità con approfondimento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11338307.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506164500 +0200" stop="20230506170000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Focus 24</title>
+<desc lang="fr">Journal.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11190350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506170000 +0200" stop="20230506173000 +0200" channel="RAINEWS24.it">
+<title lang="fr">News Titoli</title>
+<desc lang="fr">In tre minuti, scoprite i titoli delle notizie più importanti che potrete seguire in dettaglio in un altro programma informativa.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11190350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506173000 +0200" stop="20230506174500 +0200" channel="RAINEWS24.it">
+<title lang="fr">News</title>
+<desc lang="fr">Notiziario, attualità con approfondimento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200084.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506174500 +0200" stop="20230506180000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Best Of Ar</title>
+<desc lang="fr">Un contenuto televisivo dedicato all'attualità.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200704.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506180000 +0200" stop="20230506183000 +0200" channel="RAINEWS24.it">
+<title lang="fr">News</title>
+<desc lang="fr">Notiziario, attualità con approfondimento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200312.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506183000 +0200" stop="20230506190000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Tuttifrutti</title>
+<desc lang="fr">Storie gustose di arte, spettacolo, design e moda, musica, letteratura e cinema.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_25625984.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506190000 +0200" stop="20230506193000 +0200" channel="RAINEWS24.it">
+<title lang="fr">News Titoli</title>
+<desc lang="fr">In tre minuti, scoprite i titoli delle notizie più importanti che potrete seguire in dettaglio in un altro programma informativa.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11338307.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506193000 +0200" stop="20230506193500 +0200" channel="RAINEWS24.it">
+<title lang="fr">Sommario News</title>
+<desc lang="fr">Journal.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11190350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506193500 +0200" stop="20230506194500 +0200" channel="RAINEWS24.it">
+<title lang="fr">Sport 24</title>
+<desc lang="fr">JT sport.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_6267422.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506194500 +0200" stop="20230506200000 +0200" channel="RAINEWS24.it">
+<title lang="fr">The Best Of Motori 24</title>
+<desc lang="fr">La rubrica dedicata al motociclismo.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_15824408.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506200000 +0200" stop="20230506203000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Tg Lis + News</title>
+<desc lang="fr">Il notiziario nella lingua italiana dei segni. Le notizie del giorno.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11237557.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506203000 +0200" stop="20230506203500 +0200" channel="RAINEWS24.it">
+<title lang="fr">Sommario News</title>
+<desc lang="fr">Journal.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11338307.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506203500 +0200" stop="20230506210000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Basta la salute</title>
+<desc lang="fr">Basta la salute: vivere meglio, rimanere in forma.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11040447.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506210000 +0200" stop="20230506213000 +0200" channel="RAINEWS24.it">
+<title lang="fr">News Titoli</title>
+<desc lang="fr">In tre minuti, scoprite i titoli delle notizie più importanti che potrete seguire in dettaglio in un altro programma informativa.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200084.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506213000 +0200" stop="20230506214500 +0200" channel="RAINEWS24.it">
+<title lang="fr">News</title>
+<desc lang="fr">Notiziario, attualità con approfondimento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11237556.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506214500 +0200" stop="20230506220000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Sport 24</title>
+<desc lang="fr">JT sport.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_6267418.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506220000 +0200" stop="20230506223000 +0200" channel="RAINEWS24.it">
+<title lang="fr">News Titoli</title>
+<desc lang="fr">In tre minuti, scoprite i titoli delle notizie più importanti che potrete seguire in dettaglio in un altro programma informativa.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200312.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506223000 +0200" stop="20230506230000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Ritratti d'autore</title>
+<desc lang="fr">Magazine musical.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Musique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_8058901.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506230000 +0200" stop="20230506233000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Rassegna Stampa</title>
+<desc lang="fr">Raccolta di titoli e articoli più importanti del giorno.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6336386.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506233000 +0200" stop="20230507000000 +0200" channel="RAINEWS24.it">
+<title lang="fr">Rassegna Stampa</title>
+<desc lang="fr">Raccolta di titoli e articoli più importanti del giorno.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6336386.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

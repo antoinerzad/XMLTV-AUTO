@@ -1,0 +1,103 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230505060000 +0200" stop="20230505090000 +0200" channel="MTVHits.fr">
+<title lang="fr">MTV Breakfast Club</title>
+<desc lang="fr">Une sélection musicale taillée pour se lever du bon pied.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://img.bouygtel.fr/CMS/images/10FCB9EBDFC865E84E0D3ABB7103B197.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505090000 +0200" stop="20230505125900 +0200" channel="MTVHits.fr">
+<title lang="fr">Les 50 meilleurs clips</title>
+<desc lang="fr">Les 50 Meilleurs Clips c'est le classement des meilleurs clips d'un artiste ou d'un genre musical.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505125900 +0200" stop="20230505160000 +0200" channel="MTVHits.fr">
+<title lang="fr">Beats &amp; Lyrics</title>
+<desc lang="fr">Vous avez envie de chanter à tue-tête les tops du moment mais vous ne connaissez pas les paroles?! Branchez-vous sur MTV BASE et regardez &quot;Beats and Lyrics&quot;! Vous retrouverez les paroles de vos artistes préférés!</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FC9CB1F12F70CBF7F613F96D8109154D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505160000 +0200" stop="20230505190000 +0200" channel="MTVHits.fr">
+<title lang="fr">Music &amp; News</title>
+<desc lang="fr">La playlist des meilleurs clips du moment avec les dernières news</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505190000 +0200" stop="20230505193500 +0200" channel="MTVHits.fr">
+<title lang="fr">10 meilleurs clips US</title>
+<desc lang="fr">Les 10 meilleurs clips US du moment</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505193500 +0200" stop="20230505194500 +0200" channel="MTVHits.fr">
+<title lang="fr">Fresh Out Live</title>
+<desc lang="fr">Fresh Out Live offre les dernières actus musique et pop de la semaine avec des interviews exclusives et des performances lives dans les studios d'MTV.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<episode-num system="xmltv_ns">3.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505194500 +0200" stop="20230505202300 +0200" channel="MTVHits.fr">
+<title lang="fr">La mixtape de Thalia : la bande son de ma vie</title>
+<sub-title lang="fr">Vinyles, cassettes et rock en espagnol</sub-title>
+<desc lang="fr">Thalia entreprend un voyage musical, qui commence avec Charly Alberti de Soda Stereo. Ensuite, elle analyse le phénomène des mixtapes. Plus tard, elle retrouve Rocco de La Maldita Vecindad. Pendant qu'ils discutent, Thalia fait un incroyable rêve.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Interview</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505202300 +0200" stop="20230505210000 +0200" channel="MTVHits.fr">
+<title lang="fr">10 meilleurs clips latino</title>
+<desc lang="fr">Les 10 meilleurs clips Latino du moment</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505210000 +0200" stop="20230505220500 +0200" channel="MTVHits.fr">
+<title lang="fr">MTV World Stage</title>
+<sub-title lang="fr">Bebe Rexha Isle of MTV 2019</sub-title>
+<desc lang="fr">Le 9 juillet 2019, l'île de Malte a accueilli le festival Isle of MTV pour sa 13e édition. Les caméras d'MTV ont pu filmer la prestation de Bebe Rexha qui a fait vibrer le coeur des festivaliers pour un set enflammé.</desc>
+<category lang="fr">Spectacle</category>
+<category lang="fr">Pop &amp; Rock</category>
+<episode-num system="xmltv_ns">0.114.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505220500 +0200" stop="20230506010000 +0200" channel="MTVHits.fr">
+<title lang="fr">Club Party</title>
+<desc lang="fr">La meilleure sélection de clips pour faire la fête.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506010000 +0200" stop="20230506012300 +0200" channel="MTVHits.fr">
+<title lang="fr">Hip Hop My House</title>
+<sub-title lang="fr">Rae Sremmurd</sub-title>
+<desc lang="fr">Cam'ron et Zeez se rendent à Los Angeles pour rencontrer Akkaraj (AK), super fan de Rae Sremmurd. Cet hyper-créatif a besoin de transformer son une pièce en appartement aux multiples fonctions.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Musicale</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506012300 +0200" stop="20230506020000 +0200" channel="MTVHits.fr">
+<title lang="fr">Hip Hop My House</title>
+<sub-title lang="fr">Tyga</sub-title>
+<desc lang="fr">Cam'ron et Zeez se rendent à Rowland Heights, en Californie, pour rencontrer Rashard, super fan de Tyga, et transformer son pavillon de banlieue en une oasis hip-hop, prête à recevoir une pool party.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Musicale</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506020000 +0200" stop="20230506060000 +0200" channel="MTVHits.fr">
+<title lang="fr">MTV Insomnia</title>
+<desc lang="fr">La playlist pour accompagner les plus insomniaques d'entre nous</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

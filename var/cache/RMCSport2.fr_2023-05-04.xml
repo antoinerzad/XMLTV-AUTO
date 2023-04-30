@@ -1,0 +1,99 @@
+<!-- racacax\XmlTv\Component\Provider\SFR -->
+<programme start="20230504030000 +0200" stop="20230504060000 +0200" channel="RMCSport2.fr">
+<title lang="fr">MMA : UFC</title>
+<desc lang="fr">Diffusion de combats de MMA, un sport extrême venu d'Outre-Atlantique et fusion de plusieurs arts martiaux.</desc>
+<category lang="fr">Sports de combat</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/1/3/7157315.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504060000 +0200" stop="20230504070000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde WBC</title>
+<desc lang="fr">Suivez des combats de boxe se disputant dans le cadre du Championnat du monde organisé pa la WBC.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/9/0/7125091.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504070000 +0200" stop="20230504100000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat WBC Continental des Amériques</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/3/7069338.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504100000 +0200" stop="20230504130000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde WBC</title>
+<desc lang="fr">Suivez des combats de boxe se disputant dans le cadre du Championnat du monde organisé pa la WBC.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/4/6/7146645.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504130000 +0200" stop="20230504140000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde WBO</title>
+<desc lang="fr">Diffusion de combats du Championnat de monde de boxe WBO.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/2/0/7158029.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504140000 +0200" stop="20230504150000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde WBO</title>
+<desc lang="fr">Diffusion de combats du Championnat de monde de boxe WBO.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/9/0/7125091.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504150000 +0200" stop="20230504151500 +0200" channel="RMCSport2.fr">
+<title lang="fr">Pépite RMC Sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire sportif</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/5/5757560.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504151500 +0200" stop="20230504181500 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde WBA</title>
+<desc lang="fr">Suivez des combats du Championnat du monde de la WBA, une des principales fédérations mondiales de boxe.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/9/1/7210196.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504181500 +0200" stop="20230504183000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Pépite RMC Sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire sportif</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/5/5757560.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504183000 +0200" stop="20230504193000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde WBO</title>
+<desc lang="fr">Diffusion de combats du Championnat de monde de boxe WBO.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/2/0/7158029.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504193000 +0200" stop="20230504203000 +0200" channel="RMCSport2.fr">
+<title lang="fr">Boxe : Championnat du monde IBF</title>
+<desc lang="fr">Suivez les combats du Championnat du monde de boxe IBF.</desc>
+<category lang="fr">Boxe</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/3/4/6657431.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504203000 +0200" stop="20230504210000 +0200" channel="RMCSport2.fr">
+<title lang="fr">MMA</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine sportif</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/2/9/5795920.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230504210000 +0200" stop="20230505000000 +0200" channel="RMCSport2.fr">
+<title lang="fr">MMA : UFC</title>
+<desc lang="fr">Diffusion de combats de MMA, un sport extrême venu d'Outre-Atlantique et fusion de plusieurs arts martiaux.</desc>
+<category lang="fr">Sports de combat</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/3/0/7238039.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230505000000 +0200" stop="20230505030000 +0200" channel="RMCSport2.fr">
+<title lang="fr">MMA : UFC</title>
+<desc lang="fr">Diffusion de combats de MMA, un sport extrême venu d'Outre-Atlantique et fusion de plusieurs arts martiaux.</desc>
+<category lang="fr">Sports de combat</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/9/9/7181990.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>

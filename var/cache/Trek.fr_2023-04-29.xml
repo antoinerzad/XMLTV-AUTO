@@ -1,0 +1,487 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230429061500 +0200" stop="20230429071100 +0200" channel="Trek.fr">
+<title lang="fr">La Dominique, l'île nature</title>
+<desc lang="fr">Dans les Caraïbes, la Dominique est une île attachée aux valeurs d'une économie verte et à la préservation de son patrimoine naturel face au tourisme de masse.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/645980884B771D49F5D37791FB95D7EF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429071100 +0200" stop="20230429080600 +0200" channel="Trek.fr">
+<title lang="fr">Flying Men au pays des Vikings</title>
+<desc lang="fr">Rodolphe Cassan passe sa vie dans les airs : il est l'un des meilleurs spécialistes français du wingsuit et une référence dans le monde du base jump.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A6267309D27573DA8F7430FBA8FFA4F3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429080600 +0200" stop="20230429083100 +0200" channel="Trek.fr">
+<title lang="fr">Red Bull: Rob Warner's Wild Rides</title>
+<sub-title lang="fr">Nouvelle-Zélande</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">VTT</category>
+<icon src="https://img.bouygtel.fr/CMS/images/22F5C4D5CA076C94ED68E09957F1A3CC.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429083100 +0200" stop="20230429085700 +0200" channel="Trek.fr">
+<title lang="fr">Red Bull: Rob Warner's Wild Rides</title>
+<sub-title lang="fr">Colombie</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">VTT</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1AB1DEF0D5475D154FF0FA290B539693.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429085700 +0200" stop="20230429093800 +0200" channel="Trek.fr">
+<title lang="fr">Boom</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Snowboard</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BB936D8813B45A87CC8ECB20F6AF34C5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429093800 +0200" stop="20230429103300 +0200" channel="Trek.fr">
+<title lang="fr">Blutch</title>
+<desc lang="fr">Quatre mois d'odyssée en parapente à travers le Tadjikistan, le Pakistan, l'Inde, le Népal, le Sikkim et l'Arunachal Pradesh jusqu'à la frontière Birmane. Quatre mois d'aventure, de rencontres, de doutes, d'effort, de vols au coeur des paysages de l'Himalaya.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8A9509BCFD90EDDDB17D43D3E6FA60EB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429103300 +0200" stop="20230429110100 +0200" channel="Trek.fr">
+<title lang="fr">Mountain Bike Insights</title>
+<desc lang="fr">Plongez au coeur de l'histoire grâce au très réputé Coastal Gravity Bike Park. Découvrez l'état d'esprit de son équipe et le devenir du parc !</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E53A79813B6FD701ABEDB498D8B97A27.jpg" />
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429110100 +0200" stop="20230429112800 +0200" channel="Trek.fr">
+<title lang="fr">World of Freesports</title>
+<sub-title lang="fr">Marcel Remy - on Top Of Miroir De l'Argentine Gryon Switzerland</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports extrêmes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/143C86FF44F650169683D43343763330.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429112800 +0200" stop="20230429115800 +0200" channel="Trek.fr">
+<title lang="fr">World of Freesports</title>
+<sub-title lang="fr">Female Climbing Heroes - Indoor Bouldering Worldwide</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports extrêmes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/143C86FF44F650169683D43343763330.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429115800 +0200" stop="20230429122800 +0200" channel="Trek.fr">
+<title lang="fr">World of Freesports</title>
+<sub-title lang="fr">Absa Cape Epic - Western Cape South Africa</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports extrêmes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5E46A367D1CFC81E0FBBCA838942CFFD.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429122800 +0200" stop="20230429125800 +0200" channel="Trek.fr">
+<title lang="fr">World of Freesports</title>
+<sub-title lang="fr">Dare To Live Your Dream - Athlete Profil Fabian Buhl - Alpinist</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports extrêmes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5E46A367D1CFC81E0FBBCA838942CFFD.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429125800 +0200" stop="20230429132800 +0200" channel="Trek.fr">
+<title lang="fr">World of Freesports</title>
+<sub-title lang="fr">Mbuzi Dume - Strong Goat - Kilimandscharo</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports extrêmes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5E46A367D1CFC81E0FBBCA838942CFFD.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429132800 +0200" stop="20230429135700 +0200" channel="Trek.fr">
+<title lang="fr">World of Freesports</title>
+<sub-title lang="fr">Antarctica Expedition - Caro North Antarctica</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports extrêmes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/143C86FF44F650169683D43343763330.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429135700 +0200" stop="20230429142600 +0200" channel="Trek.fr">
+<title lang="fr">Terre de glisse</title>
+<sub-title lang="fr">A l'intérieur</sub-title>
+<desc lang="fr">Détour cette fois à l'intérieur des terres, à Périgueux d'abord, pour s'essayer au kayak avec la multiple Championne du Monde Manon Hostens. Puis direction le Bassin d'Arcachon pour une initiation au bodyboard avec le Champion Max Castillo, mais aussi du kitefoil sur fond de Dune du Pyla, et du kitesurf en fond de bassin avec un rider passionné.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4688F6F1FBBB7F88A1268A9B0A3C9DF9.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429142600 +0200" stop="20230429145700 +0200" channel="Trek.fr">
+<title lang="fr">Terre de glisse</title>
+<sub-title lang="fr">Wind, kite and ride</sub-title>
+<desc lang="fr">Paul part cette fois à l'Île de Ré rencontrer le multiple Champion du Monde Antoine Albeau, une légende du windsurf. C'est l'occasion de découvrir l'île, de s'initier au windsurf et d'enchaîner les sessions en foil et en wings. Pour achever ce périple dans l'univers de la glisse, Paul retrouve le Champion de kitesurf, Hugo Guias qui lui fait découvrir les plus beaux spots de l'Île de Ré .</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6D83538179B67964C84F05C21F1F918B.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429145700 +0200" stop="20230429155100 +0200" channel="Trek.fr">
+<title lang="fr">Ocean Nomads</title>
+<sub-title lang="fr">USA</sub-title>
+<desc lang="fr">A Los Angeles, Ugo et Teiki plongent au coeur de la culture surf et testent le skate de vitesse à flanc de colline, avant de s'élancer dans les vagues à Malibu Lagoon.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9978DF92184E90B82216C8041213A75B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429155100 +0200" stop="20230429160000 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">C'est de la folie !</sub-title>
+<desc lang="fr">Ross Edgley veut être la première personne à faire le tour de la côte britannique sans ne jamais toucher la terre. Mais lors d'une telle tentative historique, certaines règles doivent être strictement respectées.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/091A8A03A854E88B9BCBA0DE46B1D33F.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429160000 +0200" stop="20230429161400 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">On n'est pas censé nager ici</sub-title>
+<desc lang="fr">A environ 3 heures du départ de la grande nage britannique, l'équipage est toujours en train de faire ses valises. Chaque espace du bateau est rempli de fournitures, de gruau d'avoine, de barres de céréales, etc. C'est parti pour 100 jours d'aventure !</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FBC4017C32C8446D4AA90AECB915A9C7.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429161400 +0200" stop="20230429162700 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">La corne au cou</sub-title>
+<desc lang="fr">Comme tous les matins, Ross Edgley repart pour une nouvelle baignade. A ce stade, il ne peut plus très bien parler, très bien manger ou très bien boire. Sa langue est altérée par l'eau salée. Mais l'aventure continue.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FBC4017C32C8446D4AA90AECB915A9C7.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429162700 +0200" stop="20230429163600 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">Piqûre de rappel</sub-title>
+<desc lang="fr">Ross Edgley poursuit son aventure autour de la côté britannique. Alors qu'il se familiarise avec les éléments de cette folle aventure, les méduses font leur apparition.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4FB3CF87F6C68510BE3D92964667A0F8.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429163600 +0200" stop="20230429164700 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">Au coude-à-coude avec la Royal Navy</sub-title>
+<desc lang="fr">Le matin, en essayant de nager dans l'obscurité totale et à cause des marées et des mauvais courants, l'équipe a du entrer dans la baie. Ross Edgley se lance alors dans une nouvelle étape pour sortir de Lyme Regis Bay.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2D1DD512E5072B08C698F81CED5C9AD0.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429164700 +0200" stop="20230429165600 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">Le tournant de Land's End</sub-title>
+<desc lang="fr">Nous voilà probablement au point le plus important de cette Great British Swim : le tour de Land's End. Elle représente la fin de la côte sud. Ce qui signifie que Ross Edgley a nagé plus de 500 kilomètres de Margate à Douvres, tout au long de la côte sud jusqu'à Land's End. Et maintenant les dauphins sont de la partie.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FBC4017C32C8446D4AA90AECB915A9C7.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429165600 +0200" stop="20230429170900 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">L'heure du choix</sub-title>
+<desc lang="fr">Ross Edgley arrive au canal de Bristol, décrit comme un labyrinthe à cause de ses marées et courants qui partent dans toutes les directions. Ross doit prendre la bonne direction pour éviter de finir en Irlande.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/35A297BECA74E369691EEE06AA6AD455.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429170900 +0200" stop="20230429172000 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">Grosse douleur</sub-title>
+<desc lang="fr">Ross Edgley vient de passer la partie la plus difficile de sa Great British Swim. Pendant trois jours il s'est fait tabasser par les vagues dans le canal de Bristol. Mais jamais il n'a pensé arrêter.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FBC4017C32C8446D4AA90AECB915A9C7.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429172000 +0200" stop="20230429173100 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">Dur retour à la réalité</sub-title>
+<desc lang="fr">Nager autour de la côte britannique n'est pas toujours facile. Ce périple n'est pas fait de soleil et de dauphins. Parfois il faut mettre une combinaison humide et froide et aller nager quelques kilomètres dans le Mer irlandaise. Ce n'est pas agréable mais c'est nécessaire.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2D1DD512E5072B08C698F81CED5C9AD0.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429173100 +0200" stop="20230429174600 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">Oser se lancer</sub-title>
+<desc lang="fr">Cette semaine Ross Edgley est en Écosse. Atteindre cette nation était une source de motivation pour l'athlète. Mais une fois à proximité de ses côtes, il a vite pris conscience de ses dimensions.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2D1DD512E5072B08C698F81CED5C9AD0.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429174600 +0200" stop="20230429180000 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">Rencontre avec un requin</sub-title>
+<desc lang="fr">Après 80 jours, Ross Edgley peut enfin apercevoir Cape Wrath en face de lui. Pour ceux qui ne le savent pas, c'est le sommet du pays. Le temps est si mauvais que tenter de nager à contre-courant des marées, du vent et des vagues, ne donnerait aucun résultat. Alors Ross profite de sa soirée de libre.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/35A297BECA74E369691EEE06AA6AD455.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429180000 +0200" stop="20230429181000 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">A travers les Hébrides</sub-title>
+<desc lang="fr">Après avoir parcouru 13 milles en une seule marée la veille, Ross Edgley profite d'un bon petit-déjeuner, ce qui signifie deux pizzas.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/35A297BECA74E369691EEE06AA6AD455.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429181000 +0200" stop="20230429182000 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">L'épreuve de l'Ecosse</sub-title>
+<desc lang="fr">Ross Edgley nous explique l'importance du mental dans son aventure. Lorsque le matin il commence à mettre une combinaison encore froide et humide de la veille, lorsqu'il plonge à deux heures du matin dans le noir absolu, lorsqu'il sait pertinemment que des méduses l'attendent sur son chemin, etc.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/35A297BECA74E369691EEE06AA6AD455.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429182000 +0200" stop="20230429183500 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">Rencontre avec un requin</sub-title>
+<desc lang="fr">Après 80 jours, Ross Edgley peut enfin apercevoir Cape Wrath en face de lui. Pour ceux qui ne le savent pas, c'est le sommet du pays. Le temps est si mauvais que tenter de nager à contre-courant des marées, du vent et des vagues, ne donnerait aucun résultat. Alors Ross profite de sa soirée de libre.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/35A297BECA74E369691EEE06AA6AD455.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429183500 +0200" stop="20230429185000 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">En route vers le Sud</sub-title>
+<desc lang="fr">Ross Edgley et son équipe ont réussi à saisir une bonne fenêtre météo pour contourner le sommet de l'Écosse et Cape Wrath. Tout cela avant que l'ouest de l'Écosse ne commence à être écrasé par les tempêtes et les vents violents.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FBC4017C32C8446D4AA90AECB915A9C7.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429185000 +0200" stop="20230429190000 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">Did Not Finish</sub-title>
+<desc lang="fr">La Great British Swim s'approche de la fin. A Wick, une fenêtre météo s'est ouverte, au beau milieu de la nuit, sur le Moray Firth, qui est cette immense baie au sommet de l'Écosse. Ross Edgley doit se diriger vers le sud où les vents sont un peu plus favorables.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FBC4017C32C8446D4AA90AECB915A9C7.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429190000 +0200" stop="20230429191000 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">Get Back Home</sub-title>
+<desc lang="fr">Ross Edgley affronte une triste nouvelle lui venant de ses proches sur le continent. Il doit alors lutter contre l'envie de rentrer les retrouver.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2D1DD512E5072B08C698F81CED5C9AD0.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429191000 +0200" stop="20230429192500 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">Stir Crazy</sub-title>
+<desc lang="fr">Alors que Ross Edgley poursuit son projet en réalisant de bon kilométrages le long de la côte est de l'Écosse, la tempête Ali a décidé de lui rendre visite et de perturber ses plans de rejoindre l'Angleterre au plus vite.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4FB3CF87F6C68510BE3D92964667A0F8.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429192500 +0200" stop="20230429193500 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">Fit for Purpose</sub-title>
+<desc lang="fr">L'épisode de cette semaine est consacré à la nourriture. Ross Edgley l'a toujours dit que la Great British Swim n'est juste qu'une compétition de restauration géante, avec un peu de nage.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/35A297BECA74E369691EEE06AA6AD455.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429193500 +0200" stop="20230429195000 +0200" channel="Trek.fr">
+<title lang="fr">Ross Edgley Great British swim</title>
+<sub-title lang="fr">Unsung Heroes</sub-title>
+<desc lang="fr">En arrivant dans les eaux anglaises, Ross Edgley et son équipe étaient tellement excités qu'ils pensaient que la côte Est serait assez gentille avec eux. Ce n'est pas le cas...</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/091A8A03A854E88B9BCBA0DE46B1D33F.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429195000 +0200" stop="20230429201500 +0200" channel="Trek.fr">
+<title lang="fr">Globe rider</title>
+<sub-title lang="fr">The &quot;Kill&quot; in Danakil</sub-title>
+<desc lang="fr">La traversée d'un kilomètre de boue pour leur camp, à Hamed Eka, a été le plus grand défi du périple des cyclistes jusque-là. Le groupe est plus qu'épuisé et doit pourtant affronter de nouveau la boue le lendemain. Avant d'atteindre les mines de sel de Danakil, une dispute éclate et fait un blessé.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E4C332B4FCDB7AE19292F128271A08C1.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429201500 +0200" stop="20230429204000 +0200" channel="Trek.fr">
+<title lang="fr">The Surfing Lifestyle</title>
+<desc lang="fr">Plongez au coeur de la perfection des fonds sableux de la côte est de l'Australie jusqu'aux vagues escarpées et déchaînées de l'ouest. Rencontrez également l'ancien surfeur professionnel et légende de tous les horizons Dean &quot; Dingo &quot; Morrison. Attendez-vous à beaucoup de tubes et de bons moments !</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Action</category>
+<icon src="https://img.bouygtel.fr/CMS/images/11F3DF1F77F09BFE95F7BF5C0B56688D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429204000 +0200" stop="20230429210500 +0200" channel="Trek.fr">
+<title lang="fr">The Surfing Lifestyle</title>
+<desc lang="fr">Découvrez la vie des surfeurs professionnels itinérants, à travers le monde à la recherche de vagues parfaites et de bons moments. Ces voyages avec les meilleurs surfeurs du monde vous donnent un aperçu de leur vie de rêve sur la route.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Action</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FD97B95565F1324D9E57E8F13B77B362.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429210500 +0200" stop="20230429212000 +0200" channel="Trek.fr">
+<title lang="fr">Antoine Bonnefille-Roualet : objectif trail</title>
+<desc lang="fr">Antoine Bonnefille-Roualet s'entraîne ardemment pour participer à la Diagonale des fous, l'un des trails les plus difficiles au monde, qui se déroule sur l'île de La Réunion.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9B01EEE3E421CB47A84DE46FE8AB5B92.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429212000 +0200" stop="20230429220000 +0200" channel="Trek.fr">
+<title lang="fr">Extreme planet</title>
+<sub-title lang="fr">Antarctique, le marathon des glaces</sub-title>
+<desc lang="fr">Un journaliste brésilien s'unit à des coureurs de 16 pays différents pour survivre dans des conditions inhumaines. Qu'est-ce qui pousse une personne à concourir dans de telles conditions ?</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/087DCB86A8856382584139B9CD0C7B36.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429220000 +0200" stop="20230429222500 +0200" channel="Trek.fr">
+<title lang="fr">Extreme planet</title>
+<sub-title lang="fr">A la poursuite des aurores boréales en Norvège</sub-title>
+<desc lang="fr">Un journaliste brésilien s'unit à des coureurs de 16 pays différents pour survivre dans des conditions inhumaines. Qu'est-ce qui pousse une personne à concourir dans de telles conditions ?</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F33E4806AA11C42186FEA179D635A631.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429222500 +0200" stop="20230429225000 +0200" channel="Trek.fr">
+<title lang="fr">Extreme planet</title>
+<sub-title lang="fr">Plongée dans les grottes sous-marines des Bahamas</sub-title>
+<desc lang="fr">Une équipe de journalistes brésiliens parcourt le monde, n'hésitant pas à braver les danger pour découvrir les beautés et les richesses de la planète.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/087DCB86A8856382584139B9CD0C7B36.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429225000 +0200" stop="20230429234500 +0200" channel="Trek.fr">
+<title lang="fr">Solidream: Trois ans de défis et d'amitié autour du monde</title>
+<desc lang="fr">Des amis d'enfance choisissent d'aller au bout de leur rêve en partant pour un tour du monde à vélo de 54 000 kilomètres dans les endroits les plus reculés du globe. Ils expérimentent l'aridité des déserts d'Atacama et d'Australie, naviguent dans jusqu'en Antarctique, construisent un radeau pour descendre le Yukon et connaissent la rudesse des hauts plateaux boliviens et des Monts Célestes du Kirghizistan. La série retrace ces trois ans d'aventure jalonnées d'épreuves et de rencontres</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Action</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A721257D588769919611214959D5D615.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429234500 +0200" stop="20230430003500 +0200" channel="Trek.fr">
+<title lang="fr">Solidream: Trois ans de défis et d'amitié autour du monde</title>
+<desc lang="fr">Des amis d'enfance choisissent d'aller au bout de leur rêve en partant pour un tour du monde à vélo de 54 000 kilomètres dans les endroits les plus reculés du globe.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Action</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A721257D588769919611214959D5D615.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430003500 +0200" stop="20230430013000 +0200" channel="Trek.fr">
+<title lang="fr">La Dominique, l'île nature</title>
+<desc lang="fr">Dans les Caraïbes, la Dominique est une île attachée aux valeurs d'une économie verte et à la préservation de son patrimoine naturel face au tourisme de masse.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7D148CEAF4D8C9AA2225C9EE3A811296.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430013000 +0200" stop="20230430022000 +0200" channel="Trek.fr">
+<title lang="fr">Yannick Alleno : Un Chef A La Conquete Du Monde</title>
+<desc lang="fr">Depuis 2003, Yannick Alléno oeuvre dans les cuisines du Meurice. À seulement 40 ans, il obtient sa troisième étoile au Guide Michelin, entrant ainsi dans le cercle fermé des plus grands chefs de cuisine du monde. Son style visionnaire a trouvé un écrin parfait dans ce palace parisien, toujours à l'avant-garde des tendances culturelles et artistiques, qu'il s'agisse d'art contemporain ou de cuisine. Découvrez ce chef pas comme les autres, qui nous rappelle que la gastronomie est un art à part entière.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/02F059F5CC707B2EEB7F8AA524C95531.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430022000 +0200" stop="20230430031500 +0200" channel="Trek.fr">
+<title lang="fr">Abyss, les plongeurs de l'impossible</title>
+<sub-title lang="fr">Le Gouffre bleu (Bahamas)</sub-title>
+<desc lang="fr">En suivant les Dean's Blue Hole, aux Bahamas, l'une des plus importantes compétitions d'apnée, le documentaire permet de découvrir l'univers de ces sportifs de l'extrême.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A1359ED334821B8FA3F377B60BD73834.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430031500 +0200" stop="20230430041000 +0200" channel="Trek.fr">
+<title lang="fr">Abyss, les plongeurs de l'impossible</title>
+<sub-title lang="fr">L'île aux coraux (Bonaire)</sub-title>
+<desc lang="fr">A Bonaire, dans les Antilles néerlandaises, une petite île bordée de fonds sous-marins superbes, des apnéistes en quête de profondeur participent au Bonaire Deep Sea Challenge</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A1359ED334821B8FA3F377B60BD73834.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430041000 +0200" stop="20230430050000 +0200" channel="Trek.fr">
+<title lang="fr">Terre de glisse</title>
+<sub-title lang="fr">A l'intérieur</sub-title>
+<desc lang="fr">Détour cette fois à l'intérieur des terres, à Périgueux d'abord, pour s'essayer au kayak avec la multiple Championne du Monde Manon Hostens. Puis direction le Bassin d'Arcachon pour une initiation au bodyboard avec le Champion Max Castillo, mais aussi du kitefoil sur fond de Dune du Pyla, et du kitesurf en fond de bassin avec un rider passionné.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/57270E5197E8035499D6E272BEEFAE17.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430050000 +0200" stop="20230430061700 +0200" channel="Trek.fr">
+<title lang="fr">Dans mon quartier, Harlem</title>
+<desc lang="fr">Harlem, quartier de New York mal famé jusqu'au début des années 90, accueille aujourd'hui des familles aisées, dans une mixité ethnique et sociale hors du commun.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5140BE013192B12572356D96D578EE73.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

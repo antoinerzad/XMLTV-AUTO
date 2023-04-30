@@ -1,0 +1,691 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230429060100 +0200" stop="20230429064500 +0200" channel="TVTours.fr">
+<title lang="fr">Fais ton sport à la maison !</title>
+<desc lang="fr">Retrouvez Elsa Claude et Teric Teav dans l'émission &quot; Fais ton Sport à la Maison ! &quot; pour une séance de sport complète et intense, ciblé sur les abdos et le haut du corps. Nos coachs vous accompagneront dans des exercices simples et détaillés qui ne nécessitent aucun matériel, dans le but de développer au mieux vos muscles directement chez-soi.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<episode-num system="xmltv_ns">0.53.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429064500 +0200" stop="20230429065900 +0200" channel="TVTours.fr">
+<title lang="fr">Trois...Quatre !</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0B4A53CCE76E6FD8E9E278F837DF6A85.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429065900 +0200" stop="20230429071400 +0200" channel="TVTours.fr">
+<title lang="fr">Le JT</title>
+<desc lang="fr">La rédaction vous propose de découvrir les dernières informations de l'actualité et les événements à venir.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429071400 +0200" stop="20230429071600 +0200" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/819F2EE08C4A2BFFCB7263F890B1644A.jpg" />
+<episode-num system="xmltv_ns">0.67.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429071600 +0200" stop="20230429073000 +0200" channel="TVTours.fr">
+<title lang="fr">Extralocal</title>
+<desc lang="fr">&quot;Extralocal&quot; qui est un tout nouveau magazine de discussion et de société se consacre aux régions et aux informations locales. Une émission qui permettra de retrouver l'actualité politique. Cette émission a donc pour objectif de capter et de partager les différents avis.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E43838158D9DA20E5ADCEED96C29382A.jpg" />
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429073000 +0200" stop="20230429074500 +0200" channel="TVTours.fr">
+<title lang="fr">Business club de France</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429074500 +0200" stop="20230429081500 +0200" channel="TVTours.fr">
+<title lang="fr">Destination Val de Loire</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F6822FE5081A8D970356E5B9E1AA5446.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429081500 +0200" stop="20230429085300 +0200" channel="TVTours.fr">
+<title lang="fr">Wanted TV</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429085300 +0200" stop="20230429085500 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429085500 +0200" stop="20230429085700 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429085700 +0200" stop="20230429085900 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429085900 +0200" stop="20230429090200 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429090200 +0200" stop="20230429090400 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429090400 +0200" stop="20230429090600 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429090600 +0200" stop="20230429090900 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429090900 +0200" stop="20230429091100 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429091100 +0200" stop="20230429091500 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429091500 +0200" stop="20230429100000 +0200" channel="TVTours.fr">
+<title lang="fr">Fais ton sport à la maison !</title>
+<desc lang="fr">Retrouvez Elsa Claude et Teric Teav dans l'émission &quot; Fais ton Sport à la Maison ! &quot; pour une séance de sport complète et intense, ciblé sur les abdos et le haut du corps. Nos coachs vous accompagneront dans des exercices simples et détaillés qui ne nécessitent aucun matériel, dans le but de développer au mieux vos muscles directement chez-soi.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<episode-num system="xmltv_ns">0.53.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429100000 +0200" stop="20230429102500 +0200" channel="TVTours.fr">
+<title lang="fr">JT du week-end</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429102500 +0200" stop="20230429103100 +0200" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/906091F1D387AB32A6B15674BC57456D.jpg" />
+<episode-num system="xmltv_ns">0.67.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429103100 +0200" stop="20230429110000 +0200" channel="TVTours.fr">
+<title lang="fr">Auto legend</title>
+<desc lang="fr">Ce programme mensuel produit par TIME UP PROD va à la rencontre des plus grands collectionneurs de voitures anciennes d'exception ! Une émission présentée par la chroniqueuse Angélique Rayssiguier (TéléFoot, Lci, Equipe 21) et Morgan Moulin Traffort, pilote professionnel champion de France de Grand Tourisme 2013 au coté de Fabien Barthès chez Ferrari !</desc>
+<category lang="fr">Loisirs</category>
+<category lang="fr">Automobilisme</category>
+<episode-num system="xmltv_ns">0.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429110000 +0200" stop="20230429113000 +0200" channel="TVTours.fr">
+<title lang="fr">123 Musette !</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.34.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429113000 +0200" stop="20230429120000 +0200" channel="TVTours.fr">
+<title lang="fr">La Santé D'abord</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<episode-num system="xmltv_ns">0.35.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429120000 +0200" stop="20230429123000 +0200" channel="TVTours.fr">
+<title lang="fr">La Santé D'abord</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<episode-num system="xmltv_ns">0.34.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429123000 +0200" stop="20230429133000 +0200" channel="TVTours.fr">
+<title lang="fr">Extralocal</title>
+<desc lang="fr">&quot;Extralocal&quot; qui est un tout nouveau magazine de discussion et de société se consacre aux régions et aux informations locales. Une émission qui permettra de retrouver l'actualité politique. Cette émission a donc pour objectif de capter et de partager les différents avis.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E43838158D9DA20E5ADCEED96C29382A.jpg" />
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429133000 +0200" stop="20230429134500 +0200" channel="TVTours.fr">
+<title lang="fr">Qui veut gagner des Rillons ?</title>
+<desc lang="fr">Un nouveau jeu local qui teste la connaissance sur le territoire et choisit les meilleurs qui vont gagner les cadeaux.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<episode-num system="xmltv_ns">0.120.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429134500 +0200" stop="20230429140000 +0200" channel="TVTours.fr">
+<title lang="fr">Qui veut gagner des Rillons ?</title>
+<desc lang="fr">Un nouveau jeu local qui teste la connaissance sur le territoire et choisit les meilleurs qui vont gagner les cadeaux.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<episode-num system="xmltv_ns">0.121.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429140000 +0200" stop="20230429150000 +0200" channel="TVTours.fr">
+<title lang="fr">Jusqu'au dernier round</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429150000 +0200" stop="20230429160000 +0200" channel="TVTours.fr">
+<title lang="fr">Marie-Amélie, la voie de la lame</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A18DBBBE7D9CBE1FEA2BF9BEF7AADF41.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429160000 +0200" stop="20230429162700 +0200" channel="TVTours.fr">
+<title lang="fr">RDV en terrain connu</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4B4684E16E08964F89B1910762292269.jpg" />
+<episode-num system="xmltv_ns">0.76.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429162700 +0200" stop="20230429162900 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429162900 +0200" stop="20230429163200 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429163200 +0200" stop="20230429163400 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429163400 +0200" stop="20230429163700 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429163700 +0200" stop="20230429163900 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429163900 +0200" stop="20230429164100 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429164100 +0200" stop="20230429164500 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429164500 +0200" stop="20230429173000 +0200" channel="TVTours.fr">
+<title lang="fr">Wanted TV</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429173000 +0200" stop="20230429174500 +0200" channel="TVTours.fr">
+<title lang="fr">Extralocal</title>
+<desc lang="fr">&quot;Extralocal&quot; qui est un tout nouveau magazine de discussion et de société se consacre aux régions et aux informations locales. Une émission qui permettra de retrouver l'actualité politique. Cette émission a donc pour objectif de capter et de partager les différents avis.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5DA273219E10DCC45F4D5F7D050C3697.jpg" />
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429174500 +0200" stop="20230429180000 +0200" channel="TVTours.fr">
+<title lang="fr">Business club de France</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429180000 +0200" stop="20230429182700 +0200" channel="TVTours.fr">
+<title lang="fr">La Santé D'abord</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<episode-num system="xmltv_ns">0.35.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429182700 +0200" stop="20230429183000 +0200" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/819F2EE08C4A2BFFCB7263F890B1644A.jpg" />
+<episode-num system="xmltv_ns">0.68.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429183000 +0200" stop="20230429190000 +0200" channel="TVTours.fr">
+<title lang="fr">JT du week-end</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429190000 +0200" stop="20230429195300 +0200" channel="TVTours.fr">
+<title lang="fr">Extralocal</title>
+<desc lang="fr">&quot;Extralocal&quot; qui est un tout nouveau magazine de discussion et de société se consacre aux régions et aux informations locales. Une émission qui permettra de retrouver l'actualité politique. Cette émission a donc pour objectif de capter et de partager les différents avis.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5DA273219E10DCC45F4D5F7D050C3697.jpg" />
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429195300 +0200" stop="20230429200000 +0200" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/906091F1D387AB32A6B15674BC57456D.jpg" />
+<episode-num system="xmltv_ns">0.68.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429200000 +0200" stop="20230429205600 +0200" channel="TVTours.fr">
+<title lang="fr">Renversant</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<episode-num system="xmltv_ns">0.41.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429205600 +0200" stop="20230429210000 +0200" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/906091F1D387AB32A6B15674BC57456D.jpg" />
+<episode-num system="xmltv_ns">0.68.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429210000 +0200" stop="20230429220000 +0200" channel="TVTours.fr">
+<title lang="fr">L'heure la plus courte : Prends Chair</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429220000 +0200" stop="20230429223000 +0200" channel="TVTours.fr">
+<title lang="fr">JT du week-end</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429223000 +0200" stop="20230429225700 +0200" channel="TVTours.fr">
+<title lang="fr">Destination Val de Loire</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/90698D9A435587F42515008378D1476C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429225700 +0200" stop="20230429230000 +0200" channel="TVTours.fr">
+<title lang="fr">Hospice Odyssey</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Fiction</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429230000 +0200" stop="20230429230300 +0200" channel="TVTours.fr">
+<title lang="fr">Hospice Odyssey</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Fiction</category>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429230300 +0200" stop="20230429230600 +0200" channel="TVTours.fr">
+<title lang="fr">Hospice Odyssey</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Fiction</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429230600 +0200" stop="20230429230800 +0200" channel="TVTours.fr">
+<title lang="fr">Hospice Odyssey</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Fiction</category>
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429230800 +0200" stop="20230429231200 +0200" channel="TVTours.fr">
+<title lang="fr">Hospice Odyssey</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Fiction</category>
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429231200 +0200" stop="20230429231500 +0200" channel="TVTours.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/037D008513509CF1B49FA382059A6967.jpg" />
+<episode-num system="xmltv_ns">0.68.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230429231500 +0200" stop="20230430001500 +0200" channel="TVTours.fr">
+<title lang="fr">Marie-Amélie, la voie de la lame</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A18DBBBE7D9CBE1FEA2BF9BEF7AADF41.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430001500 +0200" stop="20230430004500 +0200" channel="TVTours.fr">
+<title lang="fr">JT du week-end</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430004500 +0200" stop="20230430010000 +0200" channel="TVTours.fr">
+<title lang="fr">Trois...Quatre !</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0B4A53CCE76E6FD8E9E278F837DF6A85.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430010000 +0200" stop="20230430012800 +0200" channel="TVTours.fr">
+<title lang="fr">RDV en terrain connu</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4B4684E16E08964F89B1910762292269.jpg" />
+<episode-num system="xmltv_ns">0.76.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430012800 +0200" stop="20230430013000 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430013000 +0200" stop="20230430013200 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430013200 +0200" stop="20230430013400 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430013400 +0200" stop="20230430013600 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430013600 +0200" stop="20230430013800 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430013800 +0200" stop="20230430014100 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430014100 +0200" stop="20230430014200 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430014200 +0200" stop="20230430014500 +0200" channel="TVTours.fr">
+<title lang="fr">Big Shot</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Médias</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430014500 +0200" stop="20230430020000 +0200" channel="TVTours.fr">
+<title lang="fr">Qui veut gagner des Rillons ?</title>
+<desc lang="fr">Un nouveau jeu local qui teste la connaissance sur le territoire et choisit les meilleurs qui vont gagner les cadeaux.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<episode-num system="xmltv_ns">0.118.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430020000 +0200" stop="20230430023000 +0200" channel="TVTours.fr">
+<title lang="fr">JT du week-end</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430023000 +0200" stop="20230430025700 +0200" channel="TVTours.fr">
+<title lang="fr">Destination Val de Loire</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F6822FE5081A8D970356E5B9E1AA5446.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430025700 +0200" stop="20230430025900 +0200" channel="TVTours.fr">
+<title lang="fr">Pandas dans la brume</title>
+<desc lang="fr">Au milieu de leurs bambous, des pandas s'interrogent sur leur avenir dans un monde où l'homme est leur plus grande menace.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430025900 +0200" stop="20230430030100 +0200" channel="TVTours.fr">
+<title lang="fr">Pandas dans la brume</title>
+<desc lang="fr">Au milieu de leurs bambous, des pandas s'interrogent sur leur avenir dans un monde où l'homme est leur plus grande menace.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<episode-num system="xmltv_ns">0.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430030100 +0200" stop="20230430030300 +0200" channel="TVTours.fr">
+<title lang="fr">Pandas dans la brume</title>
+<desc lang="fr">Au milieu de leurs bambous, des pandas s'interrogent sur leur avenir dans un monde où l'homme est leur plus grande menace.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<episode-num system="xmltv_ns">0.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430030300 +0200" stop="20230430030500 +0200" channel="TVTours.fr">
+<title lang="fr">Pandas dans la brume</title>
+<desc lang="fr">Au milieu de leurs bambous, des pandas s'interrogent sur leur avenir dans un monde où l'homme est leur plus grande menace.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<episode-num system="xmltv_ns">0.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430030500 +0200" stop="20230430030700 +0200" channel="TVTours.fr">
+<title lang="fr">Pandas dans la brume</title>
+<desc lang="fr">Au milieu de leurs bambous, des pandas s'interrogent sur leur avenir dans un monde où l'homme est leur plus grande menace.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<episode-num system="xmltv_ns">0.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430030700 +0200" stop="20230430030900 +0200" channel="TVTours.fr">
+<title lang="fr">Pandas dans la brume</title>
+<desc lang="fr">Au milieu de leurs bambous, des pandas s'interrogent sur leur avenir dans un monde où l'homme est leur plus grande menace.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<episode-num system="xmltv_ns">0.21.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430030900 +0200" stop="20230430031100 +0200" channel="TVTours.fr">
+<title lang="fr">Pandas dans la brume</title>
+<desc lang="fr">Au milieu de leurs bambous, des pandas s'interrogent sur leur avenir dans un monde où l'homme est leur plus grande menace.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<episode-num system="xmltv_ns">0.22.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430031100 +0200" stop="20230430031300 +0200" channel="TVTours.fr">
+<title lang="fr">Pandas dans la brume</title>
+<desc lang="fr">Au milieu de leurs bambous, des pandas s'interrogent sur leur avenir dans un monde où l'homme est leur plus grande menace.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<episode-num system="xmltv_ns">0.23.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430031300 +0200" stop="20230430031600 +0200" channel="TVTours.fr">
+<title lang="fr">Pandas dans la brume</title>
+<desc lang="fr">Au milieu de leurs bambous, des pandas s'interrogent sur leur avenir dans un monde où l'homme est leur plus grande menace.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<episode-num system="xmltv_ns">0.24.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430031600 +0200" stop="20230430033000 +0200" channel="TVTours.fr">
+<title lang="fr">Trois...Quatre !</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0B4A53CCE76E6FD8E9E278F837DF6A85.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430033000 +0200" stop="20230430041500 +0200" channel="TVTours.fr">
+<title lang="fr">Wanted TV</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430041500 +0200" stop="20230430051500 +0200" channel="TVTours.fr">
+<title lang="fr">Marie-Amélie, la voie de la lame</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CB1171E458AE4B74974FA1A47F282226.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430051500 +0200" stop="20230430053000 +0200" channel="TVTours.fr">
+<title lang="fr">Trois...Quatre !</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0B4A53CCE76E6FD8E9E278F837DF6A85.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430053000 +0200" stop="20230430054600 +0200" channel="TVTours.fr">
+<title lang="fr">Délire du net</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<episode-num system="xmltv_ns">0.68.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430054600 +0200" stop="20230430055000 +0200" channel="TVTours.fr">
+<title lang="fr">La Terre vue du sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430055000 +0200" stop="20230430055500 +0200" channel="TVTours.fr">
+<title lang="fr">La Terre vue du sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230430055500 +0200" stop="20230430060100 +0200" channel="TVTours.fr">
+<title lang="fr">La Terre vue du sport</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<episode-num system="xmltv_ns">0.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

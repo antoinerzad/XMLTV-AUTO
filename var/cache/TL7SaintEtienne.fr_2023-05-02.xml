@@ -1,0 +1,474 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230502055000 +0200" stop="20230502060600 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Côté scène</title>
+<desc lang="fr">Chantale Joassard ouvre la parenthèse sur l'univers d'un artiste.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502060600 +0200" stop="20230502062800 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Pass' Moi l'Assoc</title>
+<desc lang="fr">Encore plus d'actualités régionales avec le magazine Pass' Moi l'Assoc.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502062800 +0200" stop="20230502065100 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT</title>
+<desc lang="fr">Le JT dédié à l'actualités de la Loire.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7A5E9679E719323E865101726E26B0ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502065100 +0200" stop="20230502071300 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Après match</title>
+<desc lang="fr">Suivez la discussion et analytique après un match sportif.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502071300 +0200" stop="20230502074600 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Sport 7</title>
+<desc lang="fr">L'actualité sportive de la Loire, zoom sur le basket, le foot et le rallye automobile. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502074600 +0200" stop="20230502080700 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT</title>
+<desc lang="fr">Le JT dédié à l'actualités de la Loire.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DE9135301E3E6EA67BF708865E3308F9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502080700 +0200" stop="20230502082500 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Pass' Moi l'Assoc</title>
+<desc lang="fr">Encore plus d'actualités régionales avec le magazine Pass' Moi l'Assoc.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502082500 +0200" stop="20230502084100 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT</title>
+<desc lang="fr">Le JT dédié à l'actualités de la Loire.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DE9135301E3E6EA67BF708865E3308F9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502084100 +0200" stop="20230502091600 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Culture</title>
+<desc lang="fr">Trouvez tout ce qui vous intéresse sur les actualités culturelles de la région.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502091600 +0200" stop="20230502093100 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Ciné 7</title>
+<desc lang="fr">Restez au courant avec les actualités culturelles avec Ciné 7.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502093100 +0200" stop="20230502102900 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Magazine</title>
+<desc lang="fr">Un magazine qui aborde les sujets actuels de la région.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502102900 +0200" stop="20230502104900 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT</title>
+<desc lang="fr">Le JT dédié à l'actualités de la Loire.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DE9135301E3E6EA67BF708865E3308F9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502104900 +0200" stop="20230502122000 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Anciens programmes</title>
+<desc lang="fr">Émission qui vous offre les meilleurs programmes de TL7 à revoir.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502122000 +0200" stop="20230502125200 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">C'est par ici la sortie</title>
+<desc lang="fr">Rejoignez-nous pour une rencontre informative et intéressante.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502125200 +0200" stop="20230502130600 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Bienvenue chez vous</title>
+<desc lang="fr">Découvrir ou redécouvrir les villes, villages et quartier de notre département.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Loisirs</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502130600 +0200" stop="20230502132400 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT</title>
+<desc lang="fr">Le JT dédié à l'actualités de la Loire.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DE9135301E3E6EA67BF708865E3308F9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502132400 +0200" stop="20230502135500 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Après match</title>
+<desc lang="fr">Suivez la discussion et analytique après un match sportif.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502135500 +0200" stop="20230502141100 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT des autres</title>
+<desc lang="fr">Journal télévisé d'informations nationales et internationales.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502141100 +0200" stop="20230502143500 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Grand tourisme</title>
+<desc lang="fr">Reportage touristique, sur les meilleurs destinations à découvrir.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502143500 +0200" stop="20230502144200 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Parcours de vie</title>
+<desc lang="fr">Parcours de vie est une série documentaire qui vous informe sur différents domaines de la vie.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502144200 +0200" stop="20230502150300 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Pass' Moi l'Assoc ou Sport 7</title>
+<desc lang="fr">Un magazine qui vous informe sur les actualités sportives dans la région.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502150300 +0200" stop="20230502153500 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Culture</title>
+<desc lang="fr">Trouvez tout ce qui vous intéresse sur les actualités culturelles de la région.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502153500 +0200" stop="20230502171300 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Anciens programmes</title>
+<desc lang="fr">Émission qui vous offre les meilleurs programmes de TL7 à revoir.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502171300 +0200" stop="20230502173700 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Bienvenue hebdo</title>
+<desc lang="fr">Nous partageons avec vous les actualités de la Loire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502173700 +0200" stop="20230502175400 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Pass' Moi l'Assoc</title>
+<desc lang="fr">Encore plus d'actualités régionales avec le magazine Pass' Moi l'Assoc.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502175400 +0200" stop="20230502183000 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">C'est par ici la sortie</title>
+<desc lang="fr">Rejoignez-nous pour une rencontre informative et intéressante.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502183000 +0200" stop="20230502185000 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT</title>
+<desc lang="fr">Le JT dédié à l'actualités de la Loire.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DE9135301E3E6EA67BF708865E3308F9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502185000 +0200" stop="20230502185200 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Pour être toujours au courant avec les actualités météorologiques de la région.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502185200 +0200" stop="20230502185400 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Agenda des sorties</title>
+<desc lang="fr">Toutes les sorties culturelles de la région de la Loire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502185400 +0200" stop="20230502190000 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Bienvenue chez vous</title>
+<desc lang="fr">Découvrir ou redécouvrir les villes, villages et quartier de notre département.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Loisirs</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502190000 +0200" stop="20230502190400 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Agenda région</title>
+<desc lang="fr">Magazine culturel qui vous fait découvrir les loisirs proposés dans la région.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502190400 +0200" stop="20230502190800 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Tourisme en Loire</title>
+<desc lang="fr">Découvrez tout ce qu'il faut savoir des actualités touristiques dans la région.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502190800 +0200" stop="20230502191000 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Place à la santé</title>
+<desc lang="fr">Place à la santé est un programme d'éducation à la santé par l'information, il aborde, chaque semaine, un thème different. Des personnalités reconnues du monde médical participent au serieux de l'émission.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/898B63E8F29D6CDFD6156D7B217BF1D2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502191000 +0200" stop="20230502193000 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Scènes et cetera</title>
+<desc lang="fr">Scènes et cetera est l'émission qui vous propose un panorama d'actualités culturelles.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502193000 +0200" stop="20230502200400 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Vu d'ici</title>
+<desc lang="fr">Vu d'ici vous informe sur l'actualité de la région de la Loire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3780DA605AB7AD222549311A95ED7D79.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502200400 +0200" stop="20230502201000 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Agenda ciné</title>
+<desc lang="fr">Agenda de tous les cinémas de région de la Loire.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502201000 +0200" stop="20230502202900 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT</title>
+<desc lang="fr">Le JT dédié à l'actualités de la Loire.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DE9135301E3E6EA67BF708865E3308F9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502202900 +0200" stop="20230502203000 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Pour être toujours au courant avec les actualités météorologiques de la région.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502203000 +0200" stop="20230502203100 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Place à vous</title>
+<desc lang="fr">Place à vous est un magazine informatif court.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Services</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502203100 +0200" stop="20230502204000 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Ciné 7</title>
+<desc lang="fr">Restez au courant avec les actualités culturelles avec Ciné 7.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502204000 +0200" stop="20230502204500 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Ambassadeur en Rhône-Alpes</title>
+<desc lang="fr">L'ambassadeur vous parle des actualités économiques et sociales de la région.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502204500 +0200" stop="20230502222400 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Documentaire</title>
+<desc lang="fr">Un documentaire qui sera annoncé par la chaîne.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502222400 +0200" stop="20230502223800 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT</title>
+<desc lang="fr">Le JT dédié à l'actualités de la Loire.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DE9135301E3E6EA67BF708865E3308F9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502223800 +0200" stop="20230502225600 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Vu d'ici</title>
+<desc lang="fr">Vu d'ici vous informe sur l'actualité de la région de la Loire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3780DA605AB7AD222549311A95ED7D79.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502225600 +0200" stop="20230502231400 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Au féminin</title>
+<desc lang="fr">Un magazine créé pour plaire au public féminin.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502231400 +0200" stop="20230502234400 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Grand tourisme</title>
+<desc lang="fr">Reportage touristique, sur les meilleurs destinations à découvrir.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502234400 +0200" stop="20230503000100 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT des autres</title>
+<desc lang="fr">Journal télévisé d'informations nationales et internationales.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503000100 +0200" stop="20230503002100 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Après match</title>
+<desc lang="fr">Suivez la discussion et analytique après un match sportif.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503002100 +0200" stop="20230503003000 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Parcours de vie</title>
+<desc lang="fr">Parcours de vie est une série documentaire qui vous informe sur différents domaines de la vie.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503003000 +0200" stop="20230503005100 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT</title>
+<desc lang="fr">Le JT dédié à l'actualités de la Loire.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DE9135301E3E6EA67BF708865E3308F9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503005100 +0200" stop="20230503012500 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Bienvenue chez vous</title>
+<desc lang="fr">Découvrir ou redécouvrir les villes, villages et quartier de notre département.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Loisirs</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503012500 +0200" stop="20230503014200 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Vu d'ici</title>
+<desc lang="fr">Vu d'ici vous informe sur l'actualité de la région de la Loire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3780DA605AB7AD222549311A95ED7D79.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503014200 +0200" stop="20230503015800 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Au féminin</title>
+<desc lang="fr">Un magazine créé pour plaire au public féminin.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503015800 +0200" stop="20230503021700 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT</title>
+<desc lang="fr">Le JT dédié à l'actualités de la Loire.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7A5E9679E719323E865101726E26B0ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503021700 +0200" stop="20230503022700 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Parcours de vie</title>
+<desc lang="fr">Parcours de vie est une série documentaire qui vous informe sur différents domaines de la vie.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503022700 +0200" stop="20230503030200 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Sport 7</title>
+<desc lang="fr">L'actualité sportive de la Loire, zoom sur le basket, le foot et le rallye automobile. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503030200 +0200" stop="20230503030800 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Bienvenue chez vous</title>
+<desc lang="fr">Découvrir ou redécouvrir les villes, villages et quartier de notre département.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Loisirs</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503030800 +0200" stop="20230503032600 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT</title>
+<desc lang="fr">Le JT dédié à l'actualités de la Loire.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7A5E9679E719323E865101726E26B0ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503032600 +0200" stop="20230503042400 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Magazine</title>
+<desc lang="fr">Un magazine qui aborde les sujets actuels de la région.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503042400 +0200" stop="20230503043800 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT</title>
+<desc lang="fr">Le JT dédié à l'actualités de la Loire.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DE9135301E3E6EA67BF708865E3308F9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503043800 +0200" stop="20230503045600 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Vu d'ici</title>
+<desc lang="fr">Vu d'ici vous informe sur l'actualité de la région de la Loire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3780DA605AB7AD222549311A95ED7D79.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503045600 +0200" stop="20230503051400 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Au féminin</title>
+<desc lang="fr">Un magazine créé pour plaire au public féminin.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503051400 +0200" stop="20230503052900 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">Grand tourisme</title>
+<desc lang="fr">Reportage touristique, sur les meilleurs destinations à découvrir.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503052900 +0200" stop="20230503054400 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT</title>
+<desc lang="fr">Le JT dédié à l'actualités de la Loire.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DE9135301E3E6EA67BF708865E3308F9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503054400 +0200" stop="20230503060100 +0200" channel="TL7SaintEtienne.fr">
+<title lang="fr">JT des autres</title>
+<desc lang="fr">Journal télévisé d'informations nationales et internationales.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

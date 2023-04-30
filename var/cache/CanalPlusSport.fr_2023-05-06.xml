@@ -1,0 +1,162 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230506044800 +0200" stop="20230506073400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506073400 +0200" stop="20230506083400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Late Sport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EF631D16B1E186486BA50A0587BE97E2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506083400 +0200" stop="20230506092700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Indycar : Grand Prix d'Alabama</title>
+<desc lang="fr">IndyCar Series 2023. Grand Prix d'Alabama.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Indycar</category>
+<icon src="https://img.bouygtel.fr/CMS/images/50E8D1A64AF63EA2A164108AFF47BFF2.jpg" />
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506092700 +0200" stop="20230506105800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix de Miami</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix de Miami.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1629A7BAA8C4FD22819571C8CE6A8D8D.jpg" />
+<episode-num system="xmltv_ns">0.21.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506105800 +0200" stop="20230506123900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/89DCD923BCC916E69B1A703550775DF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506123900 +0200" stop="20230506142200 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BA98F032948E2DAD840469BF32C32E74.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506142200 +0200" stop="20230506145000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Jour de rugby Pro D2 débrief</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C2ABEC5E084A6260879A9F0A89C4901F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506145000 +0200" stop="20230506165400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Top 14</title>
+<desc lang="fr">Top 14 2022/2023. 24e journée. Clermont-Auvergne / Stade Français Paris.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/98656E25156EBC018B4224F92549720E.jpg" />
+<episode-num system="xmltv_ns">0.167.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506165400 +0200" stop="20230506181000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Cesta Punta : Championnat de France</title>
+<desc lang="fr">Championnat de France 2023. Finale.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Cesta punta</category>
+<icon src="https://img.bouygtel.fr/CMS/images/23B348D46DEDE5A7F44970A236296721.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506181000 +0200" stop="20230506194000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix de Miami</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix de Miami.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B0819478A1EABE6E808E8CC969F34E44.jpg" />
+<episode-num system="xmltv_ns">0.22.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506194000 +0200" stop="20230506195200 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">La compile Zapsport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506195200 +0200" stop="20230506204600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rallye : WRC, Rallye de Croatie</title>
+<desc lang="fr">Championnat du monde des rallyes 2023. Rallye de Croatie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rallye</category>
+<icon src="https://img.bouygtel.fr/CMS/images/97202C829055F9A657671B5BF189717B.jpg" />
+<episode-num system="xmltv_ns">0.86.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506204600 +0200" stop="20230506214000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Indycar : Grand Prix d'Alabama</title>
+<desc lang="fr">IndyCar Series 2023. Grand Prix d'Alabama.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Indycar</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5C0843AA7A8219A3102E9000BB9B0A52.jpg" />
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506214000 +0200" stop="20230506232300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix de Miami</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix de Miami.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/17B218DC0888F4E98908075C92B0BEF5.jpg" />
+<episode-num system="xmltv_ns">0.23.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506232300 +0200" stop="20230506233000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Zapsport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F7E27A26F28C4C1AEBED8A16D1BA9428.jpg" />
+<episode-num system="xmltv_ns">0.174.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506233000 +0200" stop="20230507010100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Voile : SailGP</title>
+<desc lang="fr">SailGP 2022/2023. 11e manche. Grand Prix de San Francisco, 1er jour.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Voile</category>
+<icon src="https://img.bouygtel.fr/CMS/images/18215158C6752648805FB4C26255AA44.jpg" />
+<episode-num system="xmltv_ns">0.42.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230507010100 +0200" stop="20230507030200 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Open de Charlotte</title>
+<desc lang="fr">Circuit américain 2022/2023. Open de Charlotte.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9F44AE4A4AF7CC144666812CD3AD238D.jpg" />
+<episode-num system="xmltv_ns">0.175.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230507030200 +0200" stop="20230507050100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">En attendant Bojangles</title>
+<desc lang="fr">Au premier coup d'oeil, Camille et Georges semblent former un couple comme tous les autres en cette fin des années 50. En réalité, depuis les débuts de leur relation, tout est trop extraordinaire. Mariés le jour même de leur rencontre à une soirée mondaine, leur amour n'a cessé de grandir, et un petit Gary n'a pas tardé à rejoindre leur foyer. Malheureusement, cette vie faite d'excès, de légèreté, et de trop d'insouciance prend soudainement fin quand Camille est rattrapée par des démons qu'elle ne parvient désormais plus à combattre. George se retrouve seul avec son fils, faisant face à ses terribles remords, empli d'incertitudes...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4328B0C0BB5F635F5D3F063DBF381BB9.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230507050100 +0200" stop="20230507071700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

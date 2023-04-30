@@ -1,0 +1,58 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230504112000 +0200" stop="20230504133500 +0200" channel="VOOSportWorld1.be">
+<title lang="fr">VOOsport en résumés</title>
+<desc lang="fr">Toutes les images des événements sportifs qui ont marqué l'antenne de VOOsport durant la semaine écoulée. Football, tennis, hockey sur gazon, basket, sports mécaniques, golf ou encore rugby à XV sont au menu du magazine VOOsport en résumés.</desc>
+<category lang="fr">JT sport</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/fdc59efaca181795807fede3adf66e71a02e98ba.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504133500 +0200" stop="20230504185000 +0200" channel="VOOSportWorld1.be">
+<title lang="fr">Golf : Open d'Italie</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Golf</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/04/25/4e6e6ed5b5373a7b5776c041d2c3e019863b0d92.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504185000 +0200" stop="20230504205500 +0200" channel="VOOSportWorld1.be">
+<title lang="fr">Basket : BNXT League</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Basket-ball</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/04/04/53c4b5a762f233e0dbdd107253c931a25d8f1d55.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504205500 +0200" stop="20230504225500 +0200" channel="VOOSportWorld1.be">
+<title lang="fr">Football : Premier League</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Football</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/16/43af0f7aa0a57851afdecab21399782b922c56c4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504225500 +0200" stop="20230504234000 +0200" channel="VOOSportWorld1.be">
+<title lang="fr">PL Club</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Football</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/06/0d778385b92f70fe1a02f91b4c2b97b6bd1e533f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504234000 +0200" stop="20230505003000 +0200" channel="VOOSportWorld1.be">
+<title lang="fr">IndyCar Highlights</title>
+<sub-title lang="fr">Barber Park</sub-title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Indycar</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/5ef732db9708042a2f8a2682266bfa67200724b9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505003000 +0200" stop="20230505020000 +0200" channel="VOOSportWorld1.be">
+<title lang="fr">PGA Tour Champions : Open de The Woodlands</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Golf</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/04/24/664129cd146983d7c7d07ea7623d3402e013dccf.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505020000 +0200" stop="20230505113000 +0200" channel="VOOSportWorld1.be">
+<title lang="fr">Pause</title>
+<desc lang="fr">Une sélection des meilleurs reportages de DIRECT AUTO, magazine de l'automobile.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

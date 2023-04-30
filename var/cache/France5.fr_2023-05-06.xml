@@ -1,0 +1,438 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230505232000 +0200" stop="20230506001500 +0200" channel="France5.fr">
+<title lang="fr">Jean Vilar, le rêve du théâtre pour tous</title>
+<desc lang="fr">Jean Vilar, engagé en faveur du &quot;théâtre populaire&quot;, a révolutionné l'accueil du public et posé les prémices de la politique culturelle française.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_22703669.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506001500 +0200" stop="20230506002000 +0200" channel="France5.fr">
+<title lang="fr">La p'tite librairie</title>
+<desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12608951.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506002000 +0200" stop="20230506012500 +0200" channel="France5.fr">
+<title lang="fr">C dans l'air</title>
+<desc lang="fr">Caroline Roux (du lundi au jeudi) et Axel de Tarlé (le vendredi et samedi) décryptent en direct l'actualité en compagnie de quatre experts. En fin d'émission, ils répondent aux questions des téléspectateurs.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23771880.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506012500 +0200" stop="20230506022000 +0200" channel="France5.fr">
+<title lang="fr">C à vous</title>
+<desc lang="fr">Dans &quot; C à vous &quot;, le talk-show qui fait la part belle à l'actualité la plus diverse avec des invités prestigieux, les téléspectateurs retrouvent Anne-Elisabeth Lemoine toujours entourée de sa fidèle bande : Patrick Cohen, Pierre Lescure, Mohamed Bouhafsi, Matthieu Belliard, Emilie Tran Nguyen,...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_13135017.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506022000 +0200" stop="20230506022500 +0200" channel="France5.fr">
+<title lang="fr">Vu</title>
+<desc lang="fr">&quot;Vu &quot;, le zapping quotidien, impertinent et libre, sur le monde de l'image est programmé au début de cette plage horaire.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_31865439.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506022500 +0200" stop="20230506031500 +0200" channel="France5.fr">
+<title lang="fr">C à vous la suite</title>
+<desc lang="fr">Florilège des meilleurs moments de l'émission.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14301793.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506031500 +0200" stop="20230506050000 +0200" channel="France5.fr">
+<title lang="fr">La nuit France 5</title>
+<desc lang="fr">Magazine de reportages</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14239439.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506050000 +0200" stop="20230506060000 +0200" channel="France5.fr">
+<title lang="fr">Okoo</title>
+<desc lang="fr">Une sélection de dessins animés, des reportages, des expériences pour apprendre en s'amusant, des découvertes et des exclus, avec Okoo il y en aura pour tous les goûts et pour tous les enfants de 3 à 12 ans !</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Jeunesse Mag</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14186967.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506070000 +0200" stop="20230506070700 +0200" channel="France5.fr">
+<title lang="fr">Hé, Oua-Oua</title>
+<sub-title lang="fr">Le badge diplomatie</sub-title>
+<desc lang="fr">Le chien Oua-Oua qui anime le Club des Ecureuils, un centre d'activités extrascolaires, règle les problèmes, dans la bonne humeur avec sa bande d'amis.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_32063164.jpg" />
+<episode-num system="xmltv_ns">2.35.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506070700 +0200" stop="20230506071800 +0200" channel="France5.fr">
+<title lang="fr">Tangranimo</title>
+<sub-title lang="fr">Attrape-pique-nique</sub-title>
+<desc lang="fr">Une petite bulle de mer, sur laquelle Russ a posé leur pique-nique, est importée par un courant marin. Pour la retrouver, il faut comprendre où va ce courant.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_36901023.jpg" />
+<episode-num system="xmltv_ns">0.36.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506071800 +0200" stop="20230506073000 +0200" channel="France5.fr">
+<title lang="fr">Tangranimo</title>
+<sub-title lang="fr">La légende du Tangra-Titan</sub-title>
+<desc lang="fr">Jovial raconte à ses amis la légende du Titan Volant. Kazu, Oula et Géo ont envie d'y croire et partent à la recherche de ce Titan.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_36901023.jpg" />
+<episode-num system="xmltv_ns">0.37.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506073000 +0200" stop="20230506073900 +0200" channel="France5.fr">
+<title lang="fr">Masha et Michka</title>
+<sub-title lang="fr">Vive la reine !</sub-title>
+<desc lang="fr">Les aventures d'une fillette curieuse et d'un ours débonnaire.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_34070177.jpg" />
+<episode-num system="xmltv_ns">2.22.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506073900 +0200" stop="20230506074600 +0200" channel="France5.fr">
+<title lang="fr">Masha et Michka</title>
+<sub-title lang="fr">Le monde est une scène</sub-title>
+<desc lang="fr">Les aventures d'une fillette curieuse et d'un ours débonnaire.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_10698815.jpg" />
+<episode-num system="xmltv_ns">2.23.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506074600 +0200" stop="20230506075300 +0200" channel="France5.fr">
+<title lang="fr">Masha et Michka</title>
+<desc lang="fr">Macha adore faire des bêtises et son ami l'ours Michka en paie le prix fort. Si la patience de celui-ci est mise à rude épreuve, la tendresse finit toujours par l'emporter.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12871189.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506075300 +0200" stop="20230506075900 +0200" channel="France5.fr">
+<title lang="fr">Masha et Michka</title>
+<desc lang="fr">Macha adore faire des bêtises et son ami l'ours Michka en paie le prix fort. Si la patience de celui-ci est mise à rude épreuve, la tendresse finit toujours par l'emporter.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12871189.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506075900 +0200" stop="20230506080600 +0200" channel="France5.fr">
+<title lang="fr">Masha et Michka</title>
+<desc lang="fr">Macha adore faire des bêtises et son ami l'ours Michka en paie le prix fort. Si la patience de celui-ci est mise à rude épreuve, la tendresse finit toujours par l'emporter.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12871189.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506080600 +0200" stop="20230506081400 +0200" channel="France5.fr">
+<title lang="fr">Masha et Michka</title>
+<desc lang="fr">Macha adore faire des bêtises et son ami l'ours Michka en paie le prix fort. Si la patience de celui-ci est mise à rude épreuve, la tendresse finit toujours par l'emporter.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12871189.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506081400 +0200" stop="20230506081900 +0200" channel="France5.fr">
+<title lang="fr">Peppa Pig</title>
+<sub-title lang="fr">Londres</sub-title>
+<desc lang="fr">Maman achète à Peppa des chaussures qu'elle ne veut plus quitter. Mais pour jouer dans la boue, elle consent finalement à enfiler une vieille paire de souliers.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_22285699.jpg" />
+<episode-num system="xmltv_ns">4.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506081900 +0200" stop="20230506082300 +0200" channel="France5.fr">
+<title lang="fr">Peppa Pig</title>
+<sub-title lang="fr">Le château</sub-title>
+<desc lang="fr">L'école a organisé un concours de citrouilles pour Halloween et Peppa, aidée de son grand-père, y participe.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_37860479.jpg" />
+<episode-num system="xmltv_ns">4.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506082300 +0200" stop="20230506082800 +0200" channel="France5.fr">
+<title lang="fr">Peppa Pig</title>
+<sub-title lang="fr">La reine</sub-title>
+<desc lang="fr">La reine va remettre une récompense à mademoiselle Rabbit, la personne la plus travailleuse de tout le pays. Peppa et ses amis décident de l'accompagner.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_14190100.jpg" />
+<episode-num system="xmltv_ns">3.26.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506082800 +0200" stop="20230506083300 +0200" channel="France5.fr">
+<title lang="fr">Peppa Pig</title>
+<sub-title lang="fr">Princesse Peppa</sub-title>
+<desc lang="fr">Mamie et Papy Cochon viennent pour un dîner avec maman et papa Cochon, mais Peppa et George sont trop fatigués pour aller au lit, jusqu'à ce qu'on leur racontent une histoire...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_7974447.jpg" />
+<episode-num system="xmltv_ns">2.13.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506083300 +0200" stop="20230506084000 +0200" channel="France5.fr">
+<title lang="fr">Peppa Pig</title>
+<sub-title lang="fr">Le château aux 4 vents</sub-title>
+<desc lang="fr">Peppa et George s'occupent de Polly le perroquet en l'absence de leurs grands-parents, en vacances. Mais Polly profite de ce que les enfants sont partis chercher une glace pour prendre la poudre d'escampette...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_21321914.jpg" />
+<episode-num system="xmltv_ns">0.26.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506084000 +0200" stop="20230506084600 +0200" channel="France5.fr">
+<title lang="fr">Bluey</title>
+<sub-title lang="fr">Les reines</sub-title>
+<desc lang="fr">Bingo et Bluey jouent tour à tour la reine et sa servante. Quand elles veulent être servantes en même temps, c'est maman qui est couronnée reine après le règne chaotique de papa.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_33747165.jpg" />
+<episode-num system="xmltv_ns">1.22.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506084600 +0200" stop="20230506085300 +0200" channel="France5.fr">
+<title lang="fr">Bluey</title>
+<sub-title lang="fr">Monsieur le singe en culotte</sub-title>
+<desc lang="fr">Bluey et Bingo doivent prouver que Monsieur le singe en culotte est important pour elles afin d'éviter que Papa ne le donne à quelqu'un d'autre.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_33746928.jpg" />
+<episode-num system="xmltv_ns">1.37.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506085300 +0200" stop="20230506085900 +0200" channel="France5.fr">
+<title lang="fr">Bluey</title>
+<sub-title lang="fr">Les meubles en kit</sub-title>
+<desc lang="fr">Tandis que papa et maman montent leur nouvelle balancelle en kit pour le jardin, Bluey et Bingo utilisent le carton d'emballage et le papier-bulle pour créer leur propre micro-civilisation.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_33747163.jpg" />
+<episode-num system="xmltv_ns">1.23.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506085900 +0200" stop="20230506090700 +0200" channel="France5.fr">
+<title lang="fr">Bluey</title>
+<sub-title lang="fr">L'armée</sub-title>
+<desc lang="fr">Lors de la première journée de Jack à l'école de Bluey, Calypso lui suggère de jouer aux soldats dehors avec Rusty, dans la brousse.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_33747158.jpg" />
+<episode-num system="xmltv_ns">1.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506090700 +0200" stop="20230506091900 +0200" channel="France5.fr">
+<title lang="fr">Pierre Lapin</title>
+<sub-title lang="fr">Le roi de la forêt</sub-title>
+<desc lang="fr">Pour sauver Jeannot, prisonnier de monsieur Tod, Pierre et Lily attirent le renard hors de sa tanière et lui font croire qu'il va être couronné Roi de la forêt.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_22226203.jpg" />
+<episode-num system="xmltv_ns">1.23.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506091900 +0200" stop="20230506093200 +0200" channel="France5.fr">
+<title lang="fr">Pierre Lapin</title>
+<sub-title lang="fr">Madame Canétang est accablée</sub-title>
+<desc lang="fr">Pierre Lapin trouve toujours une occasion de s'amuser avec ses soeurs, Trotsot, Flopsot et Queue-de-Coton, et ses meilleurs amis Jeannot et Lily.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_22227111.jpg" />
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506093200 +0200" stop="20230506093700 +0200" channel="France5.fr">
+<title lang="fr">Simon Superlapin</title>
+<sub-title lang="fr">Le chapeau du dragon</sub-title>
+<desc lang="fr">Simon et sa petite bande de copains deviennent des super héros et se transforment en Superlapin, Super Lou, Super Ferdi et Capitaine Lapin.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_30098512.jpg" />
+<episode-num system="xmltv_ns">0.36.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506093700 +0200" stop="20230506094300 +0200" channel="France5.fr">
+<title lang="fr">Simon Superlapin</title>
+<sub-title lang="fr">La sieste du dragon</sub-title>
+<desc lang="fr">Simon et sa petite bande de copains deviennent des super héros et se transforment en Superlapin, Super Lou, Super Ferdi et Capitaine Lapin.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_30098512.jpg" />
+<episode-num system="xmltv_ns">0.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506094300 +0200" stop="20230506095300 +0200" channel="France5.fr">
+<title lang="fr">Sam le pompier</title>
+<desc lang="fr">Sam, le valeureux soldat du feu, partage son quotidien avec Martin Roberts, Gareth Griffiths, madame Chen et Lily, les nouveaux habitants de Pontypandy.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23772881.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506095300 +0200" stop="20230506100100 +0200" channel="France5.fr">
+<title lang="fr">Bing</title>
+<sub-title lang="fr">Le parking</sub-title>
+<desc lang="fr">Bing joue à garer ses voitures mais Charlie veut absolument participer et finit par tout renverser. Bing décide alors de jouer seul. Mais c'est beaucoup moins amusant...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23085195.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506100100 +0200" stop="20230506100900 +0200" channel="France5.fr">
+<title lang="fr">Oggy Oggy</title>
+<desc lang="fr">Curieux, Oggy Oggy a toujours hâte de vivre de nouvelles aventures avec ses amis. Sa maladresse le conduit parfois à faire des erreurs, mais ses idées géniales et farfelues gagnent toujours.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34173681.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506100900 +0200" stop="20230506101000 +0200" channel="France5.fr">
+<title lang="fr">Silence ça pousse, junior !</title>
+<desc lang="fr">A partir d'expériences menées in situ avec Stéphane Marie dans le jardin de l'émission, les enfants découvrent le développement des végétaux, leurs besoins vitaux et leur mode de reproduction.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Education</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_13027293.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506101000 +0200" stop="20230506104500 +0200" channel="France5.fr">
+<title lang="fr">La forêt des ombres</title>
+<desc lang="fr">En Afrique Centrale, se trouve la deuxième plus grande forêt tropicale au monde qui accueille un très grand nombre d'espèces animales fascinantes.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Nature</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_37905720.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506104500 +0200" stop="20230506114000 +0200" channel="France5.fr">
+<title lang="fr">Silence, ça pousse !</title>
+<desc lang="fr">Rencontre : Sarah Morin. Découverte : comment limiter les comportement dommageables des pratiques sportives pour la planète ?. Visite de jardin : le jardin Camifolia. Pas de panique : chez Ophélie et Laurent.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14830074.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506114000 +0200" stop="20230506124000 +0200" channel="France5.fr">
+<title lang="fr">Silence, ça pousse !</title>
+<desc lang="fr">Rencontre : Eric Foort. Découverte : le trognes. Visite de jardin : le domaine des Colombières. Pas de panique : chez Monique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14830074.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506124000 +0200" stop="20230506134500 +0200" channel="France5.fr">
+<title lang="fr">Les 100 lieux qu'il faut voir</title>
+<desc lang="fr">Découverte du département de l'Isère, du massif des Écrins jusqu'au sud du Dauphiné. Pour débuter ce voyage, direction la cité médiévale du Grésivaudan.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_16041219.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506134500 +0200" stop="20230506144000 +0200" channel="France5.fr">
+<title lang="fr">Planète bleue</title>
+<desc lang="fr">Dans les Tropiques, les récifs coralliens se révèlent riches d'une vie aussi impressionnante qu'implacable, entre prédation sauvage et symbioses étonnantes.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Nature</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_30885565.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506144000 +0200" stop="20230506154000 +0200" channel="France5.fr">
+<title lang="fr">La République dominicaine, trésor des Caraïbes</title>
+<desc lang="fr">Découverte de la République Dominicaine, terre accueillante, joyeuse, où la nature est paisible et généreuse et dont le tourisme est devenu la première richesse.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_21840321.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506154000 +0200" stop="20230506163500 +0200" channel="France5.fr">
+<title lang="fr">Le mystère de la tour de Pise</title>
+<desc lang="fr">La tour de Pise est l'un des bâtiments les plus emblématiques du monde. Pourquoi penche-t-elle ? Des spécialistes découvrent les raisons de son déséquilibre.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Histoire</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_22038562.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506163500 +0200" stop="20230506164500 +0200" channel="France5.fr">
+<title lang="fr">Destination 2024</title>
+<desc lang="fr">Paris accueillera en 2024 les XXXIIIe Jeux olympiques d'été. Zoom sur un champion en préparation.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_35571542.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506164500 +0200" stop="20230506173500 +0200" channel="France5.fr">
+<title lang="fr">Vivre loin du monde</title>
+<desc lang="fr">Dans une forêt dense du Northumberland, à la frontière de l'Ecosse, Ben Fogle rend visite à Kase et Natalie, un couple qui mène une vie proche de la nature.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23638498.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506173500 +0200" stop="20230506174000 +0200" channel="France5.fr">
+<title lang="fr">C'est bon à savoir</title>
+<desc lang="fr">&quot;C'est bon à savoir&quot; décrypte les bénéfices pour la santé de la consommation des fruits et légumes et analyse leur mode de culture, sans oublier de parler d'environnement. Avec la complicité d'experts, ce programme revient quelques idées reçues.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_25827458.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506174000 +0200" stop="20230506185500 +0200" channel="France5.fr">
+<title lang="fr">C dans l'air</title>
+<desc lang="fr">Caroline Roux (du lundi au jeudi) et Axel de Tarlé (le vendredi et samedi) décryptent en direct l'actualité en compagnie de quatre experts. En fin d'émission, ils répondent aux questions des téléspectateurs.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23771880.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506185500 +0200" stop="20230506200000 +0200" channel="France5.fr">
+<title lang="fr">C l'hebdo</title>
+<desc lang="fr">Retour sur l'actualité de la semaine avec Ali Baddou, avec son équipe de chroniqueurs et de nombreux invités.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10353198.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506200000 +0200" stop="20230506205500 +0200" channel="France5.fr">
+<title lang="fr">C l'hebdo la suite</title>
+<desc lang="fr">Seconde partie.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10353147.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506205500 +0200" stop="20230506210000 +0200" channel="France5.fr">
+<title lang="fr">Ma maison de A à Z</title>
+<desc lang="fr">Les différentes étapes de la construction, de l'aménagement et de la décoration d'une maison.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_32107308.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506210000 +0200" stop="20230506223000 +0200" channel="France5.fr">
+<title lang="fr">Echappées belles</title>
+<desc lang="fr">Les cuentapropistas (auto-entrepreneurs). L'art du système D. La préservation du patrimoine cubain. Le renouveau du rhum. Portrait de jeunes agriculteurs. Des citoyens engagés pour une meilleure exploitation des ressources.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_28569427.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506223000 +0200" stop="20230507000500 +0200" channel="France5.fr">
+<title lang="fr">Echappées belles</title>
+<desc lang="fr">Le pays aux milliers d'îles. Ma vie sous l'eau. Le canal des Panaméens. Le Panama, le rythme des Amériques. Les sentinelles de la biodiversité. L'or brun des Panaméens.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_36476796.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

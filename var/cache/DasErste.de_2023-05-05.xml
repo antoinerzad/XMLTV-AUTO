@@ -1,0 +1,270 @@
+<!-- racacax\XmlTv\Component\Provider\SFR -->
+<programme start="20230505032000 +0200" stop="20230505040500 +0200" channel="DasErste.de">
+<title lang="fr">Die Carolin Kebekus Show</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Divertissement</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/2/6/6686627.jpg" />
+<episode-num system="xmltv_ns">4.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505040500 +0200" stop="20230505044500 +0200" channel="DasErste.de">
+<title lang="fr">Brisant</title>
+<sub-title lang="fr">Boulevardmagazin</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/6/6860680.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505044500 +0200" stop="20230505045500 +0200" channel="DasErste.de">
+<title lang="fr">Deutschlandbilder</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Emission spéciale</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/2/5819282.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505045500 +0200" stop="20230505050000 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/1/5797151.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505050000 +0200" stop="20230505053000 +0200" channel="DasErste.de">
+<title lang="fr">Panorama</title>
+<sub-title lang="fr">Berichte - Analysen - Meinungen</sub-title>
+<desc lang="fr">Exakt - Die Story</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/4/5819471.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505053000 +0200" stop="20230505090000 +0200" channel="DasErste.de">
+<title lang="fr">ZDF-Morgenmagazin</title>
+<sub-title lang="fr">Morgenmagazin</sub-title>
+<desc lang="fr">Für einen guten Start in den Tag</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/1/5817156.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505090000 +0200" stop="20230505090500 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<sub-title lang="fr">Mit Wetter</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/1/5797151.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505090500 +0200" stop="20230505095500 +0200" channel="DasErste.de">
+<title lang="fr">Live nach Neun</title>
+<sub-title lang="fr">Raus ins Leben</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/8/2/5819283.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505095500 +0200" stop="20230505104500 +0200" channel="DasErste.de">
+<title lang="fr">Verrückt nach Meer</title>
+<sub-title lang="fr">Willkommen im Schwarzen Meer</sub-title>
+<desc lang="fr">&quot;Die Grand Lady&quot; erreicht den ersten Hafen im Schwarzen Meer. Im rumänischen Konstanza verwirrt Deckkadettin Inka ihren Praktikantenkollegen Andreas mit alter Seefahrertechnik. Küchenpraktikantin Jannicke macht das Heimweh immer mehr zu schaffen. Und Deckkadett Christian wird ins Kapitänsbüro gerufen: Dort erwartet ihn ein Angebot, das sein Leben verändert.</desc>
+<category lang="fr">Documentaire</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/3/7/7206739.jpg" />
+<episode-num system="xmltv_ns">3.26.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505104500 +0200" stop="20230505111500 +0200" channel="DasErste.de">
+<title lang="fr">Meister des Alltags</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Jeu</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/9/3/5990399.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505111500 +0200" stop="20230505120000 +0200" channel="DasErste.de">
+<title lang="fr">Wer weiß denn sowas?</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Divertissement</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/8/8/7111884.jpg" />
+<episode-num system="xmltv_ns">0.1006.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505120000 +0200" stop="20230505121500 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<sub-title lang="fr">Mit Wetter</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/1/5797151.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505121500 +0200" stop="20230505130000 +0200" channel="DasErste.de">
+<title lang="fr">ARD-Buffet</title>
+<sub-title lang="fr">Buffet</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de l'art de vivre</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/8/9/5996985.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505130000 +0200" stop="20230505140000 +0200" channel="DasErste.de">
+<title lang="fr">Mittagsmagazin</title>
+<sub-title lang="fr">Mit Tagesschau</sub-title>
+<desc lang="fr">Das ARD-Mittagsmagazin sendet direkt aus dem Herzen der deutschen Hauptstadt. In Berlin sind wir nah dran an der deutschen Politik - und das zeigen wir mit Gesprächsgästen im Studio, Hintergründen und Reportagen. Wir versorgen Sie mit aktuellen Informationen, erklären Zusammenhänge und ordnen politische Entscheidungen ein.</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/2/6638251.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505140000 +0200" stop="20230505141000 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<sub-title lang="fr">Mit Wetter</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/1/5797151.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505141000 +0200" stop="20230505150000 +0200" channel="DasErste.de">
+<title lang="fr">Rote Rosen</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série dramatique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/4/7/7206740.jpg" />
+<episode-num system="xmltv_ns">20.26.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505150000 +0200" stop="20230505151000 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<sub-title lang="fr">Mit Wetter</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/1/5797151.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505151000 +0200" stop="20230505160000 +0200" channel="DasErste.de">
+<title lang="fr">Le tourbillon de l'amour</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série sentimentale</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/1/4/6478416.jpg" />
+<episode-num system="xmltv_ns">18.68.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505160000 +0200" stop="20230505161000 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<sub-title lang="fr">Mit Wetter</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/1/5797151.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505161000 +0200" stop="20230505170000 +0200" channel="DasErste.de">
+<title lang="fr">Verrückt nach Meer</title>
+<sub-title lang="fr">Alpenglühen in Brasilien</sub-title>
+<desc lang="fr">Auf der brasilianischen Insel Ilhabela begegnen die Freundinnen Lisa und Katharina im Regenwald bunten Vögeln.</desc>
+<category lang="fr">Documentaire</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/4/7/7206741.jpg" />
+<episode-num system="xmltv_ns">0.384.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505170000 +0200" stop="20230505171500 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<sub-title lang="fr">Mit Wetter</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/1/5797151.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505171500 +0200" stop="20230505180000 +0200" channel="DasErste.de">
+<title lang="fr">Brisant</title>
+<sub-title lang="fr">Boulevardmagazin</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/6/6860680.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505180000 +0200" stop="20230505185000 +0200" channel="DasErste.de">
+<title lang="fr">Wer weiß denn sowas?</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Divertissement</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/7/7206742.jpg" />
+<episode-num system="xmltv_ns">0.1022.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505185000 +0200" stop="20230505194500 +0200" channel="DasErste.de">
+<title lang="fr">Quizduell - Der Olymp</title>
+<sub-title lang="fr">Der Olymp</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Jeu</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/4/7/7206743.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505194500 +0200" stop="20230505195000 +0200" channel="DasErste.de">
+<title lang="fr">Sportschau vor acht</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine sportif</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/0/2456013.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505195000 +0200" stop="20230505195500 +0200" channel="DasErste.de">
+<title lang="fr">Wetter vor acht</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Météo</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/2/2614242.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505195500 +0200" stop="20230505200000 +0200" channel="DasErste.de">
+<title lang="fr">Wirtschaft vor acht</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/8/3008881.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505200000 +0200" stop="20230505201500 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<sub-title lang="fr">Mit Wetter</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/1/5797151.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505201500 +0200" stop="20230505214500 +0200" channel="DasErste.de">
+<title lang="fr">Daheim in den Bergen</title>
+<sub-title lang="fr">Die Zweitgeborenen</sub-title>
+<desc lang="fr">Lisa und Florian möchten sich von alten Verpflichtungen lösen, um miteinander einen echten Neuanfang machen zu können.</desc>
+<category lang="fr">Téléfilm dramatique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/4/7/7206744.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505214500 +0200" stop="20230505222000 +0200" channel="DasErste.de">
+<title lang="fr">Tagesthemen</title>
+<sub-title lang="fr">Mit Wetter</sub-title>
+<desc lang="fr">ARD History</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/7/2/5819275.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505222000 +0200" stop="20230505235000 +0200" channel="DasErste.de">
+<title lang="fr">Polizeiruf 110</title>
+<sub-title lang="fr">Söhne Rostocks</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/4/7/7206745.jpg" />
+<episode-num system="xmltv_ns">0.383.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505235000 +0200" stop="20230506012000 +0200" channel="DasErste.de">
+<title lang="fr">La forêt des ombres</title>
+<desc lang="fr">Une jeune inspectrice se voit confier une violente affaire de meurtre dans sa ville natale. Son frère devient rapidement le principal suspect.</desc>
+<category lang="fr">Téléfilm policier</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/3/8/7181832.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230506012000 +0200" stop="20230506012500 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/1/5797151.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506012500 +0200" stop="20230506025500 +0200" channel="DasErste.de">
+<title lang="fr">Daheim in den Bergen</title>
+<sub-title lang="fr">Die Zweitgeborenen</sub-title>
+<desc lang="fr">Lisa und Florian möchten sich von alten Verpflichtungen lösen, um miteinander einen echten Neuanfang machen zu können.</desc>
+<category lang="fr">Téléfilm dramatique</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/4/7/7206744.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

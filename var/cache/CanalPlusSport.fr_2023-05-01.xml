@@ -1,0 +1,161 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230501042400 +0200" stop="20230501070500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FE94A7D93AAD8E38CC5F134073111ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501070500 +0200" stop="20230501090600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Open de Mexico</title>
+<desc lang="fr">Circuit américain 2022/2023. Open de Mexico.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1743BB01870DCC3D728969BD61EEB5AD.jpg" />
+<episode-num system="xmltv_ns">0.169.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501090600 +0200" stop="20230501093200 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Rugby Sevens Series 2022/2023. 9e manche. Etape de Singapour, les temps forts.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/47962181A32684E6A5BD4DDDFC018D78.jpg" />
+<episode-num system="xmltv_ns">0.93.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501093200 +0200" stop="20230501111400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023. 29e journée. Vannes / Colomiers.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BA98F032948E2DAD840469BF32C32E74.jpg" />
+<episode-num system="xmltv_ns">0.231.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501111400 +0200" stop="20230501125900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023. 29e journée. Biarritz / Grenoble.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0CCAE31914A0DA373EC3E257208E761A.jpg" />
+<episode-num system="xmltv_ns">0.227.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501125900 +0200" stop="20230501132800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Jour de rugby Pro D2 débrief</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5E5AF9AFED65E773B6A95E276C4D87FE.jpg" />
+<episode-num system="xmltv_ns">0.26.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501132800 +0200" stop="20230501151200 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 10e journée. Hurricanes / Brumbies.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FD34DC8C821AEECAD2CAFBAA03FD5D95.jpg" />
+<episode-num system="xmltv_ns">0.27.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501151200 +0200" stop="20230501165400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0CCAE31914A0DA373EC3E257208E761A.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501165400 +0200" stop="20230501183700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/89DCD923BCC916E69B1A703550775DF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501183700 +0200" stop="20230501200400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 2 : Grand Prix d'Azerbaïdjan</title>
+<desc lang="fr">Championnat FIA 2023. Grand Prix d'Azerbaïdjan.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 2</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D526B6E4B88549F181FB06D42D67FC6B.jpg" />
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501200400 +0200" stop="20230501210000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">La grille</title>
+<sub-title lang="fr">Grand Prix d'Azerbaïdjan</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1113F7FEA122A193516A5365BD482712.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501210000 +0200" stop="20230501224600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix d'Azerbaïdjan</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix d'Azerbaïdjan.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1629A7BAA8C4FD22819571C8CE6A8D8D.jpg" />
+<episode-num system="xmltv_ns">0.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501224600 +0200" stop="20230501225700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Le podium</title>
+<sub-title lang="fr">Grand Prix d'Azerbaïdjan</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/91282EBA54DAC49C4CE1EEF883B15F41.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501225700 +0200" stop="20230501233400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formula One, le mag</title>
+<sub-title lang="fr">Grand Prix d'Azerbaïdjan</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E6EC1FBDB301092CEA31B60894BD969F.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501233400 +0200" stop="20230502010000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 2 : Grand Prix d'Azerbaïdjan</title>
+<desc lang="fr">Championnat FIA 2023. Grand Prix d'Azerbaïdjan.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 2</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CE3743665A4DF9A562A6AC26979A4E09.jpg" />
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502010000 +0200" stop="20230502030100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : Open de Mexico</title>
+<desc lang="fr">Circuit américain 2022/2023. Open de Mexico.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9DAFBC63D2132E576839CDAA2C1425C0.jpg" />
+<episode-num system="xmltv_ns">0.169.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502030100 +0200" stop="20230502043700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Les Tuche 4</title>
+<desc lang="fr">Lassé de sa vie à l'Elysée, Jeff revient à Bouzolles avec toute sa famille après avoir quitté ses fonctions présidentielles. Ravis de revenir dans leur village, ils attendent Noël avec impatience, et Cathy souhaite profiter de l'occasion pour inviter Maguy, sa soeur, et son mari Jean-Yves que Jeff ne peut pas voir en peinture après une brouille vieille de dix ans. Il accepte tout de même la requête de sa femme, mais dès l'arrivée de la belle-famille, un désaccord oppose à nouveau les deux hommes. Rapidement, Jeff prend la décision de racheter une entreprise de jouets convoitée par Jean-Yves, un financier sans scrupules à ses yeux...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/659D6162328146268543EA3C5A5859B9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230502043700 +0200" stop="20230502071900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FE94A7D93AAD8E38CC5F134073111ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

@@ -1,0 +1,389 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230503061600 +0200" stop="20230503064500 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Journal de 19h30 de Nouvelle-Calédonie</title>
+<desc lang="fr">Une couverture complète de l'actualité du jour qu'elle soit locale, régionale, nationale ou internationale.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/634620078f0979f92117525ffc459b1c10f6518a.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503064900 +0200" stop="20230503070000 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Découvrez le meilleur des hits.</desc>
+<category lang="fr">Clips</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/a381ab8cb9093e7a50569cc7ae5d7dcd80ea6115_B5C67B129BFD6A164D2490105A38DD80.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503070000 +0200" stop="20230503072100 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">L'invité de la matinale</title>
+<desc lang="fr">Sheïma Riahi reçoit une personnalité à 07h. Ils s'entretiennent de son actualité et la mette en perspective avec les infos du moment.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/01/f3132bdfa149ddfebf1b618405fa46e3b1eeaea2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503072100 +0200" stop="20230503072900 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Plein cadre</title>
+<desc lang="fr">Du lundi au vendredi, une personnalité présente un projet à venir ou un événement exceptionnel. Aucune interdiction dans les thèmes abordés : musique, théâtre, cinéma, littérature, gastronomie, danse, sujets de société comme la santé, le sport ou la jeunesse sont présentés.</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/18/2baddf3d0897243efc3c86b24c342229955ab939.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503072900 +0200" stop="20230503073300 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">ABC Dino !</title>
+<sub-title lang="fr">L'île du M</sub-title>
+<desc lang="fr">Saison 1 Episode 0
+Sur une planète avec 26 îles ayant chacune la forme d'une lettre, les petits Dinos voyagent en train d'île en île afin d'apprendre l'alphabet aux enfants à l'aide d'objets, d'animaux ou de fruits commençant par une même lettre.
+Année de réalisation : 2015</desc>
+<category lang="fr">Série d'animation</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/09/bbdadd40fdb1ca2170469fba4803f1a328268d37.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503073300 +0200" stop="20230503073800 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">ABC Dino !</title>
+<sub-title lang="fr">L'île du N</sub-title>
+<desc lang="fr">Saison 1 Episode 0
+Sur une planète avec 26 îles ayant chacune la forme d'une lettre, les petits Dinos voyagent en train d'île en île afin d'apprendre l'alphabet aux enfants à l'aide d'objets, d'animaux ou de fruits commençant par une même lettre.
+Année de réalisation : 2015</desc>
+<category lang="fr">Série d'animation</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/09/bbdadd40fdb1ca2170469fba4803f1a328268d37.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503073800 +0200" stop="20230503074300 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">A table les enfants</title>
+<sub-title lang="fr">La carotte</sub-title>
+<desc lang="fr">Les fruits et légumes prennent la parole en racontant leur vie aux enfants.</desc>
+<category lang="fr">Dessin animé jeunesse</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/08/b403843f-daa1-466b-9118-6c0ba45bd7f3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503074300 +0200" stop="20230503081000 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Outremer.le mag</title>
+<desc lang="fr">Une expérience des Outre-mer vécue de l'intérieur, en donnant à voir et à comprendre les Outre-mer par le biais de sujets, mais également en donnant la parole à des Ultramarins.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/25/1ee4c5b5cb8129402c23a989c5572261820a052d_706C664C4911A071344961DB842DEC97.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503081000 +0200" stop="20230503090900 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Ça commence aujourd'hui</title>
+<desc lang="fr">Tous les jours, Faustine Bollaert accueille sur le plateau de &quot;Ça commence aujourd'hui&quot; des hommes et des femmes qui évoquent des événements marquants de leur existence, pour permettre à d'autres d'avancer dans leur parcours: un rendez-vous positif et optimiste.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/02/24/5171ba57cb19f70ceb7c1a556ed8626716914b96_B8C568B1A5E6A3F5E1EA021B260CAE5B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503093400 +0200" stop="20230503095700 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Un si grand soleil</title>
+<desc lang="fr">Eve tente de reconquérir Manu. Marc, quant à lui, continue ses planques avec Chloé, ce qui les rapproche. Une très importante découverte va totalement rebattre les cartes de l'affaire Delclos.</desc>
+<category lang="fr">Feuilleton policier</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/02/03/3b55d2d77102552edb04761e6b2a68edc3c90187.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503095700 +0200" stop="20230503102100 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">La belle-mère</title>
+<desc lang="fr">Après avoir purgé une peine de vingt ans de prison pour un crime qu'elle n'a pas commis, Marcia souhaite revoir ses enfants et retrouver le véritable assassin du meurtre pour lequel elle a été punie. Cependant, durant ces longues années, son ex-mari Esteban a fait croire à ses enfants que Marcia était morte... Comment vont-ils réagir lorsque la vérité éclatera ? Marcia arrivera-t-elle à dénouer le vrai du faux et enfin proclamer son innocence aux yeux de tous ?</desc>
+<category lang="fr">Feuilleton sentimental</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/04/24/35307a368469121d024c349cfe7a982670f89883_EE45B1B3DB951C9EBD033125D2CE6663.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503102100 +0200" stop="20230503104500 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">La belle-mère</title>
+<desc lang="fr">Après avoir purgé une peine de vingt ans de prison pour un crime qu'elle n'a pas commis, Marcia souhaite revoir ses enfants et retrouver le véritable assassin du meurtre pour lequel elle a été punie. Cependant, durant ces longues années, son ex-mari Esteban a fait croire à ses enfants que Marcia était morte... Comment vont-ils réagir lorsque la vérité éclatera ? Marcia arrivera-t-elle à dénouer le vrai du faux et enfin proclamer son innocence aux yeux de tous ?</desc>
+<category lang="fr">Feuilleton sentimental</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/04/24/35307a368469121d024c349cfe7a982670f89883_EE45B1B3DB951C9EBD033125D2CE6663.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503104500 +0200" stop="20230503113300 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Tout le monde veut prendre sa place</title>
+<desc lang="fr">Un quiz, six candidats et, bien calé dans son fauteuil, un champion que tous rêvent de déloger. : chaque jour, un seul pourra se mesurer à lui et espérer devenir le nouveau champion en titre.</desc>
+<category lang="fr">Jeu</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/01/f55f32abfd2e1b37e25d58ea4c8b39ad8d4dcb7d.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503113300 +0200" stop="20230503120000 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Chef pays</title>
+<sub-title lang="fr">Ylang Ylang</sub-title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine culinaire</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/138aaa87edf3c1db6dd3fa25a540c6bf867ae8a4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503120000 +0200" stop="20230503121600 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Le Journal de 12h00</title>
+<desc lang="fr">L'édition du journal de la rédaction radio à 12h.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/04/12/99cc7f4722f999389807c7dc2547f6be492c1179_8160FA26F0AE54BE03BE7228F19A78CB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503121600 +0200" stop="20230503130200 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Ligne directe</title>
+<desc lang="fr">David entouré d'experts visite le quotidien des Calédoniens : emploi, habitat, consommation, sécurité routière, etc</desc>
+<category lang="fr">Magazine régional</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/25/d435ff1fdafbac0df864816a603678c0daa2e012.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503130200 +0200" stop="20230503143000 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Azucar</title>
+<desc lang="fr">Avant de quitter le pays, Timoléon laisse une lettre à Caridad en lui déclarant son amour. Maximiliano présente son fils Ignacio à Manuel Marie mais Raquel le fait arrêter par la Police. Sixta n'accepte pas cette injustice et sort de sa cachette et rencontre Manuel Maria pour aider à sauver Maximiliano. Alejandrina rend visite à Lola dans l'asile et est surprise par son état.</desc>
+<category lang="fr">Feuilleton sentimental</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/27/4329dd3f1379ced3690a02a921c91943d04138c6_EE8A3FA4BCB259743E4DA54D13B6644F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503143000 +0200" stop="20230503143800 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Racines et des plantes</title>
+<sub-title lang="fr">Arbres fruitiers et cochons</sub-title>
+<desc lang="fr">Magazine destiné à tous les amoureux des plantes.</desc>
+<category lang="fr">Magazine du jardinage</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/11/14/4a09f197828748d6ce9eecccc748e58584f55df3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503144200 +0200" stop="20230503151800 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Climax</title>
+<sub-title lang="fr">Virages citoyens</sub-title>
+<desc lang="fr">Réchauffement climatique, catastrophes naturelles, montée des eaux, incendies sans précédent, raréfaction des ressources naturelles, modes de vie en contradiction avec le vivant, l'urgence écologique est devenue une évidence ; une guerre citoyenne et institutionnelle est même déjà déclarée, dans le monde autant qu'en Calédonie, nous voyons apparaître une prise de conscience sans précédent.</desc>
+<category lang="fr">Magazine de l'environnement</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/dd1f2bc389516b25a7493fec71daa86cd373184a.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503151800 +0200" stop="20230503152300 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">1ère séance</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/10/10/98ece5ba03e234c9618fdef8a9133c113280384d.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503152300 +0200" stop="20230503155200 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Endemix Live</title>
+<sub-title lang="fr">Hpejele</sub-title>
+<desc lang="fr">&quot;Endemix Live&quot; propose une rencontre musicale pour découvrir sur scène l'actualité d'un artiste local confirmé, le tout pimenté d'une interview sur ses sources d'inspiration, ses influences, ses engagements...</desc>
+<category lang="fr">Magazine musical</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/06/2195712ff005d0306c793a598787b7378c27464a.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503155200 +0200" stop="20230503162000 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">C'est toujours pas sorcier</title>
+<sub-title lang="fr">Le bois, un matériau pas comme les autres</sub-title>
+<desc lang="fr">La cabane CTPS est un véritable trésor. Comme de nombreuses constructions actuelles, elle est faite bois, un des plus vieux matériaux de construction de l'humanité. Idéal pour la construction, source d'énergie, il est également essentiel à la fabrication du papier.</desc>
+<category lang="fr">Magazine éducatif</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/23/21dcf312c04f9367e08d6dd91b81ed5c9ed5a2a3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503162000 +0200" stop="20230503164200 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Abraca</title>
+<sub-title lang="fr">P'tit poucet</sub-title>
+<desc lang="fr">Saison 1 Episode 2
+Abraca, une apprentie magicienne de 12 ans, est envoyée sur Terre pour parfaire son apprentissage. Elle y rencontre Firmin, un jeune garçon fan de jeux vidéos.
+Année de réalisation : 2019</desc>
+<category lang="fr">Série d'animation</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/11/4c828086-aefc-4e95-bc57-8452185cb6a2.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503164200 +0200" stop="20230503170500 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Les nouvelles aventures d'Oz</title>
+<sub-title lang="fr">Miroir, mon beau miroir</sub-title>
+<desc lang="fr">Saison 2 Episode 13
+pilote Amazon 2015, le reste en 2017
+Année de réalisation : 2018</desc>
+<category lang="fr">Série d'animation</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/26/3c2a461bdf7c4279730a570fdccc55cff664115e.jpg" />
+<episode-num system="xmltv_ns">1.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503170500 +0200" stop="20230503172800 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Foot 2 rue</title>
+<sub-title lang="fr">Foot Favelas</sub-title>
+<desc lang="fr">Saison 2 Episode 18
+Zanghezino, soulagé que les problèmes de santé de son père soient pris en charge, doit quand même travailler pour aider sa famille. Il ne peut donc pas participer à la finale. Encore une fois, les Bleus vont prouver qu'ils ont l'esprit du foot 2 rue en aidant leur ami...
+Année de réalisation : 2006</desc>
+<category lang="fr">Dessin animé</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/06/01/e492bc39981998228d5926be1859cf43b909dc52_56C1CF99D6E68720D228F22F0E086AC5.jpg" />
+<episode-num system="xmltv_ns">1.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503172800 +0200" stop="20230503173100 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Nos amies les bêtes</title>
+<sub-title lang="fr">La maladies des chevaux</sub-title>
+<desc lang="fr">Des conseils pour nos animaux de compagnie. </desc>
+<category lang="fr">Documentaire animalier</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/a3bc08afd8b18169ae66da0b28bf679c5cb1006b.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503173100 +0200" stop="20230503174200 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Découvrez le meilleur des hits.</desc>
+<category lang="fr">Clips</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/a381ab8cb9093e7a50569cc7ae5d7dcd80ea6115_B5C67B129BFD6A164D2490105A38DD80.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503180500 +0200" stop="20230503182900 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">La belle-mère</title>
+<desc lang="fr">Après avoir purgé une peine de vingt ans de prison pour un crime qu'elle n'a pas commis, Marcia souhaite revoir ses enfants et retrouver le véritable assassin du meurtre pour lequel elle a été punie. Cependant, durant ces longues années, son ex-mari Esteban a fait croire à ses enfants que Marcia était morte... Comment vont-ils réagir lorsque la vérité éclatera ? Marcia arrivera-t-elle à dénouer le vrai du faux et enfin proclamer son innocence aux yeux de tous ?</desc>
+<category lang="fr">Feuilleton sentimental</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/04/24/35307a368469121d024c349cfe7a982670f89883_EE45B1B3DB951C9EBD033125D2CE6663.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503182900 +0200" stop="20230503185300 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">La belle-mère</title>
+<desc lang="fr">Après avoir purgé une peine de vingt ans de prison pour un crime qu'elle n'a pas commis, Marcia souhaite revoir ses enfants et retrouver le véritable assassin du meurtre pour lequel elle a été punie. Cependant, durant ces longues années, son ex-mari Esteban a fait croire à ses enfants que Marcia était morte... Comment vont-ils réagir lorsque la vérité éclatera ? Marcia arrivera-t-elle à dénouer le vrai du faux et enfin proclamer son innocence aux yeux de tous ?</desc>
+<category lang="fr">Feuilleton sentimental</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/04/24/35307a368469121d024c349cfe7a982670f89883_EE45B1B3DB951C9EBD033125D2CE6663.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503185300 +0200" stop="20230503192000 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Casse pas la tête</title>
+<desc lang="fr">Casse pas la tête oppose deux équipes de deux candidats sur un quizz consacré à la Nouvelle Calédonie et au Pacifique. Compétition, mais toujours avec bienveillance, et bonne humeur sont au programme de ce divertissement 100% local.</desc>
+<category lang="fr">Jeu</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/15/b0781d1f98da9757ea98728a258c6463e390f749.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503192000 +0200" stop="20230503192700 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Plein cadre</title>
+<desc lang="fr">Du lundi au vendredi, une personnalité présente un projet à venir ou un événement exceptionnel. Aucune interdiction dans les thèmes abordés : musique, théâtre, cinéma, littérature, gastronomie, danse, sujets de société comme la santé, le sport ou la jeunesse sont présentés.</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/18/2baddf3d0897243efc3c86b24c342229955ab939.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503192700 +0200" stop="20230503193000 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Météo Nouvelle-Calédonie</title>
+<desc lang="fr">Retrouvez tous les jours les prévisions météorologiques avec le bulletin de NC la 1ère. </desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/c2c3a0e502eb2aef151f7ea96640687d2c34b95e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503193000 +0200" stop="20230503195900 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Journal de 19h30 de Nouvelle-Calédonie</title>
+<desc lang="fr">Une couverture complète de l'actualité du jour qu'elle soit locale, régionale, nationale ou internationale.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/634620078f0979f92117525ffc459b1c10f6518a.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503195900 +0200" stop="20230503200500 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Météo Nouvelle-Calédonie</title>
+<desc lang="fr">Retrouvez tous les jours les prévisions météorologiques avec le bulletin de NC la 1ère. </desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/c2c3a0e502eb2aef151f7ea96640687d2c34b95e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503200500 +0200" stop="20230503205900 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">The Victim</title>
+<desc lang="fr">Saison 1 Episode 1
+Le soir d'Halloween, Craig Myers est agressé chez lui par un assaillant déguisé en Faucheuse. Il s'en sort indemne, mais la police découvre qu'une publication internet l'accuse d'être en réalité Eddie J. Turner, l'assassin d'un garçon de 9 ans. Le meurtre a eu lieu en 2003 et Anna Dean, la mère de la victime, essaie toujours de venger son fils en retrouvant le tueur, à qui la Justice a attribué une nouvelle identité depuis sa libération. Anna est rapidement soupçonnée d'avoir publié le post accusateur, puis inculpée à son tour d'incitation au meurtre. Elle doit décider de plaider coupable ou non, ravivant les blessures de toute sa famille, tandis que Craig Myers essaie en vain de retrouver une vie normale auprès de sa femme Rebecca et de sa fille de 6 ans...
+Année de réalisation : 2019</desc>
+<category lang="fr">Série dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/24/6e116602c6ee3b9506edec4c56ebfa2ecbb96228.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230503205900 +0200" stop="20230503215700 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">The Victim</title>
+<desc lang="fr">Saison 1 Episode 2
+Craig est nerveux à l'idée de témoigner. Anna, elle, n'attend que ça. Elle est persuadée qu'il va craquer et révéler à la cour qu'il est bel et bien Eddie J. Turner. Pourtant, lorsqu'elle demande à Mo de lui en apporter la preuve, celle-ci s'en révèle incapable. Auraitelle commis une erreur ? Rebecca aussi commence à douter. Elle sait que Craig lui cache quelque chose sur son passé et vit très mal le harcèlement quotidien que doit subir sa famille. De son côté, le capitaine Grover est prêt à tout pour faire valoir les droits de Myers, mais du jour au lendemain, il est relevé de l'enquête par son supérieur. Malgré tout, il décide d'aller interroger en secret l'ex-mari d'Anna, en prison. Pendant ce temps, le petit-ami de Louise fait d'étranges révélations à Ben...
+Année de réalisation : 2019</desc>
+<category lang="fr">Série dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/04/24/7a7b9c4114d428aa18e3b792138ed915b6d270c9.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503215700 +0200" stop="20230503223700 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Aruanas</title>
+<desc lang="fr">Saison 1 Episode 9
+Des amies idéalistes, Luiza, Natalie et Veronica, ont créé une ONG, Aruanas, pour enquêter sur les activités d'une société minière opérant dans la forêt amazonienne. Tout en mettant à jour un réseau dangereux de crimes contre l'environnement, ces femmes doivent également faire face à leur propres fantômes et drames personnels.</desc>
+<category lang="fr">Série dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/04/03/07903555193728fe1d49b0f6057fbe31e1387561.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503223700 +0200" stop="20230503232600 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Aruanas</title>
+<desc lang="fr">Saison 1 Episode 10
+Des amies idéalistes, Luiza, Natalie et Veronica, ont créé une ONG, Aruanas, pour enquêter sur les activités d'une société minière opérant dans la forêt amazonienne. Tout en mettant à jour un réseau dangereux de crimes contre l'environnement, ces femmes doivent également faire face à leur propres fantômes et drames personnels.</desc>
+<category lang="fr">Série dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/04/03/07903555193728fe1d49b0f6057fbe31e1387561.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503232600 +0200" stop="20230503233100 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Météo Nouvelle-Calédonie</title>
+<desc lang="fr">Retrouvez tous les jours les prévisions météorologiques avec le bulletin de NC la 1ère. </desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/c2c3a0e502eb2aef151f7ea96640687d2c34b95e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230503233100 +0200" stop="20230504001100 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Journal de 13h</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/03/12/9185c9e3ea617ca48429a852b2abf8713965f944.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504001100 +0200" stop="20230504005700 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Ligne directe</title>
+<desc lang="fr">David entouré d'experts visite le quotidien des Calédoniens : emploi, habitat, consommation, sécurité routière, etc</desc>
+<category lang="fr">Magazine régional</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/25/d435ff1fdafbac0df864816a603678c0daa2e012.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504005700 +0200" stop="20230504012400 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Outremer.le mag</title>
+<desc lang="fr">Une expérience des Outre-mer vécue de l'intérieur, en donnant à voir et à comprendre les Outre-mer par le biais de sujets, mais également en donnant la parole à des Ultramarins.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/25/1ee4c5b5cb8129402c23a989c5572261820a052d_706C664C4911A071344961DB842DEC97.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504012400 +0200" stop="20230504031000 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Les apparences</title>
+<desc lang="fr">Henri Monlibert, chef d'orchestre de l'opéra de Vienne, et Eve, son épouse qui travaille à l'Institut français, semblent former le couple parfait. Ce ne sont que des apparences car Henri entretient une liaison avec Tina, l'institutrice de son fils Malo. Eve découvre la vérité et est bien décidée à mettre fin à cette histoire. Elle veut garder Henri à tout prix et ne pas perdre la vie confortable qu'elle s'est construite. Elle piège Tina : via un email, tous les parents d'élèves réalisent que l'enseignante est la maîtresse de l'un des pères de l'école. Elle croise Jonas, qui pourrait bien mettre son plan à mal...
+Année de réalisation : 2020</desc>
+<category lang="fr">Thriller</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/16/7_1494568.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230504031000 +0200" stop="20230504040300 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Médecins de brousse</title>
+<desc lang="fr">Pendant toute l'époque coloniale, des médecins militaires français ont accompagné l'armée dans ses périples. Le rôle de ces &quot;médecins de brousse&quot; n'était pas seulement de soutenir les troupes, ils voulaient aussi soigner les populations et se considéraient comme des humanistes. Ainsi ont-ils endigué, notamment en Afrique centrale, la lèpre, la peste ou encore la maladie du sommeil. Cette action impliqua parfois de s'opposer à l'administration et à l'armée, dont ces praticiens faisaient partie. Le réalisateur François Caillat s'attache plus particulièrement à l'action du docteur Léon-Clovis-Eugène Jamot, durant les années 30.</desc>
+<category lang="fr">Documentaire histoire</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/27/05d9b833a9e5304c8ee9415abd5a4ad9fd7bbde8.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504040300 +0200" stop="20230504042000 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Découvrez le meilleur des hits.</desc>
+<category lang="fr">Clips</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/a381ab8cb9093e7a50569cc7ae5d7dcd80ea6115_B5C67B129BFD6A164D2490105A38DD80.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504042000 +0200" stop="20230504044800 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Casse pas la tête</title>
+<desc lang="fr">Casse pas la tête oppose deux équipes de deux candidats sur un quizz consacré à la Nouvelle Calédonie et au Pacifique. Compétition, mais toujours avec bienveillance, et bonne humeur sont au programme de ce divertissement 100% local.</desc>
+<category lang="fr">Jeu</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/15/b0781d1f98da9757ea98728a258c6463e390f749.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504044800 +0200" stop="20230504045800 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Outremer.l'info</title>
+<desc lang="fr">L'information ultramarine trouve sa place dans un format de 9 minutes. &quot;Outremer.l'info&quot; permet une couverture plus large et un suivi accru des Ultramarins vivant dans l'Hexagone.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/02/f21356108d7af304c558df8583feff8d3703ba23_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504045800 +0200" stop="20230504053600 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Le journal 20H</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/217e1ea11e689d1b2348394c88d1aeef7da35da0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504053600 +0200" stop="20230504055900 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Journal Polynésie</title>
+<desc lang="fr">Retrouvez toute l'actualité de Polynésie.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/10f8279f9a40134ba3e353c1490b84ba589934e2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230504055900 +0200" stop="20230504061600 +0200" channel="NouvelleCaledonie.fr">
+<title lang="fr">Journal Wallis-et-Futuna</title>
+<desc lang="fr">Une couverture complète de l'actualité du jour qu'elle soit locale, régionale, nationale ou internationale.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/18/ddccbc54fca7b340be3d0935a4d2909d70bfb413.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

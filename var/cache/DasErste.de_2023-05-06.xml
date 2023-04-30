@@ -1,0 +1,261 @@
+<!-- racacax\XmlTv\Component\Provider\SFR -->
+<programme start="20230506025500 +0200" stop="20230506030000 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/1/5797151.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506030000 +0200" stop="20230506043000 +0200" channel="DasErste.de">
+<title lang="fr">La forêt des ombres</title>
+<desc lang="fr">Une jeune inspectrice se voit confier une violente affaire de meurtre dans sa ville natale. Son frère devient rapidement le principal suspect.</desc>
+<category lang="fr">Téléfilm policier</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/3/8/7181832.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230506043000 +0200" stop="20230506044500 +0200" channel="DasErste.de">
+<title lang="fr">Deutschlandbilder</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Emission spéciale</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/2/5819282.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506044500 +0200" stop="20230506045000 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/1/5797151.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506045000 +0200" stop="20230506053000 +0200" channel="DasErste.de">
+<title lang="fr">Brisant</title>
+<sub-title lang="fr">Boulevardmagazin</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/6/6860680.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506053000 +0200" stop="20230506055000 +0200" channel="DasErste.de">
+<title lang="fr">Le ranch</title>
+<sub-title lang="fr">Pile ou kite</sub-title>
+<desc lang="fr">Léa et ses copains se sont inscrits à une compétition de horse-ball dont le premier prix est un voyage en Mongolie...</desc>
+<category lang="fr">Série d'animation</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/4/8/6955845.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506055000 +0200" stop="20230506061500 +0200" channel="DasErste.de">
+<title lang="fr">Le ranch</title>
+<sub-title lang="fr">Marraine de la fête</sub-title>
+<desc lang="fr">Malgré ses inquiétudes pour Mistral, qui reste un animal sauvage et craintif, Léa accepte de défiler lors de la fête annuelle des Gardians. Ses amis sont ravis...</desc>
+<category lang="fr">Série d'animation</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/4/8/6955845.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506061500 +0200" stop="20230506064000 +0200" channel="DasErste.de">
+<title lang="fr">Durch die Wildnis</title>
+<sub-title lang="fr">Slowenien (7)</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Téléréalité</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/3/1/7136131.jpg" />
+<episode-num system="xmltv_ns">5.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506064000 +0200" stop="20230506070500 +0200" channel="DasErste.de">
+<title lang="fr">Durch die Wildnis</title>
+<sub-title lang="fr">Slowenien (8)</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Téléréalité</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/3/1/7136131.jpg" />
+<episode-num system="xmltv_ns">5.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506070500 +0200" stop="20230506072000 +0200" channel="DasErste.de">
+<title lang="fr">Ein Tunnel nach Brasilien</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Court métrage</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/2/2/7210227.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506072000 +0200" stop="20230506074500 +0200" channel="DasErste.de">
+<title lang="fr">Paula und die wilden Tiere</title>
+<sub-title lang="fr">Wie schnell rennt der Gepard?</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Documentaire</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/2/2/7210229.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506074500 +0200" stop="20230506080000 +0200" channel="DasErste.de">
+<title lang="fr">Anna und die Haustiere</title>
+<sub-title lang="fr">Ein Tag bei der Tierrettung</sub-title>
+<desc lang="fr">Die Tierrettung München ist über eine Notfallnummer rund um die Uhr erreichbar. Sind Tiere in Not, kommen sie mit dem Rettungswagen und helfen. Tierreporterin Anna begleitet Tierärztin Julia und ihre Assistentin Viola bei ihren Einsätzen. Anna darf bei der Versorgung einer Katzenmama und deren Babys dabei sein und über die Schulter schauen, wie die Hündin Bella mit einer Notinfusion gerettet wird.</desc>
+<category lang="fr">Emission jeunesse</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/2/2/7210228.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506080000 +0200" stop="20230506082500 +0200" channel="DasErste.de">
+<title lang="fr">Checker Can</title>
+<sub-title lang="fr">Der Gase-Check</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine jeunesse</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/3/2/7210232.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506082500 +0200" stop="20230506085000 +0200" channel="DasErste.de">
+<title lang="fr">Wissen macht Ah!</title>
+<sub-title lang="fr">Clarissa und Tarkan: Urlaub am Meer</sub-title>
+<desc lang="fr">Clarissa und Tarkan: Urlaub am Meer: Wissen ist keine Schande, finden Clarissa und Tarkan, und sorgen wie in jeder Sendung für fünffachen Wissenszuwachs: fünf Fragen, fünf Antworten, fünf Ah(a)-Erlebnisse. Zu dieser Sendung liegen derzeit keine weiteren Informationen vor. Inhalt wird nachgereicht! Wissen macht Ah! im Internet: www.wissen-macht-ah.de</desc>
+<category lang="fr">Emission jeunesse</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/3/2/7210231.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506085000 +0200" stop="20230506090000 +0200" channel="DasErste.de">
+<title lang="fr">Neuneinhalb - für dich mittendrin</title>
+<sub-title lang="fr">König Charles III. - Robert versucht sich als Adelsexperte</sub-title>
+<desc lang="fr">König Charles III. - Robert versucht sich als Adelsexperte</desc>
+<category lang="fr">Emission jeunesse</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/2/4/7248423.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506090000 +0200" stop="20230506092500 +0200" channel="DasErste.de">
+<title lang="fr">Die Pfefferkörner</title>
+<sub-title lang="fr">Die Aussteigerin</sub-title>
+<desc lang="fr">Lisha sucht gerade mit Flugblättern neue Mitglieder für die Pfefferkörner, da wird sie von einem Mädchen beraubt.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/3/2/7210233.jpg" />
+<episode-num system="xmltv_ns">14.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506092500 +0200" stop="20230506093000 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<sub-title lang="fr">Mit Wetter</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/1/5797151.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506093000 +0200" stop="20230506160000 +0200" channel="DasErste.de">
+<title lang="fr">King Charles III. - Die Krönung in London</title>
+<sub-title lang="fr">Die Krönung in London</sub-title>
+<desc lang="fr">Nicht nur in England ist der 6. Mai 2023 ein Tag von historischer Bedeutung. Wenn Charles III. zum König gekrönt wird, nehmen weltweit unzählige Menschen Anteil daran. Die ARD-Auslandskorrespondentin Annette Dittert berichtet vor Ort von dem Großereignis und die ARD-Königshausexpertin Leontine Gräfin von Schmettow hat Gäste ins Studio eingeladen, mit denen sie die Zeremonie verfolgen wird.</desc>
+<category lang="fr">Emission spéciale</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/3/2/7210236.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506160000 +0200" stop="20230506164500 +0200" channel="DasErste.de">
+<title lang="fr">Charles - Schicksalsjahre eines Königs</title>
+<sub-title lang="fr">Schicksalsjahre eines Königs</sub-title>
+<desc lang="fr">König Charles III.: Kein britischer Monarch war bei seiner Thronbesteigung älter, kein Thronfolger hat länger darauf gewartet, König zu werden. Doch wer ist der Mann, der nun auf dem Thron des Vereinigten Königreichs sitzt? Ist der ewige Thronfolger von einst der Rolle des Monarchen gewachsen? Wie wird er die Monarchie durch die Herausforderungen der kommenden Jahre steuern?</desc>
+<category lang="fr">Documentaire de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/6/7/7193766.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506164500 +0200" stop="20230506174700 +0200" channel="DasErste.de">
+<title lang="fr">Brisant</title>
+<sub-title lang="fr">Boulevardmagazin</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/6/6860680.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506174700 +0200" stop="20230506175000 +0200" channel="DasErste.de">
+<title lang="fr">Das Wetter im Ersten</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Météo</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/9/9/7135992.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506175000 +0200" stop="20230506180000 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<sub-title lang="fr">Mit Wetter</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/1/5797151.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506180000 +0200" stop="20230506183000 +0200" channel="DasErste.de">
+<title lang="fr">Sportschau</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine sportif</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/9/9/7135993.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506183000 +0200" stop="20230506195700 +0200" channel="DasErste.de">
+<title lang="fr">Sportschau</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine sportif</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/9/9/7135993.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506195700 +0200" stop="20230506200000 +0200" channel="DasErste.de">
+<title lang="fr">Lotto am Samstag</title>
+<sub-title lang="fr">Gewinnzahlen der 18. Ausspielung</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Jeu</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/9/3/5819399.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506200000 +0200" stop="20230506201500 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<sub-title lang="fr">Mit Wetter</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/1/5797151.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506201500 +0200" stop="20230506231500 +0200" channel="DasErste.de">
+<title lang="fr">Was kann der Mensch?</title>
+<sub-title lang="fr">Die Hirschhausen-Show</sub-title>
+<desc lang="fr">In den 180 Minuten am Samstagabend kämpfen zwei prominente Teams um den Sieg. Auch die Prominenten müssen mit eigenem Können in Challenges und Spielen glänzen, und sich damit den Runden-Sieg sichern. Wer gewinnt, der wird belohnt - denn es geht um 30.000 Euro für den guten Zweck! Am 6. Mai 2023 sind u.a. mit dabei: Dietmar Bär, Bjarne Mädel, Janin Ullmann und Simone Thomalla.</desc>
+<category lang="fr">Jeu</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/8/9/7233985.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506231500 +0200" stop="20230506233500 +0200" channel="DasErste.de">
+<title lang="fr">Tagesthemen</title>
+<sub-title lang="fr">Mit Wetter</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/7/2/5819275.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506233500 +0200" stop="20230506234000 +0200" channel="DasErste.de">
+<title lang="fr">Das Wort zum Sonntag</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/6/6528681.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506234000 +0200" stop="20230507001000 +0200" channel="DasErste.de">
+<title lang="fr">King Charles III. - Die Highlights der Krönung</title>
+<sub-title lang="fr">Die Highlights der Krönung</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Emission spéciale</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/1/1/7210119.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230507001000 +0200" stop="20230507014000 +0200" channel="DasErste.de">
+<title lang="fr">Über die Grenze - Alles auf eine Karte</title>
+<sub-title lang="fr">Rausch der Sterne</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/6/9/7122969.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230507014000 +0200" stop="20230507014500 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/1/5797151.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230507014500 +0200" stop="20230507034000 +0200" channel="DasErste.de">
+<title lang="fr">Topkapi</title>
+<desc lang="fr">Un couple d'aventuriers et ses complices, un acrobate et un bricoleur de génie, organisent et exécutent un cambriolage au célèbre musée Topkapi, à Istanbul.</desc>
+<category lang="fr">Film d'aventures</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/4/3/6094349.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

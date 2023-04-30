@@ -1,0 +1,290 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230430224000 +0200" stop="20230501010300 +0200" channel="RAI2.it">
+<title lang="fr">La Domenica Sportiva</title>
+<desc lang="fr">Lo storico appuntamento con il programma sportivo &quot;La Domenica Sportiva&quot; dedicato prevalentemente al calcio.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11349872.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501010300 +0200" stop="20230501010500 +0200" channel="RAI2.it">
+<title lang="fr">Meteo 2</title>
+<desc lang="fr">Il meteo di Rai 2 su informazioni del Servizio Meteorologico dell'Aeronautica Militare.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623448.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501010500 +0200" stop="20230501015500 +0200" channel="RAI2.it">
+<title lang="fr">Check Up</title>
+<desc lang="fr">L'eccellenza della Medicina italiana intervistata in studio o in collegamento dalle sale operatorie, per far conoscere a tutti le tecnologie più all'avanguardia usate per risolvere le patologie più diffuse.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623574.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501015500 +0200" stop="20230501020000 +0200" channel="RAI2.it">
+<title lang="fr">Appuntamento al cinema</title>
+<desc lang="fr">Appuntamento al cinema. Approfondimenti sul mondo del cinema, interviste agli autori ed attori dei film in uscita. Rubrica di promozione della cultura cinematografica in Italia a cura dell'Anicagis.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623551.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501020000 +0200" stop="20230501060000 +0200" channel="RAI2.it">
+<title lang="fr">RAInews24</title>
+<desc lang="fr">Il programma presenta le ultime notizie in tempo reale. News attualità e aggiornamenti su politica, cronaca, esteri, economia, sport e attualità.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_35640161.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501060000 +0200" stop="20230501061000 +0200" channel="RAI2.it">
+<title lang="fr">Piloti</title>
+<desc lang="fr">Il commendator Aurelio è il titolare della compagnia aerea low-cost &quot;Piccione AirLines&quot;. Sull'aereo e nella cabina di pilotaggio, può accadere di tutto.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11045698.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501061000 +0200" stop="20230501070000 +0200" channel="RAI2.it">
+<title lang="fr">La grande vallée</title>
+<sub-title lang="fr">La proprietà dei Barkley</sub-title>
+<desc lang="fr">La famiglia incarica Heath di andare ad indagare. Una famiglia ispanica entra in conflitto con i Barkley a causa di un terreno.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15427009.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501070000 +0200" stop="20230501071000 +0200" channel="RAI2.it">
+<title lang="fr">Viva Asiago 10!</title>
+<desc lang="fr">Il buongiorno agli telespettatori con le prime notizie del giorno. Lo spettacolo mattutino leggero e simpatico con Amadeus Fiorello.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11197169.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501071000 +0200" stop="20230501071500 +0200" channel="RAI2.it">
+<title lang="fr">Arriva Viva Rai2!</title>
+<desc lang="fr">Arriva Viva Rai 2, lo show mattutino di Rosario Fiorello.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_6433737.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501071500 +0200" stop="20230501080000 +0200" channel="RAI2.it">
+<title lang="fr">Viva Rai2!</title>
+<desc lang="fr">Prove di risveglio con la rassegna stampa più improbabile d'Italia! Rosario Fiorello ed il compagno di viaggio Fabrizio Biggio commentano da un bar di Roma, a modo loro, i fatti accaduti e quelli che accadranno durante la giornata. Seguire attentamente le avvertenze e le ironie del caso.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11190350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501080000 +0200" stop="20230501083000 +0200" channel="RAI2.it">
+<title lang="fr">...E viva il Video Box</title>
+<desc lang="fr">Le persone che avranno qualcosa da dire, da fare, da dimostrare. Catturato da una telecamera in uno stile appunto da video box.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_6433737.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501083000 +0200" stop="20230501084500 +0200" channel="RAI2.it">
+<title lang="fr">TG 2</title>
+<desc lang="fr">Il Tg2. Un appuntamento con l'attualità dell'ultimo minuto, gli approfondimenti, la cronaca.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623508.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501084500 +0200" stop="20230501095800 +0200" channel="RAI2.it">
+<title lang="fr">Radio Due Social Club</title>
+<desc lang="fr">Versione televisiva della trasmissione radiofonica di Rai Radio 2, condotta da Luca Barbarossa e Andrea Perroni.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623521.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501095800 +0200" stop="20230501100000 +0200" channel="RAI2.it">
+<title lang="fr">Meteo 2</title>
+<desc lang="fr">Il meteo di Rai 2 su informazioni del Servizio Meteorologico dell'Aeronautica Militare.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623448.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501100000 +0200" stop="20230501105500 +0200" channel="RAI2.it">
+<title lang="fr">TG2 Italia</title>
+<desc lang="fr">Il telegiornale di Rai 2. Un appuntamento con l'attualità dell'ultimo minuto, gli approfondimenti, la cronaca.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623545.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501105500 +0200" stop="20230501110000 +0200" channel="RAI2.it">
+<title lang="fr">TG 2 Flash</title>
+<desc lang="fr">Un appuntamento con l'attualità dell'ultimo minuto, gli approfondimenti, la cronaca.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_20807730.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501110000 +0200" stop="20230501111000 +0200" channel="RAI2.it">
+<title lang="fr">Rai TG Sport Giorno</title>
+<desc lang="fr">Notiziario sportivo che và in onda ogni giorno su Rai 2 alle 11:00.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_6267418.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501111000 +0200" stop="20230501130000 +0200" channel="RAI2.it">
+<title lang="fr">I Fatti Vostri</title>
+<desc lang="fr">Attualità, cultura ed intrattenimento con ospiti in studio e collegamenti dalle città italiane. Rubriche dedicate all'attualità, alla salute, alle condizioni del tempo. Consigli sul giardino e i giochi di divertimento.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623568.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501130000 +0200" stop="20230501133000 +0200" channel="RAI2.it">
+<title lang="fr">TG 2 Giorno</title>
+<desc lang="fr">Il quotidiano appuntamento con l'informazione, l'attualità dell'ultimo minuto, gli approfondimenti, i fatti di cronaca, di politica, di cultura e le ultime notizie dal mondo.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623508.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501133000 +0200" stop="20230501135000 +0200" channel="RAI2.it">
+<title lang="fr">TG 2 Costume e società</title>
+<desc lang="fr">Attualità politica e sociale.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623540.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501135000 +0200" stop="20230501140000 +0200" channel="RAI2.it">
+<title lang="fr">Medicina 33</title>
+<desc lang="fr">Per saperne di più sulla sanità, sulla prevenzione, sulla diagnosi precoce, sui propri diritti per difendere la salute.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11040447.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501140000 +0200" stop="20230501152500 +0200" channel="RAI2.it">
+<title lang="fr">Ore 14</title>
+<desc lang="fr">La nostra società vista attraverso gli occhi di ragazzi e ragazze, chiamati ad essere protagonisti del dibattito. Cronaca , politica, attualità, partendo dal fatto del giorno.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623519.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501152500 +0200" stop="20230501171000 +0200" channel="RAI2.it">
+<title lang="fr">BellaMà</title>
+<desc lang="fr">Il programma è un talent di parola, in cui giovani e boomer, tutti aspiranti influencer, tiktoker, blogger o youtuber si sfidano in un game culturale sulla lingua italiana e su personaggi e fatti storici.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_6341380.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501171000 +0200" stop="20230501181000 +0200" channel="RAI2.it">
+<title lang="fr">Candice Renoir</title>
+<sub-title lang="fr">Qui se ressemble s'assemble</sub-title>
+<desc lang="fr">Il capitano Renoir, ferito, viene dichiarato inabile al servizio, ciononostante s'infiltra in una comunità di zingari catalani, apparentemente coinvolti nell'omicidio di un giovane diciottenne.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12667207.jpg" />
+<episode-num system="xmltv_ns">4.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501181000 +0200" stop="20230501181500 +0200" channel="RAI2.it">
+<title lang="fr">TG 2 L.I.S.</title>
+<desc lang="fr">L'aggiornamento quotidiano sulle notizie dell'ultima ora dall'Italia e dall'estero dedicato ai non udenti.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_21766789.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501181500 +0200" stop="20230501183500 +0200" channel="RAI2.it">
+<title lang="fr">TG 2</title>
+<desc lang="fr">Il Tg2. Un appuntamento con l'attualità dell'ultimo minuto, gli approfondimenti, la cronaca.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623508.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501183500 +0200" stop="20230501185800 +0200" channel="RAI2.it">
+<title lang="fr">Rai TG Sport Sera</title>
+<desc lang="fr">Le principali notizie di sport dall'Italia e dal mondo, a cura della redazione giornalistica del Tg 2.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_6267421.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501185800 +0200" stop="20230501190000 +0200" channel="RAI2.it">
+<title lang="fr">Meteo 2</title>
+<desc lang="fr">Il meteo di Rai 2 su informazioni del Servizio Meteorologico dell'Aeronautica Militare.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623448.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501190000 +0200" stop="20230501194000 +0200" channel="RAI2.it">
+<title lang="fr">Hawaii 5-0</title>
+<sub-title lang="fr">Hana Komo Pae</sub-title>
+<desc lang="fr">Danny accompagna sua figlia Grace ad una festa della scuola. Mentre si trova nella toilette, un gruppo terroristico fa irruzione e prende in ostaggio tutti gli studenti.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_9038977.jpg" />
+<episode-num system="xmltv_ns">6.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501194000 +0200" stop="20230501203000 +0200" channel="RAI2.it">
+<title lang="fr">The Rookie : le flic de Los Angeles</title>
+<sub-title lang="fr">Un meurtre pour de vrai</sub-title>
+<desc lang="fr">Durante le riprese del reality Every Rose Has A Thorsen - Ogni rosa ha un Thorsen viene trovato ucciso il produttore esecutivo Morris Mackey. Inizia così una serie di interviste a tutti i protagonisti coinvolti in questa storia, attraverso la quale, passando da un sospetto ad un altro, si giunge...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_31740926.jpg" />
+<episode-num system="xmltv_ns">3.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501203000 +0200" stop="20230501210000 +0200" channel="RAI2.it">
+<title lang="fr">TG 2</title>
+<desc lang="fr">Il Tg2. Un appuntamento con l'attualità dell'ultimo minuto, gli approfondimenti, la cronaca.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623508.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501210000 +0200" stop="20230501212000 +0200" channel="RAI2.it">
+<title lang="fr">TG2 Post</title>
+<desc lang="fr">Il format che ha come obiettivo di raccontare le notizie e poi approfondirle.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25623537.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501212000 +0200" stop="20230501221000 +0200" channel="RAI2.it">
+<title lang="fr">NCIS : Los Angeles</title>
+<sub-title lang="fr">In trappola</sub-title>
+<desc lang="fr">La detective Whiting si presenta alla porta di casa di Kensi e Deeks, chiedendo aiuto. La Polizia ha emesso per lei un avviso di ricerca e la sua teoria è che qualcuno dei suoi colleghi corrotti stia cercando d'incastrarla.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_37469636.jpg" />
+<episode-num system="xmltv_ns">13.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501221000 +0200" stop="20230501225500 +0200" channel="RAI2.it">
+<title lang="fr">Blue Bloods</title>
+<desc lang="fr">Danny e Gates devono tenere al sicuro Rodriguez, il boss del cartello dei Zaragoza, che sta per essere processato. Frank impedisce che Jamie vada in missione sotto copertura temendo per la sua vita.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_6369028.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501225500 +0200" stop="20230501234000 +0200" channel="RAI2.it">
+<title lang="fr">Blue Bloods</title>
+<sub-title lang="fr">Un coup d'avance</sub-title>
+<desc lang="fr">La Polizia di New York subisce un attacco informatico. Eddie scopre che una sua collega è incinta, ma non ha avvisato il Dipartimento per non perdere la possibilità di fare il colloquio per diventare detective.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_33341237.jpg" />
+<episode-num system="xmltv_ns">11.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501234000 +0200" stop="20230502010300 +0200" channel="RAI2.it">
+<title lang="fr">Restart</title>
+<desc lang="fr">L'economia al centro del dibattito politico con #ReStart, un approfondimento giornalistico per affrontare i grandi temi dell'economia con l'aiuto di protagonisti del settore.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11172102.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

@@ -1,0 +1,388 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230506000000 +0200" stop="20230506080000 +0200" channel="TVVendee.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E76F2A7530AF44D06A3DD40B1AEB34B0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506080000 +0200" stop="20230506081500 +0200" channel="TVVendee.fr">
+<title lang="fr">L'hebdo</title>
+<desc lang="fr"> L'Hebdo, le magazine information du week-end, qui vous propose un retour sur les faits marquants de la semaine.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506081500 +0200" stop="20230506083000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506083000 +0200" stop="20230506090500 +0200" channel="TVVendee.fr">
+<title lang="fr">Comme toujours</title>
+<desc lang="fr">Magazine de société qui fait le lien entre les traditions d'hier et les habitudes d'aujourd'hui en Vendée avec, chaque semaine, un invité différent. Au programme des témoignages et des recettes de cuisine traditionnelle.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506090500 +0200" stop="20230506093000 +0200" channel="TVVendee.fr">
+<title lang="fr">Best of Invité</title>
+<desc lang="fr">Magazine de société, où les invités compétents discutent sur les sujets et les événements actuels concernant le département Vendée et le Pays de la Loire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506093000 +0200" stop="20230506094000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506094000 +0200" stop="20230506100000 +0200" channel="TVVendee.fr">
+<title lang="fr">L'atelier du bien-être</title>
+<desc lang="fr">Magazine de l'art de vivre, qui vous fait découvrir le style de vie haut de gamme, y compris les sujets de l'art et de la culture, de l'architecture, de l'élégance et de la beauté. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506100000 +0200" stop="20230506102500 +0200" channel="TVVendee.fr">
+<title lang="fr">L'hebdo</title>
+<desc lang="fr"> L'Hebdo, le magazine information du week-end, qui vous propose un retour sur les faits marquants de la semaine.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506102500 +0200" stop="20230506103500 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506103500 +0200" stop="20230506110500 +0200" channel="TVVendee.fr">
+<title lang="fr">Comme toujours</title>
+<desc lang="fr">Magazine de société qui fait le lien entre les traditions d'hier et les habitudes d'aujourd'hui en Vendée avec, chaque semaine, un invité différent. Au programme des témoignages et des recettes de cuisine traditionnelle.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506110500 +0200" stop="20230506113000 +0200" channel="TVVendee.fr">
+<title lang="fr">Best of Invité</title>
+<desc lang="fr">Magazine de société, où les invités compétents discutent sur les sujets et les événements actuels concernant le département Vendée et le Pays de la Loire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506113000 +0200" stop="20230506114000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506114000 +0200" stop="20230506115000 +0200" channel="TVVendee.fr">
+<title lang="fr">Mag éco</title>
+<desc lang="fr">Découvrez une entreprise, son fonctionnement et son développement. Une véritable immersion dans l'économie vendéenne en compagnie de Katel Lejeune.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506115000 +0200" stop="20230506120000 +0200" channel="TVVendee.fr">
+<title lang="fr">Laissez-vous guider</title>
+<desc lang="fr">Envie de sortir ? Laissez-vous guider agenda ou cinéma, 2 programmes courts pour que vous puissiez organiser vos sorties et vous cultiver.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506120000 +0200" stop="20230506122500 +0200" channel="TVVendee.fr">
+<title lang="fr">L'hebdo</title>
+<desc lang="fr"> L'Hebdo, le magazine information du week-end, qui vous propose un retour sur les faits marquants de la semaine.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506122500 +0200" stop="20230506123500 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506123500 +0200" stop="20230506130500 +0200" channel="TVVendee.fr">
+<title lang="fr">Comme toujours</title>
+<desc lang="fr">Magazine de société qui fait le lien entre les traditions d'hier et les habitudes d'aujourd'hui en Vendée avec, chaque semaine, un invité différent. Au programme des témoignages et des recettes de cuisine traditionnelle.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506130500 +0200" stop="20230506133000 +0200" channel="TVVendee.fr">
+<title lang="fr">Best of Invité</title>
+<desc lang="fr">Magazine de société, où les invités compétents discutent sur les sujets et les événements actuels concernant le département Vendée et le Pays de la Loire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506133000 +0200" stop="20230506134000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506134000 +0200" stop="20230506140000 +0200" channel="TVVendee.fr">
+<title lang="fr">Mag éco</title>
+<desc lang="fr">Découvrez une entreprise, son fonctionnement et son développement. Une véritable immersion dans l'économie vendéenne en compagnie de Katel Lejeune.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506140000 +0200" stop="20230506142500 +0200" channel="TVVendee.fr">
+<title lang="fr">L'hebdo</title>
+<desc lang="fr"> L'Hebdo, le magazine information du week-end, qui vous propose un retour sur les faits marquants de la semaine.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506142500 +0200" stop="20230506143500 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506143500 +0200" stop="20230506150500 +0200" channel="TVVendee.fr">
+<title lang="fr">Comme toujours</title>
+<desc lang="fr">Magazine de société qui fait le lien entre les traditions d'hier et les habitudes d'aujourd'hui en Vendée avec, chaque semaine, un invité différent. Au programme des témoignages et des recettes de cuisine traditionnelle.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506150500 +0200" stop="20230506153000 +0200" channel="TVVendee.fr">
+<title lang="fr">Best of Invité</title>
+<desc lang="fr">Magazine de société, où les invités compétents discutent sur les sujets et les événements actuels concernant le département Vendée et le Pays de la Loire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506153000 +0200" stop="20230506154000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506154000 +0200" stop="20230506160000 +0200" channel="TVVendee.fr">
+<title lang="fr">L'atelier du bien-être</title>
+<desc lang="fr">Magazine de l'art de vivre, qui vous fait découvrir le style de vie haut de gamme, y compris les sujets de l'art et de la culture, de l'architecture, de l'élégance et de la beauté. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506160000 +0200" stop="20230506162500 +0200" channel="TVVendee.fr">
+<title lang="fr">L'hebdo</title>
+<desc lang="fr"> L'Hebdo, le magazine information du week-end, qui vous propose un retour sur les faits marquants de la semaine.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506162500 +0200" stop="20230506163500 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506163500 +0200" stop="20230506170500 +0200" channel="TVVendee.fr">
+<title lang="fr">Comme toujours</title>
+<desc lang="fr">Magazine de société qui fait le lien entre les traditions d'hier et les habitudes d'aujourd'hui en Vendée avec, chaque semaine, un invité différent. Au programme des témoignages et des recettes de cuisine traditionnelle.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506170500 +0200" stop="20230506173000 +0200" channel="TVVendee.fr">
+<title lang="fr">L'hebdo</title>
+<desc lang="fr"> L'Hebdo, le magazine information du week-end, qui vous propose un retour sur les faits marquants de la semaine.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506173000 +0200" stop="20230506174000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506174000 +0200" stop="20230506175000 +0200" channel="TVVendee.fr">
+<title lang="fr">Mag éco</title>
+<desc lang="fr">Découvrez une entreprise, son fonctionnement et son développement. Une véritable immersion dans l'économie vendéenne en compagnie de Katel Lejeune.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506175000 +0200" stop="20230506175500 +0200" channel="TVVendee.fr">
+<title lang="fr">Vendée Numérique</title>
+<desc lang="fr">THD radio, UHD 4K, Fibre FttE, quésaco ? Un programme court pour comprendre concrètement l'évolution numérique dans le département.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sciences et technique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506175500 +0200" stop="20230506180000 +0200" channel="TVVendee.fr">
+<title lang="fr">Laissez-vous guider</title>
+<desc lang="fr">Envie de sortir ? Laissez-vous guider agenda ou cinéma, 2 programmes courts pour que vous puissiez organiser vos sorties et vous cultiver.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506180000 +0200" stop="20230506182500 +0200" channel="TVVendee.fr">
+<title lang="fr">L'hebdo</title>
+<desc lang="fr"> L'Hebdo, le magazine information du week-end, qui vous propose un retour sur les faits marquants de la semaine.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506182500 +0200" stop="20230506183500 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506183500 +0200" stop="20230506190500 +0200" channel="TVVendee.fr">
+<title lang="fr">Comme toujours</title>
+<desc lang="fr">Magazine de société qui fait le lien entre les traditions d'hier et les habitudes d'aujourd'hui en Vendée avec, chaque semaine, un invité différent. Au programme des témoignages et des recettes de cuisine traditionnelle.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506190500 +0200" stop="20230506193000 +0200" channel="TVVendee.fr">
+<title lang="fr">Best of Invité</title>
+<desc lang="fr">Magazine de société, où les invités compétents discutent sur les sujets et les événements actuels concernant le département Vendée et le Pays de la Loire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506193000 +0200" stop="20230506194000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506194000 +0200" stop="20230506200000 +0200" channel="TVVendee.fr">
+<title lang="fr">Mag éco</title>
+<desc lang="fr">Découvrez une entreprise, son fonctionnement et son développement. Une véritable immersion dans l'économie vendéenne en compagnie de Katel Lejeune.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506200000 +0200" stop="20230506202500 +0200" channel="TVVendee.fr">
+<title lang="fr">L'hebdo</title>
+<desc lang="fr"> L'Hebdo, le magazine information du week-end, qui vous propose un retour sur les faits marquants de la semaine.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506202500 +0200" stop="20230506203500 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506203500 +0200" stop="20230506210500 +0200" channel="TVVendee.fr">
+<title lang="fr">Comme toujours</title>
+<desc lang="fr">Magazine de société qui fait le lien entre les traditions d'hier et les habitudes d'aujourd'hui en Vendée avec, chaque semaine, un invité différent. Au programme des témoignages et des recettes de cuisine traditionnelle.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506210500 +0200" stop="20230506213000 +0200" channel="TVVendee.fr">
+<title lang="fr">Best of Invité</title>
+<desc lang="fr">Magazine de société, où les invités compétents discutent sur les sujets et les événements actuels concernant le département Vendée et le Pays de la Loire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506213000 +0200" stop="20230506214000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506214000 +0200" stop="20230506220000 +0200" channel="TVVendee.fr">
+<title lang="fr">L'atelier du bien-être</title>
+<desc lang="fr">Magazine de l'art de vivre, qui vous fait découvrir le style de vie haut de gamme, y compris les sujets de l'art et de la culture, de l'architecture, de l'élégance et de la beauté. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506220000 +0200" stop="20230506222500 +0200" channel="TVVendee.fr">
+<title lang="fr">L'hebdo</title>
+<desc lang="fr"> L'Hebdo, le magazine information du week-end, qui vous propose un retour sur les faits marquants de la semaine.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506222500 +0200" stop="20230506223500 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506223500 +0200" stop="20230506230500 +0200" channel="TVVendee.fr">
+<title lang="fr">Comme toujours</title>
+<desc lang="fr">Magazine de société qui fait le lien entre les traditions d'hier et les habitudes d'aujourd'hui en Vendée avec, chaque semaine, un invité différent. Au programme des témoignages et des recettes de cuisine traditionnelle.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506230500 +0200" stop="20230506233000 +0200" channel="TVVendee.fr">
+<title lang="fr">L'hebdo</title>
+<desc lang="fr"> L'Hebdo, le magazine information du week-end, qui vous propose un retour sur les faits marquants de la semaine.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506233000 +0200" stop="20230506234000 +0200" channel="TVVendee.fr">
+<title lang="fr">La Vendée en direct</title>
+<desc lang="fr">La Vendée en direct : échange avec des invités en plateau ou partout en Vendée. Découvrez la multiplicité des initiatives locales et l'actualité au plus près.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506234000 +0200" stop="20230506235000 +0200" channel="TVVendee.fr">
+<title lang="fr">Mag éco</title>
+<desc lang="fr">Découvrez une entreprise, son fonctionnement et son développement. Une véritable immersion dans l'économie vendéenne en compagnie de Katel Lejeune.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506235000 +0200" stop="20230506235500 +0200" channel="TVVendee.fr">
+<title lang="fr">Vendée Numérique</title>
+<desc lang="fr">THD radio, UHD 4K, Fibre FttE, quésaco ? Un programme court pour comprendre concrètement l'évolution numérique dans le département.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sciences et technique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506235500 +0200" stop="20230507000000 +0200" channel="TVVendee.fr">
+<title lang="fr">Laissez-vous guider</title>
+<desc lang="fr">Envie de sortir ? Laissez-vous guider agenda ou cinéma, 2 programmes courts pour que vous puissiez organiser vos sorties et vous cultiver.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230507000000 +0200" stop="20230507075500 +0200" channel="TVVendee.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F2980E92443C66643E049D6B0F8C90BE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

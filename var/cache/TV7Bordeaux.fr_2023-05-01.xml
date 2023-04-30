@@ -1,0 +1,818 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230501060000 +0200" stop="20230501063000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Mira !</title>
+<sub-title lang="fr">Les festivales de théâtre dans les villages</sub-title>
+<desc lang="fr">Les petites villes et villages de l'Eurorégion accueillent volontiers des festivals de théâtre et de spectacles de rue. Des temps plus ou moins festifs ou exigeants qui mêlent des artistes venus de toute l'Europe et des compagnies locales. Joël Breton, directeur de la salle La Palène et du festival Les Sarabandes en Charente est notre grand témoin. Avec lui, nous découvrons ce festival singulier qui mène dans un joyeux désordre spectacles et arts plastiques et qui change tous les ans de village.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501063000 +0200" stop="20230501070000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Mira !</title>
+<sub-title lang="fr">L'art dans la nature</sub-title>
+<desc lang="fr">Depuis le landart, l'art a trouvé ses lettres de noblesse dans les campagnes et dialogue souvent avec les paysages naturels et l'environnement. Que ce soit dans le cadre d'initiatives publiques, privées ou individuelles, les oeuvres monumentales ou plus intimistes se sont multipliées parfois sous des formes particulièrement insolites.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501070000 +0200" stop="20230501072400 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Backstage</title>
+<desc lang="fr">Présenté par Benjamin Bardel, retrouvez chaque vendredi à 18h notre talk show culturel qui accueille les célébrités d'hier, d'aujourd'hui et de demain et met en avant les personnalités de passage dans la région avec bienveillance et curiosité. Artistes, chanteurs, acteurs, écrivains, réalisateurs, influenceurs viennent livrer leurs grandes et petites histoires et parler de leur actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/01F73B190ADB59B0802057472908A2B1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501072400 +0200" stop="20230501072900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Bordeaux Métropole. Pourquoi ? Comment ?</title>
+<desc lang="fr">BMPC (Bordeaux Métropole. Pourquoi ? Comment ?), c'est le reportage qui informe les habitants de l'agglomération bordelaise sur les actions, initiatives et compétences de Bordeaux Métropole et des 28 communes qui la composent. Il traite des enjeux d'aujourd'hui et met également en avant les projets et réalisations de la collectivité sur son territoire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0FA18359F615666EDF4E6FB64C53BCD7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501072900 +0200" stop="20230501073000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/60BA69DA126C6F6A440AB223F262A9DD.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501073000 +0200" stop="20230501074000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Matinale 7h30-9h30</title>
+<desc lang="fr">Tous les jours à 7h30, retrouvez l'invité de La Matinale, présentée par Sandrine Mancipoz</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6A6C4DF61205ACB2E6720C44FC7F4C36.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501074000 +0200" stop="20230501074100 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Agenda à la carte</title>
+<desc lang="fr">Tous les jours dans la Matinale 7-9h, Alix Fourcade vous propose des plans sortie.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E9396C4F1DB2754E448C92FBAAC3C93C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501074100 +0200" stop="20230501074500 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Qualité de l'air</title>
+<desc lang="fr">En partenariat avec Atmo Nouvelle-Aquitaine, tout au long de la journée TV7 vous informe sur la qualité de l'air du jour dans notre région.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501074500 +0200" stop="20230501075900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Matinale 7h30-9h30</title>
+<desc lang="fr">Présentée par Sandrine Mancipoz, La Matinale et ses invités, ce sont deux heures d'information en direct de 7h30 à 9h30 du lundi au vendredi, pour éclairer, informer et accompagner les Néo-Aquitains au quotidien. Au programme de cette Matinale, toute l'info locale et régionale, l'actu sportive, la météo, des chroniques Economie et Culture ainsi qu'un grand invité chaque jour à 7h30.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0318D72BE526D2CF3BC6478A9FFCA427.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501075900 +0200" stop="20230501080000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/60BA69DA126C6F6A440AB223F262A9DD.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501080000 +0200" stop="20230501080400 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Les titres</title>
+<desc lang="fr">Présentée par Sandrine Mancipoz, La Matinale et ses invités, ce sont deux heures d'information en direct de 7h à 9h du lundi au vendredi, pour éclairer, informer et accompagner les Néo-Aquitains au quotidien. Au programme de cette Matinale, toute l'info locale et régionale, l'actu sportive, la météo, des chroniques Economie et Culture ainsi qu'un grand invité chaque jour à 7h45. À voir et à revoir en Replay.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501080400 +0200" stop="20230501080800 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La chronique</title>
+<desc lang="fr">Tous les jours TV7 vous propose une chronique thématique : innovation, bien-être, cinéma, économie, et bons plans.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5001D1CBE0B21784145C094AC5C84256.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501080800 +0200" stop="20230501081100 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Du côté de chez vous</title>
+<desc lang="fr">Jardin partagé, épicerie solidaire, commerce de proximité, covoiturage, ramassage de déchets, entraide entre voisins, soutien aux personnes isolées… Du lundi au vendredi, TV7 sillonne la Gironde à la rencontre de celles et ceux qui font vivre le territoire à travers des initiatives locales et positives. Economie solidaire, vie associative, transition écologique, santé, innovation sociale, emploi, gastronomie… Un terroir fertile où chaque jour prennent vie ces démarches citoyennes qui montrent comment faire preuve de résilience face aux risques majeurs, qu'ils soient climatiques, énergétiques, alimentaires ou sanitaires, et qui mettent en lumière l'attractivité et le dynamisme de nos villes et nos campagnes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/31133471F4E10206C11555A09AD4178D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501081100 +0200" stop="20230501081500 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La minute éco</title>
+<desc lang="fr">C'est votre rendez-vous éco quotidien sur TV7 : 2 minutes pour suivre l'actualité économique de la région Nouvelle-Aquitaine.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/455AF87022D606787D7C85FF904BF85B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501081500 +0200" stop="20230501082700 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Matinale 7h30-9h30</title>
+<desc lang="fr">Présentée par Sandrine Mancipoz, La Matinale et ses invités, ce sont deux heures d'information en direct de 7h30 à 9h30 du lundi au vendredi, pour éclairer, informer et accompagner les Néo-Aquitains au quotidien. Au programme de cette Matinale, toute l'info locale et régionale, l'actu sportive, la météo, des chroniques Economie et Culture ainsi qu'un grand invité chaque jour à 7h30.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6A6C4DF61205ACB2E6720C44FC7F4C36.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501082700 +0200" stop="20230501082900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Qualité de l'air</title>
+<desc lang="fr">En partenariat avec Atmo Nouvelle-Aquitaine, tout au long de la journée TV7 vous informe sur la qualité de l'air du jour dans notre région.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501082900 +0200" stop="20230501083000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F68C430ACA17FB23C91B81232A2CCC15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501083000 +0200" stop="20230501084000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Matinale 7h30-9h30</title>
+<desc lang="fr">Tous les jours à 7h30, retrouvez l'invité de La Matinale, présentée par Sandrine Mancipoz</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0318D72BE526D2CF3BC6478A9FFCA427.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501084000 +0200" stop="20230501084500 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Agenda à la carte</title>
+<desc lang="fr">Tous les jours dans la Matinale 7-9h, Alix Fourcade vous propose des plans sortie.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E9396C4F1DB2754E448C92FBAAC3C93C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501084500 +0200" stop="20230501085300 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Matinale 7h30-9h30</title>
+<desc lang="fr">Présentée par Sandrine Mancipoz, La Matinale et ses invités, ce sont deux heures d'information en direct de 7h à 9h du lundi au vendredi, pour éclairer, informer et accompagner les Néo-Aquitains au quotidien. Au programme de cette Matinale, toute l'info locale et régionale, l'actu sportive, la météo, des chroniques Economie et Culture ainsi qu'un grand invité chaque jour à 7h45.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0318D72BE526D2CF3BC6478A9FFCA427.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501085300 +0200" stop="20230501085900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Matinale 7h30-9h30</title>
+<desc lang="fr">Présentée par Sandrine Mancipoz, La Matinale et ses invités, ce sont deux heures d'information en direct de 7h à 9h du lundi au vendredi, pour éclairer, informer et accompagner les Néo-Aquitains au quotidien. Au programme de cette Matinale, toute l'info locale et régionale, l'actu sportive, la météo, des chroniques Economie et Culture ainsi qu'un grand invité chaque jour à 7h45.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6A6C4DF61205ACB2E6720C44FC7F4C36.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501085900 +0200" stop="20230501090000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/60BA69DA126C6F6A440AB223F262A9DD.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501090000 +0200" stop="20230501091000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Matinale 7h30-9h30</title>
+<desc lang="fr">Tous les jours à 7h30, retrouvez l'invité de La Matinale, présentée par Sandrine Mancipoz</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0318D72BE526D2CF3BC6478A9FFCA427.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501091000 +0200" stop="20230501091500 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Qualité de l'air</title>
+<desc lang="fr">En partenariat avec Atmo Nouvelle-Aquitaine, tout au long de la journée TV7 vous informe sur la qualité de l'air du jour dans notre région.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501091500 +0200" stop="20230501092300 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Matinale 7h30-9h30</title>
+<desc lang="fr">Présentée par Sandrine Mancipoz, La Matinale et ses invités, ce sont deux heures d'information en direct de 7h à 9h du lundi au vendredi, pour éclairer, informer et accompagner les Néo-Aquitains au quotidien. Au programme de cette Matinale, toute l'info locale et régionale, l'actu sportive, la météo, des chroniques Economie et Culture ainsi qu'un grand invité chaque jour à 7h45.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0318D72BE526D2CF3BC6478A9FFCA427.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501092300 +0200" stop="20230501092700 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La chronique</title>
+<desc lang="fr">Tous les jours TV7 vous propose une chronique thématique : innovation, bien-être, cinéma, économie, et bons plans.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5001D1CBE0B21784145C094AC5C84256.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501092700 +0200" stop="20230501093000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Du côté de chez vous</title>
+<desc lang="fr">Jardin partagé, épicerie solidaire, commerce de proximité, covoiturage, ramassage de déchets, entraide entre voisins, soutien aux personnes isolées… Du lundi au vendredi, TV7 sillonne la Gironde à la rencontre de celles et ceux qui font vivre le territoire à travers des initiatives locales et positives. Economie solidaire, vie associative, transition écologique, santé, innovation sociale, emploi, gastronomie… Un terroir fertile où chaque jour prennent vie ces démarches citoyennes qui montrent comment faire preuve de résilience face aux risques majeurs, qu'ils soient climatiques, énergétiques, alimentaires ou sanitaires, et qui mettent en lumière l'attractivité et le dynamisme de nos villes et nos campagnes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/31133471F4E10206C11555A09AD4178D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501093000 +0200" stop="20230501093300 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">L'info TV7</title>
+<desc lang="fr">L'info en bref.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C6F47CBD10AE18FDF91AC65CC5519A0E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501093300 +0200" stop="20230501094100 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Le monde de demain</title>
+<desc lang="fr">Changer le monde, on en rêve ou on en parle tous, mais déjà certaines initiatives sont prises ici en région. Comment aller vers plus de solidarité, de respect de l'environnement et d'implication citoyenne ? TV7 vous partage les belles idées de ceux qui travaillent déjà à faire d'aujourd'hui le début de notre avenir.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F40262D9AF1B7B5567250CE52A3C4304.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501094100 +0200" stop="20230501094800 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Le monde de demain</title>
+<sub-title lang="fr">Aukera : Du potager à l'assiette</sub-title>
+<desc lang="fr">Une ferme en permaculture à Jatxou propose de venir déguster des produits issus de l'agriculture raisonnée directement sur place. Ici une cheffe de cusine vient préparer une série de plats pour des invités qui dégusteront leurs mets à deux pas du potager. La ferme Aukera livre également leurs légumes à des restaurants de Bayonne.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/42078537D59C302A3CFF40CC9802E108.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501094800 +0200" stop="20230501095000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Gironde Mag'</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501095000 +0200" stop="20230501100000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Le monde de demain</title>
+<sub-title lang="fr">Des frigos contre le gaspillage et la précarité</sub-title>
+<desc lang="fr">Fin 2022, la ville d'Angoulême a vu l'apparition de son premier &quot;frigo zéro gaspi&quot;, sur les bords de la Charente. Installés sur l'espace public par le Centre ressource d'écologie pédagogique de Nouvelle-Aquitaine (Crepaq), ces frigos sont accessibles 24h sur 24 et 7j sur 7 à toute personne désirant y déposer de la nourriture ou souhaitant en prendre. L'objectif : réduire le gaspillage et lutter contre la précarité alimentaire, notamment des étudiants. Une vingtaine de &quot;frigos zéro gaspi&quot; ont d'ores et déjà été installés dans toute la région, dont 15 dans des communes de Bordeaux Métropole, et plusieurs autres le seront dans le courant de l'année 2023.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/42078537D59C302A3CFF40CC9802E108.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501100000 +0200" stop="20230501100300 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">L'info TV7</title>
+<desc lang="fr">L'info en bref.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C6F47CBD10AE18FDF91AC65CC5519A0E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501100300 +0200" stop="20230501103000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La santé d'abord</title>
+<desc lang="fr">Un programme multimédia au service des &quot; télénautes &quot; qui recherchent des réponses concrètes à leurs questions de santé et de bien-être. Bien réagir face aux pépins de santé des membres de sa famille au quotidien, savoir prévenir les incidents par une meilleure nutrition et un bon entretien de son corps, avoir les clés psychologiques pour améliorer son bien être, choisir la méthode la plus adaptée pour son développement personnel... Telles sont les questions auxquelles ce nouveau programme tente de répondre.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/878B1AAE01FA124995F518C089CD5D98.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501103000 +0200" stop="20230501103300 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">L'info TV7</title>
+<desc lang="fr">L'info en bref.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6568C56528CDF8786D5D2088BBF359F3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501103300 +0200" stop="20230501110000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">123 Musette !</title>
+<desc lang="fr">Cette émission de 26', entièrement consacrée à l'accordéon, vous présente chaque semaine des artistes et vous fait découvrir de nouveaux talents.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C72922A0500F0DF33E455A1A07F73E86.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501110000 +0200" stop="20230501112800 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">1,2,3 Dansez</title>
+<desc lang="fr">Chaque semaine, l'animateur Pierre-Yves Lombard et son chroniqueur programmateur Jérôme Richard (L'accordéoniste le plus titré: 6 fois champion du monde), reçoivent les meilleurs accordéonistes de France.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C72922A0500F0DF33E455A1A07F73E86.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501112800 +0200" stop="20230501113000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Bordeaux Métropole. Pourquoi ? Comment ?</title>
+<desc lang="fr">BMPC (Bordeaux Métropole. Pourquoi ? Comment ?), c'est le reportage qui informe les habitants de l'agglomération bordelaise sur les actions, initiatives et compétences de Bordeaux Métropole et des 28 communes qui la composent. Il traite des enjeux d'aujourd'hui et met également en avant les projets et réalisations de la collectivité sur son territoire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3AAB3AA7728A0208C26527B535586CBC.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501113000 +0200" stop="20230501113500 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">A la page</title>
+<desc lang="fr">Véritable rendez-vous littéraire, &quot;TV7 à la page&quot; présente chaque semaine une sélection d'ouvrages parus aux éditions Sud Ouest. Présentée par Dominique Parmentier tous les mercredis à 18h15, en compagnie des éditrices Marie Cardinaud ou Catherine Dubreil, l'émission fait la part belle aux richesses locales et aux auteurs de notre Région à travers des collections pratiques et richement illustrées. L'occasion de découvrir des guides touristiques, des ouvrages en lien avec l'histoire et le patrimoine, des balades nature, des polars et fictions ou encore des livres autour de la gastronomie et du vin.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/769083016D757C038EA4F82DBA0E1710.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501113500 +0200" stop="20230501120000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Backstage</title>
+<desc lang="fr">Présenté par Benjamin Bardel, retrouvez chaque vendredi à 18h notre talk show culturel qui accueille les célébrités d'hier, d'aujourd'hui et de demain et met en avant les personnalités de passage dans la région avec bienveillance et curiosité. Artistes, chanteurs, acteurs, écrivains, réalisateurs, influenceurs viennent livrer leurs grandes et petites histoires et parler de leur actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/01F73B190ADB59B0802057472908A2B1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501120000 +0200" stop="20230501121500 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Le flash info 12h-13h</title>
+<desc lang="fr">Présenté dès midi par Diane Douzillé en compagnie de journalistes de Sud Ouest, le flash info revient sur toute l'actualité locale et régionale de votre matinée en bref et en images du lundi au vendredi.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D7F1667E24E20D1B7B97354F611E484A.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501121500 +0200" stop="20230501121900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La chronique</title>
+<desc lang="fr">Tous les jours TV7 vous propose une chronique thématique : innovation, bien-être, cinéma, économie, et bons plans.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5001D1CBE0B21784145C094AC5C84256.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501121900 +0200" stop="20230501122200 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Du côté de chez vous</title>
+<desc lang="fr">Jardin partagé, épicerie solidaire, commerce de proximité, covoiturage, ramassage de déchets, entraide entre voisins, soutien aux personnes isolées… Du lundi au vendredi, TV7 sillonne la Gironde à la rencontre de celles et ceux qui font vivre le territoire à travers des initiatives locales et positives. Economie solidaire, vie associative, transition écologique, santé, innovation sociale, emploi, gastronomie… Un terroir fertile où chaque jour prennent vie ces démarches citoyennes qui montrent comment faire preuve de résilience face aux risques majeurs, qu'ils soient climatiques, énergétiques, alimentaires ou sanitaires, et qui mettent en lumière l'attractivité et le dynamisme de nos villes et nos campagnes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/31133471F4E10206C11555A09AD4178D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501122200 +0200" stop="20230501122300 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Qualité de l'air</title>
+<desc lang="fr">En partenariat avec Atmo Nouvelle-Aquitaine, tout au long de la journée TV7 vous informe sur la qualité de l'air du jour dans notre région.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501122300 +0200" stop="20230501122400 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Agenda à la carte</title>
+<desc lang="fr">Tous les jours dans la Matinale 7-9h, Alix Fourcade vous propose des plans sortie.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6DDF88F01A3303ABC9DAC7826DB8AB1E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501122400 +0200" stop="20230501122900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La minute éco</title>
+<desc lang="fr">C'est votre rendez-vous éco quotidien sur TV7 : 2 minutes pour suivre l'actualité économique de la région Nouvelle-Aquitaine.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/455AF87022D606787D7C85FF904BF85B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501122900 +0200" stop="20230501123000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/60BA69DA126C6F6A440AB223F262A9DD.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501123000 +0200" stop="20230501124400 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Le flash info 12h-13h</title>
+<desc lang="fr">Présenté dès midi par Diane Douzillé en compagnie de journalistes de Sud Ouest, le flash info revient sur toute l'actualité locale et régionale de votre matinée en bref et en images du lundi au vendredi.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/16C07F998C959454272834DA300C3FD1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501124400 +0200" stop="20230501124800 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La chronique</title>
+<desc lang="fr">Tous les jours TV7 vous propose une chronique thématique : innovation, bien-être, cinéma, économie, et bons plans.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5001D1CBE0B21784145C094AC5C84256.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501124800 +0200" stop="20230501125300 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Du côté de chez vous</title>
+<desc lang="fr">Jardin partagé, épicerie solidaire, commerce de proximité, covoiturage, ramassage de déchets, entraide entre voisins, soutien aux personnes isolées… Du lundi au vendredi, TV7 sillonne la Gironde à la rencontre de celles et ceux qui font vivre le territoire à travers des initiatives locales et positives. Economie solidaire, vie associative, transition écologique, santé, innovation sociale, emploi, gastronomie… Un terroir fertile où chaque jour prennent vie ces démarches citoyennes qui montrent comment faire preuve de résilience face aux risques majeurs, qu'ils soient climatiques, énergétiques, alimentaires ou sanitaires, et qui mettent en lumière l'attractivité et le dynamisme de nos villes et nos campagnes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/82587ED6575EC2BD8F93EB13C582A6EF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501125300 +0200" stop="20230501125400 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Agenda à la carte</title>
+<desc lang="fr">Tous les jours dans la Matinale 7-9h, Alix Fourcade vous propose des plans sortie.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6DDF88F01A3303ABC9DAC7826DB8AB1E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501125400 +0200" stop="20230501125900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La minute éco</title>
+<desc lang="fr">C'est votre rendez-vous éco quotidien sur TV7 : 2 minutes pour suivre l'actualité économique de la région Nouvelle-Aquitaine.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/67CD038DA05F93DBC58F811A205426B4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501125900 +0200" stop="20230501130000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Qualité de l'air</title>
+<desc lang="fr">En partenariat avec Atmo Nouvelle-Aquitaine, tout au long de la journée TV7 vous informe sur la qualité de l'air du jour dans notre région.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501130000 +0200" stop="20230501131300 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Le flash info 12h-13h</title>
+<desc lang="fr">Présenté dès midi par Diane Douzillé en compagnie de journalistes de Sud Ouest, le flash info revient sur toute l'actualité locale et régionale de votre matinée en bref et en images du lundi au vendredi.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/16C07F998C959454272834DA300C3FD1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501131300 +0200" stop="20230501131800 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La chronique</title>
+<desc lang="fr">Tous les jours TV7 vous propose une chronique thématique : innovation, bien-être, cinéma, économie, et bons plans.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5001D1CBE0B21784145C094AC5C84256.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501131800 +0200" stop="20230501132100 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Du côté de chez vous</title>
+<desc lang="fr">Jardin partagé, épicerie solidaire, commerce de proximité, covoiturage, ramassage de déchets, entraide entre voisins, soutien aux personnes isolées… Du lundi au vendredi, TV7 sillonne la Gironde à la rencontre de celles et ceux qui font vivre le territoire à travers des initiatives locales et positives. Economie solidaire, vie associative, transition écologique, santé, innovation sociale, emploi, gastronomie… Un terroir fertile où chaque jour prennent vie ces démarches citoyennes qui montrent comment faire preuve de résilience face aux risques majeurs, qu'ils soient climatiques, énergétiques, alimentaires ou sanitaires, et qui mettent en lumière l'attractivité et le dynamisme de nos villes et nos campagnes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/31133471F4E10206C11555A09AD4178D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501132100 +0200" stop="20230501132300 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Gironde Mag'</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501132300 +0200" stop="20230501132400 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Agenda à la carte</title>
+<desc lang="fr">Tous les jours dans la Matinale 7-9h, Alix Fourcade vous propose des plans sortie.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6DDF88F01A3303ABC9DAC7826DB8AB1E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501132400 +0200" stop="20230501132900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La minute éco</title>
+<desc lang="fr">C'est votre rendez-vous éco quotidien sur TV7 : 2 minutes pour suivre l'actualité économique de la région Nouvelle-Aquitaine.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/455AF87022D606787D7C85FF904BF85B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501132900 +0200" stop="20230501133000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F68C430ACA17FB23C91B81232A2CCC15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501133000 +0200" stop="20230501134200 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Le flash info 12h-13h</title>
+<desc lang="fr">Présenté dès midi par Diane Douzillé en compagnie de journalistes de Sud Ouest, le flash info revient sur toute l'actualité locale et régionale de votre matinée en bref et en images du lundi au vendredi.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/16C07F998C959454272834DA300C3FD1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501134200 +0200" stop="20230501134600 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La chronique</title>
+<desc lang="fr">Tous les jours TV7 vous propose une chronique thématique : innovation, bien-être, cinéma, économie, et bons plans.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/16C3EB343ABA866A5E425A7EAD4BBF6B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501134600 +0200" stop="20230501135000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Du côté de chez vous</title>
+<desc lang="fr">Jardin partagé, épicerie solidaire, commerce de proximité, covoiturage, ramassage de déchets, entraide entre voisins, soutien aux personnes isolées… Du lundi au vendredi, TV7 sillonne la Gironde à la rencontre de celles et ceux qui font vivre le territoire à travers des initiatives locales et positives. Economie solidaire, vie associative, transition écologique, santé, innovation sociale, emploi, gastronomie… Un terroir fertile où chaque jour prennent vie ces démarches citoyennes qui montrent comment faire preuve de résilience face aux risques majeurs, qu'ils soient climatiques, énergétiques, alimentaires ou sanitaires, et qui mettent en lumière l'attractivité et le dynamisme de nos villes et nos campagnes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/82587ED6575EC2BD8F93EB13C582A6EF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501135000 +0200" stop="20230501141900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">123 Musette !</title>
+<desc lang="fr">Cette émission de 26', entièrement consacrée à l'accordéon, vous présente chaque semaine des artistes et vous fait découvrir de nouveaux talents.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2024A05D60366C4F3515C91DB637E4D1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501141900 +0200" stop="20230501142500 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Bordeaux Métropole. Pourquoi ? Comment ?</title>
+<desc lang="fr">BMPC (Bordeaux Métropole. Pourquoi ? Comment ?), c'est le reportage qui informe les habitants de l'agglomération bordelaise sur les actions, initiatives et compétences de Bordeaux Métropole et des 28 communes qui la composent. Il traite des enjeux d'aujourd'hui et met également en avant les projets et réalisations de la collectivité sur son territoire.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0FA18359F615666EDF4E6FB64C53BCD7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501142500 +0200" stop="20230501145300 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">1,2,3 Dansez</title>
+<desc lang="fr">Chaque semaine, l'animateur Pierre-Yves Lombard et son chroniqueur programmateur Jérôme Richard (L'accordéoniste le plus titré: 6 fois champion du monde), reçoivent les meilleurs accordéonistes de France.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2024A05D60366C4F3515C91DB637E4D1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501145300 +0200" stop="20230501150000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Du côté de chez vous</title>
+<desc lang="fr">Jardin partagé, épicerie solidaire, commerce de proximité, covoiturage, ramassage de déchets, entraide entre voisins, soutien aux personnes isolées… Du lundi au vendredi, TV7 sillonne la Gironde à la rencontre de celles et ceux qui font vivre le territoire à travers des initiatives locales et positives. Economie solidaire, vie associative, transition écologique, santé, innovation sociale, emploi, gastronomie… Un terroir fertile où chaque jour prennent vie ces démarches citoyennes qui montrent comment faire preuve de résilience face aux risques majeurs, qu'ils soient climatiques, énergétiques, alimentaires ou sanitaires, et qui mettent en lumière l'attractivité et le dynamisme de nos villes et nos campagnes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/31133471F4E10206C11555A09AD4178D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501150000 +0200" stop="20230501150500 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">A la page</title>
+<desc lang="fr">Véritable rendez-vous littéraire, &quot;TV7 à la page&quot; présente chaque semaine une sélection d'ouvrages parus aux éditions Sud Ouest. Présentée par Dominique Parmentier tous les mercredis à 18h15, en compagnie des éditrices Marie Cardinaud ou Catherine Dubreil, l'émission fait la part belle aux richesses locales et aux auteurs de notre Région à travers des collections pratiques et richement illustrées. L'occasion de découvrir des guides touristiques, des ouvrages en lien avec l'histoire et le patrimoine, des balades nature, des polars et fictions ou encore des livres autour de la gastronomie et du vin.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/769083016D757C038EA4F82DBA0E1710.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501150500 +0200" stop="20230501153000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Backstage</title>
+<desc lang="fr">Présenté par Benjamin Bardel, retrouvez chaque vendredi à 18h notre talk show culturel qui accueille les célébrités d'hier, d'aujourd'hui et de demain et met en avant les personnalités de passage dans la région avec bienveillance et curiosité. Artistes, chanteurs, acteurs, écrivains, réalisateurs, influenceurs viennent livrer leurs grandes et petites histoires et parler de leur actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/15467587EF887970A8F40F730358EAF9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501153000 +0200" stop="20230501154400 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Cultivons la découverte</title>
+<desc lang="fr">Et si la culture émergente et les pionniers de la création étaient nos voisins de palier ? Rendez-vous avec l'artiste Sarah Trouche qui aborde les thèmes les plus surprenants de l'art et du patrimoine en Nouvelle-Aquitaine, pour que l'essentiel reste accessible à tous.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2893F8EC4AF272EFE2472C105D43356F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501154400 +0200" stop="20230501160000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Cultivons la découverte</title>
+<sub-title lang="fr">Une école d'art ? Faire ou être artiste?</sub-title>
+<desc lang="fr">Découverte de l'école supérieure d'art du Pays basque, cité des arts lors d'un workshop avec l'artiste Pauline Curnier Jardin puis rencontre avec Francoise Seince, directrice de l'école nationale supérieure d'art de Limoges</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A46A3110131B734B08F54EEDF30B76FB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501160000 +0200" stop="20230501163000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Mira !</title>
+<sub-title lang="fr">Les festivales de théâtre dans les villages</sub-title>
+<desc lang="fr">Les petites villes et villages de l'Eurorégion accueillent volontiers des festivals de théâtre et de spectacles de rue. Des temps plus ou moins festifs ou exigeants qui mêlent des artistes venus de toute l'Europe et des compagnies locales. Joël Breton, directeur de la salle La Palène et du festival Les Sarabandes en Charente est notre grand témoin. Avec lui, nous découvrons ce festival singulier qui mène dans un joyeux désordre spectacles et arts plastiques et qui change tous les ans de village.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501163000 +0200" stop="20230501165600 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Mira !</title>
+<sub-title lang="fr">L'art dans la nature</sub-title>
+<desc lang="fr">Depuis le landart, l'art a trouvé ses lettres de noblesse dans les campagnes et dialogue souvent avec les paysages naturels et l'environnement. Que ce soit dans le cadre d'initiatives publiques, privées ou individuelles, les oeuvres monumentales ou plus intimistes se sont multipliées parfois sous des formes particulièrement insolites.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501165600 +0200" stop="20230501170000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Gironde Mag'</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501170000 +0200" stop="20230501173000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La santé d'abord</title>
+<desc lang="fr">Un programme multimédia au service des &quot; télénautes &quot; qui recherchent des réponses concrètes à leurs questions de santé et de bien-être. Bien réagir face aux pépins de santé des membres de sa famille au quotidien, savoir prévenir les incidents par une meilleure nutrition et un bon entretien de son corps, avoir les clés psychologiques pour améliorer son bien être, choisir la méthode la plus adaptée pour son développement personnel... Telles sont les questions auxquelles ce nouveau programme tente de répondre.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/878B1AAE01FA124995F518C089CD5D98.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501173000 +0200" stop="20230501173800 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Le monde de demain</title>
+<desc lang="fr">Changer le monde, on en rêve ou on en parle tous, mais déjà certaines initiatives sont prises ici en région. Comment aller vers plus de solidarité, de respect de l'environnement et d'implication citoyenne ? TV7 vous partage les belles idées de ceux qui travaillent déjà à faire d'aujourd'hui le début de notre avenir.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/42078537D59C302A3CFF40CC9802E108.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501173800 +0200" stop="20230501174900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Le monde de demain</title>
+<sub-title lang="fr">Des frigos contre le gaspillage et la précarité</sub-title>
+<desc lang="fr">Fin 2022, la ville d'Angoulême a vu l'apparition de son premier &quot;frigo zéro gaspi&quot;, sur les bords de la Charente. Installés sur l'espace public par le Centre ressource d'écologie pédagogique de Nouvelle-Aquitaine (Crepaq), ces frigos sont accessibles 24h sur 24 et 7j sur 7 à toute personne désirant y déposer de la nourriture ou souhaitant en prendre. L'objectif : réduire le gaspillage et lutter contre la précarité alimentaire, notamment des étudiants. Une vingtaine de &quot;frigos zéro gaspi&quot; ont d'ores et déjà été installés dans toute la région, dont 15 dans des communes de Bordeaux Métropole, et plusieurs autres le seront dans le courant de l'année 2023.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/42078537D59C302A3CFF40CC9802E108.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501174900 +0200" stop="20230501175900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Le monde de demain</title>
+<desc lang="fr">Changer le monde, on en rêve ou on en parle tous, mais déjà certaines initiatives sont prises ici en région. Comment aller vers plus de solidarité, de respect de l'environnement et d'implication citoyenne ? TV7 vous partage les belles idées de ceux qui travaillent déjà à faire d'aujourd'hui le début de notre avenir.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/42078537D59C302A3CFF40CC9802E108.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501175900 +0200" stop="20230501180000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Qualité de l'air</title>
+<desc lang="fr">En partenariat avec Atmo Nouvelle-Aquitaine, tout au long de la journée TV7 vous informe sur la qualité de l'air du jour dans notre région.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501180000 +0200" stop="20230501182900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Vino Veritas</title>
+<desc lang="fr">Consacrée à l'actualité du vin et des vignobles, de Bordeaux et d'ailleurs, &quot;Vino Veritas &quot; fait chaque mois le tour des sujets clés de la filière et part à la rencontre des femmes et des hommes qui se cachent derrière chaque bouteille. Proposée par TV7, Sud Ouest et Terre de Vins, l'émission se découpe en trois parties : des news, un débat thématique et une dernière rubrique baptisée &quot; La Vigne de A à Z &quot;, où un vigneron raconte ce qui se passe dans les rangs de son vignoble.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Consommation</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C26D8D284A9177B62AB8CC32558BC4FF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501182900 +0200" stop="20230501183000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F68C430ACA17FB23C91B81232A2CCC15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501183000 +0200" stop="20230501184800 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La grande édition 18h-20h</title>
+<desc lang="fr">Présentée par Christophe Chavanneau, La Grande Édition et ses invités, c'est 30 minutes d'information en direct de 18h30 à 19h du lundi au vendredi. Une tranche de décryptage de l'actualité plus lente dans l'analyse et le débat d'idées.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/72DE5FB4032DC3AD14063745CAD2F5BA.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501184800 +0200" stop="20230501185600 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La grande édition 18h-20h</title>
+<desc lang="fr">Tous les jours, retrouvez l'invité de La Grande Édition, présenté par Christophe Chavanneau,</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/72DE5FB4032DC3AD14063745CAD2F5BA.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501185600 +0200" stop="20230501190000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F68C430ACA17FB23C91B81232A2CCC15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501190000 +0200" stop="20230501192900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">19h sports</title>
+<desc lang="fr">Tous les lundis à 19h c'est rugby sur TV7. Top 14, Pro D2, retrouvez toute l'actualité de vos clubs en Nouvelle-Aquitaine. Sans oublier, notre rendez-vous 100% UBB avec chaque semaine un invité exceptionnel.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C4F0C51CBAB1EA12595A868DA01462E5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501192900 +0200" stop="20230501193000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Qualité de l'air</title>
+<desc lang="fr">En partenariat avec Atmo Nouvelle-Aquitaine, tout au long de la journée TV7 vous informe sur la qualité de l'air du jour dans notre région.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501193000 +0200" stop="20230501194900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La grande édition 18h-20h</title>
+<desc lang="fr">Présentée par Christophe Chavanneau, La Grande Édition et ses invités, c'est 30 minutes d'information en direct de 18h30 à 19h du lundi au vendredi. Une tranche de décryptage de l'actualité plus lente dans l'analyse et le débat d'idées.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/778A510DCE0B263302D13C7EAB43F96D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501194900 +0200" stop="20230501200000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La grande édition 18h-20h</title>
+<desc lang="fr">Tous les jours, retrouvez l'invité de La Grande Édition, présenté par Christophe Chavanneau,</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/778A510DCE0B263302D13C7EAB43F96D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501200000 +0200" stop="20230501203000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">19h sports</title>
+<desc lang="fr">Tous les lundis à 19h c'est rugby sur TV7. Top 14, Pro D2, retrouvez toute l'actualité de vos clubs en Nouvelle-Aquitaine. Sans oublier, notre rendez-vous 100% UBB avec chaque semaine un invité exceptionnel.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BB12CBD785C85286F5B27DABA73B4F5B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501203000 +0200" stop="20230501203800 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Le monde de demain</title>
+<desc lang="fr">Changer le monde, on en rêve ou on en parle tous, mais déjà certaines initiatives sont prises ici en région. Comment aller vers plus de solidarité, de respect de l'environnement et d'implication citoyenne ? TV7 vous partage les belles idées de ceux qui travaillent déjà à faire d'aujourd'hui le début de notre avenir.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F40262D9AF1B7B5567250CE52A3C4304.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501203800 +0200" stop="20230501204600 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Le monde de demain</title>
+<desc lang="fr">Changer le monde, on en rêve ou on en parle tous, mais déjà certaines initiatives sont prises ici en région. Comment aller vers plus de solidarité, de respect de l'environnement et d'implication citoyenne ? TV7 vous partage les belles idées de ceux qui travaillent déjà à faire d'aujourd'hui le début de notre avenir.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F40262D9AF1B7B5567250CE52A3C4304.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501204600 +0200" stop="20230501205400 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Le monde de demain</title>
+<sub-title lang="fr">Des frigos contre le gaspillage et la précarité</sub-title>
+<desc lang="fr">Fin 2022, la ville d'Angoulême a vu l'apparition de son premier &quot;frigo zéro gaspi&quot;, sur les bords de la Charente. Installés sur l'espace public par le Centre ressource d'écologie pédagogique de Nouvelle-Aquitaine (Crepaq), ces frigos sont accessibles 24h sur 24 et 7j sur 7 à toute personne désirant y déposer de la nourriture ou souhaitant en prendre. L'objectif : réduire le gaspillage et lutter contre la précarité alimentaire, notamment des étudiants. Une vingtaine de &quot;frigos zéro gaspi&quot; ont d'ores et déjà été installés dans toute la région, dont 15 dans des communes de Bordeaux Métropole, et plusieurs autres le seront dans le courant de l'année 2023.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/42078537D59C302A3CFF40CC9802E108.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501205400 +0200" stop="20230501205500 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F68C430ACA17FB23C91B81232A2CCC15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501205500 +0200" stop="20230501212700 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Extralocal</title>
+<desc lang="fr">Extralocal c'est votre magazine de sociétés et de débat proposé par Territoires.tv et la presse quotidienne Régionale (Sud Ouest, Le télégramme, La voix du Nord, La nouvelle République du Centre Ouest). Chaque semaine Marie Brette accompagnée de 3 journalistes issues des régions accueillent un invité pour débattre et confronter les points de vue de nos territoires sur ce qui a fait l'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8B38A98CE4A6763A7CDE1A35571F2059.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501212700 +0200" stop="20230501215900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">ExtraLocal : La suite</title>
+<desc lang="fr">&quot;Extralocal&quot;, c'est votre magazine de sociétés et de débat proposé par Territoires.tv et la presse quotidienne Régionale (Sud Ouest, Le télégramme, La voix du Nord, La nouvelle République du Centre Ouest). Chaque semaine Marie Brette accompagnée de 3 journalistes issues des régions accueillent un invité pour débattre et confronter les points de vue de nos territoires sur ce qui a fait l'actualité</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8B38A98CE4A6763A7CDE1A35571F2059.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501215900 +0200" stop="20230501220000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F68C430ACA17FB23C91B81232A2CCC15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501220000 +0200" stop="20230501222000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La grande édition 18h-20h</title>
+<desc lang="fr">Présentée par Christophe Chavanneau, La Grande Édition et ses invités, c'est 30 minutes d'information en direct de 18h30 à 19h du lundi au vendredi. Une tranche de décryptage de l'actualité plus lente dans l'analyse et le débat d'idées.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/778A510DCE0B263302D13C7EAB43F96D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501222000 +0200" stop="20230501223000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La grande édition 18h-20h</title>
+<desc lang="fr">Tous les jours, retrouvez l'invité de La Grande Édition, présenté par Christophe Chavanneau,</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/778A510DCE0B263302D13C7EAB43F96D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501223000 +0200" stop="20230501230000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">19h sports</title>
+<desc lang="fr">Tous les lundis à 19h c'est rugby sur TV7. Top 14, Pro D2, retrouvez toute l'actualité de vos clubs en Nouvelle-Aquitaine. Sans oublier, notre rendez-vous 100% UBB avec chaque semaine un invité exceptionnel.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BB12CBD785C85286F5B27DABA73B4F5B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501230000 +0200" stop="20230501232000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La grande édition 18h-20h</title>
+<desc lang="fr">Présentée par Christophe Chavanneau, La Grande Édition et ses invités, c'est 30 minutes d'information en direct de 18h30 à 19h du lundi au vendredi. Une tranche de décryptage de l'actualité plus lente dans l'analyse et le débat d'idées.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/778A510DCE0B263302D13C7EAB43F96D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501232000 +0200" stop="20230501233000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La grande édition 18h-20h</title>
+<desc lang="fr">Tous les jours, retrouvez l'invité de La Grande Édition, présenté par Christophe Chavanneau,</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/778A510DCE0B263302D13C7EAB43F96D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501233000 +0200" stop="20230501235900 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">19h sports</title>
+<desc lang="fr">Tous les lundis à 19h c'est rugby sur TV7. Top 14, Pro D2, retrouvez toute l'actualité de vos clubs en Nouvelle-Aquitaine. Sans oublier, notre rendez-vous 100% UBB avec chaque semaine un invité exceptionnel.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BB12CBD785C85286F5B27DABA73B4F5B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230501235900 +0200" stop="20230502060000 +0200" channel="TV7Bordeaux.fr">
+<title lang="fr">La Qualité de l'air</title>
+<desc lang="fr">En partenariat avec Atmo Nouvelle-Aquitaine, tout au long de la journée TV7 vous informe sur la qualité de l'air du jour dans notre région.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

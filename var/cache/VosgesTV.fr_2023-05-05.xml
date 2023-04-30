@@ -1,0 +1,238 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230505010000 +0200" stop="20230505100000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal / Météo / Sur le vif / L'atelier du jardin / Vue du ciel / Courts en région</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505100000 +0200" stop="20230505103000 +0200" channel="VosgesTV.fr">
+<title lang="fr">La vie en Vosges</title>
+<desc lang="fr">Nous sommes jeudi, c'est l'heure de votre émission La vie en Vosges.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505103000 +0200" stop="20230505110000 +0200" channel="VosgesTV.fr">
+<title lang="fr">À feu doux</title>
+<sub-title lang="fr">La Cambrousse</sub-title>
+<desc lang="fr">Emission culinaire</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F743505154C6EF9FF0087C5E4E3C3743.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505110000 +0200" stop="20230505120000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Ça nous regarde</title>
+<desc lang="fr">Ça nous regarde est une émissions de société qui s'intéresse a différents thèmes tel que la santé, la mobilité, éducation, l'artisanat, les médias, les loisirs...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505120000 +0200" stop="20230505121000 +0200" channel="VosgesTV.fr">
+<title lang="fr">À feu doux</title>
+<desc lang="fr">Emission culinaire</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2F0F8115ED368EA99E7B910AB41028C0.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505121000 +0200" stop="20230505123000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Business club de France / Sur le vif</title>
+<desc lang="fr">Un magazine régional où il est possible d'apprendre beaucoup de choses sur le e-commerce qui est en fort croissance, ou sur la situation dans les entreprises vosgiennes. De plus, il nous tient au courant par rapport de l'agriculture et l'environnement.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505123000 +0200" stop="20230505130000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Qu'on se le dise</title>
+<desc lang="fr">L'émission hebdomadaire présentée par Livia Buchler accueille des invités aux profils certes très différents, mais ayant pour point commun leur département de résidence. Culture, sport, entreprenariat, politique... Différents thèmes sont abordés dans chaque épisode.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505130000 +0200" stop="20230505133000 +0200" channel="VosgesTV.fr">
+<title lang="fr">L'atelier du jardin / Du champ à l'assiette</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505133000 +0200" stop="20230505140000 +0200" channel="VosgesTV.fr">
+<title lang="fr">À feu doux</title>
+<sub-title lang="fr">La Cambrousse</sub-title>
+<desc lang="fr">Emission culinaire</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F743505154C6EF9FF0087C5E4E3C3743.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505140000 +0200" stop="20230505143000 +0200" channel="VosgesTV.fr">
+<title lang="fr">1, 2, 3 musette</title>
+<desc lang="fr">2021</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.55.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505143000 +0200" stop="20230505150000 +0200" channel="VosgesTV.fr">
+<title lang="fr">1, 2, 3 Dansez</title>
+<desc lang="fr">2020</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.24.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505150000 +0200" stop="20230505153000 +0200" channel="VosgesTV.fr">
+<title lang="fr">1, 2, 3 musette</title>
+<desc lang="fr">2022</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.28.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505153000 +0200" stop="20230505160000 +0200" channel="VosgesTV.fr">
+<title lang="fr">La vie en Vosges</title>
+<desc lang="fr">Nous sommes jeudi, c'est l'heure de votre émission La vie en Vosges.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505160000 +0200" stop="20230505163000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Courts en région</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505163000 +0200" stop="20230505170000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Ça nous regarde</title>
+<desc lang="fr">Ça nous regarde est une émissions de société qui s'intéresse a différents thèmes tel que la santé, la mobilité, éducation, l'artisanat, les médias, les loisirs...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505170000 +0200" stop="20230505173000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Sur ma route</title>
+<desc lang="fr">Découvrir les pays de Lorraine à travers une personnalité issue de la région c'est le principe de la nouvelle émission &quot; Sur Ma Route &quot; présentée par Vianney Huguenot.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0444F5AC32C12EDBB9DA3C7F9823A778.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505173000 +0200" stop="20230505174500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Sur le vif</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505174500 +0200" stop="20230505180000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Sports week-end / Un jour</title>
+<desc lang="fr">Passez un agréable fin de semaine en bouclant deux émissions sur ViàVosgues: en suivant les actualités sportives du week-end et des événements forts de ''Un jour''.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505180000 +0200" stop="20230505190000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal / Météo / L'atelier du jardin / Vue du ciel / Sports week-end</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505190000 +0200" stop="20230505193000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Ça va chez vous ?</title>
+<desc lang="fr">Ca va chez vous? est une émission anime par Livia Buchler. Elle part à la découverte des territoires que font les Vosges. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505193000 +0200" stop="20230505200000 +0200" channel="VosgesTV.fr">
+<title lang="fr">À feu doux</title>
+<sub-title lang="fr">La Cambrousse</sub-title>
+<desc lang="fr">Emission culinaire</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2F0F8115ED368EA99E7B910AB41028C0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505200000 +0200" stop="20230505203000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal / Météo / L'atelier du jardin / Vue du ciel / Sports week-end</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505203000 +0200" stop="20230505204500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal / Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505204500 +0200" stop="20230505214500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Spectacle</title>
+<sub-title lang="fr">Le Chapelier fou</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505214500 +0200" stop="20230505220000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Sports week-end / Un jour</title>
+<desc lang="fr">Passez un agréable fin de semaine en bouclant deux émissions sur ViàVosgues: en suivant les actualités sportives du week-end et des événements forts de ''Un jour''.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505220000 +0200" stop="20230505223000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Ça va chez vous ?</title>
+<desc lang="fr">Ca va chez vous? est une émission anime par Livia Buchler. Elle part à la découverte des territoires que font les Vosges. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505223000 +0200" stop="20230505230000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal / Météo / L'atelier du jardin / Vue du ciel / Sports week-end</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505230000 +0200" stop="20230505231500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Sports week-end / Un jour</title>
+<desc lang="fr">Passez un agréable fin de semaine en bouclant deux émissions sur ViàVosgues: en suivant les actualités sportives du week-end et des événements forts de ''Un jour''.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505231500 +0200" stop="20230505234500 +0200" channel="VosgesTV.fr">
+<title lang="fr">La vie en Vosges</title>
+<desc lang="fr">Nous sommes jeudi, c'est l'heure de votre émission La vie en Vosges.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230505234500 +0200" stop="20230506001500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal / Météo / L'atelier du jardin / Vue du ciel / Sports week-end</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506001500 +0200" stop="20230506004500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Business Club de France / Une semaine dans le Grand Est</title>
+<desc lang="fr">Un magazine régional traitant les questions économiques et sociaux.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230506004500 +0200" stop="20230506004500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal des territoires</title>
+<desc lang="fr">Magazine sur l'actualité, la politique, l'emploi, la justice et la géopolitique des territoires de France.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
