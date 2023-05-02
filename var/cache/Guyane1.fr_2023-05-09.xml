@@ -1,0 +1,29 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230509130200 +0200" stop="20230509175200 +0200" channel="Guyane1.fr">
+<title lang="fr">Franceinfo reprise</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/217e1ea11e689d1b2348394c88d1aeef7da35da0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509175200 +0200" stop="20230510000200 +0200" channel="Guyane1.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Un aperçu des prévisions météorologiques pour les jours à venir. </desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/d7a3671027f4d9c0582daf35e9e3daa7d7d509b4_6775D39F7BFB1C2D14AA52D6C1EC04BA.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510000200 +0200" stop="20230510005700 +0200" channel="Guyane1.fr">
+<title lang="fr">Info soir: les titres</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/217e1ea11e689d1b2348394c88d1aeef7da35da0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510005700 +0200" stop="20230510130200 +0200" channel="Guyane1.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Un aperçu des prévisions météorologiques pour les jours à venir. </desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/d7a3671027f4d9c0582daf35e9e3daa7d7d509b4_6775D39F7BFB1C2D14AA52D6C1EC04BA.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

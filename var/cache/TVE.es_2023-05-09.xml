@@ -1,0 +1,10 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230509053000 +0200" stop="20230509063000 +0200" channel="TVE.es">
+<title lang="fr">La aventura del saber</title>
+<desc lang="fr">Programa divulgativo sobre educación.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/708F54FFC753247B565127D35F9D5646.jpg" />
+<episode-num system="xmltv_ns">0.828.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

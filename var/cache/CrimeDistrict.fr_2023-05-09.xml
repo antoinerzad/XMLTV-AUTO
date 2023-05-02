@@ -1,0 +1,11 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230509050000 +0200" stop="20230509070100 +0200" channel="CrimeDistrict.fr">
+<title lang="fr">Verdict</title>
+<sub-title lang="fr">L'affaire Rist</sub-title>
+<desc lang="fr">Retour sur le procès d'Emmanuel Rist, accusé d'avoir abattu Mohammed Madsini d'une balle dans la tête en mai 2001 pour s'être trouvé &quot;en zone germanique&quot;.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Justice</category>
+<icon src="https://img.bouygtel.fr/CMS/images/19E943B0FD5F3EA9BBA23262E23130AC.jpg" />
+<episode-num system="xmltv_ns">6.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>

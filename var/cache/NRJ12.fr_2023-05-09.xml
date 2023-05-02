@@ -1,0 +1,236 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230508230000 +0200" stop="20230509005000 +0200" channel="NRJ12.fr">
+<title lang="fr">Crimes</title>
+<desc lang="fr">Pulsions mortelles à Estagel. A la vie, à la mort.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_6229705.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230509005000 +0200" stop="20230509023000 +0200" channel="NRJ12.fr">
+<title lang="fr">Crimes</title>
+<desc lang="fr">Plan machiavélique à Rouen. Troubles mortels de voisinage.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_23788211.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230509023000 +0200" stop="20230509063000 +0200" channel="NRJ12.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Programme indéterminé.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22269110.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509063000 +0200" stop="20230509093000 +0200" channel="NRJ12.fr">
+<title lang="fr">Télé-achat</title>
+<desc lang="fr">Magazine de télé-achat.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. TV Achat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_4278322.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509093000 +0200" stop="20230509102000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">L'énigme</sub-title>
+<desc lang="fr">Stiles a été enlevé mais parvient à prévenir Scott d'un coup de téléphone. Alors que ses amis le recherchent, la mère de Scott le trouve, errant dans les rues.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12416369.jpg" />
+<episode-num system="xmltv_ns">2.17.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230509102000 +0200" stop="20230509111000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Poison</sub-title>
+<desc lang="fr">Une bombe explose soudain au commissariat de police et blesse grièvement Derek. Allison et Lydia, de leur côté, sont contraintes de demander l'aide de Peter.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12359891.jpg" />
+<episode-num system="xmltv_ns">2.18.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230509111000 +0200" stop="20230509120000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Eichen House</sub-title>
+<desc lang="fr">Stiles demande volontairement à être interné en hôpital psychiatrique pour éviter de faire du mal à autrui. Il pense que c'est son dernier recours.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_10353253.jpg" />
+<episode-num system="xmltv_ns">2.19.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230509120000 +0200" stop="20230509125500 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Le renard et le loup</sub-title>
+<desc lang="fr">Alors que Derek, Allison et Chris entreprennent, courageusement, de traquer de conserve le Nogitsune, la mère de Kira raconte une histoire.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_10353326.jpg" />
+<episode-num system="xmltv_ns">2.20.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230509125500 +0200" stop="20230509135000 +0200" channel="NRJ12.fr">
+<title lang="fr">Teen Wolf</title>
+<sub-title lang="fr">Dans la tête de Stiles</sub-title>
+<desc lang="fr">Le Nogitsune s'en prend à Aiden, Ethan, Isaac et Derek. Avec l'aide de Deaton et de Peter, Scott et Lydia parviennent à combiner leurs pouvoirs pour l'affronter.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_10353412.jpg" />
+<episode-num system="xmltv_ns">2.21.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230509135000 +0200" stop="20230509141500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">La nouvelle voisine</sub-title>
+<desc lang="fr">Tandis qu'il joue les entremetteurs entre son frère et leur nouvelle voisine, Danielle, Charlie ne cesse de se prendre les pieds dans le skate-board de Jake.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6251726.jpg" />
+<episode-num system="xmltv_ns">3.13.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509141500 +0200" stop="20230509144500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Rencontre sur le Net</sub-title>
+<desc lang="fr">Rose annonce à Charlie qu'elle part pour Londres. Embellissant les informations le concernant, Alan rencontre une femme sur Internet et l'invite à dîner.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6251729.jpg" />
+<episode-num system="xmltv_ns">3.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509144500 +0200" stop="20230509151500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Le vieux de quarante ans</sub-title>
+<desc lang="fr">Charlie fréquente une jeune femme de 24 ans. Pour montrer à son frère qu'il n'est pas trop vieux pour s'amuser, Charlie l'entraîne dans une boîte de nuit.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6251735.jpg" />
+<episode-num system="xmltv_ns">3.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509151500 +0200" stop="20230509154000 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Une nouvelle famille</sub-title>
+<desc lang="fr">Evelyn est triste : personne ne s'est rendu à l'enterrement de sa meilleure amie. Aussi Charlie et Alan tentent-ils de lui remonter le moral.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_24424279.jpg" />
+<episode-num system="xmltv_ns">3.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509154000 +0200" stop="20230509161000 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">L'âge critique</sub-title>
+<desc lang="fr">Effaré par la rapidité avec laquelle son fils grandit, Alan propose à Jake une sortie camping. De son côté, Kandi passe une audition pour une série policière.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6251734.jpg" />
+<episode-num system="xmltv_ns">3.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509161000 +0200" stop="20230509164000 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Tante Myra</sub-title>
+<desc lang="fr">Alan a le moral au beau fixe. C'est en effet ce mois-ci qu'il versera à Judith sa dernière pension alimentaire. Charlie rencontre Myra, la soeur de Herb.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6251735.jpg" />
+<episode-num system="xmltv_ns">3.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509164000 +0200" stop="20230509170500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Tante Myra</sub-title>
+<desc lang="fr">La relation entre Charlie et Myra, la toute nouvelle belle-soeur de Judith, semble fonctionner parfaitement.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6251739.jpg" />
+<episode-num system="xmltv_ns">3.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509170500 +0200" stop="20230509173500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Un gay peut en cacher un autre</sub-title>
+<desc lang="fr">Alan et Charlie sont en pleine interrogation : sont-ils vraiment hétérosexuels ? En effet, Alan a noué une amitié avec Greg, un jeune homme gay, et, depuis, ses amis s'attendent à ce qu'il fasse son coming out du jour au lendemain. Mais en réalité, c'est surtout Charlie qui doute et se pose des...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6251741.jpg" />
+<episode-num system="xmltv_ns">3.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509173500 +0200" stop="20230509180500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Dr Charlie et Mister Hyde</sub-title>
+<desc lang="fr">Alan demande à Charlie d'aider Jake pour un devoir pendant que lui-même vaque à d'autres occupations. Une fois en tête à tête avec son neveu, Charlie lui conseille de ne pas se précipiter sur sa tâche car il sera plus inspiré à la dernière minute. Il propose à Jake de l'accompagner au champ de...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_5983128.jpg" />
+<episode-num system="xmltv_ns">3.21.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509180500 +0200" stop="20230509183500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">La nouvelle génération</sub-title>
+<desc lang="fr">Charlie engage un ouvrier pour effectuer des réparations chez lui. Les amies de Charlie sont attirées par ce bel homme qui attise la jalousie de son employeur.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6251737.jpg" />
+<episode-num system="xmltv_ns">3.22.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509183500 +0200" stop="20230509190500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Un beau-père en or</sub-title>
+<desc lang="fr">Evelyn a un nouveau petit ami, Teddy, qui emmène Charlie et Alan à Las Vegas. Les garçons échangent leurs impressions sur la vie sentimentale de leur mère.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6251739.jpg" />
+<episode-num system="xmltv_ns">3.23.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509190500 +0200" stop="20230509193000 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Le grand saut</sub-title>
+<desc lang="fr">Jake appréhende l'entrée au collège, après le récit détaillé des tourments qu'ont vécu Charlie et Alan au même âge que lui. Leur mise en garde le paralyse.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6251741.jpg" />
+<episode-num system="xmltv_ns">4.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509193000 +0200" stop="20230509195500 +0200" channel="NRJ12.fr">
+<title lang="fr">Mon oncle Charlie</title>
+<sub-title lang="fr">Ma mère, mon amie</sub-title>
+<desc lang="fr">Charlie se réconcilie avec sa mère, jusqu'à ce qu'il séduise Margaret, l'une de ses clientes mariées. Quant à Alan, il passe la soirée avec Sharon et tente de la convaincre de faire l'amour avec lui. Mais, malheureusement pour lui, la belle révèle des tendances suicidaires, ce qui complique...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_23738484.jpg" />
+<episode-num system="xmltv_ns">4.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509195500 +0200" stop="20230509211000 +0200" channel="NRJ12.fr">
+<title lang="fr">Un gars, une fille</title>
+<desc lang="fr">Amour et disputes, colère et calins : Alex et Jean sont un jeune couple à l'humeur très variable, et vivre à deux n'est pas toujours facile.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13312948.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230509211000 +0200" stop="20230509234000 +0200" channel="NRJ12.fr">
+<title lang="fr">Déjà vu</title>
+<desc lang="fr">Chargé d'enquêter sur un attentat, un policier expérimente une nouvelle machine qui permet de remonter le temps et de découvrir le passé d'une victime.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_10514115.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230509234000 +0200" stop="20230510013000 +0200" channel="NRJ12.fr">
+<title lang="fr">La colère des Titans</title>
+<desc lang="fr">Un ancien guerrier demi-dieu, qui vit dans un paisible village de pêcheurs, affronte son destin pour libérer son père, otage de l'ennemi, et sauver l'humanité.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_7975377.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
