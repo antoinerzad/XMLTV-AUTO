@@ -1,0 +1,287 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230509225500 +0200" stop="20230510003000 +0200" channel="RTL9.fr">
+<title lang="fr">Ciné ou canap ?</title>
+<desc lang="fr">Marie Palot vous propose un tour d'horizon de toute l'actualité cinématographique et des nouveautés séries : interviews exclusives et mise en avant des dernières sorties en salles et VOD.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_33953949.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510003000 +0200" stop="20230510020000 +0200" channel="RTL9.fr">
+<title lang="fr">Une femme d'honneur</title>
+<sub-title lang="fr">Mort programmée</sub-title>
+<desc lang="fr">Une infirmière, tout juste sortie de prison, soigne à domicile un vieux monsieur atteint d'un cancer, qu'on retrouve mort le lendemain de sa prise de fonctions.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_11159502.jpg" />
+<episode-num system="xmltv_ns">4.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230510020000 +0200" stop="20230510033000 +0200" channel="RTL9.fr">
+<title lang="fr">Une femme d'honneur</title>
+<sub-title lang="fr">Secret de famille</sub-title>
+<desc lang="fr">Une femme autoritaire, presque unanimement détestée par les membres de son entourage, est retrouvée morte, assassinée d'un coup de fusil de chasse.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_11120145.jpg" />
+<episode-num system="xmltv_ns">5.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510033000 +0200" stop="20230510035000 +0200" channel="RTL9.fr">
+<title lang="fr">112 Unité d'urgence</title>
+<sub-title lang="fr">Congés à durée indéterminée</sub-title>
+<desc lang="fr">Un jeune homme, qui vient de s'installer avec sa petite amie, décide de faire lui-même les branchements des appareils ménagers. Alors que Driesen reprend le travail immédiatement après son accident, plusieurs membres de l'équipe cherchent à savoir si son enfant a survécu. Sellmann, quant à lui,...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14413592.jpg" />
+<episode-num system="xmltv_ns">0.97.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510035000 +0200" stop="20230510041500 +0200" channel="RTL9.fr">
+<title lang="fr">112 Unité d'urgence</title>
+<sub-title lang="fr">Le dilemme de Jenny</sub-title>
+<desc lang="fr">Un jeune homme, qui s'ennuie dans l'appartement de ses parents, décide de se droguer en inhalant le gaz d'un déodorant. Il perd connaissance peu de temps après. Sa cousine essaie de le ranimer sans succès. Pendant ce temps, aux services des urgences, Bender tente de lutter contre la main-mise de...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14413592.jpg" />
+<episode-num system="xmltv_ns">0.98.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510041500 +0200" stop="20230510044000 +0200" channel="RTL9.fr">
+<title lang="fr">112 Unité d'urgence</title>
+<sub-title lang="fr">Bender, justicier</sub-title>
+<desc lang="fr">Une maman prépare l'anniversaire de sa fille pendant que celle-ci dort dans sa chambre. Elle allume les bougies du gâteau et sort chercher un dernier cadeau dans la voiture. Par mégarde, elle se retrouve enfermée dehors et la maison commence à prendre feu à cause des bougies. Pendant ce temps,...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14413592.jpg" />
+<episode-num system="xmltv_ns">0.99.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510044000 +0200" stop="20230510050500 +0200" channel="RTL9.fr">
+<title lang="fr">112 Unité d'urgence</title>
+<sub-title lang="fr">Base en danger</sub-title>
+<desc lang="fr">Sabine, une lycéenne mal dans sa peau, envisage de commettre l'irréparable. Elle enjambe la barrière de l'escalier pour sauter dans le vide, mais l'un de ses camarades essaie de l'en dissuader...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14413592.jpg" />
+<episode-num system="xmltv_ns">0.100.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510050500 +0200" stop="20230510052600 +0200" channel="RTL9.fr">
+<title lang="fr">112 Unité d'urgence</title>
+<sub-title lang="fr">La confidence</sub-title>
+<desc lang="fr">Malgré l'interdiction de leur maman, deux enfants se faufilent dans la cave pour une partie de cache-cache...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14413592.jpg" />
+<episode-num system="xmltv_ns">0.101.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510052600 +0200" stop="20230510060000 +0200" channel="RTL9.fr">
+<title lang="fr">Pep's</title>
+<sub-title lang="fr">Pep's</sub-title>
+<desc lang="fr">Professeurs dépressifs, parents stressés et écoliers dans la lune tentent de survivre aux horreurs et aux joies de la vie quotidienne à l'école. Les relations s'entremêlent pour le meilleur et souvent pour le pire !</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9409700.jpg" />
+<episode-num system="xmltv_ns">0.82.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510060000 +0200" stop="20230510084500 +0200" channel="RTL9.fr">
+<title lang="fr">Télé-achat</title>
+<desc lang="fr">Pour savoir quels seront vos coups de c?urs de demain et connaître les tendances d'aujourd'hui, ne manquez pas le téléachat, un magazine conso malin pour vous aider au quotidien et découvrir des produits toujours plus novateurs et pratiques.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. TV Achat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_4278322.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510084500 +0200" stop="20230510085100 +0200" channel="RTL9.fr">
+<title lang="fr">Pep's</title>
+<sub-title lang="fr">Pep's</sub-title>
+<desc lang="fr">Professeurs dépressifs, parents stressés et écoliers dans la lune tentent de survivre aux horreurs et aux joies de la vie quotidienne à l'école. Les relations s'entremêlent pour le meilleur et souvent pour le pire !</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9409700.jpg" />
+<episode-num system="xmltv_ns">0.63.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510085100 +0200" stop="20230510085700 +0200" channel="RTL9.fr">
+<title lang="fr">Pep's</title>
+<sub-title lang="fr">Pep's</sub-title>
+<desc lang="fr">Professeurs dépressifs, parents stressés et écoliers dans la lune tentent de survivre aux horreurs et aux joies de la vie quotidienne à l'école. Les relations s'entremêlent pour le meilleur et souvent pour le pire !</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9409700.jpg" />
+<episode-num system="xmltv_ns">0.64.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510085700 +0200" stop="20230510090300 +0200" channel="RTL9.fr">
+<title lang="fr">Pep's</title>
+<sub-title lang="fr">Pep's</sub-title>
+<desc lang="fr">Professeurs dépressifs, parents stressés et écoliers dans la lune tentent de survivre aux horreurs et aux joies de la vie quotidienne à l'école. Les relations s'entremêlent pour le meilleur et souvent pour le pire !</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9409700.jpg" />
+<episode-num system="xmltv_ns">0.65.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510090300 +0200" stop="20230510090900 +0200" channel="RTL9.fr">
+<title lang="fr">Pep's</title>
+<sub-title lang="fr">Pep's</sub-title>
+<desc lang="fr">Qu'on y enseigne, qu'on y étudie ou qu'on y dépose sa progéniture tous les matins, l'école ne laisse personne indifférent.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9409700.jpg" />
+<episode-num system="xmltv_ns">0.100.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510090900 +0200" stop="20230510091500 +0200" channel="RTL9.fr">
+<title lang="fr">Pep's</title>
+<sub-title lang="fr">Pep's</sub-title>
+<desc lang="fr">Qu'on y enseigne, qu'on y étudie ou qu'on y dépose sa progéniture tous les matins, l'école ne laisse personne indifférent.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9409700.jpg" />
+<episode-num system="xmltv_ns">0.101.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510091500 +0200" stop="20230510105000 +0200" channel="RTL9.fr">
+<title lang="fr">Une femme d'honneur</title>
+<sub-title lang="fr">Femmes d'occasion</sub-title>
+<desc lang="fr">La gendarmerie enquête sur l'assassinat d'une femme, abattue en pleine rue par un motard au visage masqué : le mari de la victime fait figure de suspect idéal.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_10257601.jpg" />
+<episode-num system="xmltv_ns">6.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510105000 +0200" stop="20230510122000 +0200" channel="RTL9.fr">
+<title lang="fr">Une femme d'honneur</title>
+<sub-title lang="fr">Mortelle cavale</sub-title>
+<desc lang="fr">Isabelle Florent et son équipe enquêtent sur une double affaire : trois détenus en cavale ont pris une religieuse en otage, et une femme a été assassinée.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_9442660.jpg" />
+<episode-num system="xmltv_ns">6.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510122000 +0200" stop="20230510140000 +0200" channel="RTL9.fr">
+<title lang="fr">Une femme d'honneur</title>
+<sub-title lang="fr">Complicité de viol</sub-title>
+<desc lang="fr">Un directeur commercial, qui vient d'être retrouvé assassiné, est accusé par un corbeau d'avoir commandité l'assassinat d'une stagiaire, trois ans auparavant.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_10257601.jpg" />
+<episode-num system="xmltv_ns">7.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510140000 +0200" stop="20230510144500 +0200" channel="RTL9.fr">
+<title lang="fr">New York 911</title>
+<sub-title lang="fr">Père et fils</sub-title>
+<desc lang="fr">Le lieutenant Swersky dirige une descente de police pour arrêter l'assassin d'un policier de Philadelphie. Brendan aide un enfant dont le père est violent.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_15824208.jpg" />
+<episode-num system="xmltv_ns">5.13.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230510144500 +0200" stop="20230510153500 +0200" channel="RTL9.fr">
+<title lang="fr">New York 911</title>
+<sub-title lang="fr">Révélations</sub-title>
+<desc lang="fr">Sasha fait une confidence à Sully : elle est enceinte de Ty Davis. Bosco risque de perdre sa place à cause d'une déficience physique importante.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_11992180.jpg" />
+<episode-num system="xmltv_ns">5.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510153500 +0200" stop="20230510162500 +0200" channel="RTL9.fr">
+<title lang="fr">New York 911</title>
+<sub-title lang="fr">Epidémie</sub-title>
+<desc lang="fr">Monroe et Sully arrivent sur les lieux d'un braquage et parviennent à arrêter l'un des deux braqueurs, Harry Rush, un déserteur de l'armée de terre.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12351123.jpg" />
+<episode-num system="xmltv_ns">5.15.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230510162500 +0200" stop="20230510171000 +0200" channel="RTL9.fr">
+<title lang="fr">New York 911</title>
+<sub-title lang="fr">Naissance d'un caïd</sub-title>
+<desc lang="fr">Marcel, qui est soupçonné d'avoir assassiné Darren Maddox, fait grossir les rangs de son organisation criminelle. Yokas recherche une adolescente disparue.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_5864383.jpg" />
+<episode-num system="xmltv_ns">5.16.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230510171000 +0200" stop="20230510180000 +0200" channel="RTL9.fr">
+<title lang="fr">New York 911</title>
+<sub-title lang="fr">Dans la ligne de tir</sub-title>
+<desc lang="fr">Monroe et Bosco tentent de raisonner une jeune femme qui fait un esclandre dans un bureau d'aide sociale. Davis et Finney démantèlent un réseau de prostitution.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_15824208.jpg" />
+<episode-num system="xmltv_ns">5.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510180000 +0200" stop="20230510182500 +0200" channel="RTL9.fr">
+<title lang="fr">Amour, gloire et beauté</title>
+<desc lang="fr">Bill et Li discutent de la toxicité de la relation entre Jack et Li. Li s'émerveille de voir que Jack n'a apporté que le chaos, mais que Bill l'a sauvée. Elle explique les mensonges de Jack au sujet de Finn et déclare que Jack est égoïste. Bill révèle que Katie et lui ne sont plus mariés.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9379231.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510182500 +0200" stop="20230510184500 +0200" channel="RTL9.fr">
+<title lang="fr">Amour, gloire et beauté</title>
+<desc lang="fr">Bill, Katie et Donna échangent leurs opinions sur la relation entre Hope et Liam. Oliver espère qu'Amber sait ce qu'elle fait. Hope commence à se demander ce qu'attend Liam. Elle décide donc d'appeler Katie pour savoir s'il est toujours à la maison de la plage. Amber prend des mesures extrêmes...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9379231.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510184500 +0200" stop="20230510191500 +0200" channel="RTL9.fr">
+<title lang="fr">Amour, gloire et beauté</title>
+<desc lang="fr">Deacon se réveille au lit avec la jolie femme du bar et fait la conversation. Steffy demande à Ridge comment s'est passée sa conversation avec Brooke. Il lui répond qu'elle est favorable à ce que Douglas reste avec Hope et qu'ils ne seront probablement jamais d'accord sur le sujet.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9379231.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510191500 +0200" stop="20230510200000 +0200" channel="RTL9.fr">
+<title lang="fr">Stargate Atlantis</title>
+<sub-title lang="fr">Les Sekkaris</sub-title>
+<desc lang="fr">Alors que Sheppard a été enlevé et que Woolsey rencontre le docteur Conrad, l'expédition fait une découverte sur la nature d'une ancienne espèce d'Atlantis.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_33702617.jpg" />
+<episode-num system="xmltv_ns">4.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510200000 +0200" stop="20230510205500 +0200" channel="RTL9.fr">
+<title lang="fr">Stargate Atlantis</title>
+<sub-title lang="fr">Rendez-vous glacial</sub-title>
+<desc lang="fr">Un ancien rival de Rodney McKay l'invite à participer, sur Terre, à une présentation scientifique de la plus haute importance. Il s'y rend avec Jennifer Keller.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Science Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_33702617.jpg" />
+<episode-num system="xmltv_ns">4.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510205500 +0200" stop="20230510224000 +0200" channel="RTL9.fr">
+<title lang="fr">New York 1997</title>
+<desc lang="fr">Dans un New York transformé en pénitencier, un criminel a 24 heures pour sauver le président des Etats-Unis, dont l'appareil s'est crashé dans la cité-prison.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Sc.Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_11708461.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230510224000 +0200" stop="20230511003500 +0200" channel="RTL9.fr">
+<title lang="fr">Haute sécurité</title>
+<desc lang="fr">Dans un quartier de haute sécurité, un directeur de prison persécute un détenu qui a eu, jadis, l'outrecuidance de réussir à s'évader à son nez et à sa barbe.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_16978659.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>

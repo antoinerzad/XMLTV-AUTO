@@ -1,0 +1,11 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230510053900 +0200" stop="20230510061000 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Les Paris du globe-cooker</title>
+<sub-title lang="fr">Les Vietnamiens</sub-title>
+<desc lang="fr">Fred Chesneau met particulièrement à l'honneur la gastronomie vietnamienne, qui fait partie des cuisines asiatiques favorites des Français. L'occasion de découvrir des plats méconnus, mais aussi des particularités nationales, voire locales.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7E621E6D52377F1ECDDE7AB6259A06B5.jpg" />
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
