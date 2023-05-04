@@ -1,0 +1,40 @@
+<!-- racacax\XmlTv\Component\Provider\TeleLoisirs -->
+<programme start="20230511000500 +0200" stop="20230511001500 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<sub-title lang="fr">Boulevardmagazin</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Autre</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~8a13f89e313101e7.jpg/640x360/quality/80/tagesschau.jpg" />
+</programme>
+<programme start="20230511053000 +0200" stop="20230511090000 +0200" channel="DasErste.de">
+<title lang="fr">ARD-Morgenmagazin</title>
+<sub-title lang="fr">Raus ins Leben</sub-title>
+<desc lang="fr">
+Avec :
+Anna Planken (Présentateur), Till Nassif (Présentateur)</desc>
+<category lang="fr">Culture Infos</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~46aa0885eadddbc0.jpg/640x360/quality/80/morgenmagazin.jpg" />
+</programme>
+<programme start="20230511130000 +0200" stop="20230511140000 +0200" channel="DasErste.de">
+<title lang="fr">ZDF-Mittagsmagazin</title>
+<sub-title lang="fr">Mit heute Xpress</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Culture Infos</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~f368c003e89c6695.jpg/640x360/quality/80/zdf-mittagsmagazin.jpg" />
+</programme>
+<programme start="20230511171500 +0200" stop="20230511180000 +0200" channel="DasErste.de">
+<title lang="fr">Brisant</title>
+<sub-title lang="fr">Nestflucht</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Culture Infos</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~75d899a430352512.jpg/640x360/quality/80/brisant.jpg" />
+</programme>
+<programme start="20230511214500 +0200" stop="20230511221500 +0200" channel="DasErste.de">
+<title lang="fr">Monitor</title>
+<sub-title lang="fr">Berichte zur Zeit</sub-title>
+<desc lang="fr">
+Avec :
+Georg Restle (Présentateur)</desc>
+<category lang="fr">Culture Infos</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~b622f7c6fc228c1f.jpg/640x360/quality/80/monitor.jpg" />
+</programme>
