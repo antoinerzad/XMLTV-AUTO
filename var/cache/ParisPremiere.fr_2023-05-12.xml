@@ -1,0 +1,32 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230511225500 +0200" stop="20230512004500 +0200" channel="ParisPremiere.fr">
+<title lang="fr">Cube</title>
+<desc lang="fr">Sans savoir comment, six personnes se retrouvent enfermées dans une structure cubique géante. Le groupe tente de s'extirper du lieu, truffé de pièges mortels.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Sc.Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_11944849.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230512004500 +0200" stop="20230512014000 +0200" channel="ParisPremiere.fr">
+<title lang="fr">La décennie sanglante</title>
+<desc lang="fr">Les films d'horreurs des années 1980 ont su transformer leur succès initial en une véritable saga qui a engendré de multiples suites. Ainsi sont nées de grandes franchises comme &quot;Hellraiser&quot;, &quot;Freddy&quot;, &quot;Friday the 13th&quot;, &quot;Halloween&quot; et bien d'autres.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_35741197.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230512014000 +0200" stop="20230512023500 +0200" channel="ParisPremiere.fr">
+<title lang="fr">La décennie sanglante</title>
+<desc lang="fr">Le cinéma d'horreur a su aussi apporter et innover dans le domaine de l'humour. Souvent tourné au second degré, il peut être grinçant mais aussi burlesque.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_35741197.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230512023500 +0200" stop="20230512070000 +0200" channel="ParisPremiere.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22269110.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

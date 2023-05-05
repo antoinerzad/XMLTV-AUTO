@@ -1,0 +1,56 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230511233000 +0200" stop="20230512002000 +0200" channel="TvBreizh.fr">
+<title lang="fr">Cold Case</title>
+<sub-title lang="fr">Scarlet Rose</sub-title>
+<desc lang="fr">Le suicide en direct d'un célèbre DJ d'une radio de Philadelphie avait défrayé la chronique en 1958. Près de cinquante ans plus tard, l'affaire est réexaminée.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_11326333.jpg" />
+<episode-num system="xmltv_ns">3.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230512002000 +0200" stop="20230512011500 +0200" channel="TvBreizh.fr">
+<title lang="fr">Cold Case</title>
+<sub-title lang="fr">Le revers de la médaille</sub-title>
+<desc lang="fr">La découverte d'une prothèse dans un fleuve pousse les enquêteurs à reprendre une affaire non résolue : la disparition d'une femme ayant combattu en Irak.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_11669391.jpg" />
+<episode-num system="xmltv_ns">3.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230512011500 +0200" stop="20230512020500 +0200" channel="TvBreizh.fr">
+<title lang="fr">Cold Case</title>
+<sub-title lang="fr">Baby Blues</sub-title>
+<desc lang="fr">Vingt-quatre ans après le décès d'un nourrisson, Lilly et Kat reprennent les investigations car certains indices laissent à penser qu'il s'agirait d'un meurtre.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_11345830.jpg" />
+<episode-num system="xmltv_ns">3.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230512020500 +0200" stop="20230512033000 +0200" channel="TvBreizh.fr">
+<title lang="fr">Mystère à Paris</title>
+<desc lang="fr">En 1892, une provinciale, montée à Paris pour devenir danseuse au cabaret du Moulin Rouge et pour retrouver sa soeur, est mêlée à une affaire de meurtres.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_18867534.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230512033000 +0200" stop="20230512065000 +0200" channel="TvBreizh.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Retrouvez tous vos programmes de nuit..</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10572422.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230512065000 +0200" stop="20230512075000 +0200" channel="TvBreizh.fr">
+<title lang="fr">Section de recherches</title>
+<sub-title lang="fr">Pas de deux</sub-title>
+<desc lang="fr">Une danseuse étoile de l'Opéra de Bordeaux a été assassinée chez elle. Dans sa poche, les enquêteurs découvrent une lettre de menaces de mort.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_12487353.jpg" />
+<episode-num system="xmltv_ns">4.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
