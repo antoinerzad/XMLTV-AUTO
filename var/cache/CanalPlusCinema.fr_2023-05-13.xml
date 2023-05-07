@@ -1,0 +1,143 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230513045000 +0200" stop="20230513070600 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FE94A7D93AAD8E38CC5F134073111ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513070600 +0200" stop="20230513074700 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Magistral.e</title>
+<sub-title lang="fr">Jérôme Commandeur</sub-title>
+<desc lang="fr">Magistral.e est la collection de masterclasses de Canal+ qui donne la parole à des créateurs et créatrices. Afin de raconter sa façon de travailler, chaque invité crée l'exercice et construise son propre cours révélant les différentes étapes de leur...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/255CF3A6F4973B7E8AB6E0560DD89C88.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513074700 +0200" stop="20230513075500 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Tchi tcha Home Cinéma</title>
+<sub-title lang="fr">Opération Cannes</sub-title>
+<desc lang="fr">L'actualité du cinéma à Tchi tcha avec Laurie Cholewa et ses invités.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BE46CE3A3E314ED1EAA5536A98ED4AA0.jpg" />
+<episode-num system="xmltv_ns">1.27.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230513075500 +0200" stop="20230513093200 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Ténor</title>
+<desc lang="fr">C'est en effectuant une livraison de sushis à l'opéra Garnier qu'Antoine va faire une rencontre qui va changer sa vie. Cet étudiant issu des quartiers de la banlieue parisienne jongle entre son métier de livreur et ses combats de rap. Il tombe nez à nez avec madame Loyseau. Cette professeur de chant décèle chez ce dernier un talent brut et décide, contre l'avis de nombreuses personnes, de développer son potentiel. Mais pour cela, Antoine va devoir cacher ses allées et venues à ses proches car, pour eux, l'opéra reste un endroit pour les gens aisés, loin de leur monde. Malgré ces difficultés, il donne tout pour réussir...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Comédie dramatique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CDD877EDFA2E2E319FD219FC999603D4.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230513093200 +0200" stop="20230513111600 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">L'école est à nous</title>
+<desc lang="fr">Virginie Thévenot, une nouvelle professeure de mathématiques, fait sa rentrée au collège. Elle se voit confier une classe qui aurait un niveau très bas. Lorsqu'une grève générale se produit, Virginie décide d'utiliser une nouvelle tactique et donne plus de liberté à ses élèves. Contre l'avis du principal du collège, elle propose aux adolescents de faire ce qu'ils ont toujours voulu faire, une véritable surprise pour eux. Contrairement aux attentes des collègues de Virginie, les élèves s'épanouissent et laissent place à leur imagination, en faisant ressortir tout ce qu'ils ont de positif en eux...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Comédie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3B91B0DBD9D46CE410E7E9F3E8C0915C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513111600 +0200" stop="20230513132100 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Moonfall</title>
+<desc lang="fr">Nanti d'une réputation de théoricien du complot, K.C. ne parvient pas à convaincre son entourage de sa découverte. D'après des données alarmantes qu'il a recueilli, la Lune aurait quitté son orbite et se dirige désormais droit sur la Terre. En désespoir de cause, il s'adresse à une ancienne astronaute, Jo, espérant obtenir son aide pour que la NASA prenne enfin cette alerte au sérieux. Sûre de détenir une solution pour éviter la catastrophe annoncée et imminente, cette dernière s'associe à Brian, astronaute lui aussi, pour démontrer à la communauté scientifique la nécessité d'une réaction rapide pour tenter de sauver l'humanité...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Science-fiction</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1AEEF6E6A53148B74E07E42B6D66D57F.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230513132100 +0200" stop="20230513150800 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">La machine infernale</title>
+<desc lang="fr">Depuis juin 1981 et la tuerie de Knoxville dans le Tennessee, Bruce Cogburn, auteur controversé, vit reclus dans le désert californien. Après un best-seller, il est aujourd'hui incapable de poursuivre son oeuvre. Mais il est contraint de sortir de son isolement lorsqu'un certain William DuKent, apprenti romancier, lui adresse des dizaines de courriers lui réclamant un nouveau roman. D'abord agacé, l'écrivain se demande qui est cette mystérieuse personne. Peu à peu, sa curiosité devient une obsession qui l'entraîne au bord du chaos... </desc>
+<category lang="fr">Action</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/28E3AABB29F46162075F709C30B18432.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230513150800 +0200" stop="20230513165100 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Novembre</title>
+<desc lang="fr">Plusieurs attentats frappent Paris, le 13 novembre 2015, ce qui a pour conséquence de mettre en alerte la sous-direction antiterroriste, avec à sa tête Héloïse et son bras droit Fred. Ils doivent gérer une situation complètement inédite et trouver le plus vite possible ces terroristes en fuite. Les téléphones ne cessent pas de sonner, les indices fusent mais l'équipe doit garder la tête froide et ne pas laisser les émotions prendre le dessus. Des désaccords apparaissent entre les &quot;anciens&quot; plutôt procéduriers et les plus jeunes qui marchent au feeling. Jusqu'à un coup de téléphone qui modifie le déroulement de l'enquête...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CDA742758703818771814CDC4931153D.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230513165100 +0200" stop="20230513184900 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">L'origine du mal</title>
+<desc lang="fr">En route vers le sud de la France, Stéphane est ravie de pouvoir enfin passer du temps avec son père, Serge, un homme remarié et qu'elle ne connait quasiment pas. Arrivée sur place, la jeune femme découvre une ambiance pour le moins inquiétante, entre une épouse au discours original et la fille du couple, à l'ambition démesurée. Rapidement, Stéphane sent qu'un malaise règne dans la luxueuse villa de cet homme dont la fortune semble attiser bien des convoitises. Serge ne tarde pas à lui révéler que sa famille se démène pour tenter de le faire placer en faisant croire qu'il n'a plus toute sa tête. Stéphane perd vite tous ses repères...</desc>
+<category lang="fr">Action</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E38FD3E97EF3459FB6285321AF08C6DD.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230513184900 +0200" stop="20230513205800 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Rebel</title>
+<desc lang="fr">Parti en Syrie afin d'apporter de l'aide humanitaire aux populations victimes de la guerre, Kamal, un jeune rappeur originaire du quartier de Molenbeek à Bruxelles, se retrouve contraint de rejoindre les forces de l'Etat islamique. Pour sauver sa vie, il doit filmer toutes leurs batailles. Nassim, son petit frère, voit alors Kamal en tant que héros ayant tout laissé tomber pour partir faire le djihad. Facilement influençable à cause de son jeune âge, il souhaite le rejoindre en Syrie et voit les recruteurs de l'organisation terroriste tenter de l'enrôler. Il ne reste plus que sa mère Leila pour le protéger de cet horrible destin...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BD9E54F04B18AB5D069211EBEB890476.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230513205800 +0200" stop="20230513225500 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">La conspiration du Caire</title>
+<desc lang="fr">Le jour de la rentrée à l'université al-Azhar du Caire, le Grand Imam décède. Considéré comme la plus haute autorité sunnite du pays, son remplacement est encadré par le pouvoir en place. Soucieux de placer leur candidat à ce poste crucial, les dirigeants, par l'intermédiaire de l'enquêteur Ibrahim, décident de démarcher un élève capable d'espionner ses camarades. C'est Adam, un étudiant boursier, qui est choisi par les services secrets égyptiens pour son profil. Sans attache dans la capitale, le jeune homme bénéficie d'une bonne image. Mais très vite, il se retrouve dans un tourbillon entre les élites religieuses et politiques du pays...</desc>
+<category lang="fr">Action</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FAB1AFB2E8F37C9839AF9B84E095566B.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230513225500 +0200" stop="20230514004000 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Trois mille ans à t'attendre</title>
+<desc lang="fr">Lors d'une conférence à Istanbul, le docteur Alithea Binnie découvre une bouteille qui contient un djinn qui lui propose de réaliser trois voeux. Satisfaite de sa vie, elle n'a pas d'idée particulière à ce sujet car elle sait que les histoires de génies qu'elle a lu finissent toujours mal. En tant qu'universitaire, elle se demande également si ce qui lui arrive est bien réel. Face à tant de scepticisme, le djinn décide de lui conter son passé afin de la faire changer d'avis. Après mûre réflexion, Alithea décide finalement de formuler un voeu qui s'avère aussi surprenant pour le génie que pour elle-même...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Fantastique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5DFB4BFCB85555D2EE561774EC4B807B.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230514004000 +0200" stop="20230514010100 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Regarde-Moi</title>
+<desc lang="fr">Un jeune cinéaste chinois entame un voyage introspectif en revenant dans sa ville natale. A cette occasion, une conversation longtemps différée avec sa mère les plonge tous deux dans une quête d'acceptation et d'amour.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E9DE4033C3E9EB4FD4A9391A24263C61.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230514010100 +0200" stop="20230514023600 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">L'innocent</title>
+<desc lang="fr">Après avoir rencontré Michel, un détenu, Sylvie décide de l'épouser. Apprenant la nouvelle, son fils Abel devient fou de rage, connaissant les mauvais choix précédents de sa mère. Il décide de protéger cette dernière avec l'aide de sa meilleure amie, et de suivre Michel dans tous ses déplacements. Il comprend très vite que celui-ci prépare un nouveau coup : le braquage d'un camion contenant du caviar. Et selon lui il s'agit d'une occasion en or, sans risque, puisque le chauffeur a toujours les mêmes habitudes dans le même restaurant. Mais lorsque l'occasion s'annonce trop belle, il y a toujours le risque qu'un imprévu complique l'affaire...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Comédie policière</category>
+<icon src="https://img.bouygtel.fr/CMS/images/846D2D9428A0F34B03BC9760E980B293.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230514023600 +0200" stop="20230514032300 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Le cercle</title>
+<sub-title lang="fr">Sélection pré-Cannes</sub-title>
+<desc lang="fr">Lily Bloom, &quot;une enfant du CERCLE&quot; , fidèle coéquipière de l'émission depuis sept ans, présente ce rendez-vous cinéphilique hebdomadaire. Philippe Rouyer, Marie Sauvion, Frédéric Mercier, Ava Cahen, Emily Barnett, Simon Riaux, Murielle Joudet, Claire Diao, Guillaume Orignac... l'entourent et composent avec elle une équipe éclectique de journalistes et d'écrivains fous de cinéma.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5BBF645ED025C1B20F44DE858A058432.jpg" />
+<episode-num system="xmltv_ns">0.33.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230514032300 +0200" stop="20230514044800 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Collection</title>
+<desc lang="fr">En plein deuil après le décès de son enfant, Brandon démarre un nouveau job dans une entreprise de recouvrement de dettes appartenant à son meilleur ami. Il découvre l'envers du décor peu reluisant de cette activité liée à la mafia et où tous les coups sont permis. Brandon fait rapidement ses preuves dans le métier. Malheureusement, tout se complique lorsque son entreprise cible une débitrice qui s'avère être sa petite amie. Brandon doit alors choisir entre son amour pour elle et les grosses sommes d'argent que son activité lui rapporte...</desc>
+<category lang="fr">Action</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6BBBC6EDAD4D81522688DE35C1437FF7.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230514044800 +0200" stop="20230514071200 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

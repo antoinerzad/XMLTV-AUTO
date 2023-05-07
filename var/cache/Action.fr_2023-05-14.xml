@@ -1,0 +1,140 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230513235200 +0200" stop="20230514000200 +0200" channel="Action.fr">
+<title lang="fr">Ciné ou canap ?</title>
+<desc lang="fr">Découvrez la nouvelle émission hebdomadaire consacrée à toute l'actualité du cinéma et des séries ! Marie Palot vous propose un tour d'horizon des dernières sorties en salles et VOD à travers des rendez-vous et des interviews exclusifs.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_33953949.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230514000200 +0200" stop="20230514013000 +0200" channel="Action.fr">
+<title lang="fr">Les raisins de la mort</title>
+<desc lang="fr">Un pesticide répandu sur les vignes des exploitations agricoles du Sud de la France transforme les dégustateurs de vin et les exploitants en morts vivants.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Horreur</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12614115.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230514013000 +0200" stop="20230514025100 +0200" channel="Action.fr">
+<title lang="fr">La revanche des mortes vivantes</title>
+<desc lang="fr">Trois femmes sont assassinées par de mystérieux agresseurs. Mises en contact avec des déchets chimiques, elles se transforment en mortes vivantes vengeresses.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Horreur</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_17189883.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230514025100 +0200" stop="20230514041600 +0200" channel="Action.fr">
+<title lang="fr">La nuit des traquées</title>
+<desc lang="fr">Un homme tente de retrouver sa maîtresse d'une nuit, retenue prisonnière par un médecin fou qui veut pratiquer sur elle d'étranges expériences.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Horreur</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_24368.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230514041600 +0200" stop="20230514054800 +0200" channel="Action.fr">
+<title lang="fr">Crimes en série</title>
+<sub-title lang="fr">La pécheresse</sub-title>
+<desc lang="fr">De &quot;vieux beaux&quot;, quelque peu portés sur la bagatelle, tombent dans les griffes d'une étrange tueuse qui les guérit, à sa façon plutôt radicale, de leur vice.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_19902753.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230514054800 +0200" stop="20230514064000 +0200" channel="Action.fr">
+<title lang="fr">L'épervier</title>
+<sub-title lang="fr">L'épervier</sub-title>
+<desc lang="fr">Après avoir passé dix ans en mer, un corsaire revient chez lui, en Bretagne. Alors que sa promise en a épousé un autre, il tombe dans un piège.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_23136372.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230514064000 +0200" stop="20230514074900 +0200" channel="Action.fr">
+<title lang="fr">Interruptions des programmes</title>
+<desc lang="fr">Autre.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_6428263.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230514074900 +0200" stop="20230514093700 +0200" channel="Action.fr">
+<title lang="fr">Snowboarder</title>
+<desc lang="fr">Un jeune passionné rêve de remporter les plus grands titres des compétitions de snowboard, mais il prend bien vite conscience du revers de la médaille.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8070394.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230514093700 +0200" stop="20230514114500 +0200" channel="Action.fr">
+<title lang="fr">Savages</title>
+<desc lang="fr">Un trio californien composé de dealers artisanaux affronte un cartel de la drogue mexicain dont il a refusé les nombreuses offres de collaboration.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_5324644.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230514114500 +0200" stop="20230514115500 +0200" channel="Action.fr">
+<title lang="fr">Ciné ou canap ?</title>
+<desc lang="fr">Découvrez la nouvelle émission hebdomadaire consacrée à toute l'actualité du cinéma et des séries ! Marie Palot vous propose un tour d'horizon des dernières sorties en salles et VOD à travers des rendez-vous et des interviews exclusifs.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_33953949.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230514115500 +0200" stop="20230514131900 +0200" channel="Action.fr">
+<title lang="fr">Banlieue 13</title>
+<desc lang="fr">Dans un futur proche, la banlieue 13, entourée d'un mur, est devenue une zone de non-droit. Un policier est chargé de désamorcer une bombe s'y trouvant.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12689414.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230514131900 +0200" stop="20230514145700 +0200" channel="Action.fr">
+<title lang="fr">Upgrade</title>
+<desc lang="fr">Dans le futur, un homme, gravement blessé par des hommes qui ont tué sa femme, est soigné par un procédé révolutionnaire. Il veut se venger des agresseurs.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_22870667.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230514145700 +0200" stop="20230514163700 +0200" channel="Action.fr">
+<title lang="fr">Les Chevaliers du Ciel</title>
+<desc lang="fr">A la suite de la disparition d'un avion de chasse, deux capitaines de l'armée de l'air française se retrouvent mêlés à une gigantesque machination.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8031812.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230514163700 +0200" stop="20230514184200 +0200" channel="Action.fr">
+<title lang="fr">Tireur d'élite</title>
+<desc lang="fr">Au début de la Première Guerre mondiale, un adolescent idéaliste s'engage dans un bataillon letton de l'armée impériale russe. Ce ne sont que violence et douleurs qui l'attendent.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_37911484.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230514184200 +0200" stop="20230514205000 +0200" channel="Action.fr">
+<title lang="fr">PACIFIC RIM</title>
+<desc lang="fr">Les Kaijus, des monstres, ont provoqué des millions de morts. Deux pilotes sont réunis pour sauver le monde avec un Jaeger, un robot gigantesque.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Sc.Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_9810732.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230514205000 +0200" stop="20230514223600 +0200" channel="Action.fr">
+<title lang="fr">Pitch Black</title>
+<desc lang="fr">Un vaisseau spatial s'écrase sur une planète inconnue qui, au cours d'une très longue éclipse, devient le terrain de chasse de monstres sanguinaires.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Sc.Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_9843808.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230514223600 +0200" stop="20230515003300 +0200" channel="Action.fr">
+<title lang="fr">Les chroniques de Riddick</title>
+<desc lang="fr">Un dangereux criminel est appelé à l'aide pour venir à bout d'un peuple qui a décidé d'asservir méthodiquement l'univers. Il accepte de mauvaise grâce.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Sc.Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_9835469.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>

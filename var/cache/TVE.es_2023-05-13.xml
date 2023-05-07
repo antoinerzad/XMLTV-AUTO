@@ -1,0 +1,245 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230513060000 +0200" stop="20230513070000 +0200" channel="TVE.es">
+<title lang="fr">Noticias 24H</title>
+<desc lang="fr">Información continua 24 horas, nacional e internacional, 365 días al año.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A66F28ADB1B9F12CE0DA953072E1FD27.jpg" />
+<episode-num system="xmltv_ns">0.131.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513070000 +0200" stop="20230513073000 +0200" channel="TVE.es">
+<title lang="fr">Para todos La 2</title>
+<desc lang="fr">Magazine semanal que a traves de reportajes, entrevistas y secciones fijas analiza los aspectos más sociales que pasan a nuestro alrededor.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/582648E762584073A57FF122C2C7702A.jpg" />
+<episode-num system="xmltv_ns">0.108.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513073000 +0200" stop="20230513074500 +0200" channel="TVE.es">
+<title lang="fr">Emprende</title>
+<desc lang="fr">Programa dedicado al emprendimiento en españa.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8D73FA7E07F0DECED058BEAF9BE0A143.jpg" />
+<episode-num system="xmltv_ns">0.219.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513074500 +0200" stop="20230513081500 +0200" channel="TVE.es">
+<title lang="fr">En lengua de signos</title>
+<desc lang="fr">Es un programa semanal de media hora de duración. Acerca la actualidad del mundo a las personas sordas.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5A860B876A081AFA7C9C4673FF4833D5.jpg" />
+<episode-num system="xmltv_ns">0.697.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513081500 +0200" stop="20230513084500 +0200" channel="TVE.es">
+<title lang="fr">Parlamento</title>
+<desc lang="fr">Programa de actualidad parlamentaria con secciones fijas y debate político.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/18C8F272711CC416712224349D0561ED.jpg" />
+<episode-num system="xmltv_ns">0.558.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513084500 +0200" stop="20230513090500 +0200" channel="TVE.es">
+<title lang="fr">Bloque infantil</title>
+<sub-title lang="fr">Tutu</sub-title>
+<desc lang="fr">Incluye: - CLEO - TUTÚ.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3C31DB5BB7607EA0CDAB5770EB4E2D01.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513090500 +0200" stop="20230513093500 +0200" channel="TVE.es">
+<title lang="fr">El camino del Cid: Diario de una ciclista</title>
+<sub-title lang="fr">Anillo del Maestrazgo y Morella: De Teruel a Morel</sub-title>
+<desc lang="fr">Teruel, ciudad mudéjar por excelencia, es el fruto de la fusión de elementos árabes y cristianos que dan su origen a un estilo propio. Esta arquitectura será la encargada de acoger el inicio de este capítulo y donde Ainara recorrerá sus calles y visitará los diferentes lugares más emblemáticos.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1F42261FC4DA631F461EC3CEB6456BC2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513093500 +0200" stop="20230513100500 +0200" channel="TVE.es">
+<title lang="fr">Página 2</title>
+<sub-title lang="fr">Hernán Díaz</sub-title>
+<desc lang="fr">Página Dos entrevista a Hernán Díaz por Fortuna, una novela que gira en torno a un matrimonio millonario en la Nueva York de los años treinta. El programa repasa diversas biografías entre las novedades editoriales. También se interesa por el buen dormir de la mano de los doctores Javier Albares y M.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/787522FBA016BBCD5AD952F90A834944.jpg" />
+<episode-num system="xmltv_ns">0.226.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513100500 +0200" stop="20230513105500 +0200" channel="TVE.es">
+<title lang="fr">Comando Actualidad</title>
+<sub-title lang="fr">Se alquila</sub-title>
+<desc lang="fr">Por necesidad o por convicción ya no compramos ni acumulamos tanto. Según los expertos, consumimos más, pero poseemos menos.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/79F1CC4C2A29E8F72B38711CF7A0F714.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513105500 +0200" stop="20230513133000 +0200" channel="TVE.es">
+<title lang="fr">MasterChef Spain</title>
+<desc lang="fr">El jurado de 'MasterChefand#39; celebrará un 'prom partyand#39; o baile de fin de curso de promoción, una de las fiestas más populares en EEUU, a la que acudirán María Zurita y Xavier Deltell, aspirantes de 'MasterChef Celebrity 7and#39;.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8D4C624AD84208A0393CA00F5F0099E9.jpg" />
+<episode-num system="xmltv_ns">0.38.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513133000 +0200" stop="20230513140000 +0200" channel="TVE.es">
+<title lang="fr">Audiencia abierta</title>
+<desc lang="fr">Es un programa de periodicidad semanal que tiene, como prioridad, el informar sobre las actividades de la Jefatura del Estado de manera contextual.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9F12308DD4B9B0B2EBB5786A66DE8F5B.jpg" />
+<episode-num system="xmltv_ns">0.493.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513140000 +0200" stop="20230513143000 +0200" channel="TVE.es">
+<title lang="fr">Viaje al centro de la tele</title>
+<sub-title lang="fr">Locos por Eurovisión, grandes éxitos</sub-title>
+<desc lang="fr">Un divertido viaje por el camino de los intérpretes hasta llegar a Eurovisión. Programas concurso para conseguir la ansiada plaza, preparativos, promoción y la hora de la verdad.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C5EFFAC980630074CADB669B386AF481.jpg" />
+<episode-num system="xmltv_ns">0.101.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513143000 +0200" stop="20230513150000 +0200" channel="TVE.es">
+<title lang="fr">Corazón</title>
+<desc lang="fr">Magazine en directo, en donde en 30 minutos hacemos un repaso a toda la actualidad social de nuestro país.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E28ADB501ED1CD113746D0C9C2C26E73.jpg" />
+<episode-num system="xmltv_ns">0.888.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513150000 +0200" stop="20230513160000 +0200" channel="TVE.es">
+<title lang="fr">Telediario 1</title>
+<desc lang="fr">Espacio diario de información nacional e internacional en directo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B7E2A31E9200BB46E201CE7B7D711D7E.jpg" />
+<episode-num system="xmltv_ns">0.132.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513160000 +0200" stop="20230513164500 +0200" channel="TVE.es">
+<title lang="fr">Saber y ganar</title>
+<desc lang="fr">Programa concurso.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E98B391CBB56A85AE8024F8F2CCC3B3A.jpg" />
+<episode-num system="xmltv_ns">0.238.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513164500 +0200" stop="20230513174000 +0200" channel="TVE.es">
+<title lang="fr">Españoles en el mundo</title>
+<sub-title lang="fr">Núremberg</sub-title>
+<desc lang="fr">Visitamos el Gran Buenos Aires, la megaciudad, capital de Argentina. De la mano de Anabel, Chavi, Pepa, Boro, y Manuel recorremos sus grandes avenidas,sus famosos cafés,librerías y teatros;San Telmo,La Boca,Palermo.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2B0058A517AEC5C4753D3CCD3B9E929C.jpg" />
+<episode-num system="xmltv_ns">0.66.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513174000 +0200" stop="20230513182500 +0200" channel="TVE.es">
+<title lang="fr">Españoles en el mundo</title>
+<sub-title lang="fr">Belice y Guatemala</sub-title>
+<desc lang="fr">En Belice nuestros anfitriones Alisa, Rodolfo,Carmen y Azahara nos llevan a recorrer el sitio arqueológico de Lubantum,las ciudades de San Ignacio, Placencia,Belmopán y la costa del Caribe con la inmensidad del Gran Agujero Azul.En Guatemala, con Ermitas nos sorprendemos con el volcán Pacaya.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2B0058A517AEC5C4753D3CCD3B9E929C.jpg" />
+<episode-num system="xmltv_ns">0.68.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513182500 +0200" stop="20230513185000 +0200" channel="TVE.es">
+<title lang="fr">Zoom tendencias</title>
+<desc lang="fr">ZOOM TENDENCIAS viaja cada semana por diferentes rincones de España, mostrándonos innovadoras propuestas gastronómicas y hoteleras. Descubriendo las últimas tendencias en bienestar y ocio; y recorriendo nuestro rico patrimonio histórico, cultural y artístico.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513185000 +0200" stop="20230513203000 +0200" channel="TVE.es">
+<title lang="fr">Es peligroso casarse a los 60</title>
+<desc lang="fr">Don mariano rubiales, dueño de una empresa de transportes, se casa a los sesenta años con gloria, en espera de que ésta le de un heredero que se haga cargo de su negocio. el heredero no llega pero a mariano le aparece una hija, juanita, de dieciocho años fruto de un desliz de juventud.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Action</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513203000 +0200" stop="20230513205500 +0200" channel="TVE.es">
+<title lang="fr">Telediario 2</title>
+<desc lang="fr">Programa diario de noticias nacionales e internacionales en directo.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D216C8700ECAA452915A0820D31CF316.jpg" />
+<episode-num system="xmltv_ns">0.132.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230513205500 +0200" stop="20230514010000 +0200" channel="TVE.es">
+<title lang="fr">Eurovision Song Contest</title>
+<sub-title lang="fr">Final</sub-title>
+<desc lang="fr">Festival de la canción de Eurovision que este año se celebrará el 16/5/2015 y que se retransmitira en directo desde austria. La semifinal se celebrara el día 14/5.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Variétés</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230514010000 +0200" stop="20230514013000 +0200" channel="TVE.es">
+<title lang="fr">Post Festival Eurovisión 2023 Reino Unido</title>
+<desc lang="fr">Post del Festival de la canción de Eurovisión desde Reino Unido.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Variétés</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230514013000 +0200" stop="20230514020000 +0200" channel="TVE.es">
+<title lang="fr">Viaje al centro de la tele</title>
+<sub-title lang="fr">Más locos por Eurovisión, grandes éxitos</sub-title>
+<desc lang="fr">Repaso a la trayectoria de algunos de los participantes españoles más emblemáticos en el Festival de Eurovisión, centrándonos en su paso por el Festival y las carreras que desarrollaron más allá del mismo. Massiel, Sergio Dalma, Salomé, Raphael, Julio Iglesias.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8C903D335F22B6CBFBECB98B2492FBA7.jpg" />
+<episode-num system="xmltv_ns">0.140.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230514020000 +0200" stop="20230514023000 +0200" channel="TVE.es">
+<title lang="fr">¡Atención Obras!</title>
+<sub-title lang="fr">Omar Ayuso</sub-title>
+<desc lang="fr">Magazine cultural sobre las más diversas manifestaciones artísticas conducido por Cayetana Guillén Cuervo.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Talk show</category>
+<icon src="https://img.bouygtel.fr/CMS/images/07A1D78FE3E903CA3B1BA19DEB50BF40.jpg" />
+<episode-num system="xmltv_ns">0.227.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230514023000 +0200" stop="20230514030000 +0200" channel="TVE.es">
+<title lang="fr">Repor</title>
+<sub-title lang="fr">La Frontera Infinita</sub-title>
+<desc lang="fr">Es un programa de reportajes de TVE que aborda contenidos sociales, de denuncia y situaciones de la vida cotidiana.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E1D76B4583DA1D2C0784A4E0AED9FD51.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230514030000 +0200" stop="20230514034500 +0200" channel="TVE.es">
+<title lang="fr">Tendido cero</title>
+<desc lang="fr">Actualidad taurina y todos los aspectos relacionados con el mundo del toro.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3E2386594FE95890CC1526DFC6B1FB17.jpg" />
+<episode-num system="xmltv_ns">0.253.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230514034500 +0200" stop="20230514060000 +0200" channel="TVE.es">
+<title lang="fr">Noticias 24H</title>
+<desc lang="fr">Información continua 24 horas, nacional e internacional, 365 días al año.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A66F28ADB1B9F12CE0DA953072E1FD27.jpg" />
+<episode-num system="xmltv_ns">0.132.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
