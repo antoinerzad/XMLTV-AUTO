@@ -1,0 +1,245 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230514235700 +0200" stop="20230515010600 +0200" channel="CanalPlus.fr">
+<title lang="fr">Saturday Night Live</title>
+<desc lang="fr">Cette émission phare du paysage audiovisuel américain enchaîne sketches parodiques et prestations musicales en live. L'émission a lancé la carrière de bon nombres d'acteurs et d'auteurs, et a vu passer les plus célèbres vedettes hollywoodiennes et personnalités américaines.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_24630120.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515010600 +0200" stop="20230515031900 +0200" channel="CanalPlus.fr">
+<title lang="fr">The Northman</title>
+<desc lang="fr">Un jeune prince voit son père assassiné devant ses yeux par son oncle, qui récupère ainsi le trône vacant. Il s'enfuit et jure de revenir se venger.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_35369989.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230515031900 +0200" stop="20230515032700 +0200" channel="CanalPlus.fr">
+<title lang="fr">Surprises</title>
+<desc lang="fr">Une curiosité visuelle à découvrir de toute urgence venue des fins fonds des archives de Canal+.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_27135838.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515032700 +0200" stop="20230515052900 +0200" channel="CanalPlus.fr">
+<title lang="fr">Golf : Open de McKinney</title>
+<desc lang="fr">Sur les talons de Kyoung-Hoon Lee au dernier jour de l'Open de McKinney, Jordan Spieth n'a pas réussi à déstabiliser le Sud-Coréen qui, auteur d'un parcours dominical sans faute, s'est imposé pour la deuxième dans la compétition. Mais Spieth est prêt à prendre sa revanche cette année et à...</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_15770870.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515052900 +0200" stop="20230515060300 +0200" channel="CanalPlus.fr">
+<title lang="fr">Voile : SailGP</title>
+<desc lang="fr">La SailGP revient à San Francisco pour la Grande Finale de la Saison 3 de la SailGP Mubadala, un circuit de courses en équipages qui rassemble les plus grands skippers au monde. Au menu, des courses trépidantes et des rivalités intenses.</desc>
+<category lang="fr">Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14792907.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515060300 +0200" stop="20230515061100 +0200" channel="CanalPlus.fr">
+<title lang="fr">Hobbies</title>
+<desc lang="fr">Ambre, Charlotte ou Océane et n'ont qu'une passion : le stock-car. Au volant de leurs bolides, elles se lancent sur le circuit dont elles font leur terrain de jeu.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_27484998.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515061100 +0200" stop="20230515062700 +0200" channel="CanalPlus.fr">
+<title lang="fr">Hobbies</title>
+<desc lang="fr">Yanis, 16 ans, et sa bande de copains partagent la même passion pour le vélo : à 30 ou à 200, elles et ils roulent ensemble d'un bout à l'autre de Paris.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_27485121.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515062700 +0200" stop="20230515065800 +0200" channel="CanalPlus.fr">
+<title lang="fr">En aparté</title>
+<desc lang="fr">Une personnalité est invitée par Nathalie Levy à évoquer son actualité et à parler de sa vie et de sa carrière. L'entretien se déroule dans un appartement où l'invité est seul et répond aux questions de son hôte dont on n'entend que la voix.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_24558901.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515065800 +0200" stop="20230515075200 +0200" channel="CanalPlus.fr">
+<title lang="fr">Marie-Antoinette</title>
+<sub-title lang="fr">Reine de France</sub-title>
+<desc lang="fr">Marie-Antoinette et Louis s'apprêtent à faire leur première visite officielle à Paris. Lorsque le Roi tombe malade, la succession devient une réalité concrète.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_34173437.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230515075200 +0200" stop="20230515075700 +0200" channel="CanalPlus.fr">
+<title lang="fr">La boîte à questions</title>
+<desc lang="fr">Sacrifiant au rituel d'une émission au format maintenant bien connu, une célébrité répond aux questions qui lui sont posées en off. C'est une interview aussi décalée que décontractée qui en découle. Les invités se révèlent souvent sous un autre angle, avec spontanéité.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10411512.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515075700 +0200" stop="20230515080200 +0200" channel="CanalPlus.fr">
+<title lang="fr">Les cahiers d'Esther</title>
+<sub-title lang="fr">Les Dieux</sub-title>
+<desc lang="fr">Esther kiffe le polythéisme grec et imagine des déesses trop fraîches pour aujourd'hui...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_18572064.jpg" />
+<episode-num system="xmltv_ns">2.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515080200 +0200" stop="20230515100300 +0200" channel="CanalPlus.fr">
+<title lang="fr">En attendant Bojangles</title>
+<desc lang="fr">A Seattle, un psychiatre célibataire conseille ses auditeurs à la radio, refait le monde avec son frère, et se dispute avec son père handicapé, qu'il héberge.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_35130691.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230515100300 +0200" stop="20230515120900 +0200" channel="CanalPlus.fr">
+<title lang="fr">Nope</title>
+<desc lang="fr">En Californie, le décès dans des circonstances étranges de leur père amène un frère et une soeur à enquêter sur les causes. Le résultat est effrayant.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Sc.Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_37017399.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230515120900 +0200" stop="20230515121100 +0200" channel="CanalPlus.fr">
+<title lang="fr">Déjà vu</title>
+<desc lang="fr">Vidéo originale révélant les origines et les influences et références cinématographiques qui ont pu inspirer le réalisateur d'un film proposé par CANAL+.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23784204.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230515121100 +0200" stop="20230515122100 +0200" channel="CanalPlus.fr">
+<title lang="fr">La boîte à questions</title>
+<desc lang="fr">Sacrifiant au rituel d'une émission au format maintenant bien connu, une célébrité répond aux questions qui lui sont posées en off. C'est une interview aussi décalée que décontractée qui en découle. Les invités se révèlent souvent sous un autre angle, avec spontanéité.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10411512.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515122100 +0200" stop="20230515125500 +0200" channel="CanalPlus.fr">
+<title lang="fr">En aparté</title>
+<desc lang="fr">Une personnalité est invitée par Nathalie Levy à évoquer son actualité et à parler de sa vie et de sa carrière. L'entretien se déroule dans un appartement où l'invité est seul et répond aux questions de son hôte dont on n'entend que la voix.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_24558901.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515125500 +0200" stop="20230515133300 +0200" channel="CanalPlus.fr">
+<title lang="fr">Clique</title>
+<desc lang="fr">Mouloud Achour et sa clique, sincère et bienveillante, partagent leurs recommandations et prescriptions pour raconter le monde actuel à travers le décryptage des dernières tendances culturelles et des nouveaux modes de vie nés, transformés, amplifiés sur les plateformes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34170182.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515133300 +0200" stop="20230515155500 +0200" channel="CanalPlus.fr">
+<title lang="fr">Jurassic World : le monde d'après</title>
+<desc lang="fr">Après la catastrophe survenue à Isla Nublar quatre ans plus tôt, les dinosaures prolifèrent dangereusement, menaçant d'extinction l'humanité entière.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Sc.Fiction</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_34959615.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230515155500 +0200" stop="20230515160900 +0200" channel="CanalPlus.fr">
+<title lang="fr">L'hebd'Hollywood</title>
+<desc lang="fr">La revue de l'actualité du cinéma US. Sortie salles, festivals, films en préparation ou en tournage : Didier Allouch est notre sentinelle à Hollywood ! Des news ponctuées de rencontres avec les grandes figures du cinéma américain, de belles exclus, ainsi que des sujets surprenants sur les...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14395473.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515160900 +0200" stop="20230515174400 +0200" channel="CanalPlus.fr">
+<title lang="fr">L'innocent</title>
+<desc lang="fr">Une sexagénaire rencontre un détenu en prison et décide de l'épouser malgré les réticences de son fils. Une fois libre, l'ex-prisonnier monte un nouveau coup.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_38166164.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230515174400 +0200" stop="20230515182600 +0200" channel="CanalPlus.fr">
+<title lang="fr">The Tonight Show Starring Jimmy Fallon</title>
+<desc lang="fr">Présenté par le talentueux Jimmy Fallon, The Tonight Show, diffusé d'abord aux Etats-Unis, propose un moment unique : interviews décalées, gags délirants, parodies hilarantes, sketchs mythiques, défis rocambolesques. Une pléiade de stars est invitée chaque soir pour contribuer à ce grand moment...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9962622.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515182600 +0200" stop="20230515183400 +0200" channel="CanalPlus.fr">
+<title lang="fr">La boîte à questions</title>
+<desc lang="fr">Sacrifiant au rituel d'une émission au format maintenant bien connu, une célébrité répond aux questions qui lui sont posées en off. C'est une interview aussi décalée que décontractée qui en découle. Les invités se révèlent souvent sous un autre angle, avec spontanéité.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10411512.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515183400 +0200" stop="20230515191700 +0200" channel="CanalPlus.fr">
+<title lang="fr">Clique</title>
+<desc lang="fr">Mouloud Achour et sa clique, sincère et bienveillante, partagent leurs recommandations et prescriptions pour raconter le monde actuel à travers le décryptage des dernières tendances culturelles et des nouveaux modes de vie nés, transformés, amplifiés sur les plateformes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34170182.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515191700 +0200" stop="20230515195800 +0200" channel="CanalPlus.fr">
+<title lang="fr">Clique</title>
+<desc lang="fr">Mouloud Achour et sa clique, sincère et bienveillante, partagent leurs recommandations et prescriptions pour raconter le monde actuel à travers le décryptage des dernières tendances culturelles et des nouveaux modes de vie nés, transformés, amplifiés sur les plateformes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34170182.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515195800 +0200" stop="20230515203400 +0200" channel="CanalPlus.fr">
+<title lang="fr">En aparté</title>
+<desc lang="fr">Une personnalité est invitée par Nathalie Levy à évoquer son actualité et à parler de sa vie et de sa carrière. L'entretien se déroule dans un appartement où l'invité est seul et répond aux questions de son hôte dont on n'entend que la voix.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_24558901.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515203400 +0200" stop="20230515210900 +0200" channel="CanalPlus.fr">
+<title lang="fr">En aparté</title>
+<desc lang="fr">Une personnalité est invitée par Nathalie Levy à évoquer son actualité et à parler de sa vie et de sa carrière. L'entretien se déroule dans un appartement où l'invité est seul et répond aux questions de son hôte dont on n'entend que la voix.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_24558901.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515210900 +0200" stop="20230515215500 +0200" channel="CanalPlus.fr">
+<title lang="fr">B.R.I</title>
+<sub-title lang="fr">B.R.I</sub-title>
+<desc lang="fr">Nina accuse Hamza El Hassani d'un crime. Saïd, convaincu de son innocence, le prévient. En échange, Rachid révèle l'identité de son fournisseur de cocaïne.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_37971230.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230515215500 +0200" stop="20230515224900 +0200" channel="CanalPlus.fr">
+<title lang="fr">B.R.I</title>
+<sub-title lang="fr">B.R.I</sub-title>
+<desc lang="fr">Lors de l'opération spéciale au Maroc avec Patrick, Badri est pris dans un conflit de loyauté. Manipulé par Nina, Noam se retrouve en mauvaise posture.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_37971985.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230515224900 +0200" stop="20230515225900 +0200" channel="CanalPlus.fr">
+<title lang="fr">Les coulisses d'une création originale</title>
+<desc lang="fr">La série documentaire &quot;Les coulisses d'une création originale&quot; permet d'entrer dans les coulisses et de voir comment les équipes de tournage parviennent à créer des merveilles qui ravissent et divertissent. Les interviews des acteurs et de l'équipe technique donnent un aperçu de l'importance du...</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_38133801.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230515225900 +0200" stop="20230515233700 +0200" channel="CanalPlus.fr">
+<title lang="fr">Hot Ones</title>
+<desc lang="fr">Kyan Khojandi dirige une interview d'un genre particulier, inspirée d'un concept venu des Etats-Unis. L'invité de l'émission répond à dix questions et doit, pour chacune, goûter une sauce pimentée de plus en plus intense. Plus l'intensité des sauces augmente, plus l'interview prend une tournure...</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_37471172.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515233700 +0200" stop="20230516010200 +0200" channel="CanalPlus.fr">
+<title lang="fr">Collection</title>
+<desc lang="fr">Un homme en deuil devenu chasseur de dettes excelle dans sa nouvelle profession. Tout bascule lorsqu'il se retrouve confronté à un terrible dilemme.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_38051915.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>

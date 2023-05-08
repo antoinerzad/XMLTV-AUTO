@@ -1,0 +1,365 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230515000000 +0200" stop="20230515010400 +0200" channel="France2.fr">
+<title lang="fr">Histoires courtes</title>
+<desc lang="fr">Une sélection de courts métrages français et internationaux liés par un thème.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_11176888.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515010400 +0200" stop="20230515010500 +0200" channel="France2.fr">
+<title lang="fr">Météo 2</title>
+<desc lang="fr">Le point, plusieurs fois par jour, sur l'évolution de la météo, grâce à des cartes et des explications.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15824412.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515010500 +0200" stop="20230515015000 +0200" channel="France2.fr">
+<title lang="fr">Emerald City</title>
+<sub-title lang="fr">Des lions en hiver</sub-title>
+<desc lang="fr">Bien que libéré du sort de Glinda qui occultait sa mémoire, Lucas se retrouve malgré lui sous l'emprise d'un autre sort jeté par Dorothy: il l'aime.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_19169250.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230515015000 +0200" stop="20230515023000 +0200" channel="France2.fr">
+<title lang="fr">Emerald City</title>
+<sub-title lang="fr">Les masques tombent</sub-title>
+<desc lang="fr">Lucas tente de tuer Dorothy sur ordre de Glinda. Mais son amour pour elle le retient et Dorothy réussit à le maîtriser et le remet en croix.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_19168447.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230515023000 +0200" stop="20230515031000 +0200" channel="France2.fr">
+<title lang="fr">Emerald City</title>
+<sub-title lang="fr">Retour à la maison</sub-title>
+<desc lang="fr">L'armée de sorcières, menée par la Maîtresse de l'Ouest et Tip, s'empare de la Cité d'Emeraude. Eamonn est banni et condamné à errer sous l'apparence d'un Lion.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_19168540.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230515031000 +0200" stop="20230515034000 +0200" channel="France2.fr">
+<title lang="fr">13h15, le samedi...</title>
+<desc lang="fr">Sur un ton dynamique et décalé, un regard sur l'actualité, l'air du temps et la politique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13312308.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515034000 +0200" stop="20230515043000 +0200" channel="France2.fr">
+<title lang="fr">Au bout de l'enquête, la fin du crime parfait ?</title>
+<desc lang="fr">Marie Drucker, avec le criminologue Alain Bauer, revient sur quelques affaires classées, réputées insolubles, qui ont parfois résisté près de 50 ans à la ténacité des enquêteurs.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23112420.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515043000 +0200" stop="20230515043500 +0200" channel="France2.fr">
+<title lang="fr">Pays et marchés du monde</title>
+<desc lang="fr">A la découverte d'un pays, d'une ville, d'un peuple et, bien sûr, d'un marché traditionnel et d'une spécialité locale.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14184749.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515043500 +0200" stop="20230515044000 +0200" channel="France2.fr">
+<title lang="fr">Pays et marchés du monde</title>
+<desc lang="fr">A la découverte d'un pays, d'une ville, d'un peuple et, bien sûr, d'un marché traditionnel et d'une spécialité locale.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_11295031.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515044000 +0200" stop="20230515053000 +0200" channel="France2.fr">
+<title lang="fr">Tout le monde veut prendre sa place</title>
+<desc lang="fr">Un quiz, six candidats et, bien calé dans son fauteuil, un champion que tous rêvent de déloger. : chaque jour, un seul pourra se mesurer à lui et espérer devenir le nouveau champion en titre.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22993380.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515053000 +0200" stop="20230515060000 +0200" channel="France2.fr">
+<title lang="fr">Un si grand soleil</title>
+<desc lang="fr">Un ennemi d'Alix et Hélène refait surface. A la suite de sa volte-face, Evan va devoir convaincre Elisabeth de ne pas se retirer de son projet de clinique.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_37486421.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515060000 +0200" stop="20230515063000 +0200" channel="France2.fr">
+<title lang="fr">Le 6h info</title>
+<desc lang="fr">Un rendez-vous réveil-matin, avec un point sur l'actualité assorti de différentes rubriques qui permettent d'en explorer certains aspects plus en profondeur.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_14834878.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515063000 +0200" stop="20230515080000 +0200" channel="France2.fr">
+<title lang="fr">Télématin</title>
+<desc lang="fr">Du lundi au jeudi, rendez-vous, dès 6h30 avec Thomas Sotto et Julia Vignali. Et du vendredi au dimanche, c'est au tour de Damien Thévenot et Maya Lauqué de dynamiser le réveil.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23393901.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515080000 +0200" stop="20230515081500 +0200" channel="France2.fr">
+<title lang="fr">Journal 08h00</title>
+<desc lang="fr">Pour bien démarrer la journée, la rédaction de France 2 propose un point sur l'actualité. Les principales informations nationales et internationales sont passées en revue.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_31378912.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515081500 +0200" stop="20230515093000 +0200" channel="France2.fr">
+<title lang="fr">Télématin</title>
+<desc lang="fr">Du lundi au jeudi, rendez-vous, dès 6h30 avec Thomas Sotto et Julia Vignali. Et du vendredi au dimanche, c'est au tour de Damien Thévenot et Maya Lauqué de dynamiser le réveil.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23393901.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515093000 +0200" stop="20230515100000 +0200" channel="France2.fr">
+<title lang="fr">La maison des Maternelles</title>
+<desc lang="fr">Entourée de chroniqueurs, Agathe Lecaron répond aux nombreuses interrogations des parents. L'émission s'enrichit de rubriques, de reportages et de tutos pour permettre d'en savoir plus sur le monde de l'enfance.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23639778.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515100000 +0200" stop="20230515103500 +0200" channel="France2.fr">
+<title lang="fr">La maison des Maternelles</title>
+<desc lang="fr">Entourée de chroniqueurs, Agathe Lecaron répond aux nombreuses interrogations des parents. L'émission s'enrichit de rubriques, de reportages et de tutos pour permettre d'en savoir plus sur le monde de l'enfance.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23639778.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515103500 +0200" stop="20230515104000 +0200" channel="France2.fr">
+<title lang="fr">Consomag</title>
+<desc lang="fr">Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9289511.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515104000 +0200" stop="20230515105000 +0200" channel="France2.fr">
+<title lang="fr">Météo Outre-mer</title>
+<desc lang="fr">Le point sur l'évolution de la météo dans les Outre-mers, grâce à des cartes et des explications.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13130577.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515105000 +0200" stop="20230515112000 +0200" channel="France2.fr">
+<title lang="fr">Tout le monde a son mot à dire</title>
+<desc lang="fr">Une gymnastique quotidienne de l'esprit pour s'amuser avec la langue française et enrichir sa culture générale.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13422002.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515112000 +0200" stop="20230515115500 +0200" channel="France2.fr">
+<title lang="fr">Chacun son Tour</title>
+<desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir d'être qualifié pour la deuxième épreuve?: le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale...</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22987329.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515115500 +0200" stop="20230515125500 +0200" channel="France2.fr">
+<title lang="fr">Tout le monde veut prendre sa place</title>
+<desc lang="fr">Un quiz, six candidats et, bien calé dans son fauteuil, un champion que tous rêvent de déloger. : chaque jour, un seul pourra se mesurer à lui et espérer devenir le nouveau champion en titre.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22993380.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515125500 +0200" stop="20230515130000 +0200" channel="France2.fr">
+<title lang="fr">Météo 2</title>
+<desc lang="fr">Le point, plusieurs fois par jour, sur l'évolution de la météo, grâce à des cartes et des explications.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15824412.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515130000 +0200" stop="20230515134400 +0200" channel="France2.fr">
+<title lang="fr">Journal 13h00</title>
+<desc lang="fr">Tous les jours, à 13h, la rédaction de France 2 propose un point sur l'actualité. Les informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_19299955.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515134400 +0200" stop="20230515134500 +0200" channel="France2.fr">
+<title lang="fr">Météo 2</title>
+<desc lang="fr">Le point, plusieurs fois par jour, sur l'évolution de la météo, grâce à des cartes et des explications.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15824412.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515134500 +0200" stop="20230515135000 +0200" channel="France2.fr">
+<title lang="fr">C'est bon à savoir</title>
+<desc lang="fr">&quot;C'est bon à savoir&quot; décrypte les bénéfices pour la santé de la consommation des fruits et légumes et analyse leur mode de culture, sans oublier de parler d'environnement. Avec la complicité d'experts, ce programme revient quelques idées reçues.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25827458.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515135000 +0200" stop="20230515135500 +0200" channel="France2.fr">
+<title lang="fr">La p'tite librairie</title>
+<desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_12608951.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515135500 +0200" stop="20230515150500 +0200" channel="France2.fr">
+<title lang="fr">Ça commence aujourd'hui</title>
+<desc lang="fr">Tous les jours, Faustine Bollaert accueille sur le plateau de &quot;Ça commence aujourd'hui&quot; des hommes et des femmes qui évoquent des événements marquants de leur existence, pour permettre à d'autres d'avancer dans leur parcours: un rendez-vous positif et optimiste.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13381067.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515150500 +0200" stop="20230515161500 +0200" channel="France2.fr">
+<title lang="fr">Ça commence aujourd'hui</title>
+<desc lang="fr">Tous les jours, Faustine Bollaert accueille sur le plateau de &quot;Ça commence aujourd'hui&quot; des hommes et des femmes qui évoquent des événements marquants de leur existence, pour permettre à d'autres d'avancer dans leur parcours: un rendez-vous positif et optimiste.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13381067.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515161500 +0200" stop="20230515170500 +0200" channel="France2.fr">
+<title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+<desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_11368139.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515170500 +0200" stop="20230515175500 +0200" channel="France2.fr">
+<title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+<desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_11368139.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515175500 +0200" stop="20230515180000 +0200" channel="France2.fr">
+<title lang="fr">Affaire conclue : la vie des objets</title>
+<desc lang="fr">Table 70's, jeu de l'oie ancien, affiches de la Première Guerre mondiale : retour sur l'histoire d'un objet emblématique de l'émission, acquis par un des acheteurs.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22045508.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515180000 +0200" stop="20230515184000 +0200" channel="France2.fr">
+<title lang="fr">Tout le monde a son mot à dire</title>
+<desc lang="fr">Une gymnastique quotidienne de l'esprit pour s'amuser avec la langue française et enrichir sa culture générale.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13422002.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515184000 +0200" stop="20230515191000 +0200" channel="France2.fr">
+<title lang="fr">N'oubliez pas les paroles</title>
+<desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23034493.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515191000 +0200" stop="20230515195000 +0200" channel="France2.fr">
+<title lang="fr">N'oubliez pas les paroles</title>
+<desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23034493.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515195000 +0200" stop="20230515200000 +0200" channel="France2.fr">
+<title lang="fr">Météo 2</title>
+<desc lang="fr">Le point, plusieurs fois par jour, sur l'évolution de la météo, grâce à des cartes et des explications.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15824412.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515200000 +0200" stop="20230515203900 +0200" channel="France2.fr">
+<title lang="fr">Journal 20h00</title>
+<desc lang="fr">Les principales informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_18572059.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515203900 +0200" stop="20230515204000 +0200" channel="France2.fr">
+<title lang="fr">Journal Météo climat</title>
+<desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_37611254.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515204000 +0200" stop="20230515204300 +0200" channel="France2.fr">
+<title lang="fr">Ma maison de A à Z</title>
+<desc lang="fr">Les différentes étapes de la construction, de l'aménagement et de la décoration d'une maison.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_32107308.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515204300 +0200" stop="20230515204400 +0200" channel="France2.fr">
+<title lang="fr">Basique, l'essentiel de la musique</title>
+<desc lang="fr">Une pastille consacrée à l'actualité musicale, qui braque les projecteurs sur un ou une artiste.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Musique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_10871641.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515204400 +0200" stop="20230515204500 +0200" channel="France2.fr">
+<title lang="fr">Objectif palme</title>
+<desc lang="fr">Magazine du cinéma.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_7990687.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515204500 +0200" stop="20230515211000 +0200" channel="France2.fr">
+<title lang="fr">Un si grand soleil</title>
+<desc lang="fr">Laurine, humiliée par son père, décide de prendre les choses en main pour que le projet de clinique d'Evan voie le jour. Une rencontre inopinée pourrait faire prendre conscience à Manu de ses véritables sentiments...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_37486421.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515211000 +0200" stop="20230515220500 +0200" channel="France2.fr">
+<title lang="fr">Bardot</title>
+<sub-title lang="fr">La Madrague</sub-title>
+<desc lang="fr">Les tournages s'enchaînent. Agents, producteurs : l'entourage jubile. Brigitte manipule avec charme et habileté les journalistes, mais la notoriété est de plus en plus envahissante.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_37991203.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515220500 +0200" stop="20230515225500 +0200" channel="France2.fr">
+<title lang="fr">Bardot</title>
+<sub-title lang="fr">Le papillon</sub-title>
+<desc lang="fr">A l'enterrement de son grand-père tant aimé, le chagrin de Brigitte est immense. Heureusement, un tournage débute : &quot;Babette s'en va-t-en guerre&quot; avec Jacques Charrier.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_38014225.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230515225500 +0200" stop="20230516003000 +0200" channel="France2.fr">
+<title lang="fr">Comme un coup de tonnerre</title>
+<desc lang="fr">Un médecin de campagne qui souffre d'une grave dépression nerveuse voit sa famille se mobiliser pour tenter de lui redonner le goût de la vie.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_28294473.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
