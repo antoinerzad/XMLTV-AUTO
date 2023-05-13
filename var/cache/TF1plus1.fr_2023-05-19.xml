@@ -1,0 +1,246 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230518231000 +0200" stop="20230519002000 +0200" channel="TF1plus1.fr">
+<title lang="fr">HPI</title>
+<desc lang="fr">Alors qu'elle se retrouve sans toit, Morgane débarque avec sa famille chez Gilles. Comme si cela ne suffisait pas, elle est aussi suspendue de ses fonctions.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_30440819.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519002000 +0200" stop="20230519012000 +0200" channel="TF1plus1.fr">
+<title lang="fr">HPI</title>
+<sub-title lang="fr">Symétrie radiale</sub-title>
+<desc lang="fr">Un an après avoir quitté la police pour redevenir femme de ménage, Morgane devient détective privé. Elle est engagée par Emilie, une de ses clientes.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_37928576.jpg" />
+<episode-num system="xmltv_ns">2.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519012000 +0200" stop="20230519023000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Balthazar</title>
+<sub-title lang="fr">La vie en miettes</sub-title>
+<desc lang="fr">Hélène Bach est appelée sur une scène de crime où gisent les cadavres de deux hommes, a priori sans lien apparent, et morts dans les mêmes circonstances.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_11500807.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230519023000 +0200" stop="20230519033500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Balthazar</title>
+<sub-title lang="fr">De chair et de sang</sub-title>
+<desc lang="fr">Médecin légiste, Raphaël Balthazar fascine autant qu'il exaspère. Hélène Bach, commandant de police, doit composer avec cette personnalité hors norme.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_11500773.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519033500 +0200" stop="20230519043500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Balthazar</title>
+<sub-title lang="fr">Arrêt de mort</sub-title>
+<desc lang="fr">Un ouvrier est retrouvé sur un chantier, le visage massacré. Raphaël découvre que l'homme avait subi des opérations esthétiques une dizaine d'années plus tôt.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_11340714.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519043500 +0200" stop="20230519073000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22269110.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519073000 +0200" stop="20230519092500 +0200" channel="TF1plus1.fr">
+<title lang="fr">TFou</title>
+<desc lang="fr">La tribu Monchhichi. Molang. Mighty Express. Super Wings. Alice et Lewis. Paw Patrol, la Pat'Patrouille.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Jeunesse Mag</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_27470864.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519092500 +0200" stop="20230519093000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15805360.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519093000 +0200" stop="20230519102000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Téléshopping</title>
+<desc lang="fr">Le magazine de la consommation et des conseils d'achat, coaché par Marie-Ange Nardi et Alexandre Devoise.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. TV Achat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15805304.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519102000 +0200" stop="20230519102500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15805360.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519102500 +0200" stop="20230519105500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Familles nombreuses : la vie en XXL</title>
+<desc lang="fr">Ce docu-réalité suit le quotidien exceptionnel de plusieurs familles nombreuses.Avec ces familles tout est XXL !Partagez le quotidien de ces familles nombreuses où tout se vit en plus grand !</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9067537.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519105500 +0200" stop="20230519113000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Familles nombreuses : la vie en XXL</title>
+<desc lang="fr">Ce docu-réalité suit le quotidien exceptionnel de plusieurs familles nombreuses.Avec ces familles tout est XXL !Partagez le quotidien de ces familles nombreuses où tout se vit en plus grand !</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9067537.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519113000 +0200" stop="20230519120000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Amour, gloire et beauté</title>
+<desc lang="fr">Le lieutenant Baker rend visite à Sheila en prison. Carter et Quinn parlent de Paris. Zende regarde ses photos avec Paris quand la mère de la jeune femme entre.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9379231.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519120000 +0200" stop="20230519124500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Les feux de l'amour</title>
+<desc lang="fr">A la surprise de tous, Théo arrive chez les Abbott pour la lecture du testament. Outré, Kyle lui demande de partir, mais Jack insiste pour qu'il reste.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13600615.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519124500 +0200" stop="20230519125000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Petits plats en équilibre</title>
+<desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_12682249.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519125000 +0200" stop="20230519135500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Les douze coups de midi</title>
+<desc lang="fr">Qui sera le calife à la place du calife ? Chaque jour, à midi tapante, quatre candidats s'affrontent pour empocher les 30 000 euros de la cagnotte et décrocher l'étoile mystérieuse et ses cadeaux. Seule condition, bien répondre aux questions de culture générale.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13170237.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519135500 +0200" stop="20230519140000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Petits plats en équilibre</title>
+<desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_12682249.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519140000 +0200" stop="20230519144000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Journal</title>
+<desc lang="fr">Journal télévisé de TF1 qui revient sur les faits marquants et les événements essentiels qui ont fait de cette journée une journée différente de toutes les autres.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_16929288.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519144000 +0200" stop="20230519144500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Petits plats en équilibre</title>
+<desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_12682249.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519144500 +0200" stop="20230519145500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15805360.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519145500 +0200" stop="20230519164000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Les malheurs de Ruby : D'or et de lumière</title>
+<desc lang="fr">Ruby retrouve sa chère maison d'enfance dans le bayou où elle est fermement décidée à débuter une nouvelle vie avec son bébé, Pearl. Paul est là pour la soutenir.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_23642020.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519164000 +0200" stop="20230519183000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Les malheurs de Ruby : Joyau caché</title>
+<desc lang="fr">Pearl, la fille de Ruby et Ben, est désormais une jeune fille de 18 ans très brillante, qui rêve de devenir médecin. Un cauchemar récurrent la poursuit.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_22386184.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519183000 +0200" stop="20230519193000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Familles nombreuses : la vie en XXL</title>
+<desc lang="fr">Ce docu-réalité suit le quotidien exceptionnel de plusieurs familles nombreuses.Avec ces familles tout est XXL !Partagez le quotidien de ces familles nombreuses où tout se vit en plus grand !</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9067537.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519193000 +0200" stop="20230519201000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Ici tout commence</title>
+<desc lang="fr">Anaïs et Lisandro mettent un point final à leur histoire. Pour qu'Hortense devienne professeure, il ne reste plus qu'à convaincre Teyssier.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_18477502.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519201000 +0200" stop="20230519205500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Demain nous appartient</title>
+<desc lang="fr">La vie de Diego est entre les mains d'Aaron. Soraya se rend complice du meurtrier. Raphaëlle et Martin auraient des pratiques originales. Bart s'impose chez Adèle.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_32105326.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519205500 +0200" stop="20230519210000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15805360.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519210000 +0200" stop="20230519214500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Journal</title>
+<desc lang="fr">Journal télévisé de TF1 qui revient sur les faits marquants et les événements essentiels qui ont fait de cette journée une journée différente de toutes les autres.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_11602137.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519214500 +0200" stop="20230519215000 +0200" channel="TF1plus1.fr">
+<title lang="fr">My Million</title>
+<desc lang="fr">Consultez les derniers résultats d'EuroMillions ainsi que les codes gagnants My Million. Tous les mardi et vendredi, Elsa fayer ou Karine Ferri vous présentent les résultats des tirages officiels de My Million vers 20h50 puis EuroMillions vers 21h50. Découvrez les 5 numéros gagnants et les 2...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_16973293.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519215000 +0200" stop="20230519220000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15805360.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519220000 +0200" stop="20230519221000 +0200" channel="TF1plus1.fr">
+<title lang="fr">C'est Canteloup</title>
+<desc lang="fr">Détournements d'images d'actualité, parodies, interviews décalées, Nicolas Canteloup propose une satire des faits marquants de la journée avec, pour signature, ses imitations des personnages qui font l'événement dans le monde de la politique, du spectacle et des médias.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_33189111.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519221000 +0200" stop="20230520002000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Mask Singer</title>
+<desc lang="fr">Après avoir démasqué Martin Lamotte sous son costume de vautour, Jeff Panacloc repart de plus belle dans ses investigations. Il en est déjà à deux pronos d'or et continue d'accumuler les points. Parmi les autres célébrités reconnues, on retrouve notamment Jean-Marc Généreux sous le costume du lama.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_38033836.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

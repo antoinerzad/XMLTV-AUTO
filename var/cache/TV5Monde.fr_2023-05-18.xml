@@ -1,0 +1,376 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230517230500 +0200" stop="20230518004100 +0200" channel="TV5Monde.fr">
+<title lang="fr">Un dimanche à la campagne</title>
+<desc lang="fr">Frédéric Lopez accueille trois talents qui ont dû rêver plus fort que les autres pour trouver leur place dans la lumière : le chanteur et comédien Daniel Auteuil, la comédienne Aure Atika et le chef Cyril Lignac.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34027946.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518004100 +0200" stop="20230518011100 +0200" channel="TV5Monde.fr">
+<title lang="fr">TV5MONDE, le journal Afrique</title>
+<desc lang="fr">Toute l'actualité africaine proposée par la rédaction de TV5MONDE.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5456446.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518011100 +0200" stop="20230518020300 +0200" channel="TV5Monde.fr">
+<title lang="fr">Marianne *2022</title>
+<sub-title lang="fr">La loi du Far West</sub-title>
+<desc lang="fr">A Toulon, un homme est retrouvé pendu en tenue de cow-boy dans son restaurant saloon. Une juge d'instruction démontre qu'il s'agit d'un meurtre maquillé en suicide.</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_33053793.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518020300 +0200" stop="20230518030000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Marianne *2022</title>
+<sub-title lang="fr">Les routiers</sub-title>
+<desc lang="fr">Un routier expérimenté est retrouvé écrasé sous les roues de son camion. Pendant ses investigations, Marianne découvre le monde des chauffeurs routiers.</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_33054026.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518030000 +0200" stop="20230518033800 +0200" channel="TV5Monde.fr">
+<title lang="fr">Sérieux?</title>
+<desc lang="fr">Puce et café Grâce à une puce GPS, Mathieu suit ses ordures à la trace pour voir où ça mène et Marie-Ève étudie l'impact écologique des capsules et des machines à café.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_12410482.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518033800 +0200" stop="20230518040000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Un si grand soleil</title>
+<desc lang="fr">Les choses se dégradent pour Christophe tandis que Johanna est prête à chercher de l'aide n'importe où. De son côté, Ludo fait une découverte qui bouleverse sa vie. Enzo, quant à lui, va-t-il enfin trouver la paix ? (saison 2, France, 2019)</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_37750623.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518040000 +0200" stop="20230518043000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Chroniques d'en haut</title>
+<desc lang="fr">En passant par la Croix-Haute Entre Isère et Drôme, le col de la Croix-Haute est le point culminant de la route qui relie Grenoble à Gap par le Trièves et le Buëch. Il sépare deux mondes aux caractères bien différents, le long d'une des plus belles lignes SNCF de France.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14181555.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518043000 +0200" stop="20230518053000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Orphelins</title>
+<desc lang="fr">Ce documentaire dévoile les inavouables émotions ressenties par six orphelins, forcés de se construire leurs avenirs malgré leurs tragiques destins.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23649987.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518053000 +0200" stop="20230518055600 +0200" channel="TV5Monde.fr">
+<title lang="fr">TV5MONDE, le journal Afrique</title>
+<desc lang="fr">Toute l'actualité africaine proposée par la rédaction de TV5MONDE.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5456446.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518055600 +0200" stop="20230518060000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5578751.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518060000 +0200" stop="20230518063000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Pouvoirs et Loi</title>
+<desc lang="fr">Thomas Yadia Mondragon est dans une mauvaise posture. Sa femme est parvenue à tromper la vigilance de l'homme qui la surveillait et à s'enfuir ! La conférence de presse donnée par sa belle-soeur, épaulée par Melissa, affole les réseaux sociaux. Ses jours à la tête du vice gouvernorat sont...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_12472939.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518063000 +0200" stop="20230518065600 +0200" channel="TV5Monde.fr">
+<title lang="fr">Le 6h info</title>
+<desc lang="fr">Le journal de 6h00 (heure de Paris) proposé par la rédaction de France Télévisions.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14834878.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518065600 +0200" stop="20230518070000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5578751.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518070000 +0200" stop="20230518073000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Journal Radio Canada</title>
+<desc lang="fr">Le journal télévisé proposé par la rédaction de Radio-Canada.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_13316249.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518073000 +0200" stop="20230518080000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Télématin</title>
+<desc lang="fr">De l'info et de la bonne humeur, 7 jours sur 7 ! Réveils dynamiques garantis avec Thomas Sotto et Julia Vignali du lundi au jeudi, puis Damien Thévenot et Maya Lauqué du vendredi au dimanche.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23309157.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518080000 +0200" stop="20230518083000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Télématin</title>
+<desc lang="fr">De l'info et de la bonne humeur, 7 jours sur 7 ! Réveils dynamiques garantis avec Thomas Sotto et Julia Vignali du lundi au jeudi, puis Damien Thévenot et Maya Lauqué du vendredi au dimanche.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23309157.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518083000 +0200" stop="20230518084200 +0200" channel="TV5Monde.fr">
+<title lang="fr">TV5MONDE, le journal</title>
+<desc lang="fr">Toute l'actualité nationale et internationale proposée par la rédaction de TV5MONDE.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_13314964.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518084200 +0200" stop="20230518084600 +0200" channel="TV5Monde.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5578751.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518084600 +0200" stop="20230518085900 +0200" channel="TV5Monde.fr">
+<title lang="fr">Histoire (résolument) subjective du Cinéma et de la</title>
+<desc lang="fr">Jean-Louis Roy... puis vint le Groupe 5 ! Les premiers longs-métrages de fiction des membres du Groupe 5.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_12404240.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518085900 +0200" stop="20230518093000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Paname</title>
+<desc lang="fr">Rue du Commerce Depuis sa création en 1837, la bien-nommée rue du Commerce, dans le 15e arrondissement, est l'une des artères les plus commerçantes de Paris. La plupart des chaînes de magasins y ont une enseigne. Néanmoins, le quartier réserve quelques adresses inattendues, pratiques, sportives...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10035341.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518093000 +0200" stop="20230518101100 +0200" channel="TV5Monde.fr">
+<title lang="fr">Face aux territoires</title>
+<desc lang="fr">Une personnalité de premier plan du monde politique, économique, syndical... répond aux médias régionaux sur des sujets d'actualité locale, nationale et internationale.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_22049169.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518101100 +0200" stop="20230518103000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Le dessous des cartes</title>
+<desc lang="fr">Magazine géopolitique et cartographique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_11689092.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518103000 +0200" stop="20230518110000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Littoral, au fil de l'eau</title>
+<desc lang="fr">Marion Moriceau, profession scaphandrière En France, elles ne sont qu'une quinzaine de femmes à exercer l'activité de scaphandrier. Marion Moriceau fut une des premières à se lancer dans ce métier, longtemps considéré comme exclusivement masculin. Elle n'a pas la quarantaine et pourtant, Marion...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12626602.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518110000 +0200" stop="20230518111400 +0200" channel="TV5Monde.fr">
+<title lang="fr">TV5MONDE, le journal</title>
+<desc lang="fr">Toute l'actualité nationale et internationale proposée par la rédaction de TV5MONDE.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_13314964.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518111400 +0200" stop="20230518111700 +0200" channel="TV5Monde.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5578751.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518111700 +0200" stop="20230518114900 +0200" channel="TV5Monde.fr">
+<title lang="fr">Slam</title>
+<desc lang="fr">Trois candidats s'affrontent sur des grilles de mots fléchés qu'ils tentent de remplir en trouvant les réponses aux définitions proposées. Mais pour avoir accès aux définitions, ils doivent d'abord répondre à des questions qui ont une caractéristique bien particulière : la réponse est toujours...</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_11005070.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518114900 +0200" stop="20230518122100 +0200" channel="TV5Monde.fr">
+<title lang="fr">Questions pour un champion</title>
+<desc lang="fr">Jeu de culture générale.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_13034028.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518122100 +0200" stop="20230518123000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Outremer.l'info</title>
+<desc lang="fr">L'actualité des collectivités d'Outre-mer.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_36935890.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518123000 +0200" stop="20230518130000 +0200" channel="TV5Monde.fr">
+<title lang="fr">5 chefs dans ma cuisine</title>
+<desc lang="fr">Salade de fenouil et pâtes aux tomates Pasquale Vari propose une entrée de fenouil, crevettes, citron et fleur de sel ainsi qu'un plat de pâtes simple pour recevoir sans se casser la tête.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_12363138.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518130000 +0200" stop="20230518133000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Un si grand soleil</title>
+<desc lang="fr">Dimitri avance ses pions, mais commence à avoir des remords. L'enquête de Manu, pendant ce temps, met au jour un nouvel élément intrigant. Christophe, quant à lui, continue de s'enfermer dans son silence.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_37750623.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518133000 +0200" stop="20230518140500 +0200" channel="TV5Monde.fr">
+<title lang="fr">JT 13h</title>
+<desc lang="fr">Toute l'actualité internationale proposée et présentée par la rédaction de la RTBF.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_22238808.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518140500 +0200" stop="20230518145700 +0200" channel="TV5Monde.fr">
+<title lang="fr">Le code</title>
+<sub-title lang="fr">Jusqu'à ce que la mort nous sépare</sub-title>
+<desc lang="fr">Déterminée à quitter le cabinet, Nadia défend avec Claire un homme accusé d'avoir tué son épouse, atteinte de la maladie d'Alzheimer. Geste d'amour ou féminicide ?</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_35410385.jpg" />
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518145700 +0200" stop="20230518155100 +0200" channel="TV5Monde.fr">
+<title lang="fr">Le code</title>
+<sub-title lang="fr">Légitime violence</sub-title>
+<desc lang="fr">Idriss est amené à défendre monsieur Duval, accusé d'avoir tué l'homme qui tentait de le détrousser. S'agit-il vraiment d'un cas de légitime défense ?</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_35426956.jpg" />
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518155100 +0200" stop="20230518165900 +0200" channel="TV5Monde.fr">
+<title lang="fr">Alcool au féminin</title>
+<desc lang="fr">Immersion au sein de la première consultation d'alcoologie réservée aux femmes, à l'hôpital Saint-Anne, à Paris, pour rendre compte de cette question encore taboue.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_25107249.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518165900 +0200" stop="20230518180000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Mise au point</title>
+<desc lang="fr">La grande peur dans la montagne. Crypte aux monnaies. Dans la gueule du Loot.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_20173337.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518180000 +0200" stop="20230518182200 +0200" channel="TV5Monde.fr">
+<title lang="fr">64' le monde en français</title>
+<desc lang="fr">L'actualité internationale décryptée par le monde francophone.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5456326.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518182200 +0200" stop="20230518182600 +0200" channel="TV5Monde.fr">
+<title lang="fr">Le journal de l'économie</title>
+<desc lang="fr">Trois minutes pour analyser, décrypter et expliquer l'actualité économique. Le site : www.tv5monde.com/jteco</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Economie</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12594178.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518182600 +0200" stop="20230518183000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5578751.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518183000 +0200" stop="20230518185200 +0200" channel="TV5Monde.fr">
+<title lang="fr">64' le monde en français</title>
+<desc lang="fr">L'actualité internationale décryptée par le monde francophone.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5456326.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518185200 +0200" stop="20230518190000 +0200" channel="TV5Monde.fr">
+<title lang="fr">L'invité</title>
+<desc lang="fr">7 jours sur 7 Patrick Simonin rencontre les artistes, les écrivains, les acteurs et tous ceux qui font vibrer notre époque. &quot; L'invité &quot; est le rendez-vous incontournable des stars et des personnalités qui font l'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_32781483.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518190000 +0200" stop="20230518190500 +0200" channel="TV5Monde.fr">
+<title lang="fr">64', l'essentiel</title>
+<desc lang="fr">L'essentiel du monde en français.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14589561.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518190500 +0200" stop="20230518194000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Ricardo</title>
+<desc lang="fr">Moules, pâtes et salade d'endives et de céleri Pour les soirs où l'on a envie de bien manger sans passer trop de temps à cuisiner, Ricardo propose des moules aux tomates, des pâtes à la puttanesca et une salade d'endives et de céleri.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14240846.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518194000 +0200" stop="20230518203000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Tout le monde veut prendre sa place</title>
+<desc lang="fr">Le jeu où tout le monde peut devenir champion. Un quiz, des candidats, et un champion que tous rêvent de déloger !</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23771517.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518203000 +0200" stop="20230518210000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Journal</title>
+<desc lang="fr">Le journal télévisé proposé par la rédaction de France 2 (édition de 20h, heure de Paris).</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9963334.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518210000 +0200" stop="20230518224000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Objectif Monde</title>
+<desc lang="fr">Les grands programmes spatiaux se multiplient dans le monde. Même les milliardaires se lancent dans la course. Comment expliquer une telle effervescence ? Les plus grandes fortunes se &quot;disputent-elles&quot; pour de simple vols commerciaux et touristiques ou ont-elles d'autres ambitions ? L'Europe...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12644264.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518224000 +0200" stop="20230518231000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7761232.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518231000 +0200" stop="20230519004500 +0200" channel="TV5Monde.fr">
+<title lang="fr">Dans les yeux d'Olivier</title>
+<desc lang="fr">Difficile de se construire lorsque l'on a été victime de parents destructeurs. Parce que la famille est le premier repère d'un enfant, son socle, les conséquences psychologiques et physiques sont considérables, parfois irréversibles, lorsque l'on a été le souffre-douleur de ses parents.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_26312978.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

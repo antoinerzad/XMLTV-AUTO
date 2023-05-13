@@ -1,0 +1,245 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230520000000 +0200" stop="20230520011000 +0200" channel="RAI1.it">
+<title lang="fr">TV7</title>
+<desc lang="fr">Settimanale di approfondimento a cura della redazione Speciali del TG1.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6263428.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520011000 +0200" stop="20230520020500 +0200" channel="RAI1.it">
+<title lang="fr">Viva Rai2!</title>
+<desc lang="fr">Infotainment e varietà, in terza serata, in compagnia di Rosario Fiorello e Fabrizio Biggio.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11190350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520020500 +0200" stop="20230520021000 +0200" channel="RAI1.it">
+<title lang="fr">Che tempo fa</title>
+<desc lang="fr">L'appuntamento con le previsioni del tempo gestito dall'Aeronautica militare.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_25623448.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520021000 +0200" stop="20230520031000 +0200" channel="RAI1.it">
+<title lang="fr">Cinematografo</title>
+<desc lang="fr">Un programma settimanale di approfondimento cinematografico che racconta i film in programmazione nelle sale italiane. Attori, registi e critici in un confronto a più voci con filmati e testimonianze di chi segue e ama il cinema.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_25623832.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520031000 +0200" stop="20230520034000 +0200" channel="RAI1.it">
+<title lang="fr">Sottovoce</title>
+<desc lang="fr">In ogni puntata ripercorre l'itinerario umano, artistico e professionale di un importante personaggio dello sport, dello spettacolo o della cultura. Un faccia a faccia che consente all'ospite di svelare il proprio mondo interiore e condividere le proprie passioni civili, sociali o culturali.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_15588793.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520034000 +0200" stop="20230520060000 +0200" channel="RAI1.it">
+<title lang="fr">RAInews24</title>
+<desc lang="fr">Il programma presenta le ultime notizie in tempo reale. News attualità e aggiornamenti su politica, cronaca, esteri, economia, sport e attualità.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_35640161.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520060000 +0200" stop="20230520060500 +0200" channel="RAI1.it">
+<title lang="fr">Gli Imperdibili</title>
+<desc lang="fr">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_6281833.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520060500 +0200" stop="20230520070000 +0200" channel="RAI1.it">
+<title lang="fr">Il caffè di Rai 1</title>
+<desc lang="fr">Il programma racconta e analizza i fenomeni culturali e sociali, dalla letteratura alla sociologia, dal teatro alle tendenze di costume, dal cinema alla geopolitica, dalla cultura del territorio all'attualità civile e sociale, cercando di legare la cultura alta con quella pop, le ragioni del...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_18608897.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520070000 +0200" stop="20230520070500 +0200" channel="RAI1.it">
+<title lang="fr">TG 1</title>
+<desc lang="fr">Il telegiornale di RAI 1. La testata principale della televisione di stato.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11338307.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520070500 +0200" stop="20230520075500 +0200" channel="RAI1.it">
+<title lang="fr">Rai Parlamento - Settegiorni</title>
+<desc lang="fr">Settimanale di approfondimento politico-parlamentare. Inchieste, servizi, interviste sui temi più importanti in discussione al Senato e alla Camera. In onda ogni sabato.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_12504519.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520075500 +0200" stop="20230520080000 +0200" channel="RAI1.it">
+<title lang="fr">Che tempo fa</title>
+<desc lang="fr">L'appuntamento con le previsioni del tempo gestito dall'Aeronautica militare.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_25623448.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520080000 +0200" stop="20230520082000 +0200" channel="RAI1.it">
+<title lang="fr">TG 1</title>
+<desc lang="fr">Il telegiornale di RAI 1. La testata principale della televisione di stato.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200704.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520082000 +0200" stop="20230520083000 +0200" channel="RAI1.it">
+<title lang="fr">TG1 Dialogo</title>
+<desc lang="fr">Rubrica informativa dedicata al dialogo.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_18608897.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520083000 +0200" stop="20230520090000 +0200" channel="RAI1.it">
+<title lang="fr">UnoMattina in famiglia</title>
+<desc lang="fr">Il programma che va in onda al mattino del sabato e domenica si presenta come un contenitore ricco di rubriche per tutta la famiglia ed affronta temi d'informazione, di spettacolo e di attualità tramite l'intrattenimento.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_25623701.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520090000 +0200" stop="20230520093000 +0200" channel="RAI1.it">
+<title lang="fr">TG 1</title>
+<desc lang="fr">Il telegiornale di RAI 1. La testata principale della televisione di stato.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11338307.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520093000 +0200" stop="20230520103000 +0200" channel="RAI1.it">
+<title lang="fr">TG 1 - L.I.S.</title>
+<desc lang="fr">Il telegiornale di RAI 1, edizione per i sordi in LIS (lingua dei segni italiana).</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_25623412.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520103000 +0200" stop="20230520112500 +0200" channel="RAI1.it">
+<title lang="fr">Buongiorno benessere</title>
+<desc lang="fr">Il programma settimanale che propone stili di vita corretti all'insegna del benessere e della vitalità. Attraverso gli esperti saranno proposte soluzioni e consigli per vivere meglio. Si va anche alla scoperta dello splendido territorio italiano per rivelare piccoli segreti utili a una vita sana.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11048240.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520112500 +0200" stop="20230520120000 +0200" channel="RAI1.it">
+<title lang="fr">Linea Verde Discovery</title>
+<desc lang="fr">L'Italia è la Nazione dalle mille culture e dalle infinite tradizioni. Linea Verde Discovery è un programma che intende valorizzare questa specificità mettendo in luce, da Nord a Sud, quelle piccole realtà che hanno reso grande la nostra storia.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Nature</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_14907870.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520120000 +0200" stop="20230520123000 +0200" channel="RAI1.it">
+<title lang="fr">Linea Verde Start</title>
+<desc lang="fr">Il programma dove si racconta l'Italia con i suoi paesaggi suggestivi, le biodiversità e nel contempo la sapienza degli artigiani, nelle cui botteghe è custodito il genio italiano.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Nature</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_28201115.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520123000 +0200" stop="20230520133000 +0200" channel="RAI1.it">
+<title lang="fr">Linea Verde Life</title>
+<desc lang="fr">Anche quest'anno il programma affronta il tema, sfidante e complesso, della sostenibilità urbana in tutte le sue accezioni.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_25623689.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520133000 +0200" stop="20230520140000 +0200" channel="RAI1.it">
+<title lang="fr">Telegiornale</title>
+<desc lang="fr">Segui gli appuntamenti quotidiani del Telegiornale.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_25623423.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520140000 +0200" stop="20230520150000 +0200" channel="RAI1.it">
+<title lang="fr">Sentieri - la strada giusta</title>
+<desc lang="fr">Un racconto immersivo che consente di far vivere allo spettatore l'emozione e la scoperta della montagna in tutti i suoi aspetti: da quello naturalistico a quello culturale fino a quello enogastronomico non tralasciando il racconto del territorio dove il sentiero si snoda.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_6433737.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520150000 +0200" stop="20230520160000 +0200" channel="RAI1.it">
+<title lang="fr">Passaggio a Nord-Ovest</title>
+<desc lang="fr">Popoli e luoghi lontani, civiltà dimenticate, siti archeologici da scoprire e visitare in compagnia di Alberto Angela. In giro attraverso il pianeta, lo spettatore conoscerà le abitudini e tradizioni di etnie che lottano ogni giorno per mantener viva la loro identità, uomini che superano il loro...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11337991.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520160000 +0200" stop="20230520164000 +0200" channel="RAI1.it">
+<title lang="fr">A sua immagine</title>
+<desc lang="fr">Ogni settimana Rosario Carello propone una storia, la storia della nostra vita, della nostra società, della nostra famiglia, con un unico grande denominatore comune: la luce della fede. Racconti di devozione, di sofferenza, di gioia, degli uomini e delle donne che hanno cambiato il mondo, dei...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_8038969.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520164000 +0200" stop="20230520164500 +0200" channel="RAI1.it">
+<title lang="fr">Gli Imperdibili</title>
+<desc lang="fr">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_6281833.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520164500 +0200" stop="20230520170000 +0200" channel="RAI1.it">
+<title lang="fr">TG 1</title>
+<desc lang="fr">Il telegiornale di RAI 1. La testata principale della televisione di stato.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11237556.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520170000 +0200" stop="20230520184500 +0200" channel="RAI1.it">
+<title lang="fr">Italia Sì!</title>
+<desc lang="fr">Il programma settimanale concepito come uno spazio libero per dar parola alle persone comuni sugli avvenimenti importanti della loro vita, eventuali problemi o denunce. La trasmissione è condotta da Marco Liorni, che ne è anche l'autore .</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_25623848.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520184500 +0200" stop="20230520200000 +0200" channel="RAI1.it">
+<title lang="fr">L'Eredità</title>
+<desc lang="fr">Il quiz show più amato dagli italiani.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_16966462.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520200000 +0200" stop="20230520203500 +0200" channel="RAI1.it">
+<title lang="fr">Telegiornale</title>
+<desc lang="fr">Segui gli appuntamenti quotidiani del Telegiornale.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_25623423.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520203500 +0200" stop="20230520212500 +0200" channel="RAI1.it">
+<title lang="fr">Affari tuoi</title>
+<desc lang="fr">Dallo storico Teatro Delle Vittorie di Roma, Flavio Insinna conduce Affari tuoi, accompagnando ogni giorno i concorrenti, rappresentanti delle 20 regioni d'Italia, nell'insidioso percorso dei pacchi, minato dalle proposte della misteriosa &quot;Dottoressa&quot; al telefono.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_15728052.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520212500 +0200" stop="20230521000000 +0200" channel="RAI1.it">
+<title lang="fr">I migliori anni</title>
+<desc lang="fr">Riflettori accesi ancora una volta sulla nostra storia di Italiani, in un avvincente gioco che mette al centro dello spettacolo la memoria e l'immaginario collettivo, attraverso personaggi celebri, tradizioni, canzoni e film. A confronto i decenni dagli anni '60 ai '90 che una giuria di ragazzi...</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_6264455.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

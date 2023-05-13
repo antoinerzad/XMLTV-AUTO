@@ -1,0 +1,256 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230516013000 +0200" stop="20230516100000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal / Météo / Paroles d'élu(e) / Sur le vif / Une semaine dans le Grand Est</title>
+<desc lang="fr">PROGRAMMES VOSGES TÉLÉVISION</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516100000 +0200" stop="20230516103000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Côté sports</title>
+<desc lang="fr">Proposé par Nicolas Galup, Côté Sports est le magazine de tous les sports. Chaque semaine, Nicolas Galup fait un focus sur une discipline en recevant un président de club ou d'une Association.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516103000 +0200" stop="20230516104500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Paroles d'élu(e)</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516104500 +0200" stop="20230516110000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Du Champ à l'assiette</title>
+<desc lang="fr">&quot;Du champ à l'assiette&quot; est un programme télévisé présenté par David Bachoffe, qui met en valeur des producteurs locaux et leurs produits authentiques. </desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516110000 +0200" stop="20230516120000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Le monde comme il va</title>
+<sub-title lang="fr">Le chant des oubliés de Luc Decaster</sub-title>
+<desc lang="fr">Usine Semperit d'Argenteuil. Face au caoutchouc en fusion, des corps s'engagent entre les rouages des machines. Le couperet tombe : délocalisation. Une symphonie s'empare alors du récit : surgit la destruction des machines, des murs… et d'une communauté étonnante.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516120000 +0200" stop="20230516121000 +0200" channel="VosgesTV.fr">
+<title lang="fr">À feu doux</title>
+<desc lang="fr">Emission culinaire</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F743505154C6EF9FF0087C5E4E3C3743.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516121000 +0200" stop="20230516123000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Rétro / Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516123000 +0200" stop="20230516130000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Sur ma route</title>
+<desc lang="fr">Découvrir les pays de Lorraine à travers une personnalité issue de la région c'est le principe de la nouvelle émission &quot; Sur Ma Route &quot; présentée par Vianney Huguenot.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FFE02F87137183F458616CCC676184E9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516130000 +0200" stop="20230516131500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Ça va chez vous ?</title>
+<desc lang="fr">Ca va chez vous? est une émission anime par Livia Buchler. Elle part à la découverte des territoires que font les Vosges. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516131500 +0200" stop="20230516134500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Ça nous regarde</title>
+<desc lang="fr">Ça nous regarde est une émissions de société qui s'intéresse a différents thèmes tel que la santé, la mobilité, éducation, l'artisanat, les médias, les loisirs...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516134500 +0200" stop="20230516140000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Sur le vif / L'atelier du jardin</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516140000 +0200" stop="20230516143000 +0200" channel="VosgesTV.fr">
+<title lang="fr">1, 2, 3 Dansez</title>
+<desc lang="fr">Émission entièrement consacrée à la chanson et à l'accordéon avec de nombreux invités célèbres.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.25.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516143000 +0200" stop="20230516150000 +0200" channel="VosgesTV.fr">
+<title lang="fr">1, 2, 3 musette</title>
+<desc lang="fr">2020</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.30.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516150000 +0200" stop="20230516153000 +0200" channel="VosgesTV.fr">
+<title lang="fr">1, 2, 3 Dansez</title>
+<desc lang="fr">2022</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<episode-num system="xmltv_ns">0.21.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516153000 +0200" stop="20230516160000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Côté sports</title>
+<desc lang="fr">Proposé par Nicolas Galup, Côté Sports est le magazine de tous les sports. Chaque semaine, Nicolas Galup fait un focus sur une discipline en recevant un président de club ou d'une Association.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516160000 +0200" stop="20230516163000 +0200" channel="VosgesTV.fr">
+<title lang="fr">À feu doux</title>
+<sub-title lang="fr">Fines Herbes</sub-title>
+<desc lang="fr">Émission culinaire</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8C983615591EB79F76BA5FEBDAE8C759.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516163000 +0200" stop="20230516170000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Sur le Vif</title>
+<desc lang="fr">Retrouvez toute l'actualité vosgienne avec le magazine &quot;L'hebdo&quot; qui vous emmène découvrir chaque semaine des lieux intéressants ou des événements actuels culturels ou sportif dans la région. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516170000 +0200" stop="20230516171500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Paroles d'élu(e)</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516171500 +0200" stop="20230516174500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal des territoires</title>
+<desc lang="fr">Magazine sur l'actualité, la politique, l'emploi, la justice et la géopolitique des territoires de France.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516174500 +0200" stop="20230516180000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Films à l'affiche</title>
+<desc lang="fr">Découvrez le programme des cinémas du département.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516180000 +0200" stop="20230516190000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal / Météo / Films à l'affiche / L'atelier du jardin</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516190000 +0200" stop="20230516193000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Ça nous regarde</title>
+<desc lang="fr">Ça nous regarde est une émissions de société qui s'intéresse a différents thèmes tel que la santé, la mobilité, éducation, l'artisanat, les médias, les loisirs...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516193000 +0200" stop="20230516200000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Case à bulles</title>
+<desc lang="fr">Le neuvième art est traité avec passion dans ce magazine spécialisé. De Tintin d'Hergé aux Watchmen d'Alan Moore, nous vous proposons les grands classiques ainsi que les nouveautés les plus fraîches.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516200000 +0200" stop="20230516203000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal / Météo / Films à l'affiche / L'atelier du jardin</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516203000 +0200" stop="20230516204500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal / Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516204500 +0200" stop="20230516213500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Spectacle</title>
+<sub-title lang="fr">Min Young KIM</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516213500 +0200" stop="20230516214500 +0200" channel="VosgesTV.fr">
+<title lang="fr">Sur le vif</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516214500 +0200" stop="20230516220000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Films à l'affiche</title>
+<desc lang="fr">Découvrez le programme des cinémas du département.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516220000 +0200" stop="20230516223000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Ça nous regarde</title>
+<desc lang="fr">Ça nous regarde est une émissions de société qui s'intéresse a différents thèmes tel que la santé, la mobilité, éducation, l'artisanat, les médias, les loisirs...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516223000 +0200" stop="20230516230000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal / Météo / Films à l'affiche / L'atelier du jardin</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516230000 +0200" stop="20230517000000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Une semaine dans le Grand Est / Business Club de France</title>
+<desc lang="fr">Un magazine régional traitant les questions économiques et sociaux.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517000000 +0200" stop="20230517003000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal / Météo / Films à l'affiche / L'atelier du jardin</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517003000 +0200" stop="20230517010000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Rétro / Météo</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517010000 +0200" stop="20230517013000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Sur le Vif</title>
+<desc lang="fr">Retrouvez toute l'actualité vosgienne avec le magazine &quot;L'hebdo&quot; qui vous emmène découvrir chaque semaine des lieux intéressants ou des événements actuels culturels ou sportif dans la région. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517013000 +0200" stop="20230517100000 +0200" channel="VosgesTV.fr">
+<title lang="fr">Journal / Météo / Films à l'affiche / L'atelier du jardin</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

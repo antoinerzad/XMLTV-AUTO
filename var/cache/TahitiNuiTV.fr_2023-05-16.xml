@@ -1,0 +1,964 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230516060000 +0200" stop="20230516060300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Des airs de Polynésie</title>
+<desc lang="fr">Partez à la découverte de la Polynésie vue du ciel.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516060300 +0200" stop="20230516061600 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Hiro'a</title>
+<desc lang="fr">Chaque émission est une page d'histoire, un témoignage sur une époque, L'émission combine témoignages et images d'archives, c'est cette association qui donne son intérêt à l'émission.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516061600 +0200" stop="20230516061900 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516061900 +0200" stop="20230516062200 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Ta'o no te 'Ori Tahiti</title>
+<desc lang="fr">Découvrez sur TNTV, le premier répertoire des pas de danse tahitienne : &quot; Ta'o nō te 'ori tahiti&quot;. Chaque épisode présente un pas de danse interprété par un danseur ou une danseuse émérite. L'objectif est de sauvegarder la danse tahitienne.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516062200 +0200" stop="20230516062400 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Ta'o no te 'Ori Tahiti</title>
+<desc lang="fr">Découvrez sur TNTV, le premier répertoire des pas de danse tahitienne : &quot; Ta'o nō te 'ori tahiti&quot;. Chaque épisode présente un pas de danse interprété par un danseur ou une danseuse émérite. L'objectif est de sauvegarder la danse tahitienne.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516062400 +0200" stop="20230516064800 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Heiva i Tahiti</title>
+<desc lang="fr">Les festivités du Heiva i Tahiti reviennent sur la scène de To'ata en force. La cérémonie d'ouverture et le rāhiri ouvrent la danse, faisant revivre les traditions et la mémoire de cette culture séculaire. 140 ans après sa création, le Heiva n'a pas fini de nous émerveiller.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/88B683B9A14C0891C061C41964FF1AE3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516064800 +0200" stop="20230516065100 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Savoir faire artisanal</title>
+<sub-title lang="fr">ARTISANAT</sub-title>
+<desc lang="fr">Une série sous-titrée en langue française, qui vous présentera la transmission du savoir-faire artisanal traditionnel à travers l'utilisation des fibres végétales, des portraits d'artisan et des chef-d'oeuvres réalisés et présentés durant différents salons et expositions.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8944E0319E996F4040FFFAF2F871D1C1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516065100 +0200" stop="20230516065400 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516065400 +0200" stop="20230516065800 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Retrouvez vos clips polynésiens.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516065800 +0200" stop="20230516070300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Retrouvez votre clip du fenua.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516070300 +0200" stop="20230516071200 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Savoir faire artisanal</title>
+<sub-title lang="fr">ARTISANAT</sub-title>
+<desc lang="fr">Une série sous-titrée en langue française, qui vous présentera la transmission du savoir-faire artisanal traditionnel à travers l'utilisation des fibres végétales, des portraits d'artisan et des chef-d'oeuvres réalisés et présentés durant différents salons et expositions.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<icon src="https://img.bouygtel.fr/CMS/images/222F8E2A856CA8D5465D67C38634501D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516071200 +0200" stop="20230516071500 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516071500 +0200" stop="20230516072700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">To'u fenua, to'u ora</title>
+<sub-title lang="fr">TOU FENUA TOU ORA</sub-title>
+<desc lang="fr">Le magazine est dédié au secteur primaire et met en avant des hommes et des femmes qui travaillent dans l'artisanat, l'agriculture et autres filières du secteur</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516072700 +0200" stop="20230516073000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">L'inventaire de la Polynésie</title>
+<desc lang="fr">Modules courts vues du ciel des archipels de la Polynésie</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516073000 +0200" stop="20230516073200 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516073200 +0200" stop="20230516075900 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Coeur d'île</title>
+<sub-title lang="fr">Rurutu, entre deux mondes</sub-title>
+<desc lang="fr">Rurutu vit-elle entre 2 mondes à cause de son histoire ? A 1000 km de l'île, par deux fois, un volcan sous-marin, le Mac Donald, l'a poussé hors de l'eau. L'ancien récif corallien est devenu falaises et grottes. Une curiosité géologique qui séduit de plus en plus de touristes. En même temps, ses habitants tentent de faire cohabiter leur tradition orale forte et la société de l'écrit qui régit tous les échanges. Taria Walker est la seule écrivaine de l'île à avoir fait une première tentative de transmission de la mémoire. Yves Gentilhomme, ancien légionnaire, est devenu &quot;rurutu&quot;. Avec sa femme Hélène, il continue de faire vivre cet héritage à travers leur activité et leur pension. Nahuma, diacre dissident et Président du Conseil des sages, a remis au goût du jour une communauté traditionnelle.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516075900 +0200" stop="20230516080000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">A rave na : Explorez</title>
+<desc lang="fr">A la découverte de Tahiti et des îles.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516080000 +0200" stop="20230516082000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Te ve'a</title>
+<sub-title lang="fr">TE VEA</sub-title>
+<desc lang="fr">Retrouvez l'actualité en langue tahitienne</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516082000 +0200" stop="20230516084000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Le journal</title>
+<sub-title lang="fr">LE JOURNAL</sub-title>
+<desc lang="fr">Retrouvez l'actualité en langue française.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516084000 +0200" stop="20230516084300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Des airs de Polynésie</title>
+<desc lang="fr">Partez à la découverte de la Polynésie vue du ciel.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516084300 +0200" stop="20230516085700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Stay focus</title>
+<sub-title lang="fr">Stay focus</sub-title>
+<desc lang="fr">Suivez Christian Wang Sam, votre coach dans &quot;Stay Focus&quot;! Changez vos habitudes alimentaires, faites du sport et restez motivés!</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516085700 +0200" stop="20230516085900 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516085900 +0200" stop="20230516090300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">O ihi rima - de la main à l'objet</title>
+<desc lang="fr">Dans le cadre de ses missions de promotion du secteur, le Service de l'artisanat traditionnel a lancé il y a quelques mois la réalisation de 10 portraits d'artisans traditionnels, dans une démarche qui fait la part belle à la chaîne de création. Cette série, intitulée 'O ihi rima, de la main à l'objet, permet également de valoriser les matières naturelles et de placer l'artisanat traditionnel au coeur du quotidien des Polynésiens, tout en soulignant que cette activité est un métier d'avenir. L'ensemble des portraits est présenté en français et sous-titrés en reo tahiti.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516090300 +0200" stop="20230516092300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Une famille en pleine forme</title>
+<desc lang="fr">Pour cette saison, ce sont 20 émissions d'un format de 20 minutes qui sont proposées. Dans chaque épisode, nous irons à la rencontre d'une famille confrontée à une problématique de santé pour laquelle elle souhaite trouver des solutions simples et faciles à appliquer. Accompagnées de spécialistes, les familles auront pour défi de mettre en place de saines habitudes de vie. Et pour les plus gourmets, chaque émission sera l'occasion de présenter une recette facile et bonne pour la santé, intégrant des produits de notre Fenua !</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/71AD248394D34A5FD1BB7C035704B4F9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516092300 +0200" stop="20230516092600 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516092600 +0200" stop="20230516093300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Tama e vai ma</title>
+<sub-title lang="fr">TAMA E VAI MA</sub-title>
+<desc lang="fr">Suivez Vai et son frère Tama qui partent à la découverte des mots tahitiens. Pour les accompagner, ils seront guidés par leur famille. Avec elle, nos deux jeunes héros vont pouvoir apprendre et entendre leur langue.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Consommation</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516093300 +0200" stop="20230516093800 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Raro et tous ses amis</title>
+<desc lang="fr">Raro est la première série animée en image de synthèse réalisée entièrement en Polynésie destinée aux plus jeunes. A travers un univers coloré et enfantin, ils pourront découvrir le monde des bestioles locales : Raro le bernard l'hermite, Patapata la coccinelle, Tupita le gros bourdon, Maru la chenille, Tima la guêpe, Kave le bébé crabe du cocotier.</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516093800 +0200" stop="20230516094200 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Creating behind the scene</title>
+<desc lang="fr">Creating behind the Scene &quot;, zoom sur le processus créatif des artistes plasticiens de Polynésie française.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516094200 +0200" stop="20230516094500 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516094500 +0200" stop="20230516095800 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">La TV à Rai</title>
+<desc lang="fr">Vous avez une passion que vous souhaitez partager, un message à faire passer, un conseil à donner, Rai vous donne la parole avec &quot;La TV @ Rai&quot;</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516095800 +0200" stop="20230516101100 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Ma coloc</title>
+<desc lang="fr">Suivez les aventures de Taari à la recherche de son futur colocataire avec &quot;Ma Coloc&quot;, la première sitcom polynésienne.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516101100 +0200" stop="20230516101400 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516101400 +0200" stop="20230516101800 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Retrouvez votre clip polynésien.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516101800 +0200" stop="20230516102300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Retrouvez votre clip polynésien.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516102300 +0200" stop="20230516102700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Retrouvez votre clip polynésien.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516102700 +0200" stop="20230516103400 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Hura tapairu</title>
+<desc lang="fr">Un concours de 'Ori Tahiti qui rassemble des petites formations de groupes de danse locaux et internationaux. Chaque année tous rivalisent d'inventivité pour vous faire vibrer au rythme de leurs créations musicales et de leurs chorégraphies !</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516103400 +0200" stop="20230516103600 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516103600 +0200" stop="20230516105300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Ia ora na !</title>
+<desc lang="fr">Ia Ora Na ! est votre nouvelle émission destinée à valoriser le secteur touristique en Polynésie. Son but est d'impliquer la population et en la sensibilisant aux savoir-faire et à la culture et de lui donner envie de s'investir.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516105300 +0200" stop="20230516105500 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">A rave na : Explorez</title>
+<desc lang="fr">A la découverte de Tahiti et des îles.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516105500 +0200" stop="20230516110600 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">No tatou</title>
+<desc lang="fr">Lancée à l'occasion des 40 ans de l'Office Polynésien de l'Habitat, l'émission a pour objectif de mettre en lumière les habitants des lotissements OPH, leurs talents et leurs passions.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4F6FC5F8A38449F05A073EC030C2A37F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516110600 +0200" stop="20230516110900 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516110900 +0200" stop="20230516111900 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Bien dans son fare</title>
+<desc lang="fr">Le magazine vous proposera des conseils pratiques, des avis d'experts et des idées de déco et de relooking.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/AC212B1F32C51A62200E616DC4C38135.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516111900 +0200" stop="20230516112300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Creating behind the scene</title>
+<desc lang="fr">Série de portrait d'artistes locaux. A la découverte de leur technique de travail.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516112300 +0200" stop="20230516112600 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516112600 +0200" stop="20230516113000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">A tanu ana'e</title>
+<desc lang="fr">A tanu ana'e est une série tutoriels qui présente les principales structures que vous pourrez facilement réaliser chez vous, que ce soit des bacs hors sols, des tuteurs voire même un système de palissage. Ces structures assureront à vos futures cultures un développement idéal et une récolte optimale ! Les matériaux et les types de structures sont illimités, soyez créatif et aménagez votre fa'a'apu pour le plus grand bonheur de vos fruits et légumes !</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Jardinage</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516113000 +0200" stop="20230516113700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Tumu Ora</title>
+<sub-title lang="fr">TUMU ORA</sub-title>
+<desc lang="fr">Manea Tixier et Charles Garnier docteur en agronomie vous présentent les bienfaits des plantes polynésiennes et des conseils &quot;pratico-pratiques&quot; pour les consommer ou les planter.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516113700 +0200" stop="20230516114000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516114000 +0200" stop="20230516115400 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Fa'a hotu (Onesia Pacific Storytellers)</title>
+<sub-title lang="fr">FAA HOTU</sub-title>
+<desc lang="fr">Chaque numéro sera consacré à une filière spécifique de l'agriculture. Il mettra en avant 3 professionnels de la filière, des piliers et mémoires vivantes de leur activité. En partageant leur histoire et leur savoir-faire, ils espèrent être source d'inspirations pour les nouvelles générations.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516115400 +0200" stop="20230516115700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516115700 +0200" stop="20230516120000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">En cuisine pour 1000 f</title>
+<desc lang="fr">Maheata Banner présente chaque jour une recette pour moins de 1000 F.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516120000 +0200" stop="20230516122000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Te ve'a</title>
+<sub-title lang="fr">TE VEA</sub-title>
+<desc lang="fr">Retrouvez l'actualité en langue tahitienne</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516122000 +0200" stop="20230516124000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Le journal</title>
+<sub-title lang="fr">LE JOURNAL</sub-title>
+<desc lang="fr">Retrouvez l'actualité en langue française.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516124000 +0200" stop="20230516124300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Des airs de Polynésie</title>
+<desc lang="fr">Partez à la découverte de la Polynésie vue du ciel.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516124300 +0200" stop="20230516124600 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516124600 +0200" stop="20230516125900 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Porinetia</title>
+<sub-title lang="fr">PORINETIA</sub-title>
+<desc lang="fr">Porinetia vous présente des portraits ou des initiatives des habitants des différents archipels de la Polynésie française. Présenté par André Vohi.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F4370CC2C07BA7D325DFD0173F86CD12.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516125900 +0200" stop="20230516130100 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Mémoires de rues</title>
+<desc lang="fr">Savez-vous que toutes les rues de la ville de Papeete ont une histoire ? A découvrir dans Mémoire de rues.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516130100 +0200" stop="20230516130400 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516130400 +0200" stop="20230516131700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">To'u fenua, to'u ora</title>
+<sub-title lang="fr">TO'U FENUA TO'U ORA</sub-title>
+<desc lang="fr">Le magazine est dédié au secteur primaire et met en avant des hommes et des femmes qui travaillent dans l'artisanat, l'agriculture et autres filières du secteur</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516131700 +0200" stop="20230516132000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516132000 +0200" stop="20230516132100 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">L'inventaire de la Polynésie</title>
+<desc lang="fr">Modules courts vues du ciel des archipels de la Polynésie</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516132100 +0200" stop="20230516133500 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Ia ora na Pacific</title>
+<desc lang="fr">Un documentaire pour tout savoir de l'actualité des peuples du Pacifique</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516133500 +0200" stop="20230516133700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516133700 +0200" stop="20230516134000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Des airs de Polynésie</title>
+<desc lang="fr">Partez à la découverte de la Polynésie vue du ciel.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516134000 +0200" stop="20230516134700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Te fenua e te moana</title>
+<sub-title lang="fr">TE FENUA E TE MOANA</sub-title>
+<desc lang="fr">Ce nouveau rendez-vous écolo vous invite à mieux connaître de manière ludique, les règles du code de l'environnement au fenua.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516134700 +0200" stop="20230516135600 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Le JT vert</title>
+<sub-title lang="fr">LE JT VERT</sub-title>
+<desc lang="fr">Votre émission entièrement consacrée au respect de l'environnement et au développement durable sur le Fenua. Pragmatique et informatif, &quot;le JT Vert&quot; c'est chaque dimanche sur TNTV</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516135600 +0200" stop="20230516140000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516140000 +0200" stop="20230516145400 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Le Taupiti ana'e</title>
+<desc lang="fr">Le Taupiti ana'e, anciennement Heiva des écoles s'installera sur TNTV ! Découvrez ou redécouvrez sur la chaîne du fenua les prestations de nos jeunes talents en ori Tahiti, en percussions traditionnelles ou en ukulele.</desc>
+<category lang="fr">Spectacle</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B925AD07B8BBD9CC838E82111EE7EF23.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516145400 +0200" stop="20230516145600 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<sub-title lang="fr">HISTOIRE D'UNE OEUVRE D'ART</sub-title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516145600 +0200" stop="20230516151000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Hiro'a</title>
+<desc lang="fr">Chaque émission est une page d'histoire, un témoignage sur une époque, L'émission combine témoignages et images d'archives, c'est cette association qui donne son intérêt à l'émission.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516151000 +0200" stop="20230516151300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516151300 +0200" stop="20230516151400 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">L'inventaire de la Polynésie</title>
+<desc lang="fr">Modules courts vues du ciel des archipels de la Polynésie</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516151400 +0200" stop="20230516154100 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Suivez le guide</title>
+<desc lang="fr">Partez en voyage avec votre nouvelle série documentaire &quot; suivez le guide en Polynésie &quot;.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C611096178CDF2C49748D72742C813B0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516154100 +0200" stop="20230516154300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516154300 +0200" stop="20230516154800 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">A rave na : Explorez</title>
+<desc lang="fr">A la découverte de Tahiti et des îles.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516154800 +0200" stop="20230516164100 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Henua enata, la guerre des pics</title>
+<desc lang="fr">l existe une légende marquisienne connue uniquement des habitants de l'archipel : celle des montagnes vivantes qui défendent leur territoire. Dans l'esprit des Marquisiens, les montagnes sont leurs ancêtres protecteurs. Menée par André Vohi, une équipe d'aventuriers part à la conquête de la montagne Matafenua à Hiva Oa, un véritable géant de pierre.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516164100 +0200" stop="20230516164400 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516164400 +0200" stop="20230516164800 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Retrouvez votre clip musical polynésien.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516164800 +0200" stop="20230516165200 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Retrouvez votre clip musical polynésien.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516165200 +0200" stop="20230516165700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Retrouvez votre clip musical polynésien.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516165700 +0200" stop="20230516172300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Initiatives fenua, le doc</title>
+<desc lang="fr">Série documentaire sur les initiatives économique en Polynésie française.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516172300 +0200" stop="20230516172600 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Savoir faire artisanal</title>
+<sub-title lang="fr">ARTISANAT</sub-title>
+<desc lang="fr">Une série sous-titrée en langue française, qui vous présentera la transmission du savoir-faire artisanal traditionnel à travers l'utilisation des fibres végétales, des portraits d'artisan et des chef-d'oeuvres réalisés et présentés durant différents salons et expositions.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8944E0319E996F4040FFFAF2F871D1C1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516172600 +0200" stop="20230516172800 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516172800 +0200" stop="20230516173000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">A rave na : Explorez</title>
+<desc lang="fr">A la découverte de Tahiti et des îles.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516173000 +0200" stop="20230516181400 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Ohipa maitai</title>
+<desc lang="fr">Souhaitez la bienvenue aux candidats de la 3e saison, venus tenter leur chance au premier jeu télévisé 100% Fenua dédié à la création d'entreprise. A la clé pour le ou la gagnante, 1 000 000 de Fcfp pour réaliser son projet. Qui ira jusqu'au bout de l'aventure ?</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Téléréalité</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F9641E83BEE8D3501FA14CE47794840C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516181400 +0200" stop="20230516181700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516181700 +0200" stop="20230516191700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Festival Tahiti Ti'a Ma'i</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516191700 +0200" stop="20230516192100 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516192100 +0200" stop="20230516192300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Tua</title>
+<desc lang="fr">Destiné à mettre en avant les entrepreneurs de demain mais aussi des métiers destinés à inspirer les prochaines générations, ce programme valorise les initiatives solidaires, écoresponsables et/ou innovantes en vue de mettre en avant des hommes et des femmes acteurs du changement au fenua.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516192300 +0200" stop="20230516193800 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Initiatives fenua, le mag</title>
+<desc lang="fr">Une émission dédiée à la valorisation des initiatives économiques du fenua. Chaque épisode retracera le parcours de ces hommes et ces femmes qui participent au développement économique du fenua. Présentée par Tiare Nui Pahuiri-Philippon.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516193800 +0200" stop="20230516194100 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516194100 +0200" stop="20230516194400 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Des airs de Polynésie</title>
+<desc lang="fr">Partez à la découverte de la Polynésie vue du ciel.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516194400 +0200" stop="20230516195700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">To'u fenua, to'u ora</title>
+<sub-title lang="fr">TOU FENUA TOU ORA</sub-title>
+<desc lang="fr">Le magazine est dédié au secteur primaire et met en avant des hommes et des femmes qui travaillent dans l'artisanat, l'agriculture et autres filières du secteur</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516195700 +0200" stop="20230516200000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Au goût du jour</title>
+<desc lang="fr">Au Goût Du Jour propose chaque jour du lundi au vendredi une recette de cuisine facile, rapide et savoureuse et aux couleurs du fenua concoctée par un chef cuisinier local.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516200000 +0200" stop="20230516202000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Te ve'a</title>
+<sub-title lang="fr">TE VEA</sub-title>
+<desc lang="fr">Retrouvez l'actualité en langue tahitienne</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516202000 +0200" stop="20230516204000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Le journal</title>
+<sub-title lang="fr">LE JOURNAL</sub-title>
+<desc lang="fr">Retrouvez l'actualité en langue française.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516204000 +0200" stop="20230516204200 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">O ihi rima - de la main à l'objet</title>
+<desc lang="fr">Dans le cadre de ses missions de promotion du secteur, le Service de l'artisanat traditionnel a lancé il y a quelques mois la réalisation de 10 portraits d'artisans traditionnels, dans une démarche qui fait la part belle à la chaîne de création. Cette série, intitulée 'O ihi rima, de la main à l'objet, permet également de valoriser les matières naturelles et de placer l'artisanat traditionnel au coeur du quotidien des Polynésiens, tout en soulignant que cette activité est un métier d'avenir. L'ensemble des portraits est présenté en français et sous-titrés en reo tahiti.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516204200 +0200" stop="20230516213800 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Rava'ai, les techniques de pêche en Polynésie française</title>
+<desc lang="fr">Les Polynésiens sont des experts de la mer et de la pêche. Leurs rapports avec l'océan leur a permis de mettre au point et de perfectionner des techniques et des instruments pour pratiquer ce qui est une tradition, un sport, un plaisir, un besoin du quotidien, un savoir culturel…</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6CEFB769C5814988257F5C80A8FB6034.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516213800 +0200" stop="20230516214000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516214000 +0200" stop="20230516220700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Docs divers</title>
+<desc lang="fr">retrouvez le dernier documentaire sur l'île de Tahuata aux Marquises Tekua vit à Motopu, l'un des quatre villages de l'île. Sa passion est la pêche aux pieuvres et quand la mer le permet, elle va sur le platier pour s'y adonner. Tahuata recèle un trésor : la seule survivante du pahi, le Martin Chasseur des Marquises. Une espèce endémique qui est en danger d'extinction. Tohetia parcourt l'île afin d'inciter la population à protéger cet oiseau rare.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516220700 +0200" stop="20230516220900 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Tahiti treasure</title>
+<desc lang="fr">Renouez avec l'essentiel à Tahiti et ses îles.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516220900 +0200" stop="20230516223600 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Initiatives fenua, le doc</title>
+<desc lang="fr">Un série documentaire sur les initiatives économiques au fenua.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516223600 +0200" stop="20230516223800 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516223800 +0200" stop="20230516224000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">L'inventaire de la Polynésie</title>
+<desc lang="fr">Modules courts vues du ciel des archipels de la Polynésie</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516224000 +0200" stop="20230516232700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Ohipa maitai</title>
+<desc lang="fr">Souhaitez la bienvenue aux candidats de la 3e saison, venus tenter leur chance au premier jeu télévisé 100% Fenua dédié à la création d'entreprise. A la clé pour le ou la gagnante, 1 000 000 de Fcfp pour réaliser son projet. Qui ira jusqu'au bout de l'aventure ?</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Téléréalité</category>
+<icon src="https://img.bouygtel.fr/CMS/images/886523341F88A613314824BB4D0A3948.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516232700 +0200" stop="20230516233000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516233000 +0200" stop="20230516235600 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Artisanes</title>
+<desc lang="fr">A Fatu Hiva, les habitants se sont fait une spécialité dans le travail du Tapa, mais pas seulement. Dans cet écrin de verdure et la maison familiale transformée en musée, Sarah Vaki nous dévoile quelques-uns des secrets des artisanes de son île, dans une poésie de la vie qui lui appartient.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516235600 +0200" stop="20230516235700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">L'inventaire de la Polynésie</title>
+<desc lang="fr">Modules courts vues du ciel des archipels de la Polynésie</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230516235700 +0200" stop="20230517000000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Creating behind the scene</title>
+<desc lang="fr">Creating behind the Scene &quot;, zoom sur le processus créatif des artistes plasticiens de Polynésie française.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517000000 +0200" stop="20230517002000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Te ve'a</title>
+<sub-title lang="fr">TE VEA</sub-title>
+<desc lang="fr">Retrouvez l'actualité en langue tahitienne</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517002000 +0200" stop="20230517003900 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Le journal</title>
+<sub-title lang="fr">LE JOURNAL</sub-title>
+<desc lang="fr">Retrouvez l'actualité en langue française.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517003900 +0200" stop="20230517004300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Mémoires de rues</title>
+<sub-title lang="fr">MEMOIRE DE RUES</sub-title>
+<desc lang="fr">Savez-vous que toutes les rues de la ville de Papeete ont une histoire ? A découvrir dans Mémoire de rues.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517004300 +0200" stop="20230517004600 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Exposition Tiki</title>
+<sub-title lang="fr">TIKI</sub-title>
+<desc lang="fr">Le Tiki, réceptacle des croyances, médium entre le monde humain et divin, n'a pas fini de nous étonner</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Religions</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517004600 +0200" stop="20230517010000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Ia ora na Pacific</title>
+<desc lang="fr">13 minutes pour tout savoir de l'actualité des peuples du Pacifique</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517010000 +0200" stop="20230517010300 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Exposition Tiki</title>
+<sub-title lang="fr">TIKI</sub-title>
+<desc lang="fr">Le Tiki, réceptacle des croyances, médium entre le monde humain et divin, n'a pas fini de nous étonner</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Religions</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517010300 +0200" stop="20230517010600 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Des airs de Polynésie</title>
+<desc lang="fr">Partez à la découverte de la Polynésie vue du ciel.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517010600 +0200" stop="20230517012500 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Ia ora na !</title>
+<desc lang="fr">Ia Ora Na ! est votre nouvelle émission destinée à valoriser le secteur touristique en Polynésie. Son but est d'impliquer la population et en la sensibilisant aux savoir-faire et à la culture et de lui donner envie de s'investir.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517012500 +0200" stop="20230517012800 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517012800 +0200" stop="20230517015400 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Les grandes signatures</title>
+<desc lang="fr">Entretien consacré à ces hommes et ces femmes qui font bouger le fenua. Présenté par Tiare Nui PAHUIRI-PHILIPPON.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517015400 +0200" stop="20230517015800 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">O ihi rima - de la main à l'objet</title>
+<desc lang="fr">Dans le cadre de ses missions de promotion du secteur, le Service de l'artisanat traditionnel a lancé il y a quelques mois la réalisation de 10 portraits d'artisans traditionnels, dans une démarche qui fait la part belle à la chaîne de création. Cette série, intitulée 'O ihi rima, de la main à l'objet, permet également de valoriser les matières naturelles et de placer l'artisanat traditionnel au coeur du quotidien des Polynésiens, tout en soulignant que cette activité est un métier d'avenir. L'ensemble des portraits est présenté en français et sous-titrés en reo tahiti.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517015800 +0200" stop="20230517020000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517020000 +0200" stop="20230517030100 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Festival Tahiti Ti'a Ma'i</title>
+<desc lang="fr">Le Heiva i Tahiti laisse la place au festival Tahiti ti'a mai. Retrouvez le spectacle de chaque groupe de danse.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517030100 +0200" stop="20230517030400 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Histoire d'une oeuvre d'art</title>
+<desc lang="fr">En partenariat avec le Musée de Tahiti et des Iles, Thierry Teamo vous raconte l'histoire d'une oeuvre d'art, son essence, sa signification et sa portée dans le monde d'antan et celui d'aujourd'hui.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517030400 +0200" stop="20230517030700 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Des airs de Polynésie</title>
+<desc lang="fr">Partez à la découverte de la Polynésie vue du ciel.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517030700 +0200" stop="20230517030800 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">L'inventaire de la Polynésie</title>
+<desc lang="fr">Modules courts vues du ciel des archipels de la Polynésie</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517030800 +0200" stop="20230517031200 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Retrouvez votre clip musical polynésien.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517031200 +0200" stop="20230517031600 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Retrouvez votre clip musical polynésien.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517031600 +0200" stop="20230517032000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Retrouvez votre clip musical polynésien.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517032000 +0200" stop="20230517040000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Image fin programme</title>
+<desc lang="fr">Maeva - Nos émissions reprendront à 6h - mauruuru</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Programme indéterminé</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517040000 +0200" stop="20230517043000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Clip musical polynésien</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517043000 +0200" stop="20230517050000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Clip musical polynésien</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517050000 +0200" stop="20230517053000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Clip musical polynésien</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230517053000 +0200" stop="20230517060000 +0200" channel="TahitiNuiTV.fr">
+<title lang="fr">Clips</title>
+<desc lang="fr">Clip musical polynésien</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

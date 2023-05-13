@@ -1,0 +1,184 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230519044100 +0200" stop="20230519073100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519073100 +0200" stop="20230519082900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Late Sport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EF631D16B1E186486BA50A0587BE97E2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519082900 +0200" stop="20230519090000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Grand Prix</title>
+<sub-title lang="fr">Grand Prix de Miami</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4E793771F377B0D3EAAC10E75CC2542B.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519090000 +0200" stop="20230519105500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Super Rugby Pacific</title>
+<desc lang="fr">Super Rugby Pacific 2023. 13e journée. Moana Pasifika / Crusaders.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C2ABEC5E084A6260879A9F0A89C4901F.jpg" />
+<episode-num system="xmltv_ns">0.36.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519105500 +0200" stop="20230519111600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fractionné Rugby</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F08BD5BDF5E9FCCFAA39AB20ED12A14B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519111600 +0200" stop="20230519120700 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Sevens World Series 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/47962181A32684E6A5BD4DDDFC018D78.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519120700 +0200" stop="20230519123800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">L'oeil des pros</title>
+<sub-title lang="fr">Scheffler</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3D4A8AED3FD2E7E1EF70137053FA1CD2.jpg" />
+<episode-num system="xmltv_ns">0.48.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519123800 +0200" stop="20230519131000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Grand Prix</title>
+<sub-title lang="fr">Grand Prix de Miami</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4E793771F377B0D3EAAC10E75CC2542B.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519131000 +0200" stop="20230519144000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix d'Emilie-Romagne</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix d'Emilie-Romagne.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/06A7C13379EBA6F4DF1C6C08C0DDA57B.jpg" />
+<episode-num system="xmltv_ns">0.25.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519144000 +0200" stop="20230519145500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fractionné F1</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0B9061176B969F689C653E02B0FEFEF7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519145500 +0200" stop="20230519153600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 3 : Grand prix d'Emilie-Romagne</title>
+<desc lang="fr">Championnat FIA 2023. Grand prix d'Emilie-Romagne.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 3</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B99C26281129E9B78EC9D802F99E7234.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519153600 +0200" stop="20230519155000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fractionné F1</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EC2557A2F242F91E933E60A8C4281827.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519155000 +0200" stop="20230519163300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 2 : grand prix d'Emilie-Romagne</title>
+<desc lang="fr">Championnat FIA 2023. Grand prix d'Emilie-Romagne.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 2</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CE3743665A4DF9A562A6AC26979A4E09.jpg" />
+<episode-num system="xmltv_ns">0.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519163300 +0200" stop="20230519164000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Zapsport 360</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Multisports</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9CBCF15126328E97D6786AD608246815.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519164000 +0200" stop="20230519181100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix d'Emilie-Romagne</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix d'Emilie-Romagne.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/06A7C13379EBA6F4DF1C6C08C0DDA57B.jpg" />
+<episode-num system="xmltv_ns">0.26.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519181100 +0200" stop="20230519182800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fractionné F1</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BE78FA76ECDA2CA121BF4497842DA9D3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519182800 +0200" stop="20230519190000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">L'oeil des pros</title>
+<sub-title lang="fr">Scheffler</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3D4A8AED3FD2E7E1EF70137053FA1CD2.jpg" />
+<episode-num system="xmltv_ns">0.48.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519190000 +0200" stop="20230520010000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : PGA Championship</title>
+<desc lang="fr">PGA Championship 2023. 2e tour.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EC2B28D8339AF1F9F3C6F9BB574BF9B4.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520010000 +0200" stop="20230520023100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix d'Emilie-Romagne</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix d'Emilie-Romagne.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/06A7C13379EBA6F4DF1C6C08C0DDA57B.jpg" />
+<episode-num system="xmltv_ns">0.26.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520023100 +0200" stop="20230520042800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Call Jane</title>
+<desc lang="fr">Dans la ville de Chicago, dans les années 1960, certaines femmes se retrouvent secrètement au sein de groupes afin de pratiquer des avortements. A cette époque, l'avortement n'est pas encore légalisé aux Etats-Unis. Il ne le sera que plus tard avec l'arrêté dit &quot;Roe v. Wade&quot;, voté au Sénat américain en 1973. Joy, une jeune femme mariée, découvre un jour qu'elle est enceinte et cette grossesse est pour elle inattendue. Elle décide de contacter un de ces groupes de femmes pour demander de l'aide et des conseils. </desc>
+<category lang="fr">Film</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/61993FAE0E345D3D753370A03440A4BC.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230520042800 +0200" stop="20230520073400 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FE94A7D93AAD8E38CC5F134073111ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

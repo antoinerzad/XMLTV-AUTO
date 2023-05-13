@@ -1,0 +1,163 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230519042200 +0200" stop="20230519070800 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FE94A7D93AAD8E38CC5F134073111ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519070800 +0200" stop="20230519080100 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">+ de courts</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D30DC3CC9D945A6185F090B05D033A67.jpg" />
+<episode-num system="xmltv_ns">0.15.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519080100 +0200" stop="20230519081500 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Tchi tcha : coup de projecteur</title>
+<sub-title lang="fr">Hawaii</sub-title>
+<desc lang="fr">Magazine sur les actualités culturelles, suit les plus populaires événements cinématographiques.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8248EBE5A268B1812B77EB327C743313.jpg" />
+<episode-num system="xmltv_ns">1.27.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519081500 +0200" stop="20230519100800 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Avec amour et acharnement</title>
+<desc lang="fr">A Paris, Sarah file le parfait amour avec Jean, un ancien joueur de rugby, depuis une dizaine d'années. Ayant une confiance aveugle l'un envers l'autre, leur relation n'a fait que se renforcer avec le temps. Un jour, Sarah retombe sur son ancien petit ami François, celui qu'elle a aimé fut un temps et qui lui a présenté son compagnon actuel. L'apparition de son ancien amour fait remonter des émotions à la surface. François ouvre une agence qui recrutera des joueurs de rugby et décide de demander à son vieil ami Jean de faire partie de sa structure. Ce couple soudé se retrouve face à une épreuve qui vient menacer leur équilibre...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5D6154B12AD8BF3DFD48DD0EAE4F0BF4.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519100800 +0200" stop="20230519122200 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Decision to Leave</title>
+<desc lang="fr">En Corée du Sud, un mystérieux crime met en émoi la police qui couvre une zone montagneuse isolée. Pour tenter de résoudre l'affaire, l'enquête est confiée à Hae-joon, un inspecteur réputé. Très vite, ce dernier débute les interrogatoires et, dès sa rencontre avec l'épouse du défunt, Seo-rae, il constate des éléments qui lui mettent la puce à l'oreille. Forcé de mener à bien ses investigations, Hae-joon fréquente de plus en plus assidument la jeune femme, aussi troublante que séductrice. L'expérimenté policier ne tarde pas à se lier à Seo-rae alors qu'au même moment les soupçons s'amplifient à propos de son implication dans le meurtre...</desc>
+<category lang="fr">Action</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A746C57CFD03EF594DF393F6A12F2A44.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519122200 +0200" stop="20230519123500 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">L'hebd'Hollywood</title>
+<desc lang="fr">La revue de l'actualité du cinéma US. Sortie salles, festivals, films en préparation ou en tournage : Didier Allouch est notre sentinelle à Hollywood ! Des news ponctuées de rencontres avec les grandes figures du cinéma américain, de belles exclus, ainsi que des sujets surprenants sur les coulisses de la célèbre cité des Anges.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FC5571B9262784EDDCC95467FF71476F.jpg" />
+<episode-num system="xmltv_ns">0.32.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519123500 +0200" stop="20230519142200 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">La machine infernale</title>
+<desc lang="fr">Depuis juin 1981 et la tuerie de Knoxville dans le Tennessee, Bruce Cogburn, auteur controversé, vit reclus dans le désert californien. Après un best-seller, il est aujourd'hui incapable de poursuivre son oeuvre. Mais il est contraint de sortir de son isolement lorsqu'un certain William DuKent, apprenti romancier, lui adresse des dizaines de courriers lui réclamant un nouveau roman. D'abord agacé, l'écrivain se demande qui est cette mystérieuse personne. Peu à peu, sa curiosité devient une obsession qui l'entraîne au bord du chaos... </desc>
+<category lang="fr">Action</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/28E3AABB29F46162075F709C30B18432.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519142200 +0200" stop="20230519163400 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Ambulance</title>
+<desc lang="fr">Alors qu'il doit trouver 231 000 dollars pour l'opération de la dernière chance de sa femme, Will, un ancien militaire, sollicite l'aide de son frère adoptif Danny, un criminel notoire. En guise de soutien, celui-ci lui propose plutôt de participer au braquage d'une banque avec un butin de 32 millions de dollars à la clé. Malheureusement pour eux, leur plan ne se déroule pas comme escompté. Contraints de quitter précipitamment les lieux, ils prennent en otage les passagers d'une ambulance, un policier gravement blessé et une infirmière, et se lancent dans une course-poursuite avec les forces de police de Los Angeles à leurs trousses...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Action</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7211010F091AD42ABECC6511903AD9B3.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230519163400 +0200" stop="20230519164100 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Tchi tcha Home Cinéma</title>
+<sub-title lang="fr">Opération Cannes</sub-title>
+<desc lang="fr">L'actualité du cinéma à Tchi tcha avec Laurie Cholewa et ses invités.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/41D60FD15D953A77351D55AF881910BA.jpg" />
+<episode-num system="xmltv_ns">1.27.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519164100 +0200" stop="20230519182300 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Novembre</title>
+<desc lang="fr">Plusieurs attentats frappent Paris, le 13 novembre 2015, ce qui a pour conséquence de mettre en alerte la sous-direction antiterroriste, avec à sa tête Héloïse et son bras droit Fred. Ils doivent gérer une situation complètement inédite et trouver le plus vite possible ces terroristes en fuite. Les téléphones ne cessent pas de sonner, les indices fusent mais l'équipe doit garder la tête froide et ne pas laisser les émotions prendre le dessus. Des désaccords apparaissent entre les &quot;anciens&quot; plutôt procéduriers et les plus jeunes qui marchent au feeling. Jusqu'à un coup de téléphone qui modifie le déroulement de l'enquête...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E1364BA6DE497AD979EDE33CA5026F84.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519182300 +0200" stop="20230519205800 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Leila et ses frères</title>
+<desc lang="fr">Dans un pays en proie aux difficultés économiques, Leila est la seule fille d'une fratrie de cinq enfants. Elle souhaite aider ses frères au chômage en ouvrant avec eux une boutique et ainsi faire prospérer cette famille iranienne. Son père Esmail dispose d'une réserve de pièces d'or et a d'autres plans : il souhaite réaliser son rêve et devenir le nouveau chef de famille, véritable distinction dans sa société. Débute alors les disputes entre eux puisque les enfants ont mis toutes leurs économies en commun et qu'ils ont besoin de ce coup de pouce financier. Mais Esmail semble avoir l'intention de camper sur ses positions... </desc>
+<category lang="fr">Film</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/61AFA192B3C5C4A8AA430DD9292FC0F4.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519205800 +0200" stop="20230519223900 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Close</title>
+<desc lang="fr">Deux garçons de 13 ans, Léo et Rémi, sont inséparables. Ils passent pratiquement tous les jours ensemble et dorment parfois chez Rémi. Mais un évènement va bouleverser cette relation. Lors de leur rentrée au collège, un groupe de jeunes filles souhaitent savoir si les garçons sont en couple. C'est un véritable choc pour Léo et un coup de frein pour leur amitié. A la suite de cet incident, l'enfant va se remettre en question ainsi que la relation qui le lie à Rémi. Il s'éloigne de son ami de toujours, laissant celui-ci dans l'incompréhension. Jusqu'au jour où Léo décide de se rapprocher de la mère de son ami afin de trouver du soutien...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C53AA19C9159CF37A1CD13CB06FE9929.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519223900 +0200" stop="20230519232600 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Le cercle</title>
+<sub-title lang="fr">B.O. films cannois</sub-title>
+<desc lang="fr">&quot;Le Cercle&quot; est un magazine de débats et de critiques cinéphiles animé par un journaliste en compagnie de chroniqueurs et en présence d'un public d'étudiants en cinéma.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2CAF7DBE3DDC65CD682100540E822956.jpg" />
+<episode-num system="xmltv_ns">0.34.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519232600 +0200" stop="20230520004600 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Les Harkis</title>
+<desc lang="fr">En ce début des années 1960, la guerre d'Algérie dure depuis bien trop longtemps aux yeux du gouvernement français, bien décidé à en finir avec cet interminable conflit. Engagés dans l'armée, les Harkis constatent avec une certaine appréhension que les dirigeants semblent vouloir accorder l'indépendance au pays. Considérés comme des traîtres par une grande partie de la population, ces derniers espèrent se voir offrir l'asile par l'Hexagone dans le cas d'une issue qui leur serait défavorable lors des négociations en cours. Dans leur hiérarchie, les avis divergent. Certains refusent catégoriquement de les voir débarquer en France...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Histoire</category>
+<icon src="https://img.bouygtel.fr/CMS/images/69A2E179EF68F148ABF90E62BF19BD3F.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230520004600 +0200" stop="20230520005800 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Cannes 2023</title>
+<desc lang="fr">Le point sur l'édition 2023 du Festival de Cannes, présidé pour la première fois par Iris Knobloch, en remplacement de Pierre Lescure. Le jury est présidé par le réalisateur suédois Ruben Östlund, récompensé de la Palme d'or pour &quot;The Square&quot; en 2017, puis pour &quot;Sans filtre&quot; en 2022.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9B3CE46B421CFCBD11A29D6AC76851BC.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520005800 +0200" stop="20230520011300 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">En aparté express</title>
+<desc lang="fr">Avec Charlotte Gainsbourg, Jeff Goldblum, Juliette Binoche, Xavier Dolan, Chiara Mastroianni, Daniel Auteuil, Diane Kruger, Fanny Ardant, Benoît Magimel, Nicolas Bedos, Kristin Scott-Thomas, Michel Blanc et Claude Lelouch.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/06D246BA858BF7607484C1B0C816E707.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520011300 +0200" stop="20230520031000 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">La conspiration du Caire</title>
+<desc lang="fr">Le jour de la rentrée à l'université al-Azhar du Caire, le Grand Imam décède. Considéré comme la plus haute autorité sunnite du pays, son remplacement est encadré par le pouvoir en place. Soucieux de placer leur candidat à ce poste crucial, les dirigeants, par l'intermédiaire de l'enquêteur Ibrahim, décident de démarcher un élève capable d'espionner ses camarades. C'est Adam, un étudiant boursier, qui est choisi par les services secrets égyptiens pour son profil. Sans attache dans la capitale, le jeune homme bénéficie d'une bonne image. Mais très vite, il se retrouve dans un tourbillon entre les élites religieuses et politiques du pays...</desc>
+<category lang="fr">Action</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FAB1AFB2E8F37C9839AF9B84E095566B.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230520031000 +0200" stop="20230520045400 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Resident Evil : Bienvenue à Raccoon City</title>
+<desc lang="fr">Installé à Raccoon City, un mystérieux groupe pharmaceutique, Umbrella Corporation, mène ses recherches sans éveiller le moindre soupçon jusqu'au jour où un dramatique accident force les employés à fuir précipitamment les lieux sans même prendre la peine de vider les locaux. Très vite, les survivants de la catastrophe comprennent que la situation échappe à tout contrôle et qu'ils vont devoir faire face aux lourdes conséquences des actes ignobles de l'entreprise, dont ils découvrent avec stupeur les réelles intentions. D'effrayantes et menaçantes créatures errent désormais dans les rues de la ville à la recherche de chair fraîche...</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Horreur</category>
+<icon src="https://img.bouygtel.fr/CMS/images/26F2454BC6A2EF8BA874745BBC8D6F65.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230520045400 +0200" stop="20230520072100 +0200" channel="CanalPlusCinema.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FE94A7D93AAD8E38CC5F134073111ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

@@ -1,0 +1,10 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230520055200 +0200" stop="20230520061800 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Groland le replait</title>
+<desc lang="fr">Le très flegmatique Jules-Edouard Moustic présente les meilleurs moments des émissions diffusées sur le bouquet satellite grolandais, d'après une sélection méticuleusement réalisée par Benoît Delépine, Gustave...</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Humour</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F7ECF1E7BF66D04B58EA6BC0D8779BDF.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>

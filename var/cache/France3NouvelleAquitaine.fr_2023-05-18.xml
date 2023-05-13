@@ -1,0 +1,525 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230518060000 +0200" stop="20230518062200 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 19/20 - Limousin</title>
+<desc lang="fr">Analyse approfondie de l'actu. Des décryptages de l'info et des reportages de fond, dans le Limousin. Notre ambition : répondre à vos questionnements, et lutter contre les fake news.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518062200 +0200" stop="20230518064400 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 19/20 - Aquitaine</title>
+<desc lang="fr">Analyse approfondie de l'actualité. Des décryptages de l'info et des reportages de fond en Aquitaine. Notre ambition : répondre à vos questionnements, et lutter contre les fake news.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8FDF184394A4E46633201441649AD487.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518064400 +0200" stop="20230518071000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 19/20 - Poitou Charentes</title>
+<desc lang="fr">Analyse approfondie de l'actualité. Des décryptages de l'info et des reportages de fond en Poitou-Charente. Notre ambition : répondre à vos questionnements, et lutter contre les fake news.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518071000 +0200" stop="20230518071400 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Bis</title>
+<sub-title lang="fr">Godet 1 oeuvre</sub-title>
+<desc lang="fr">&quot;BIS&quot; se lance le défi d'explorer les multiples territoires de la Nouvelle-Aquitaine, pour y dénicher les plus belles pépites culturelles. Mais aussi faire partager le quotidien de créateurs inspirés, les confidences d'écrivains ou de penseurs mais aussi le secret des ateliers d'artistes, des anecdotes insolites et d'étonnantes initiatives partout ailleurs dans la région.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518071400 +0200" stop="20230518071500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">19/20 - Pau Sud-Aquitaine</title>
+<desc lang="fr">7 minutes d'info sur l'actu sur Pau Sud Aquitaine.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518071500 +0200" stop="20230518072100 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">19/20 - Edition Euskal Herri Pays Basque</title>
+<desc lang="fr">7 minutes d'info sur l'actu dans le Pays Basque.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518072100 +0200" stop="20230518072800 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">19/20 - Périgords</title>
+<desc lang="fr">7 minutes d'info sur l'actu dans le Périgord.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518072800 +0200" stop="20230518073500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">19/20 - Pays de Corrèze</title>
+<desc lang="fr">7 minutes d'info sur l'actu en Corrèze.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E286DDA64EDA135D682E64B1DB3951B2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518073500 +0200" stop="20230518074200 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">19/20 - Atlantique</title>
+<desc lang="fr">7 minutes d'info sur l'actu sur la côte Atlantique.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518074200 +0200" stop="20230518075500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">19/20 - Bordeaux Métropole</title>
+<desc lang="fr">7 minutes d'info sur l'actu de Bordeaux Métropole.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/67089B55980D6506B1675DFFBC82AF15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518075500 +0200" stop="20230518083500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Vous êtes formidables - Nouvelle-Aquitaine</title>
+<desc lang="fr">Chaque matin de la semaine, Vanessa Finot accueille une personne formidable de Nouvelle-Aquitaine, fil rouge de l'émission. Personnages connus ou inconnus sont les héros de ce nouveau rendez-vous. Acteurs de la vie quotidienne, ils partagent leurs passions, leurs actions positives et solidaires et mettent en valeur notre région. Ils sont entrepreneurs, artistes, sportifs, artisans, jeunes, étudiants, bénévoles dans le milieu associatif... Innovations, gourmandises, astuces de chefs, découvertes de producteurs de la région, do it yourself, coups de coeur insolites dans la région... il y en aura pour tous les goûts. Frédérick Gersal sera aux côté de Vanessa Finot pour faire découvrir et raconter des personnages liés à la Nouvelle-Aquitaine.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518083500 +0200" stop="20230518083700 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Goule d'amour</title>
+<sub-title lang="fr">La licorne belle disparue</sub-title>
+<desc lang="fr">La licorne a été refoulée par Noë à l'embarquement dans l'Arche. Trop dangereux. Mais elle a tout de même survécu puisque les Magdas l'ont portraiturée.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Histoire</category>
+<episode-num system="xmltv_ns">0.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518083700 +0200" stop="20230518090500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Txirrita</title>
+<sub-title lang="fr">Musée San Telmo, les clés du Pays Basque</sub-title>
+<desc lang="fr">Un voyage dans l'histoire du Pays basque pour mieux en saisir l'âme, des outils en silex fabriqués par les premiers humains jusqu'aux oeuvres contemporaines de Cristina Iglesias, plasticienne de Saint Sébastien. Du siècle des Lumières à ce premier quart du XXIème. De la fabrication des fromages en estives au travail de l'acier et du fer et aux coopératives industrielles de Mondragon. Txirrita pousse les portes du musée San Telmo de Saint Sébastien qui, de façon pédagogique, dépouillée et élégante, permet de mieux cerner l'essence même du Pays basque.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518090500 +0200" stop="20230518100000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Enquêtes de région - Nouvelle-Aquitaine</title>
+<sub-title lang="fr">Vie chère : comment consommer malin</sub-title>
+<desc lang="fr">Individuelles ou collectives, quelles sont les initiatives permettant de consommer malin en Nouvelle-Aquitaine afin de faire face aux fins de mois de plus en plus difficiles ? Depuis des mois, c'est le sujet qui inquiète les français : la hausse des prix. Le coût des énergies s'envole, l'inflation sur les produits alimentaires dépasse en février les 14 % sur un an, obligeant nombre d'entre nous à faire des choix ou à consommer différemment.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518100000 +0200" stop="20230518100300 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Tous les chemins mènent à vous</title>
+<sub-title lang="fr">Soulac-sur-Mer 33 direct 1 06 05</sub-title>
+<desc lang="fr">A la découverte de la vie d'un lieu de Nouvelle-Aquitaine et de ses habitants.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518100300 +0200" stop="20230518101800 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">C'est à Limoges</title>
+<desc lang="fr">Un nouveau groupe débarque, mélangeant sans complexe le rock, le funk et le punk. Mr Princk a bien décidé de retourner Noriac à Limoges pour son premier concert. Plus de 100 harpistes venus de 17 nations différentes participent au concours français de la harpe à Limoges. L'objectif du café relogement est d'échanger avec les habitants sur le projet urbain, notamment sur les relogements qui débutent dans le cadre des opérations de démolition engagées dans le quartier de Beaubreuil.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518101800 +0200" stop="20230518104700 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Alors on bouge en région</title>
+<sub-title lang="fr">Yoga bird of Paradise avec Valérie</sub-title>
+<desc lang="fr">Un flow pour préparer le corps à la posture phare de cette pratique : Svarga Dvijasana ou la posture de l'oiseau de Paradis. Ouverture d'épaules, de hanches et ancrage sont au programme de cette pratique. Bien s'ancrer pour mieux s'envoler ! Niveau Intermédiaire.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518104700 +0200" stop="20230518110000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">NoApop</title>
+<sub-title lang="fr">David Cairol</sub-title>
+<desc lang="fr">David Cairol Anglet Il vient d'Anglet, des belles plages du Pays Basque et draine avec ses grains de sable une musique qui ressemble au coucher de soleil et accompagne les surfeurs sur la plage, le reggae.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6D8BA2B08A00455114BF3CE9AB296650.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518110000 +0200" stop="20230518110500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Tous les chemins mènent à vous</title>
+<sub-title lang="fr">Soulac-sur-Mer 33 direct 2 06 05</sub-title>
+<desc lang="fr">A la découverte de la vie d'un lieu de Nouvelle-Aquitaine et de ses habitants.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518110500 +0200" stop="20230518111200 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">19/20 - Edition Euskal Herri Pays Basque</title>
+<desc lang="fr">7 minutes d'info sur l'actu dans le Pays Basque.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518111200 +0200" stop="20230518111900 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">19/20 - Pau Sud-Aquitaine</title>
+<desc lang="fr">7 minutes d'info sur l'actu sur Pau Sud Aquitaine.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518111900 +0200" stop="20230518112600 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">19/20 - Périgords</title>
+<desc lang="fr">7 minutes d'info sur l'actu dans le Périgord.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518112600 +0200" stop="20230518113300 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">19/20 - Pays de Corrèze</title>
+<desc lang="fr">7 minutes d'info sur l'actu en Corrèze.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E286DDA64EDA135D682E64B1DB3951B2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518113300 +0200" stop="20230518114000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">19/20 - Atlantique</title>
+<desc lang="fr">7 minutes d'info sur l'actu sur la côte Atlantique.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518114000 +0200" stop="20230518114900 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">19/20 - Bordeaux Métropole</title>
+<desc lang="fr">7 minutes d'info sur l'actu de Bordeaux Métropole.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/67089B55980D6506B1675DFFBC82AF15.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518114900 +0200" stop="20230518121600 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">NoA sur mer</title>
+<sub-title lang="fr">Nautisme, le défi de la sobriété</sub-title>
+<desc lang="fr">NoA sur mer s'intéresse à la transition énergétique et l'évolution écologique du milieu maritime. La Rochelle, ville portuaire, est à la pointe dans ce domaine depuis plusieurs années avec ses bus de mer sont zéro carbone. Ces bateaux, qui transportent plusieurs milliers de passagers cette année, fonctionnent à l'électronique solaire. Et cela ne s'arrête pas là puisque le port dans son ensemble travaille pour faire évoluer le monde du nautisme vers une transition écologique plus responsable.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Nature</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BD07A889E2F31CCB1B3324380416F3F6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518121600 +0200" stop="20230518121900 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Oc veituratge</title>
+<sub-title lang="fr">Que ns'i tornam</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518121900 +0200" stop="20230518124600 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Olatua</title>
+<sub-title lang="fr">Best of juillet</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Surf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2AABC8026F7BCE6DC99DB70E3870A536.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518124600 +0200" stop="20230518131300 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Le goût des rencontres Nouvelle-Aquitaine</title>
+<sub-title lang="fr">Piment dans tous ses états à Sort-en-Chalosse</sub-title>
+<desc lang="fr">Entre mai et octobre, dans les Landes, c'est la saison du piment doux très long. Il se cuisine en omelette ou en piperade. Christelle et Christophe ont décidé de le produire en grande quantité. Au menu : confiture de figue et piment vert.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C80FE7C3276B28B57AF907053D5F6B8B.jpg" />
+<episode-num system="xmltv_ns">0.85.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518131300 +0200" stop="20230518131700 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Bis</title>
+<sub-title lang="fr">Godet 1 oeuvre</sub-title>
+<desc lang="fr">&quot;BIS&quot; se lance le défi d'explorer les multiples territoires de la Nouvelle-Aquitaine, pour y dénicher les plus belles pépites culturelles. Mais aussi faire partager le quotidien de créateurs inspirés, les confidences d'écrivains ou de penseurs mais aussi le secret des ateliers d'artistes, des anecdotes insolites et d'étonnantes initiatives partout ailleurs dans la région.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518131700 +0200" stop="20230518134400 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Cap Sud-Ouest</title>
+<sub-title lang="fr">Les Pyrénées en hiver, en harmonie avec la nature</sub-title>
+<desc lang="fr">Une expédition dans la neige des Pyrénées pour une émission consacrée à la montagne vécue sous un angle différent par des amoureux de la nature.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<episode-num system="xmltv_ns">0.138.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518134400 +0200" stop="20230518134800 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">OC Kay</title>
+<sub-title lang="fr">Lo Salicorn</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Education</category>
+<episode-num system="xmltv_ns">0.61.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518134800 +0200" stop="20230518140000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">18h30 - Nouvelle Aquitaine</title>
+<desc lang="fr">Le &quot; 18.30 &quot; diffusé en 13 éditions régionales du lundi au vendredi, proposera un regard renouvelé sur l'info dans les régions, juste avant les éditions locales et le 19/20. En Nouvelle-Aquitaine cette nouvelle tranche sera présentée en alternance par trois journalistes : Marie-Ange Cristofari en Poitou-Charentes, Caroline Huet en Limousin et Sandrine Papin en Aquitaine. Le contenu de cette case sera complémentaire de l'offre du JT habituel. Les rédactions proposeront une mise en avant d'initiatives solidaires et positives. Nous avons aussi souhaité amplifier le lien de proximité qui s'est développé avec vous pendant cette année si particulière. Nous vous invitons à nous faire partager vos publications vidéo insolites et vos belles photos postées sur vos réseaux sociaux. Elles seront diffusées à l'antenne.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518140000 +0200" stop="20230518140400 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Tous les chemins mènent à vous</title>
+<sub-title lang="fr">Soulac-sur-Mer 33 direct 3 06 05</sub-title>
+<desc lang="fr">A la découverte de la vie d'un lieu de Nouvelle-Aquitaine et de ses habitants.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518140400 +0200" stop="20230518142100 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 12/13 - Poitou Charentes</title>
+<desc lang="fr">Résumé de l'actu de la mi-journée en Poitou-Charentes.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518142100 +0200" stop="20230518143700 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 12/13 - Limousin</title>
+<desc lang="fr">Résumé de l'actu de la mi-journée en Limousin.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518143700 +0200" stop="20230518145400 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 12/13 - Aquitaine</title>
+<desc lang="fr">Résumé de l'actu de la mi-journée en Aquitaine.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518145400 +0200" stop="20230518150500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">NoA découverte</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518150500 +0200" stop="20230518151900 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">C'est à Limoges</title>
+<desc lang="fr">Un nouveau groupe débarque, mélangeant sans complexe le rock, le funk et le punk. Mr Princk a bien décidé de retourner Noriac à Limoges pour son premier concert. Plus de 100 harpistes venus de 17 nations différentes participent au concours français de la harpe à Limoges. L'objectif du café relogement est d'échanger avec les habitants sur le projet urbain, notamment sur les relogements qui débutent dans le cadre des opérations de démolition engagées dans le quartier de Beaubreuil.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518151900 +0200" stop="20230518152200 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Bis</title>
+<sub-title lang="fr">Godet 1 oeuvre</sub-title>
+<desc lang="fr">&quot;BIS&quot; se lance le défi d'explorer les multiples territoires de la Nouvelle-Aquitaine, pour y dénicher les plus belles pépites culturelles. Mais aussi faire partager le quotidien de créateurs inspirés, les confidences d'écrivains ou de penseurs mais aussi le secret des ateliers d'artistes, des anecdotes insolites et d'étonnantes initiatives partout ailleurs dans la région.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518152200 +0200" stop="20230518160300 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Vous êtes formidables - Nouvelle-Aquitaine</title>
+<desc lang="fr">Chaque matin de la semaine, Vanessa Finot accueille une personne formidable de Nouvelle-Aquitaine, fil rouge de l'émission. Personnages connus ou inconnus sont les héros de ce nouveau rendez-vous. Acteurs de la vie quotidienne, ils partagent leurs passions, leurs actions positives et solidaires et mettent en valeur notre région. Ils sont entrepreneurs, artistes, sportifs, artisans, jeunes, étudiants, bénévoles dans le milieu associatif... Innovations, gourmandises, astuces de chefs, découvertes de producteurs de la région, do it yourself, coups de coeur insolites dans la région... il y en aura pour tous les goûts. Frédérick Gersal sera aux côté de Vanessa Finot pour faire découvrir et raconter des personnages liés à la Nouvelle-Aquitaine.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518160300 +0200" stop="20230518160500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Goule d'amour</title>
+<sub-title lang="fr">La licorne belle disparue</sub-title>
+<desc lang="fr">La licorne a été refoulée par Noë à l'embarquement dans l'Arche. Trop dangereux. Mais elle a tout de même survécu puisque les Magdas l'ont portraiturée.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Histoire</category>
+<episode-num system="xmltv_ns">0.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518160500 +0200" stop="20230518163100 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Txirrita</title>
+<sub-title lang="fr">Musée San Telmo, les clés du Pays Basque</sub-title>
+<desc lang="fr">Un voyage dans l'histoire du Pays basque pour mieux en saisir l'âme, des outils en silex fabriqués par les premiers humains jusqu'aux oeuvres contemporaines de Cristina Iglesias, plasticienne de Saint Sébastien. Du siècle des Lumières à ce premier quart du XXIème. De la fabrication des fromages en estives au travail de l'acier et du fer et aux coopératives industrielles de Mondragon. Txirrita pousse les portes du musée San Telmo de Saint Sébastien qui, de façon pédagogique, dépouillée et élégante, permet de mieux cerner l'essence même du Pays basque.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518163100 +0200" stop="20230518181700 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Automobilisme : Grand prix Pau</title>
+<desc lang="fr">Grand prix Pau 2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Automobilisme</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518181700 +0200" stop="20230518184400 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">NoA sur mer</title>
+<sub-title lang="fr">Nautisme, le défi de la sobriété</sub-title>
+<desc lang="fr">NoA sur mer s'intéresse à la transition énergétique et l'évolution écologique du milieu maritime. La Rochelle, ville portuaire, est à la pointe dans ce domaine depuis plusieurs années avec ses bus de mer sont zéro carbone. Ces bateaux, qui transportent plusieurs milliers de passagers cette année, fonctionnent à l'électronique solaire. Et cela ne s'arrête pas là puisque le port dans son ensemble travaille pour faire évoluer le monde du nautisme vers une transition écologique plus responsable.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Nature</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2E0C4D0BA8F9C911B88542B311241A45.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518184400 +0200" stop="20230518190900 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Olatua</title>
+<sub-title lang="fr">Best of juillet 2022</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Surf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2AABC8026F7BCE6DC99DB70E3870A536.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518190900 +0200" stop="20230518193600 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Le goût des rencontres Nouvelle-Aquitaine</title>
+<sub-title lang="fr">Piment dans tous ses états à Sort-en-Chalosse</sub-title>
+<desc lang="fr">Entre mai et octobre, dans les Landes, c'est la saison du piment doux très long. Il se cuisine en omelette ou en piperade. Christelle et Christophe ont décidé de le produire en grande quantité. Au menu : confiture de figue et piment vert.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3D905E3F89E85499D4E82C06FDF2E947.jpg" />
+<episode-num system="xmltv_ns">0.85.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518193600 +0200" stop="20230518200300 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Cap Sud-Ouest</title>
+<sub-title lang="fr">Les Pyrénées en hiver, en harmonie avec la nature</sub-title>
+<desc lang="fr">Une expédition dans la neige des Pyrénées pour une émission consacrée à la montagne vécue sous un angle différent par des amoureux de la nature.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<episode-num system="xmltv_ns">0.138.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518200300 +0200" stop="20230518200600 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Goule d'amour</title>
+<sub-title lang="fr">La licorne belle disparue</sub-title>
+<desc lang="fr">La licorne a été refoulée par Noë à l'embarquement dans l'Arche. Trop dangereux. Mais elle a tout de même survécu puisque les Magdas l'ont portraiturée.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Histoire</category>
+<episode-num system="xmltv_ns">0.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518200600 +0200" stop="20230518201000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Tous les chemins mènent à vous</title>
+<sub-title lang="fr">Soulac-sur-Mer 33 direct 1 06 05</sub-title>
+<desc lang="fr">A la découverte de la vie d'un lieu de Nouvelle-Aquitaine et de ses habitants.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518201000 +0200" stop="20230518201400 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Tous les chemins mènent à vous</title>
+<sub-title lang="fr">Soulac-sur-Mer 33 direct 2 06 05</sub-title>
+<desc lang="fr">A la découverte de la vie d'un lieu de Nouvelle-Aquitaine et de ses habitants.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518201400 +0200" stop="20230518201900 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Tous les chemins mènent à vous</title>
+<sub-title lang="fr">Soulac-sur-Mer 33 direct 3 06 05</sub-title>
+<desc lang="fr">A la découverte de la vie d'un lieu de Nouvelle-Aquitaine et de ses habitants.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518201900 +0200" stop="20230518203400 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">C'est à Limoges</title>
+<desc lang="fr">À l'occasion de la journée internationale des droits des femmes, la Ville de Limoges met en avant 8 oeuvres du musée des Beaux-Arts réalisées par des femmes artistes (émail, peinture et sculpture). Le pôle de compétitivité ALPHA-RLH accompagne entreprises et laboratoires dans le montage, l'expertise et le financement de projets d'innovation.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518203400 +0200" stop="20230518210000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Se réinventer en Nouvelle-Aquitaine</title>
+<sub-title lang="fr">Ces jeunes qui s'engagent</sub-title>
+<desc lang="fr">Formation et engagement</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5F49F61448E8E581F50B4165EA7D7A6F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518210000 +0200" stop="20230518210100 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">NoA Lumière</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518210100 +0200" stop="20230518212600 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Oc veituratge</title>
+<sub-title lang="fr">Que ns'i tornam</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Comédie</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518212600 +0200" stop="20230518224800 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Tout est permis</title>
+<desc lang="fr">Paul, la quarantaine, est installateur d'antennes. Veuf et père d'une fille de 13 ans, Mélissa, il est sincèrement épris de Claire, rencontrée depuis un certain temps déjà, mais il n'ose pas encore avouer sa nouvelle relation à sa fille. Son quotidien serein bascule le jour où des gendarmes l'arrêtent. Un léger excès de vitesse, le téléphone portable à l'oreille et de l'alcool dans le sang : huit points lui sont retirés d'un coup, auxquels s'ajoutent d'autres, oubliés, liés à de vieilles infractions. Voilà Paul privé de permis. Lui, l'employé modèle, doit alors multiplier les ruses pour continuer à conduire et sauver son emploi...</desc>
+<category lang="fr">Téléfilm</category>
+<category lang="fr">Comédie</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518224800 +0200" stop="20230518225200 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">OC Kay</title>
+<sub-title lang="fr">Lo Salicorn</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Education</category>
+<episode-num system="xmltv_ns">0.61.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518225200 +0200" stop="20230518231400 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 19/20 - Aquitaine</title>
+<desc lang="fr">Analyse approfondie de l'actualité. Des décryptages de l'info et des reportages de fond en Aquitaine. Notre ambition : répondre à vos questionnements, et lutter contre les fake news.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/75FE09C1E23A79F1B4B8E82974429FCE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518231400 +0200" stop="20230518233700 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 19/20 - Limousin</title>
+<desc lang="fr">Analyse approfondie de l'actu. Des décryptages de l'info et des reportages de fond, dans le Limousin. Notre ambition : répondre à vos questionnements, et lutter contre les fake news.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518233700 +0200" stop="20230518235500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">JT 19/20 - Poitou Charentes</title>
+<desc lang="fr">Analyse approfondie de l'actualité. Des décryptages de l'info et des reportages de fond en Poitou-Charente. Notre ambition : répondre à vos questionnements, et lutter contre les fake news.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230518235500 +0200" stop="20230519011900 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Schumann : Concerto pour violoncelle</title>
+<desc lang="fr">SCHUMANN CONCERTO POUR VIOLONCELLE capté le 16.10.2021 à la Seine Musicale de Boulogne Billancourt Orchestre des Champs-Elysées Nicolas Altstaedt, violoncelle Philippe Herreweghe, direction Au programme : J. Brahms , Ouverture Tragique - 13' R. Schumann, Concerto pour violoncelle - 25 ' A. Dvorák, Symphonie n°7 - 35 '</desc>
+<category lang="fr">Spectacle</category>
+<category lang="fr">Classique</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519011900 +0200" stop="20230519012300 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">On se capte</title>
+<desc lang="fr">Une personnalité de la Nouvelle Aquitaine s'installe chez elle, dans son lieu préféré, un endroit en lien avec son acivité. Muni de son ordinateur portable, il va répondre en direct via un dispositif de type Face Time aux questions de ses fans, supporters, admirateurs.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519012300 +0200" stop="20230519040000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Pelote : Championnats du monde</title>
+<desc lang="fr">Championnats du monde. Demi finales. frontball.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Pelote basque</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519040000 +0200" stop="20230519043500 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Décastar</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Athlétisme</category>
+<icon src="https://img.bouygtel.fr/CMS/images/91065D7510EE34448D235BEA1527A6DC.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519043500 +0200" stop="20230519055700 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">Cesta Punta : Cesta Punta Summer League</title>
+<desc lang="fr">Cesta Punta Summer League. Finale du 1er Masters.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Cesta punta</category>
+<icon src="https://img.bouygtel.fr/CMS/images/03CDEF70A04D9CBBD0BEFAEF37F3964C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519055700 +0200" stop="20230519060000 +0200" channel="France3NouvelleAquitaine.fr">
+<title lang="fr">On se capte</title>
+<desc lang="fr">Une personnalité de la Nouvelle Aquitaine s'installe chez elle, dans son lieu préféré, un endroit en lien avec son acivité. Muni de son ordinateur portable, il va répondre en direct via un dispositif de type Face Time aux questions de ses fans, supporters, admirateurs.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

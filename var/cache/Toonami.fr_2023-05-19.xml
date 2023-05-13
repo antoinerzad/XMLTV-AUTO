@@ -1,0 +1,540 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230519060000 +0200" stop="20230519062500 +0200" channel="Toonami.fr">
+<title lang="fr">Batman *1992</title>
+<sub-title lang="fr">Rêve ou réalité ?</sub-title>
+<desc lang="fr">A son réveil, Bruce Wayne découvre une vie chamboulée dans laquelle Batman n'existe pas. Qu'a-t-il bien pu se passer ?...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B80D2734FB02C02670A05F5A4C5F6EA5.jpg" />
+<episode-num system="xmltv_ns">0.29.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519062500 +0200" stop="20230519065000 +0200" channel="Toonami.fr">
+<title lang="fr">Batman *1992</title>
+<sub-title lang="fr">Conspiration</sub-title>
+<desc lang="fr">Le baron Jozek engage un spécialiste des pièges pour traquer Batman afin de s'emparer de sa cape et de son masque...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2D6AEA31FC44D8BC26CAA1A0A0607463.jpg" />
+<episode-num system="xmltv_ns">0.30.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519065000 +0200" stop="20230519072000 +0200" channel="Toonami.fr">
+<title lang="fr">Batman *1992</title>
+<sub-title lang="fr">Robin se rebiffe</sub-title>
+<desc lang="fr">Alors que Robin a hâte d'en découdre avec Billy Marin, Batman préfère se passer de son coéquipier pour l'enquête...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2D6AEA31FC44D8BC26CAA1A0A0607463.jpg" />
+<episode-num system="xmltv_ns">0.31.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519072000 +0200" stop="20230519074500 +0200" channel="Toonami.fr">
+<title lang="fr">Batman</title>
+<sub-title lang="fr">La marionnette</sub-title>
+<desc lang="fr">Le ventriloque Arnold Wesker a pour compagnon de scène une marionnette, Scarface, dotée d'une personnalité à part entière. Ensemble, ils pillent des banques...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519074500 +0200" stop="20230519081000 +0200" channel="Toonami.fr">
+<title lang="fr">Batman</title>
+<sub-title lang="fr">Le jeu de cartes</sub-title>
+<desc lang="fr">Batman enquête sur un crime portant la marque de son ennemi le Joker, alors que ce dernier est enfermé dans l'asile d'Arkham...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519081000 +0200" stop="20230519084500 +0200" channel="Toonami.fr">
+<title lang="fr">Batman</title>
+<sub-title lang="fr">Les oiseaux de proie</sub-title>
+<desc lang="fr">Bruce va être filmé durant une journée pour une émission télévisée. Mais lorsque Alfred est enlevé, il s'avère difficile de se transformer en Batman...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<episode-num system="xmltv_ns">0.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519084500 +0200" stop="20230519091000 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball</title>
+<sub-title lang="fr">La bête immonde</sub-title>
+<desc lang="fr">Sangoku est face à son dernier ennemi, le général White de l'armée de Ruban rouge qui l'attendait au dernier étage de la tour. La bataille finale et décisive avec le général White commence...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1AEDC77CCD700DF8FD75608879187E03.jpg" />
+<episode-num system="xmltv_ns">0.39.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519091000 +0200" stop="20230519094000 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball</title>
+<sub-title lang="fr">Le dernier jour de la tour de contrôle</sub-title>
+<desc lang="fr">Son Goku a réussi sa folle entreprise. Il ramène le chef dans son village. Mais la recherche des boules de cristal n'en est pas terminée pour autant...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B1514FB1F2BAE0C7548519006F7D872A.jpg" />
+<episode-num system="xmltv_ns">0.40.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519094000 +0200" stop="20230519101000 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball</title>
+<sub-title lang="fr">Le secret du docteur Flapp</sub-title>
+<desc lang="fr">Son Goku neutralise le redoutable Nuije qui menaçait à tout moment de faire imploser son ami et robot super huit. De plus, le bon docteur Flappe a réussi à extraire le dispositif qui mettait ses jours en danger. Mais il n'a pu le faire concernant le radar de Son Goku, celui qui lui permet de localiser la boule de cristal de son grand-père...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C9AE63647E37C4D30C12C67AF2C452AC.jpg" />
+<episode-num system="xmltv_ns">0.41.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519101000 +0200" stop="20230519104000 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball Super</title>
+<sub-title lang="fr">L'énergie de Goku incontrôlable ! Difficile de s'occuper de Pan !</sub-title>
+<desc lang="fr">A la suite de la combinaison du Super Saiyen bleu avec le Kaioken, Son Goku n'arrive plus à contrôler son Ki, à un tel point qu'il détruit sa maison. Ils vont donc habiter chez Son Gohan et devoir s'occuper de Pan qui se retrouve dans l'espace à l'intérieur du robot de Pilaf et sa bande, où elle laisse éclater son Ki...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<episode-num system="xmltv_ns">0.42.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519104000 +0200" stop="20230519111000 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball Super</title>
+<sub-title lang="fr">Le sceau de la planète Potaufeu. Les secrets de l'eau surhumaine</sub-title>
+<desc lang="fr">Son Goten et Trunks se retrouvent à bord du vaisseau de Monaka et sont piégés sur la planète Potofu où ils doivent combattre des guerriers qui convoitent la &quot;Chojinsui&quot; de la planète. Mais, lors du combat, la &quot;Chojinsui&quot; vole les pouvoirs de Vegeta et se transforme en une copie conforme de ce dernier...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<episode-num system="xmltv_ns">0.43.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519111000 +0200" stop="20230519114000 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball Super</title>
+<sub-title lang="fr">Vegeta disparaît ? La menace du clone de Vegeta !</sub-title>
+<desc lang="fr">Vegeta et Jaco vont sur la planète Potofu pour récupérer Trunks et Son Goten. Vegeta les sauve du clone de Soteejin, qui a attaqué les garçons, mais après avoir bu la &quot;Chojinsui&quot;, Soteejin se transforme en un clone de Vegeta et se dresse désormais contre lui...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<episode-num system="xmltv_ns">0.44.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519114000 +0200" stop="20230519120500 +0200" channel="Toonami.fr">
+<title lang="fr">X-Men Evolution</title>
+<sub-title lang="fr">X23</sub-title>
+<desc lang="fr">Wolverine est poursuivi par son clone inamical, que des scientifiques sont parvenus à créer à partir de ses cellules...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<episode-num system="xmltv_ns">2.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519120500 +0200" stop="20230519122500 +0200" channel="Toonami.fr">
+<title lang="fr">X-Men Evolution</title>
+<sub-title lang="fr">Sombre horizon</sub-title>
+<desc lang="fr">Pendant la mi-temps d'un match de football, Duncan et ses amis remarquent Todd Tolensky en train de piller les poches des spectacteurs.</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<episode-num system="xmltv_ns">2.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519122500 +0200" stop="20230519124000 +0200" channel="Toonami.fr">
+<title lang="fr">Justice League Action</title>
+<sub-title lang="fr">L'enlèvement</sub-title>
+<desc lang="fr">Darkseid charge ses acolytes de lui livrer Superman pour lui régler son compte une bonne fois pour toutes. Mais ces derniers font une erreur et enlèvent Sid Sharp, un journaliste du Daily Planet qui venait d'enfiler une tenue de superhéros. Superman décide alors d'aller sauver son nouvel ami...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Action</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5C8FEFEBCA86ABAED70C8A16D8F68E1D.jpg" />
+<episode-num system="xmltv_ns">0.34.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519124000 +0200" stop="20230519131000 +0200" channel="Toonami.fr">
+<title lang="fr">Batman *1992</title>
+<sub-title lang="fr">Crise de rire</sub-title>
+<desc lang="fr">Gotham est victime de crimes plutôt loufoques commis par des malfaiteurs étranges. L'enquête de Batman et Robin leur permet rapidement de découvrir qu'ils sont à mettre sur le compte du Joker, qui utilise des acteurs placés sous ses ordres...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B80D2734FB02C02670A05F5A4C5F6EA5.jpg" />
+<episode-num system="xmltv_ns">1.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519131000 +0200" stop="20230519133000 +0200" channel="Toonami.fr">
+<title lang="fr">Batman *1992</title>
+<sub-title lang="fr">La cité congelée</sub-title>
+<desc lang="fr">Le milliardaire Grant Walker engage Mister Freeze pour une mission particulière : il souhaiterait que le criminel plonge la Terre dans une nouvelle ère glaciaire afin de façonner la planète selon ses désirs. Robin et Batman parviennent à s'infiltrer dans la ville sous-marine de l'homme d'affaires...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2D6AEA31FC44D8BC26CAA1A0A0607463.jpg" />
+<episode-num system="xmltv_ns">1.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519133000 +0200" stop="20230519135500 +0200" channel="Toonami.fr">
+<title lang="fr">Batman *1992</title>
+<sub-title lang="fr">Le retour de Batgirl</sub-title>
+<desc lang="fr">Alors que Bruce est en Europe, une statue de jade représentant un chat est dérobée. Pour mener l'enquête, Barbara Gordon enfile à nouveau le costume de Batgirl et trouve du renfort auprès de Catwoman...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B80D2734FB02C02670A05F5A4C5F6EA5.jpg" />
+<episode-num system="xmltv_ns">1.19.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519135500 +0200" stop="20230519142000 +0200" channel="Toonami.fr">
+<title lang="fr">Black Clover</title>
+<sub-title lang="fr">Un nouvel avenir</sub-title>
+<desc lang="fr">Dans un monde régi par la magie, Yuno et Asta ont grandi ensemble avec un seul but en tête : devenir le prochain Empereur-Mage du royaume de Clover.</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2BD0CF1F0EC2119DED16D4013DB90D1C.jpg" />
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519142000 +0200" stop="20230519145000 +0200" channel="Toonami.fr">
+<title lang="fr">Black Clover</title>
+<sub-title lang="fr">Réincarnations</sub-title>
+<desc lang="fr">Dans un monde régi par la magie, Yuno et Asta ont grandi ensemble avec un seul but en tête : devenir le prochain Empereur-Mage du royaume de Clover.</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F89AEB44834ED2B3D903FB6647EAF8DD.jpg" />
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519145000 +0200" stop="20230519152000 +0200" channel="Toonami.fr">
+<title lang="fr">Black Clover</title>
+<sub-title lang="fr">Le capitaine du Taureau noir vs la Rose écarlate</sub-title>
+<desc lang="fr">Ça y est, le funeste dessein de Licht a été accompli : les elfes sont en train de retourner à la vie par le biais de leurs hôtes humains. Et parmi ces derniers, beaucoup étaient Chevaliers-Mages, ce qui va poser quelques problèmes…</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2BD0CF1F0EC2119DED16D4013DB90D1C.jpg" />
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519152000 +0200" stop="20230519154500 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball Super</title>
+<sub-title lang="fr">L'heure a sonné ! Tous vers le monde du néant pour sauver l'univers !</sub-title>
+<desc lang="fr">Les guerriers de chaque Univers se rassemblent dans le Monde du néant pendant que l'arène termine d'être construite. L'équipe de Goku jauge ses adversaires. Vegeta doit mettre son mépris de côté pour faire équipe avec Freezer. Le Tournoi s'annonce difficile et plein de surprises...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<episode-num system="xmltv_ns">0.95.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519154500 +0200" stop="20230519161000 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball Super</title>
+<sub-title lang="fr">Prêts à tout pour survivre ! Le tournoi du pouvoir débute enfin !</sub-title>
+<desc lang="fr">Toutes les équipes de guerriers des différents univers se rassemblent pour le début du tournoi du Pouvoir. Après avoir rappelé les règles, le Grand Prêtre déclare le tournoi du Pouvoir ouvert. Chaque équipe s'était préparée au tournoi en adoptant des stratégies différentes. Mais dès le coup d'envoi, la soif d'en découdre est plus forte que tout, et les stratégies volent en éclats. Chacun doit d'abord défendre sa peau...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<episode-num system="xmltv_ns">0.96.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519161000 +0200" stop="20230519164000 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball Super</title>
+<sub-title lang="fr">Le temps de l'incertitude. Un univers désespéré !</sub-title>
+<desc lang="fr">L'équipe de guerriers de l'Univers 9 décide de s'en prendre à Goku et Vegeta. D'après Ro, une fois ces deux-là éliminés, l'Univers 7 sera facilement vaincu et anéanti. Mais rien ne se passe comme prévu. Bergamo, Basil et Lavender sont éliminés, suivis bientôt du reste de l'équipe. Et c'est finalement l'Univers 9 qui est effacé...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<episode-num system="xmltv_ns">0.97.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519164000 +0200" stop="20230519171000 +0200" channel="Toonami.fr">
+<title lang="fr">My Hero Academia</title>
+<sub-title lang="fr">La fête de Yuei</sub-title>
+<desc lang="fr">Le monde des Vilains vacille et menace de basculer dans une guerre totale maintenant qu'All Might est parti. Shigaraki, à la tête de l'Alliance des Super-vilains, se prépare à affronter Overhaul, chef yakuza, pour prendre le contrôle total des ténèbres. Pendant ce temps, Deku est à nouveau empêtré dans un stage dangereux et se démène pour rester au niveau de Mirio, en terminale à Yuei.</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/10277208C092FF1944B8558252E15773.jpg" />
+<episode-num system="xmltv_ns">3.17.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519171000 +0200" stop="20230519173500 +0200" channel="Toonami.fr">
+<title lang="fr">My Hero Academia</title>
+<sub-title lang="fr">Le plus amusant, c'est les préparatifs</sub-title>
+<desc lang="fr">Le monde des Vilains vacille et menace de basculer dans une guerre totale maintenant qu'All Might est parti. Shigaraki, à la tête de l'Alliance des Super-vilains, se prépare à affronter Overhaul, chef yakuza, pour prendre le contrôle total des ténèbres. Pendant ce temps, Deku est à nouveau empêtré dans un stage dangereux et se démène pour rester au niveau de Mirio, en terminale à Yuei.</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/10277208C092FF1944B8558252E15773.jpg" />
+<episode-num system="xmltv_ns">3.18.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519173500 +0200" stop="20230519180500 +0200" channel="Toonami.fr">
+<title lang="fr">My Hero Academia</title>
+<sub-title lang="fr">Gold Tips Imperial</sub-title>
+<desc lang="fr">Les préparatifs du spectacle pour la kermesse de Yuei avancent à bon rythme pour la seconde A et tous les élèves du lycée. Afin de s'habituer à l'ambiance, Eri est de sortie, accompagnée de Mirio, pour visiter le campus. Elle n'est pas habituée à voir tant de monde, mais c'est un bon entraînement pour elle...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/10277208C092FF1944B8558252E15773.jpg" />
+<episode-num system="xmltv_ns">3.19.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519180500 +0200" stop="20230519183000 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball</title>
+<sub-title lang="fr">Sangoku découvre la ville</sub-title>
+<desc lang="fr">Son Goku se dirige vers Métropolis pour y retrouver Bulma espérant qu'elle pourra réparer le radar qu'il a cassé. Il découvre avec stupéfaction le bruit et la fureur des grandes villes, l'anonymat et l'indifférence qui y règnent. Cependant, grâce à l'aide d'un policier bienveillant, il finit par trouver la maison de son amie...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B1514FB1F2BAE0C7548519006F7D872A.jpg" />
+<episode-num system="xmltv_ns">0.42.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519183000 +0200" stop="20230519185500 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball</title>
+<sub-title lang="fr">Sangoku retrouve ses amis</sub-title>
+<desc lang="fr">Son Goku retrouve à Métropolis les amis qui bien des fois déjà avaient partagé ses aventures. Malheureusement, l'équipe n'est plus aussi soudée qu'autrefois. Jalouse du succès de Yamcha auprès des filles, Bulma décide de bouder. Cependant, désireux de faire la paix, Yamcha convainc ses deux acolytes d'accompagner Bulma et Son Goku au parc d'attractions...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C9AE63647E37C4D30C12C67AF2C452AC.jpg" />
+<episode-num system="xmltv_ns">0.43.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519185500 +0200" stop="20230519192000 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball</title>
+<sub-title lang="fr">Husky la féline</sub-title>
+<desc lang="fr">Husky la féline, véritable star du vol et du crime, a retrouvé les traces de Son Goku et ses amis qui arrivent facilement à la neutraliser. Bulma et Son Goku décident de quitter la ville de Métropolis, symbole de danger pour l'un et de peine de coeur pour l'autre...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1AEDC77CCD700DF8FD75608879187E03.jpg" />
+<episode-num system="xmltv_ns">0.44.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519192000 +0200" stop="20230519194500 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball Super</title>
+<sub-title lang="fr">Le grand tournoi d'arts martiaux ! Le capitaine bien plus fort que Goku !</sub-title>
+<desc lang="fr">Champa et Beerus vont s'affronter dans un tournoi d'arts martiaux et réunissent leurs combattants respectifs. Les préparatifs vont bon train. Bulma bricole son radar pour qu'il soit en capacité de détecter les Super Dragon Ball...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<episode-num system="xmltv_ns">0.28.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519194500 +0200" stop="20230519201000 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball Super</title>
+<sub-title lang="fr">Le recrutement commence. Qui seront les deux derniers membres de l'équipe ?</sub-title>
+<desc lang="fr">Goku et Vegeta partent à la recherche des deux membres manquants pour leur équipe. Pour échapper à la surveillance de Chichi, Goku lui raconte qu'il est invité à un pique-nique dans l'espace avec Beerus. Quand Krilin les rejoint, il apprend qu'il ne s'agit pas d'un pique-nique, mais du grand tournoi d'art martiaux entre le sixième et le septième univers...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<episode-num system="xmltv_ns">0.29.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230519201000 +0200" stop="20230519203500 +0200" channel="Toonami.fr">
+<title lang="fr">Harley Quinn</title>
+<sub-title lang="fr">Une place à la table</sub-title>
+<desc lang="fr">Harley Quinn a finalement rompu une fois pour toutes avec le Joker et tente de se débrouiller seule en tant que reine criminelle de Gotham City. Avec l'aide de Poison Ivy et d'une équipe hétéroclite, Harley tente de gagner sa place autour de la plus grand</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F92836A634C687E369A5AFE192444AA1.jpg" />
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230519203500 +0200" stop="20230519205500 +0200" channel="Toonami.fr">
+<title lang="fr">Harley Quinn</title>
+<sub-title lang="fr">Il était une fois à Bensonhurst</sub-title>
+<desc lang="fr">Harley Quinn a finalement rompu une fois pour toutes avec le Joker et tente de se débrouiller seule en tant que reine criminelle de Gotham City. Avec l'aide de Poison Ivy et d'une équipe hétéroclite, Harley tente de gagner sa place autour de la plus grand</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F92836A634C687E369A5AFE192444AA1.jpg" />
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230519205500 +0200" stop="20230519222500 +0200" channel="Toonami.fr">
+<title lang="fr">Batman et Mr. Freeze : Subzero</title>
+<desc lang="fr">Alors qu'un sous-marin de la Navy s'échoue sur une caverne au beau milieu de l'océan Arctique, le tube cryogénique qui assurait la survie de madame Freeze, que son mari adore plus que tout, se brise. Mister Freeze décide de se rendre à Gotham City où un médecin lui apprend que seule une greffe d'organe peut sauver la malheureuse. Il faut donc trouver un donneur et au plus vite. Mister Freeze est prêt à tout, y compris au pire, pour sauver son épouse. Il décide donc d'enlever une femme qui a le même groupe sanguin, très rare, que sa bien-aimée. Heureusement, Batman veille sur ses concitoyens et il s'attaque bientôt à Mister Freeze et à ses dangereuses prétentions...</desc>
+<category lang="fr">Téléfilm</category>
+<category lang="fr">Animation</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2E20664C1555B95295806C51F5FD94E5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230519222500 +0200" stop="20230519225000 +0200" channel="Toonami.fr">
+<title lang="fr">Archer</title>
+<sub-title lang="fr">Danger Zone 51</sub-title>
+<desc lang="fr">Archer a besoin de l'avion privé de Chéryl pour rentrer de Las Végas, car il fait partie de la liste d'interdiction de vol et également de trains. Toute l'équipe vient le chercher, et ils partent tous pour Branson, la ville de la musique country. Ce faisant, ils survolent la base militaire de Nellis qui abrite la fameuse zone cinquante-et-un, censée héberger des fomes de vie extra-terrestres...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<episode-num system="xmltv_ns">5.6.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230519225000 +0200" stop="20230519231000 +0200" channel="Toonami.fr">
+<title lang="fr">Archer</title>
+<sub-title lang="fr">Les Kane</sub-title>
+<desc lang="fr">Archer est enfin invité à rencontrer les parents de Lana. Ceux ci ignorent tout des activités de leur fille. Mais au cours du séjour des individus attaquent la résidence de la famille Kane et dérobent une formule scientifique inestimable. Archer et Lana vont devoir se montrer sous leur vrai jour.</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<episode-num system="xmltv_ns">5.7.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230519231000 +0200" stop="20230519234000 +0200" channel="Toonami.fr">
+<title lang="fr">Rick et Morty</title>
+<sub-title lang="fr">Une Vérickté qui dérange</sub-title>
+<desc lang="fr">Morty s'amourache de Planetina, une super-héroïne écolo tandis que Rick et Summer partent faire la fête dans l'espace.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A73FE0D981F54D67FD8BA32B37AAE4B2.jpg" />
+<episode-num system="xmltv_ns">4.2.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230519234000 +0200" stop="20230520001000 +0200" channel="Toonami.fr">
+<title lang="fr">Rick et Morty</title>
+<sub-title lang="fr">Rickdependence jet</sub-title>
+<desc lang="fr">Rick rate une expérience et crée des monstres qui menacent le pays.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<icon src="https://img.bouygtel.fr/CMS/images/058B7177281E6623F7D41141A66FAFBA.jpg" />
+<episode-num system="xmltv_ns">4.3.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230520001000 +0200" stop="20230520002000 +0200" channel="Toonami.fr">
+<title lang="fr">Mike Tyson Mysteries</title>
+<sub-title lang="fr">Les &quot;Bitch&quot; de Newport Beach</sub-title>
+<desc lang="fr">Dans une parodie de &quot;Real Housewives&quot;, l'équipe est embauchée afin de découvrir pourquoi l'une des femmes au foyer, vénale, riche, auto-centrée sur elle-même et aux cheveux tirés à quatre épingles, n'a pas été invitée à l'une des fêtes les plus délurées de Newport Beach...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4373081B05FAE37E6462123E5B15FD7A.jpg" />
+<episode-num system="xmltv_ns">2.18.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230520002000 +0200" stop="20230520003500 +0200" channel="Toonami.fr">
+<title lang="fr">Mike Tyson Mysteries</title>
+<sub-title lang="fr">Rattrapé par son passé</sub-title>
+<desc lang="fr">De manière totalement inexpliquée, Pigeon reprend soudainement forme humaine et se fait tuer. Deezy, demande s'il peut le remplacer au sein de l'équipe. Pour cela, il va devoir d'abord battre Mike lors d'un défi top secret...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4373081B05FAE37E6462123E5B15FD7A.jpg" />
+<episode-num system="xmltv_ns">2.19.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230520003500 +0200" stop="20230520004500 +0200" channel="Toonami.fr">
+<title lang="fr">Robot Chicken</title>
+<sub-title lang="fr">Le paradis ne répond pas, Doug</sub-title>
+<desc lang="fr">Harold se dessine un nouveau papa à l'aide de son crayon violet. Jerry Seinfeld a comme invité le Joker. Madame Bille-en-Tête conduit son bus magique.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B26B21424849CE0C99546431DCC70BC3.jpg" />
+<episode-num system="xmltv_ns">9.1.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230520004500 +0200" stop="20230520010500 +0200" channel="Toonami.fr">
+<title lang="fr">Robot Chicken</title>
+<sub-title lang="fr">Maggie prend la sauce</sub-title>
+<desc lang="fr">April cuisine Trump. Des nouvelles du prochain Fast &amp; Furious. Pee Wee Sherman rentre chez lui, mais trop tard. Le nerd joue en Overwatch League.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Animation</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B26B21424849CE0C99546431DCC70BC3.jpg" />
+<episode-num system="xmltv_ns">9.2.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230520010500 +0200" stop="20230520013000 +0200" channel="Toonami.fr">
+<title lang="fr">Archer</title>
+<sub-title lang="fr">Vision Quest</sub-title>
+<desc lang="fr">Malory a convoqué tout le monde à une réunion d'équipe à sept heures du matin. Toute l'équipe arrive en même temps, monte dans l'ascenseur...qui tombe en panne. Ils passeront la matinée à tenter de trouver une solution pour se libérer, alors que le téléphone de l'ascenseur ne fonctionne pas et que les portables n'ont pas de réseau...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<episode-num system="xmltv_ns">5.4.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230520013000 +0200" stop="20230520015000 +0200" channel="Toonami.fr">
+<title lang="fr">Archer</title>
+<sub-title lang="fr">Baby-Sitting</sub-title>
+<desc lang="fr">Pour la toute première fois Lana accepte de laisser Archer garder leur fille pour la nuit. La soirée commence à peine lorsque Slater débarque chez Archer accompagné de Farook un transfuge Pakistanais. Mais ce dernier n'est pas vraiment ce qu'il prétend être.</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<episode-num system="xmltv_ns">5.5.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230520015000 +0200" stop="20230520021500 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball</title>
+<sub-title lang="fr">Sangoku découvre la ville</sub-title>
+<desc lang="fr">Son Goku se dirige vers Métropolis pour y retrouver Bulma espérant qu'elle pourra réparer le radar qu'il a cassé. Il découvre avec stupéfaction le bruit et la fureur des grandes villes, l'anonymat et l'indifférence qui y règnent. Cependant, grâce à l'aide d'un policier bienveillant, il finit par trouver la maison de son amie...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C9AE63647E37C4D30C12C67AF2C452AC.jpg" />
+<episode-num system="xmltv_ns">0.42.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230520021500 +0200" stop="20230520023500 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball</title>
+<sub-title lang="fr">Sangoku retrouve ses amis</sub-title>
+<desc lang="fr">Son Goku retrouve à Métropolis les amis qui bien des fois déjà avaient partagé ses aventures. Malheureusement, l'équipe n'est plus aussi soudée qu'autrefois. Jalouse du succès de Yamcha auprès des filles, Bulma décide de bouder. Cependant, désireux de faire la paix, Yamcha convainc ses deux acolytes d'accompagner Bulma et Son Goku au parc d'attractions...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C9AE63647E37C4D30C12C67AF2C452AC.jpg" />
+<episode-num system="xmltv_ns">0.43.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230520023500 +0200" stop="20230520025500 +0200" channel="Toonami.fr">
+<title lang="fr">Dragon Ball</title>
+<sub-title lang="fr">Husky la féline</sub-title>
+<desc lang="fr">Husky la féline, véritable star du vol et du crime, a retrouvé les traces de Son Goku et ses amis qui arrivent facilement à la neutraliser. Bulma et Son Goku décident de quitter la ville de Métropolis, symbole de danger pour l'un et de peine de coeur pour l'autre...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C9AE63647E37C4D30C12C67AF2C452AC.jpg" />
+<episode-num system="xmltv_ns">0.44.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230520025500 +0200" stop="20230520032000 +0200" channel="Toonami.fr">
+<title lang="fr">Black Clover</title>
+<sub-title lang="fr">Pénitence</sub-title>
+<desc lang="fr">Le combat était rude pour Asta et ses amis… mais comment cela se passe-t-il du côté de Fanzell ? Cette bataille sera l'occasion de retrouver deux de ses anciens disciples, et non des moindres puisqu'il s'agit de Mars et Ladros, deux jeunes généraux étince</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F89AEB44834ED2B3D903FB6647EAF8DD.jpg" />
+<episode-num system="xmltv_ns">1.8.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230520032000 +0200" stop="20230520034000 +0200" channel="Toonami.fr">
+<title lang="fr">Black Clover</title>
+<sub-title lang="fr">Le monde promis</sub-title>
+<desc lang="fr">Fanzell et Mars, lequel vient de trahir son camp, tentent de trouver un moyen pour en finir avec l'inquiétant Ladros, dont la puissance est déchaînée. Il faudra ensuite s'atteler au combat contre Fana, ce qui ne va pas laisser Mars insensible…</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2BD0CF1F0EC2119DED16D4013DB90D1C.jpg" />
+<episode-num system="xmltv_ns">1.9.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230520034000 +0200" stop="20230520040500 +0200" channel="Toonami.fr">
+<title lang="fr">Black Clover</title>
+<sub-title lang="fr">Mutuellement</sub-title>
+<desc lang="fr">Mars retrouve Fana, laquelle, frappée par une amnésie, semble avoir recouvré sa part de candeur. Les choses se sont calmées, mais il y a encore du pain sur la planche : il faut chercher Mariella et Dominante, puis s'occuper des sorcières qui ont été bless</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2BD0CF1F0EC2119DED16D4013DB90D1C.jpg" />
+<episode-num system="xmltv_ns">1.10.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230520040500 +0200" stop="20230520042500 +0200" channel="Toonami.fr">
+<title lang="fr">My Hero Academia</title>
+<sub-title lang="fr">De Tenya à Izuku</sub-title>
+<desc lang="fr">Après l'attaque musclée de l'Escadron Genesis au camp d'entraînement de Yuei, plusieurs élèves de seconde ont été blessés, plus ou moins gravement. Mais surtout, un d'eux a été enlevé par les super-vilains : Katsuki Bakugo. Tout le monde se doute de la raison de ce kidnapping, mais espère que Katsuki ne passera pas dans le camp ennemi. Quant à ses camarades, ils n'ont plus qu'une idée en tête, le sortir de là...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/19B85984B7B6517A52E0738B684A426B.jpg" />
+<episode-num system="xmltv_ns">2.7.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230520042500 +0200" stop="20230520045000 +0200" channel="Toonami.fr">
+<title lang="fr">My Hero Academia</title>
+<sub-title lang="fr">All for One</sub-title>
+<desc lang="fr">L'attaque du camp d'entraînement de Yuei fait beaucoup de bruit. Les médias sautent tous à la gorge de Yuei, reprochant à l'académie son manque de précautions et une sécurité trop faible malgré les précédentes attaques. Mais pendant ce temps, l'enquête avance secrètement et les policiers ont déjà trouvé la planque des vilains...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/10277208C092FF1944B8558252E15773.jpg" />
+<episode-num system="xmltv_ns">2.8.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230520045000 +0200" stop="20230520051000 +0200" channel="Toonami.fr">
+<title lang="fr">My Hero Academia</title>
+<sub-title lang="fr">Le symbole de la paix</sub-title>
+<desc lang="fr">All for One entre en scène pour venir en aide à Shigaraki, pris au piège par l'assaut groupé des super-héros et de la police. L'affrontement entre All for One et All Might va avoir lieu. Mais il faut aussi penser à secourir Katsuki, toujours aux griffes de l'Alliance...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Manga</category>
+<icon src="https://img.bouygtel.fr/CMS/images/19B85984B7B6517A52E0738B684A426B.jpg" />
+<episode-num system="xmltv_ns">2.9.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230520051000 +0200" stop="20230520053500 +0200" channel="Toonami.fr">
+<title lang="fr">La nouvelle ligue des justiciers</title>
+<sub-title lang="fr">La traque</sub-title>
+<desc lang="fr">De nouveaux super-héros rejoignent la Ligue des justiciers et unissent leurs pouvoirs pour protéger la Terre des forces du Mal qui essaient de la détruire.</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<episode-num system="xmltv_ns">1.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230520053500 +0200" stop="20230520060000 +0200" channel="Toonami.fr">
+<title lang="fr">La nouvelle ligue des justiciers</title>
+<sub-title lang="fr">Situation explosive</sub-title>
+<desc lang="fr">De nouveaux super-héros rejoignent la Ligue des justiciers et unissent leurs pouvoirs pour protéger la Terre des forces du Mal qui essaient de la détruire.</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<episode-num system="xmltv_ns">1.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
