@@ -1,0 +1,49 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230521000000 +0200" stop="20230521010000 +0200" channel="Museum.fr">
+<title lang="fr">Subversif</title>
+<desc lang="fr">Le meilleur de l'art érotique sur Museum.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_26808300.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230521010000 +0200" stop="20230521015500 +0200" channel="Museum.fr">
+<title lang="fr">We are Artists not Vandals</title>
+<desc lang="fr">Inspirée par les cultures underground, l'Asie et la mode, l'artiste peintre Stoul crée ses personnages féminins mythiques en variant les techniques et les supports.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_21209232.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521015500 +0200" stop="20230521025000 +0200" channel="Museum.fr">
+<title lang="fr">Photo Contest</title>
+<desc lang="fr">Aujourd'hui, Photo contest vous emmène au Musée Rodin. Le directeur du collectif de photographes Lengos photo prod, nous présente deux de ses membres qui vont s'affronter pour prendre la meilleure photographie sur le thème imposé : Rodin et son musée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_21288983.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521025000 +0200" stop="20230521050000 +0200" channel="Museum.fr">
+<title lang="fr">Video Art</title>
+<desc lang="fr">Découvrez un compilé d'Art Video Numérique avec un ensemble d'une dizaine de vidéos inédites en passant par l'univers moléculaire, le dessin d'animation, le design virtuel...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12561232.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521050000 +0200" stop="20230521060000 +0200" channel="Museum.fr">
+<title lang="fr">An Hour With</title>
+<desc lang="fr">Prenez une pause d'une heure pour découvrir le travail d'un peintre Italien, Léonard De Vinci. Vous allez découvrir ses ?uvres comme la Joconde, Salvator Mundi, La Cène.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_26101400.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521060000 +0200" stop="20230521070000 +0200" channel="Museum.fr">
+<title lang="fr">An Hour With</title>
+<desc lang="fr">Pendant une heure, prenez le temps de découvrir le travail d'un artiste : Rembrandt</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_26101473.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

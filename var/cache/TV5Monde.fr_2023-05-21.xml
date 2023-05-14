@@ -1,0 +1,400 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230520234300 +0200" stop="20230521000900 +0200" channel="TV5Monde.fr">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7761232.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521000900 +0200" stop="20230521001200 +0200" channel="TV5Monde.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5578751.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521001200 +0200" stop="20230521010100 +0200" channel="TV5Monde.fr">
+<title lang="fr">Caïn</title>
+<sub-title lang="fr">Une seconde avant la mort</sub-title>
+<desc lang="fr">Caïn, qui n'a pas pu empêcher Balducci de s'en prendre aux femmes qu'il aime, est meurtri. Borel arrive au SRPJ avec une bombe autour de la taille.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_8044708.jpg" />
+<episode-num system="xmltv_ns">4.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521010100 +0200" stop="20230521020000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Caïn</title>
+<sub-title lang="fr">Paradis perdu</sub-title>
+<desc lang="fr">Caïn enquête sur la mort d'un médecin, officiant dans un établissement psychiatrique. La victime a été tuée dans son bureau. Un patient a disparu.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_8052257.jpg" />
+<episode-num system="xmltv_ns">4.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521020000 +0200" stop="20230521022800 +0200" channel="TV5Monde.fr">
+<title lang="fr">TV5MONDE, le journal Afrique</title>
+<desc lang="fr">Toute l'actualité africaine proposée par la rédaction de TV5MONDE.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5456446.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521022800 +0200" stop="20230521023100 +0200" channel="TV5Monde.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5578751.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521023100 +0200" stop="20230521025700 +0200" channel="TV5Monde.fr">
+<title lang="fr">Stars parade</title>
+<desc lang="fr">''Stars parade'' est une émission musicale consacrée aux artistes africains. En privilégiant les rencontres et les genres, Stars parade permet à la musique africaine de s'exprimer et de se faire connaître à travers le monde grâce à sa diversité culturelle et à la richesse de ses mélodies.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Musique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9418663.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521025700 +0200" stop="20230521040000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Le monde respire</title>
+<desc lang="fr">Militants écologistes, scientifiques, artistes, et autres académiciens, estiment que cette crise du Covid dit quelque chose du fonctionnement de nos sociétés.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Sc. &amp; Tech.</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_20009716.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521040000 +0200" stop="20230521043000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Maghreb-Orient Express</title>
+<desc lang="fr">Quoi de neuf dans les mondes arabes ? Le journaliste Mohamed Kaci reçoit les personnalités qui font l'actualité culturelle à Alger, Tunis, Rabat, Beyrouth, Dubaï... www.tv5monde.com/MOE</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5456501.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521043000 +0200" stop="20230521050000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Paname</title>
+<desc lang="fr">Rue François-Miron La rue François-Miron relie la place Saint-Gervais au métro Saint-Paul, en offrant sur son passage une jolie carte postale du Paris médiéval. Maisons à colombages et hôtels particuliers côtoient ici de nombreux immeubles sociaux. Le voisinage des Halles, creuset d'initiatives...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10035341.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521050000 +0200" stop="20230521055900 +0200" channel="TV5Monde.fr">
+<title lang="fr">Le point</title>
+<desc lang="fr">Le fléau de la grippe aviaire. Variole simienne. Covid-19 : la loterie génétique. Une biologiste qui a du flair.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12654107.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521055900 +0200" stop="20230521065100 +0200" channel="TV5Monde.fr">
+<title lang="fr">Temps présent</title>
+<desc lang="fr">Magazine de reportages.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12599164.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521065100 +0200" stop="20230521065600 +0200" channel="TV5Monde.fr">
+<title lang="fr">Terriennes</title>
+<desc lang="fr">La chronique &quot; Terriennes &quot;, le site francophone pour la condition des femmes dans le monde. Le site : www.tv5monde.com/terriennes</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14380326.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521065600 +0200" stop="20230521070000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5578751.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521070000 +0200" stop="20230521073000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Journal Radio Canada</title>
+<desc lang="fr">Le journal télévisé proposé par la rédaction de Radio-Canada.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_13316249.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521073000 +0200" stop="20230521080000 +0200" channel="TV5Monde.fr">
+<title lang="fr">A bon entendeur</title>
+<desc lang="fr">Renvoi de vêtements : le voyage fou des produits Shein Incontournable chez les moins de 25 ans, le label chinois Shein, vendu uniquement par correspondance, s'est taillé la part du lion du juteux marché de la mode à petit prix. ABE a traqué les retours du leader de l'ultra fast fashion. Résultat...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12619685.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521080000 +0200" stop="20230521082600 +0200" channel="TV5Monde.fr">
+<title lang="fr">Basik</title>
+<desc lang="fr">L'émission qui explore et explique l'économie, décortique notre rapport à l'argent et inspecte notre pouvoir d'achat. Les enjeux économiques, sociétaux et environnementaux de demain sont abordés sur un ton direct, proche des gens et parfois espiègle !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Economie</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_35594884.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521082600 +0200" stop="20230521083000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5578751.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521083000 +0200" stop="20230521093000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Internationales</title>
+<desc lang="fr">Le grand entretien sur l'actualité mondiale proposé par TV5MONDE, en partenariat avec le quotidien français ''Le Monde''.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14182055.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521093000 +0200" stop="20230521100000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Epicerie fine</title>
+<desc lang="fr">Le Pays augeron À cheval entre les départements du Calvados, de l'Orne et de l'Eure, immersion dans le bocage normand. Rencontre avec Gérard, un vigneron qui défend son grand cru, et avec Hervé, à la tête du domaine agricole et des vergers d'Ouezy. Enfin, honneur au patrimoine géologique et...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9465282.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521100000 +0200" stop="20230521103000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Tendance XXI</title>
+<desc lang="fr">Le dynamisme de la création française dans les domaines de la mode, de l'artisanat, du design, de la beauté, de la cuisine... &quot; Tendance XXI &quot; met en valeur un savoir-faire qui sait se réinventer pour rester dans l'air du temps, voire le devancer. Commentaires : Viviane Blassel.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Mode</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12561215.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521103000 +0200" stop="20230521105800 +0200" channel="TV5Monde.fr">
+<title lang="fr">Version française</title>
+<desc lang="fr">La Bibliothèque nationale de France Richelieu. Léa Zeroil et ses créations. Classicisme surprenant d'un tee-shirt blanc ou d'un jean : le savoir-faire de la maison Bottega Veneta. Le coutelier Jean-Louis Pierard.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5467098.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521105800 +0200" stop="20230521112700 +0200" channel="TV5Monde.fr">
+<title lang="fr">Kebec</title>
+<desc lang="fr">Cinéma/Arts visuels De l'invention des frères Lumière au cinéma d'aujourd'hui, la route a été longue, mais fascinante à retracer. De même pour les arts visuels qui n'ont cessé de bousculer les cadres.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12682915.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521112700 +0200" stop="20230521115300 +0200" channel="TV5Monde.fr">
+<title lang="fr">Nous, les Européens</title>
+<desc lang="fr">Cinecittà, la &quot;ville du cinéma&quot;, à Rome, a accueilli d'innombrables productions internationales durant la deuxième moitié du XXe siècle, notamment &quot;Ben Hur&quot;, &quot;Gangs of New York&quot;, ou encore &quot;La Dolce Vita&quot;, de Federico Fellini. A l'aube de la 76? édition du festival de Cannes, celle que l'on...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23693080.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521115300 +0200" stop="20230521115500 +0200" channel="TV5Monde.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5578751.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521115500 +0200" stop="20230521122100 +0200" channel="TV5Monde.fr">
+<title lang="fr">Suisse en scène</title>
+<desc lang="fr">Entretien avec une personnalité de la scène culturelle suisse. L'occasion de revenir sur son parcours et les grandes lignes qui sous-tendent son travail.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_30932495.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521122100 +0200" stop="20230521124800 +0200" channel="TV5Monde.fr">
+<title lang="fr">Monte-Carlo Riviera</title>
+<desc lang="fr">Le magazine de l'art de vivre à Monaco, en Provence et sur la Côte d'Azur.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12613980.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521124800 +0200" stop="20230521131400 +0200" channel="TV5Monde.fr">
+<title lang="fr">Wari</title>
+<desc lang="fr">Magazine économique qui traite de l'actualité économique et du développement en Afrique. Chaque semaine, le magazine propose plusieurs dossiers présentés sous forme de reportages qui analysent des programmes en cours de développement. Les secteurs prioritaires comme l'éducation, la santé,...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Economie</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12609206.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521131400 +0200" stop="20230521133000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Et si... vous me disiez toute la vérité</title>
+<desc lang="fr">Entretien avec l'économiste malien Hammou Haïdara, auteur du livre &quot; Les Micro-entreprises en Afrique de l'Ouest, Ou le développement par la petite porte &quot; (éditions L'Harmattan). www.tv5monde.com/etsi</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12626622.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521133000 +0200" stop="20230521140600 +0200" channel="TV5Monde.fr">
+<title lang="fr">JT 13h</title>
+<desc lang="fr">Toute l'actualité internationale proposée et présentée par la rédaction de la RTBF.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_22238808.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521140600 +0200" stop="20230521150000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Au bout de l'enquête, la fin du crime parfait ?</title>
+<desc lang="fr">Affaire Turquin, l'enfant de la discorde C'est une affaire particulièrement trouble. 21 mars 1991, Nice. Charles-Édouard Turquin, 7 ans, disparaît en pleine nuit de sa maison. Les enquêteurs vont découvrir qu'il était au coeur d'un conflit très dur entre ses parents, un couple déséquilibré et...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23112420.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521150000 +0200" stop="20230521155600 +0200" channel="TV5Monde.fr">
+<title lang="fr">L'hiver au paradis</title>
+<desc lang="fr">De la Léventine aux Alpes glaronnaises en douze jours, par tous les temps, Nik Hartmann poursuit son périple sur les traces du général Souvorov.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_26379623.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521155600 +0200" stop="20230521161900 +0200" channel="TV5Monde.fr">
+<title lang="fr">Les Newbies</title>
+<sub-title lang="fr">La pièce manquante</sub-title>
+<desc lang="fr">L'échec du Zoofest a mis en péril l'amitié entre André et Christian. Amélie trouve une idée surprenante pour essayer de les réconcilier. Pour y arriver, elle fait appel à sa soeur. Genre : comédie</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_20857821.jpg" />
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521161900 +0200" stop="20230521164300 +0200" channel="TV5Monde.fr">
+<title lang="fr">Les Newbies</title>
+<sub-title lang="fr">Gueule de bois</sub-title>
+<desc lang="fr">Christian a remplacé les Newbies par l'alcool et a perdu le contrôle, en plus de la mémoire. Luc n'a pas le temps d'aider Christian, car il se fait courtiser par son ancienne patronne. Genre : comédie</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_20857826.jpg" />
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521164300 +0200" stop="20230521170700 +0200" channel="TV5Monde.fr">
+<title lang="fr">Les Newbies</title>
+<sub-title lang="fr">Pas de mariage et un enterrement</sub-title>
+<desc lang="fr">Après un embaumement qui tourne mal, André est engagé pour sauver la réputation d'un salon funéraire. Voyant que les Newbies ne semblent pas sur le point de se reformer, Luc demande à Christian de former un nouveau duo. Genre : comédie</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_20857833.jpg" />
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521170700 +0200" stop="20230521173300 +0200" channel="TV5Monde.fr">
+<title lang="fr">Les Newbies</title>
+<sub-title lang="fr">Les grincheux</sub-title>
+<desc lang="fr">Les Newbies sont enfin de retour, mais ça ne fait pas le bonheur de tout le monde. Un animateur de radio local leur cause beaucoup de problèmes. André et Luc doivent déployer des trésors d'imagination pour le calmer et éviter qu'il ne ruine leur retour. Genre : comédie</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11045698.jpg" />
+<episode-num system="xmltv_ns">1.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521173300 +0200" stop="20230521180000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Rassemblence</title>
+<desc lang="fr">Ridha (Tunisie) En 2013, Ridha Khadher devient le boulanger officiel de l'Élysée après avoir remporté le concours de la Meilleure baguette de Paris. Benjamin d'une famille nombreuse, ce fils d'agriculteur de Sousse arrive à Paris à 15 ans, travaille chez son frère, devient garde du corps avant de...</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_35692611.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521180000 +0200" stop="20230521182600 +0200" channel="TV5Monde.fr">
+<title lang="fr">64' le monde en français</title>
+<desc lang="fr">L'actualité internationale décryptée par le monde francophone.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5456326.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521182600 +0200" stop="20230521183000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5578751.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521183000 +0200" stop="20230521185200 +0200" channel="TV5Monde.fr">
+<title lang="fr">64' le monde en français</title>
+<desc lang="fr">L'actualité internationale décryptée par le monde francophone.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5456326.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521185200 +0200" stop="20230521190000 +0200" channel="TV5Monde.fr">
+<title lang="fr">L'invité</title>
+<desc lang="fr">7 jours sur 7 Patrick Simonin rencontre les artistes, les écrivains, les acteurs et tous ceux qui font vibrer notre époque. &quot; L'invité &quot; est le rendez-vous incontournable des stars et des personnalités qui font l'actualité.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_32781483.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521190000 +0200" stop="20230521190500 +0200" channel="TV5Monde.fr">
+<title lang="fr">64', l'essentiel</title>
+<desc lang="fr">L'essentiel du monde en français.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14589561.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521190500 +0200" stop="20230521200000 +0200" channel="TV5Monde.fr">
+<title lang="fr">La table de Kim</title>
+<desc lang="fr">Robert Lepage À part manger, dormir à l'abri, qu'est-ce qui est essentiel ? Kim en débat avec Robert Lepage, Sophie Faucher, Michel Labrecque et Benoît Pinette, alias Tire le coyote.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23255889.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521200000 +0200" stop="20230521203000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Maghreb-Orient Express</title>
+<desc lang="fr">Quoi de neuf dans les mondes arabes ? Le journaliste Mohamed Kaci reçoit les personnalités qui font l'actualité culturelle à Alger, Tunis, Rabat, Beyrouth, Dubaï... www.tv5monde.com/MOE</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5456501.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521203000 +0200" stop="20230521210000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Journal</title>
+<desc lang="fr">Le journal télévisé proposé par la rédaction de France 2 (édition de 20h, heure de Paris).</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_9963334.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521210000 +0200" stop="20230521231900 +0200" channel="TV5Monde.fr">
+<title lang="fr">Quelle époque !</title>
+<desc lang="fr">Lieu de rencontres et de débats entre les personnalités qui marquent l'actualité culturelle, sociétale, politique ou médiatique, &quot; Quelle époque ! &quot; interroge la société. Léa Salamé prend le pouls de cette époque pas comme les autres, accompagnée par Christophe Dechavanne et Philippe Caverivière.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34067732.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521231900 +0200" stop="20230521234600 +0200" channel="TV5Monde.fr">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7761232.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521234600 +0200" stop="20230521235000 +0200" channel="TV5Monde.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Le bulletin météorologique international.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_5578751.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230521235000 +0200" stop="20230522003200 +0200" channel="TV5Monde.fr">
+<title lang="fr">5e rang</title>
+<sub-title lang="fr">5e rang</sub-title>
+<desc lang="fr">Jean-Michel, empêtré dans ses magouilles, tente au mieux de se faire discret. Fred n'est pas dupe et le surveille de près. Vince se rapproche sournoisement de Marie-Luce.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_25224323.jpg" />
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

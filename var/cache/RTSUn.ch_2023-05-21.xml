@@ -1,0 +1,233 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230521060000 +0200" stop="20230521102500 +0200" channel="RTSUn.ch">
+<title lang="fr">RTS Kids</title>
+<desc lang="fr">Le magazine jeunesse de la RTS qui propose les plus récentes, amusantes et intéressantes séries d'animation. Un vrai bonheur et une source d'étonnement pour les plus jeunes à ne pas manquer!</desc>
+<category lang="fr">Magazine jeunesse</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/16/bf9f66cf32481d490a7bb136d111078a57b84fd4.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230521102500 +0200" stop="20230521103000 +0200" channel="RTSUn.ch">
+<title lang="fr">Quel temps fait-il ?</title>
+<desc lang="fr">Magazine d'info sur le temps qu'il fait en Suisse et sur les différents titres de l'actualité.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/09/e49e11f3192af06f586585d9558bd3de541e4318.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230521103000 +0200" stop="20230521110000 +0200" channel="RTSUn.ch">
+<title lang="fr">Signes</title>
+<sub-title lang="fr">A la rencontre du chansigne</sub-title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/35cd83066975f29c0b603883262e5ad58c960841.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230521110000 +0200" stop="20230521123500 +0200" channel="RTSUn.ch">
+<title lang="fr">Les beaux parleurs</title>
+<desc lang="fr">Jonas Schneiter anime cette émission aux côtés de trois chroniqueurs et un humoriste qui revisitent l'actualité de la semaine écoulée sur le ton d'une dispute intelligente et spirituelle.</desc>
+<category lang="fr">Talk-show</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/3293118bf7db59bc381307a53b0012ec5751b031_B4C1038E21C33EAC3BF3E8092FB04561.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230521123500 +0200" stop="20230521124500 +0200" channel="RTSUn.ch">
+<title lang="fr">Ensemble</title>
+<sub-title lang="fr">Chaîne du Bonheur Il Trajitto</sub-title>
+<desc lang="fr">&quot;Ensemble&quot; présente les nombreuses institutions d'utilité publique suisses. Par leur engagement et leurs actions, ces organisations encouragent la solidarité dans des domaines aussi variés que la santé, la vie sociale, l'aide humanitaire, la protection de l'environnement et du patrimoine.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/26/7f64abb9d27655dfea16abf78d4e546e556bd1e5.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230521124500 +0200" stop="20230521130500 +0200" channel="RTSUn.ch">
+<title lang="fr">Le 12h45</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/5bc0ae96b1e3c29f5ce8993140a07b906ac46d83.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230521130500 +0200" stop="20230521131500 +0200" channel="RTSUn.ch">
+<title lang="fr">Météo</title>
+<desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230521131500 +0200" stop="20230521134000 +0200" channel="RTSUn.ch">
+<title lang="fr">Géopolitis</title>
+<desc lang="fr">Pour mieux comprendre les grands enjeux internationaux, ce magazine de géopolitique décode les dessous de l'actualité politique.</desc>
+<category lang="fr">Magazine de géopolitique</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/16/61bf9ea77fc93f2c91cc70f562e31baac7713063.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230521134000 +0200" stop="20230521142500 +0200" channel="RTSUn.ch">
+<title lang="fr">Family Law</title>
+<sub-title lang="fr">Histoire révisionniste</sub-title>
+<desc lang="fr">Saison 2 Episode 1
+En plein doute sur son mariage après avoir surpris Frank dans un ascenseur d'hôtel avec une femme, Abby se lance à corps perdu dans la recherche de la vérité pour sa cliente.
+Année de réalisation : 2022</desc>
+<category lang="fr">Série humoristique</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/11/15/5e5edc9ad783987b38739e327f7c2f83d5c45063.jpg" />
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230521142500 +0200" stop="20230521152500 +0200" channel="RTSUn.ch">
+<title lang="fr">Family Law</title>
+<sub-title lang="fr">Crise d'identité</sub-title>
+<desc lang="fr">Saison 2 Episode 2
+Abby et Daniel représentent une adolescente transgenre dont le grand-père bloque l'accès à un traitement hormonal substitutif (THS).
+Année de réalisation : 2022</desc>
+<category lang="fr">Série humoristique</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/11/15/5e5edc9ad783987b38739e327f7c2f83d5c45063.jpg" />
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230521152500 +0200" stop="20230521160500 +0200" channel="RTSUn.ch">
+<title lang="fr">Blue Bloods</title>
+<sub-title lang="fr">Dilemmes</sub-title>
+<desc lang="fr">Saison 12 Episode 18
+Frank fait face à un dilemme lorsqu'un vétéran de la Marine lui demande de faire une exception à la limite d'âge de recrutement dans la police. Après avoir retrouvé un ancien rival de la faculté de droit, Erin rouvre le dossier d'un homme possiblement condamné à tort. Jamie hésite à dénoncer le sergent McNichols après l'avoir vu frapper un officier. Pendant ce temps, Danny et Baez tentent de retrouver un enfant enlevé...
+Année de réalisation : 2021</desc>
+<category lang="fr">Série policière</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/14/083840224a065646ac7d37e4a9e12db9b177351c.jpg" />
+<episode-num system="xmltv_ns">11.17.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230521160500 +0200" stop="20230521165500 +0200" channel="RTSUn.ch">
+<title lang="fr">Blue Bloods</title>
+<sub-title lang="fr">Cheval de Troie</sub-title>
+<desc lang="fr">Saison 12 Episode 19
+Lorsqu'Erin est harcelée par un homme qui a récemment été libéré de prison après avoir purgé une peine de douze ans, elle fait appel à Anthony et Danny pour enquêter sur le rôle de son bureau dans sa condamnation. Jamie est arrêté pour avoir conduit sous l'effet de stupéfiants après avoir été drogué à son insu lors d'une soirée. Frank doit faire face à ses inquiétudes pour son fils mais aussi pour son père...
+Année de réalisation : 2021</desc>
+<category lang="fr">Série policière</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/14/083840224a065646ac7d37e4a9e12db9b177351c.jpg" />
+<episode-num system="xmltv_ns">11.18.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230521165500 +0200" stop="20230521174000 +0200" channel="RTSUn.ch">
+<title lang="fr">Grey's Anatomy</title>
+<sub-title lang="fr">Les liens sacrés</sub-title>
+<desc lang="fr">Saison 19 Episode 9
+Lorsqu'une personne surgie de son passé refait surface dans sa vie, Simone doit prendre une décision importante. Blue et Jules assistent Maggie lorsqu'elle doit s'occuper d'un cas à risque . Jo et Link prennent en charge une femme enceinte. Lucas et Mika organisent une fête pleine de surprises...</desc>
+<category lang="fr">Série hospitalière</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/03/24/34d6ff3e782a59fb81e5effad55356ed7c6dcfcb.jpg" />
+<episode-num system="xmltv_ns">18.8.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230521174000 +0200" stop="20230521182500 +0200" channel="RTSUn.ch">
+<title lang="fr">Grey's Anatomy</title>
+<sub-title lang="fr">Bienvenue au club</sub-title>
+<desc lang="fr">Saison 19 Episode 10
+Catherine Avery revient à l'hôpital, le temps d'aider Lucas et Blue à gérer un cas épineux. Amelia prend en charge un patient délaissé par sa famille au moment même où il a besoin de soutien. Owen prend son avenir en main, à la grande surprise de Teddy...</desc>
+<category lang="fr">Série hospitalière</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/03/24/34d6ff3e782a59fb81e5effad55356ed7c6dcfcb.jpg" />
+<episode-num system="xmltv_ns">18.9.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230521182500 +0200" stop="20230521192000 +0200" channel="RTSUn.ch">
+<title lang="fr">Sport dimanche</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Multisports</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/d8659acaa21c8c5a66c4f04899e82972fa099b93.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230521192000 +0200" stop="20230521193000 +0200" channel="RTSUn.ch">
+<title lang="fr">Météo</title>
+<desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230521193000 +0200" stop="20230521200500 +0200" channel="RTSUn.ch">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/18/59dda809b02648f35eb849940def237ccff6b555_0B6E8CAADCD72313852141747079476B.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230521200500 +0200" stop="20230521201000 +0200" channel="RTSUn.ch">
+<title lang="fr">Météo</title>
+<desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230521201000 +0200" stop="20230521210500 +0200" channel="RTSUn.ch">
+<title lang="fr">Mise au point</title>
+<desc lang="fr">&quot;Mise au Point&quot; propose des enquêtes, des reportages et des interviews portant sur différents thèmes d'actualité au niveau national et international.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/16/d6e7fbc421253b054d6ff87859f595d26aa15719.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230521210500 +0200" stop="20230521215500 +0200" channel="RTSUn.ch">
+<title lang="fr">9-1-1</title>
+<sub-title lang="fr">Taxes mortelles</sub-title>
+<desc lang="fr">Saison 6 Episode 15
+En pleine période de déclaration d'impôts, un homme s'immole par le feu chez son banquier. Un autre, qui a détourné l'argent de son association pour sans-abris, meurt en voulant échapper à la prison. Une femme décède peu de temps après ses pré-funérailles. Par ailleurs, Athena est sous le choc lorsqu'un suspect succombe sous sa garde, quelques minutes après son arrestation. De leur côté, Maddie et Chimney, eux, doivent faire face à un contrôle fiscal demandé par l'IRS, l'administration en charge des taxes et des impôts aux Etats-Unis.
+Année de réalisation : 2023</desc>
+<category lang="fr">Série dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/0e76ab74640494c350bd56e0ff3958df75e55ffd_29CDDE216364D937E39C532050D7FC2E.jpg" />
+<episode-num system="xmltv_ns">5.14.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230521215500 +0200" stop="20230521224000 +0200" channel="RTSUn.ch">
+<title lang="fr">9-1-1</title>
+<sub-title lang="fr">Cherche et trouve</sub-title>
+<desc lang="fr">Saison 6 Episode 16
+La 118 intervient dans un centre commercial lorsqu'une mère paniquée appelle pour signaler la disparition de son enfant. La femme ne sait pas où son fils est allé et l'affluence du lieu rend les recherches compliquées. Plus tard et ailleurs, deux colocataires se retrouvent ensevelis dans une décharge où ils cherchaient à récupérer un disque dur contenant des cryptomonnaies. Dans l'intervention, Chimney perd la bague de fiançailles qu'il venait d'acheter pour Maddie. 
+Année de réalisation : 2023</desc>
+<category lang="fr">Série dramatique</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/0e76ab74640494c350bd56e0ff3958df75e55ffd_29CDDE216364D937E39C532050D7FC2E.jpg" />
+<episode-num system="xmltv_ns">5.15.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230521224000 +0200" stop="20230521232500 +0200" channel="RTSUn.ch">
+<title lang="fr">CSI: Vegas</title>
+<sub-title lang="fr">Incendie vengeur</sub-title>
+<desc lang="fr">Saison 2 Episode 7
+Un père et son fils ont été tués. Sur les lieux du crime, les enquêteurs découvrent une mystérieuse empreinte de pied, qui ressemble à celle d'un Bigfoot.
+Année de réalisation : 2022</desc>
+<category lang="fr">Série policière</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/02/21/d1582a2a46ef6e0715dd0e356dd913ad17d3a927.jpg" />
+<episode-num system="xmltv_ns">1.6.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230521232500 +0200" stop="20230522001000 +0200" channel="RTSUn.ch">
+<title lang="fr">CSI: Vegas</title>
+<sub-title lang="fr">Une touche de grâce</sub-title>
+<desc lang="fr">Saison 2 Episode 8
+La frustration de Catherine s'intensifie lorsque le principal suspect dans la disparition de Grace est retrouvé mort. Il a été assassiné. Les agents vont tout faire pour découvrir qui a tué cet homme, et espèrent que les investigations les mèneront jusqu'à Grace...
+Année de réalisation : 2022</desc>
+<category lang="fr">Série policière</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/04/10/3f6f2e5f3cf00b0e4c5839dc799999b427931947_068FC30D685F1E6EC86C2AC90C5FF0E7.jpg" />
+<episode-num system="xmltv_ns">1.7.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230522001000 +0200" stop="20230522010000 +0200" channel="RTSUn.ch">
+<title lang="fr">Mr. Mercedes</title>
+<sub-title lang="fr">La pression monte</sub-title>
+<desc lang="fr">Saison 3 Episode 9
+Hodges et Jerome font une avancée dans l'affaire Rothstein. Holly reçoit un héritage étrange. Morris fait une découverte effrayante.</desc>
+<category lang="fr">Série de suspense</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/3c9cd3d05e2ccc5fc9ee12b44eb501285fb805c5.jpg" />
+<episode-num system="xmltv_ns">2.8.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230522010000 +0200" stop="20230522015000 +0200" channel="RTSUn.ch">
+<title lang="fr">Sport dimanche</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Multisports</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/d8659acaa21c8c5a66c4f04899e82972fa099b93.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230522015000 +0200" stop="20230522022600 +0200" channel="RTSUn.ch">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/18/59dda809b02648f35eb849940def237ccff6b555_0B6E8CAADCD72313852141747079476B.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230522022600 +0200" stop="20230522050000 +0200" channel="RTSUn.ch">
+<title lang="fr">Météo</title>
+<desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
