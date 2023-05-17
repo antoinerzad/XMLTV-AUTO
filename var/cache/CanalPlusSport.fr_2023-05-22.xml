@@ -1,0 +1,156 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230522030200 +0200" stop="20230522072800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2FE94A7D93AAD8E38CC5F134073111ED.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230522072800 +0200" stop="20230522093000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : PGA Championship</title>
+<desc lang="fr">PGA Championship 2023. 4e tour. 1re partie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9F44AE4A4AF7CC144666812CD3AD238D.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230522093000 +0200" stop="20230522112900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby à 7 : Sevens World Series</title>
+<desc lang="fr">Sevens World Series 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby à 7</category>
+<icon src="https://img.bouygtel.fr/CMS/images/47962181A32684E6A5BD4DDDFC018D78.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230522112900 +0200" stop="20230522130900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/89DCD923BCC916E69B1A703550775DF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230522130900 +0200" stop="20230522134800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Canal Rugby Club 1re partie</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CDEF54BD147F377412FD28F1CD5BC7E9.jpg" />
+<episode-num system="xmltv_ns">0.24.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230522134800 +0200" stop="20230522152900 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rugby : Pro D2</title>
+<desc lang="fr">Pro D2 2022/2023.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/89DCD923BCC916E69B1A703550775DF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230522152900 +0200" stop="20230522155000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Canal Rugby Club le débrief</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E8026E2B420BB29E6E163DAB9B568AE7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230522155000 +0200" stop="20230522175100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">IndyCar Series : 500 Miles d'Indianapolis</title>
+<desc lang="fr">IndyCar Series 2023. 500 Miles d'Indianapolis.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Indycar</category>
+<icon src="https://img.bouygtel.fr/CMS/images/50E8D1A64AF63EA2A164108AFF47BFF2.jpg" />
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230522175100 +0200" stop="20230522184300 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Rallye : WRC, Rallye du Portugal</title>
+<desc lang="fr">Championnat du monde des rallyes 2023. Rallye du Portugal.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rallye</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D85AC7D427B53E508BF7804E61CB93CE.jpg" />
+<episode-num system="xmltv_ns">0.107.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230522184300 +0200" stop="20230522201100 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 2 : grand prix d'Emilie-Romagne</title>
+<desc lang="fr">Championnat FIA 2023. Grand prix d'Emilie-Romagne.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 2</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D0E7962A9469C86A6D832966A0BD826D.jpg" />
+<episode-num system="xmltv_ns">0.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230522201100 +0200" stop="20230522210000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">La grille</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1113F7FEA122A193516A5365BD482712.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230522210000 +0200" stop="20230522225500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formule 1 : Grand Prix d'Emilie-Romagne</title>
+<desc lang="fr">Championnat du monde 2023. Grand Prix d'Emilie-Romagne.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/59236EBF470200CC6594BD73E543DEC5.jpg" />
+<episode-num system="xmltv_ns">0.29.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230522225500 +0200" stop="20230522230600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Le podium</title>
+<sub-title lang="fr">Grand Prix d'Emilie-Romagne</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/91282EBA54DAC49C4CE1EEF883B15F41.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230522230600 +0200" stop="20230522234200 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Formula One, le mag</title>
+<sub-title lang="fr">Grand Prix d'Emilie-Romagne</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E6EC1FBDB301092CEA31B60894BD969F.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230522234200 +0200" stop="20230523011500 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Monaco, le Grand Prix à tout prix</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Formule 1</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F97CC57079EBFDC14DCE628511285153.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523011500 +0200" stop="20230523031600 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Golf : PGA Championship</title>
+<desc lang="fr">PGA Championship 2023. 4e tour. 1re partie.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EC2B28D8339AF1F9F3C6F9BB574BF9B4.jpg" />
+<episode-num system="xmltv_ns">0.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523031600 +0200" stop="20230523051800 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Murder at Yellowstone City</title>
+<desc lang="fr">Dans le Montana, la petite ville de Yellowstone City est en plein essor. Un prospecteur local a découvert de l'or et cela attire bien des convoitises. Quand l'homme est retrouvé assassiné, le shérif Jim Ambrose accuse rapidement Cicero, un ancien esclave qui est un nouvel arrivant en ville. Mais l'innocence de Cicero devient de plus en plus évidente. Le nouveau pasteur de la ville, Thaddeus Murphy, et sa femme Alice, essayent eux de tenir tête au shérif Ambrose et d'amener le vrai coupable devant la justice.</desc>
+<category lang="fr">Action</category>
+<category lang="fr">Western</category>
+<icon src="https://img.bouygtel.fr/CMS/images/844B90D7F5C9210251C128A94DD4F717.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230523051800 +0200" stop="20230523073000 +0200" channel="CanalPlusSport.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Fin</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D5B0A2CAD07C8806F6C22861A5010BB6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

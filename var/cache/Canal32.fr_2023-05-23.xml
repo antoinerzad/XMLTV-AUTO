@@ -1,0 +1,437 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230522230000 +0200" stop="20230523070000 +0200" channel="Canal32.fr">
+<title lang="fr">Rediffusion en boucle</title>
+<desc lang="fr">Rediffusion de programmes en boucle jusqu'au matin.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Spéciale</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523070000 +0200" stop="20230523083000 +0200" channel="Canal32.fr">
+<title lang="fr">Direct de la veille</title>
+<desc lang="fr">&quot;Direct de la veille&quot; est un magazine d'information traitant régulièrement des sujets variés.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523083000 +0200" stop="20230523101300 +0200" channel="Canal32.fr">
+<title lang="fr">Télé-achat</title>
+<desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Télé-achat</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C241F74D840C26194526614B14805845.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523101300 +0200" stop="20230523101900 +0200" channel="Canal32.fr">
+<title lang="fr">Chez nos voisins</title>
+<desc lang="fr">L'émission &quot;Chez nos voisins&quot; est un magazine régional.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523101900 +0200" stop="20230523103000 +0200" channel="Canal32.fr">
+<title lang="fr">Réussites : le portrait</title>
+<desc lang="fr">Découvrez les portraits des gens de votre entourage, écoutez leurs histoires et expériences dans votre magazine &quot;Réussites : le portrait&quot;. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523103000 +0200" stop="20230523104300 +0200" channel="Canal32.fr">
+<title lang="fr">Grand tourisme</title>
+<desc lang="fr">Une émission axée sur le tourisme qui vous fera découvrir les meilleurs destinations pour vos vacances de rêve. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Loisirs</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523104300 +0200" stop="20230523104600 +0200" channel="Canal32.fr">
+<title lang="fr">La minute de l'immobilier</title>
+<desc lang="fr">Emission réalisée en partenariat avec la FNAIM de l'Aube. Les agents immobiliers de la FNAIM vous donnent, une semaine sur deux, tous les conseils pour réaliser un achat immobilier dans les meilleures conditions. Un thème différent est abordé à chaque émission.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Décoration</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523104600 +0200" stop="20230523104900 +0200" channel="Canal32.fr">
+<title lang="fr">L'art de faire</title>
+<desc lang="fr">Découvrez comment l' art et le savoir-faire associés peuvent être un excellent mélange dans votre magazine &quot;L'art de faire&quot;.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Beaux-arts</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523104900 +0200" stop="20230523110000 +0200" channel="Canal32.fr">
+<title lang="fr">Passion bénévoles</title>
+<desc lang="fr">Une émission qui met en valeur les petits gestes de solidarité, d'entraide et de bénévolat dans le département de l'Aube.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523110000 +0200" stop="20230523113000 +0200" channel="Canal32.fr">
+<title lang="fr">Les dossiers du jeudi</title>
+<desc lang="fr">L'émission thématique qui débute à 19 heures, avec les rendez-vous quotidiens habituels et les dossiers de société chaque jeudi.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523113000 +0200" stop="20230523114300 +0200" channel="Canal32.fr">
+<title lang="fr">Emission spéciale</title>
+<desc lang="fr">Des sujets très divers dans l'émission spéciale, avec la diffusion d'évènements culturels, musicaux, sportifs, voire interactifs, </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523114300 +0200" stop="20230523120000 +0200" channel="Canal32.fr">
+<title lang="fr">C'est de la balle</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Football</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523120000 +0200" stop="20230523120400 +0200" channel="Canal32.fr">
+<title lang="fr">Flash JT</title>
+<desc lang="fr">La rédaction est mobilisée pour vous présenter toute l'actualité de Troyes et du département dans votre &quot;Flash JT&quot;.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523120400 +0200" stop="20230523120600 +0200" channel="Canal32.fr">
+<title lang="fr">Météo + Qualité de l'air</title>
+<desc lang="fr">Chaque jour, du lundi au vendredi, Cecil Rich vous donne les prévisions météo départementales et nationales. Dès le mercredi, découvrez les prévisions météo pour le weekend, afin de mieux préparer votre temps libre.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523120600 +0200" stop="20230523121000 +0200" channel="Canal32.fr">
+<title lang="fr">Le grand quizz</title>
+<desc lang="fr">Testez vos connaissances avec votre famille ou avec des amis et amusez-vous avec votre &quot;Grand quizz&quot; sur Canal 32.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523121000 +0200" stop="20230523124000 +0200" channel="Canal32.fr">
+<title lang="fr">JT Sport</title>
+<desc lang="fr">Retrouvez les meilleurs moments de l'actualité sportive de votre département, les résultats et les classements, chaque lundi dans votre &quot;Journal des sports&quot;. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523124000 +0200" stop="20230523124400 +0200" channel="Canal32.fr">
+<title lang="fr">Emission en alternance</title>
+<desc lang="fr">Retrouvez dans cette tranche horaire, des magazines découverte, des portraits, des émissions pédagogiques qui concernent l'Aube.</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Education</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523124400 +0200" stop="20230523124600 +0200" channel="Canal32.fr">
+<title lang="fr">Passion bénévoles</title>
+<desc lang="fr">Une émission qui met en valeur les petits gestes de solidarité, d'entraide et de bénévolat dans le département de l'Aube.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523124600 +0200" stop="20230523125000 +0200" channel="Canal32.fr">
+<title lang="fr">Le grand quizz</title>
+<desc lang="fr">Testez vos connaissances avec votre famille ou avec des amis et amusez-vous avec votre &quot;Grand quizz&quot; sur Canal 32.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523125000 +0200" stop="20230523125500 +0200" channel="Canal32.fr">
+<title lang="fr">Flash JT</title>
+<desc lang="fr">La rédaction est mobilisée pour vous présenter toute l'actualité de Troyes et du département dans votre &quot;Flash JT&quot;.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523125500 +0200" stop="20230523130000 +0200" channel="Canal32.fr">
+<title lang="fr">Météo + Qualité de l'air</title>
+<desc lang="fr">Chaque jour, du lundi au vendredi, Cecil Rich vous donne les prévisions météo départementales et nationales. Dès le mercredi, découvrez les prévisions météo pour le weekend, afin de mieux préparer votre temps libre.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523130000 +0200" stop="20230523131300 +0200" channel="Canal32.fr">
+<title lang="fr">Attitude montagne</title>
+<desc lang="fr">L'émission &quot;Attitude montagne&quot; est un magazine d'information qui aborde de nombreux sujets de découvertes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523131300 +0200" stop="20230523133000 +0200" channel="Canal32.fr">
+<title lang="fr">Mon meilleur match</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Football</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523133000 +0200" stop="20230523133500 +0200" channel="Canal32.fr">
+<title lang="fr">Flash JT</title>
+<desc lang="fr">La rédaction est mobilisée pour vous présenter toute l'actualité de Troyes et du département dans votre &quot;Flash JT&quot;.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523133500 +0200" stop="20230523134000 +0200" channel="Canal32.fr">
+<title lang="fr">Météo + Qualité de l'air</title>
+<desc lang="fr">Chaque jour, du lundi au vendredi, Cecil Rich vous donne les prévisions météo départementales et nationales. Dès le mercredi, découvrez les prévisions météo pour le weekend, afin de mieux préparer votre temps libre.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523134000 +0200" stop="20230523135300 +0200" channel="Canal32.fr">
+<title lang="fr">Tribune libre</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Football</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523135300 +0200" stop="20230523140000 +0200" channel="Canal32.fr">
+<title lang="fr">Infos Troyes / L'objet d'une histoire / C'est mon quartier</title>
+<desc lang="fr">Les trois émissions diffusées en alternance. Soyez au courant de toute l'actualité de Troyes avec &quot;Info Troyes&quot; et &quot;C'est mon quartier&quot; et découvrez les mille et une histoires des objets mis aux enchères avec &quot;L'objet d'une histoire&quot;.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523140000 +0200" stop="20230523150000 +0200" channel="Canal32.fr">
+<title lang="fr">Télé-achat</title>
+<desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Télé-achat</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C241F74D840C26194526614B14805845.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523150000 +0200" stop="20230523150400 +0200" channel="Canal32.fr">
+<title lang="fr">Flash JT</title>
+<desc lang="fr">La rédaction est mobilisée pour vous présenter toute l'actualité de Troyes et du département dans votre &quot;Flash JT&quot;.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523150400 +0200" stop="20230523160000 +0200" channel="Canal32.fr">
+<title lang="fr">Emission spéciale</title>
+<desc lang="fr">Des sujets très divers dans l'émission spéciale, avec la diffusion d'évènements culturels, musicaux, sportifs, voire interactifs, </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523160000 +0200" stop="20230523170000 +0200" channel="Canal32.fr">
+<title lang="fr">Flash JT</title>
+<desc lang="fr">La rédaction est mobilisée pour vous présenter toute l'actualité de Troyes et du département dans votre &quot;Flash JT&quot;.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523170000 +0200" stop="20230523170600 +0200" channel="Canal32.fr">
+<title lang="fr">Flash JT</title>
+<desc lang="fr">La rédaction est mobilisée pour vous présenter toute l'actualité de Troyes et du département dans votre &quot;Flash JT&quot;.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523170600 +0200" stop="20230523173000 +0200" channel="Canal32.fr">
+<title lang="fr">Attitude montagne</title>
+<desc lang="fr">L'émission &quot;Attitude montagne&quot; est un magazine d'information qui aborde de nombreux sujets de découvertes.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Nature</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523173000 +0200" stop="20230523180000 +0200" channel="Canal32.fr">
+<title lang="fr">Jour de match / Dossiers du jeudi</title>
+<desc lang="fr">Deux émissions diffusées en alternance: &quot;Jour de match&quot; où chaque semaine, David Mutel et Florian Jarjat commentent en &quot;live&quot; le match de l'Estac, dans un grand format de 52 mn, résumant les meilleurs moments de la rencontre et &quot;Dossiers du jeudi&quot;: l'émission thématique avec les rendez-vous quotidiens habituels et les dossiers de société les jeudis. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523180000 +0200" stop="20230523181500 +0200" channel="Canal32.fr">
+<title lang="fr">JT Sport</title>
+<desc lang="fr">Retrouvez les meilleurs moments de l'actualité sportive de votre département, les résultats et les classements, chaque lundi dans votre &quot;Journal des sports&quot;. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523181500 +0200" stop="20230523183000 +0200" channel="Canal32.fr">
+<title lang="fr">Jour de match / JT Sport</title>
+<desc lang="fr">Deux émissions de sport diffusées en alternance: &quot;Jour de match&quot; et &quot;JT Sport&quot;.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523183000 +0200" stop="20230523183500 +0200" channel="Canal32.fr">
+<title lang="fr">Flash JT</title>
+<desc lang="fr">La rédaction est mobilisée pour vous présenter toute l'actualité de Troyes et du département dans votre &quot;Flash JT&quot;.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523183500 +0200" stop="20230523184000 +0200" channel="Canal32.fr">
+<title lang="fr">Météo + Qualité de l'air</title>
+<desc lang="fr">Chaque jour, du lundi au vendredi, Cecil Rich vous donne les prévisions météo départementales et nationales. Dès le mercredi, découvrez les prévisions météo pour le weekend, afin de mieux préparer votre temps libre.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523184000 +0200" stop="20230523190000 +0200" channel="Canal32.fr">
+<title lang="fr">Infos Ciné</title>
+<desc lang="fr">Découvrez toute l'actualité cinéma, à travers bande-annonces et interviews. Les sorties de films, les sorties DVD, le box office : toutes les infos pour ne rien manquer du 7e art.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523190000 +0200" stop="20230523193000 +0200" channel="Canal32.fr">
+<title lang="fr">Coup de jeune</title>
+<desc lang="fr">Emission dédiée aux jeunes qui présente des nouveaux projets des jeunes artistes de la région et qui annonce les prochains événements. </desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Jeunesse</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523193000 +0200" stop="20230523194500 +0200" channel="Canal32.fr">
+<title lang="fr">JT d'actualité</title>
+<desc lang="fr">La rédaction est mobilisée pour vous présenter toute l'actualité de Troyes et du département. Société, économie, faits divers, culture, sports : tous les sujets sont abordés dans ce grand moment d'information.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523194500 +0200" stop="20230523195200 +0200" channel="Canal32.fr">
+<title lang="fr">Météo + Qualité de l'air</title>
+<desc lang="fr">Chaque jour, du lundi au vendredi, Cecil Rich vous donne les prévisions météo départementales et nationales. Dès le mercredi, découvrez les prévisions météo pour le weekend, afin de mieux préparer votre temps libre.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523195200 +0200" stop="20230523195500 +0200" channel="Canal32.fr">
+<title lang="fr">Le grand quizz</title>
+<desc lang="fr">Testez vos connaissances avec votre famille ou avec des amis et amusez-vous avec votre &quot;Grand quizz&quot; sur Canal 32.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523195500 +0200" stop="20230523200000 +0200" channel="Canal32.fr">
+<title lang="fr">Il était une fois dans l'Aube</title>
+<desc lang="fr">L'émission &quot;Il était une fois dans l'Aube&quot; est un magazine de découverte.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523200000 +0200" stop="20230523200600 +0200" channel="Canal32.fr">
+<title lang="fr">Passion bénévoles</title>
+<desc lang="fr">Une émission qui met en valeur les petits gestes de solidarité, d'entraide et de bénévolat dans le département de l'Aube.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523200600 +0200" stop="20230523201900 +0200" channel="Canal32.fr">
+<title lang="fr">Mon meilleur match</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Football</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523201900 +0200" stop="20230523203000 +0200" channel="Canal32.fr">
+<title lang="fr">Emission en alternance</title>
+<desc lang="fr">Retrouvez dans cette tranche horaire, des magazines découverte, des portraits, des émissions pédagogiques qui concernent l'Aube.</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Education</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523203000 +0200" stop="20230523204000 +0200" channel="Canal32.fr">
+<title lang="fr">JT d'actualité</title>
+<desc lang="fr">La rédaction est mobilisée pour vous présenter toute l'actualité de Troyes et du département. Société, économie, faits divers, culture, sports : tous les sujets sont abordés dans ce grand moment d'information.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523204000 +0200" stop="20230523205000 +0200" channel="Canal32.fr">
+<title lang="fr">Météo + Qualité de l'air</title>
+<desc lang="fr">Chaque jour, du lundi au vendredi, Cecil Rich vous donne les prévisions météo départementales et nationales. Dès le mercredi, découvrez les prévisions météo pour le weekend, afin de mieux préparer votre temps libre.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523205000 +0200" stop="20230523205200 +0200" channel="Canal32.fr">
+<title lang="fr">Jour de match / Cuisine et terroir / De l'Aube et d'ailleurs / Passion bénévole</title>
+<desc lang="fr">Plusieurs émissions diffusées en alternance: &quot;Jour de match&quot;, &quot;Cuisine et terroir&quot;, &quot;De l'Aube et d'ailleurs&quot; et &quot;Passion bénévole&quot;.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523205200 +0200" stop="20230523210000 +0200" channel="Canal32.fr">
+<title lang="fr">Le grand quizz</title>
+<desc lang="fr">Testez vos connaissances avec votre famille ou avec des amis et amusez-vous avec votre &quot;Grand quizz&quot; sur Canal 32.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523210000 +0200" stop="20230523213000 +0200" channel="Canal32.fr">
+<title lang="fr">JT Sport</title>
+<desc lang="fr">Retrouvez les meilleurs moments de l'actualité sportive de votre département, les résultats et les classements, chaque lundi dans votre &quot;Journal des sports&quot;. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sport</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523213000 +0200" stop="20230523214500 +0200" channel="Canal32.fr">
+<title lang="fr">JT d'actualité</title>
+<desc lang="fr">La rédaction est mobilisée pour vous présenter toute l'actualité de Troyes et du département. Société, économie, faits divers, culture, sports : tous les sujets sont abordés dans ce grand moment d'information.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523214500 +0200" stop="20230523215500 +0200" channel="Canal32.fr">
+<title lang="fr">Météo + Qualité de l'air</title>
+<desc lang="fr">Chaque jour, du lundi au vendredi, Cecil Rich vous donne les prévisions météo départementales et nationales. Dès le mercredi, découvrez les prévisions météo pour le weekend, afin de mieux préparer votre temps libre.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523215500 +0200" stop="20230523220300 +0200" channel="Canal32.fr">
+<title lang="fr">Tribune libre</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Football</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523220300 +0200" stop="20230523220600 +0200" channel="Canal32.fr">
+<title lang="fr">Il était une fois dans l'Aube</title>
+<desc lang="fr">L'émission &quot;Il était une fois dans l'Aube&quot; est un magazine de découverte.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523220600 +0200" stop="20230523221100 +0200" channel="Canal32.fr">
+<title lang="fr">Réussites : le portrait</title>
+<desc lang="fr">Découvrez les portraits des gens de votre entourage, écoutez leurs histoires et expériences dans votre magazine &quot;Réussites : le portrait&quot;. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523221100 +0200" stop="20230523223000 +0200" channel="Canal32.fr">
+<title lang="fr">Grand tourisme</title>
+<desc lang="fr">Une émission axée sur le tourisme qui vous fera découvrir les meilleurs destinations pour vos vacances de rêve. </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Loisirs</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523223000 +0200" stop="20230523224500 +0200" channel="Canal32.fr">
+<title lang="fr">JT d'actualité</title>
+<desc lang="fr">La rédaction est mobilisée pour vous présenter toute l'actualité de Troyes et du département. Société, économie, faits divers, culture, sports : tous les sujets sont abordés dans ce grand moment d'information.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523224500 +0200" stop="20230523225500 +0200" channel="Canal32.fr">
+<title lang="fr">Météo + Qualité de l'air</title>
+<desc lang="fr">Chaque jour, du lundi au vendredi, Cecil Rich vous donne les prévisions météo départementales et nationales. Dès le mercredi, découvrez les prévisions météo pour le weekend, afin de mieux préparer votre temps libre.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523225500 +0200" stop="20230523230000 +0200" channel="Canal32.fr">
+<title lang="fr">La minute de l'immobilier</title>
+<desc lang="fr">Emission réalisée en partenariat avec la FNAIM de l'Aube. Les agents immobiliers de la FNAIM vous donnent, une semaine sur deux, tous les conseils pour réaliser un achat immobilier dans les meilleures conditions. Un thème différent est abordé à chaque émission.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Décoration</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523230000 +0200" stop="20230524070000 +0200" channel="Canal32.fr">
+<title lang="fr">Rediffusion en boucle</title>
+<desc lang="fr">Rediffusion de programmes en boucle jusqu'au matin.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Spéciale</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

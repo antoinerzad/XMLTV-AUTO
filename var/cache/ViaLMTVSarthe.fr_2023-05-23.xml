@@ -1,0 +1,866 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230523060000 +0200" stop="20230523061300 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - L'info</title>
+<desc lang="fr">Le journal quotidien, en direct et en plateau, par les journalistes de la rédaction, avec l'invité du jour.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523061300 +0200" stop="20230523061600 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DF89785BA21443E7F845327FB3B61F00.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523061600 +0200" stop="20230523062500 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - La suite</title>
+<sub-title lang="fr">Invité : Grégory Chaquin</sub-title>
+<desc lang="fr">Le rendez-vous quotidien des bons plans, des jeux et de la bonne humeur, animé par Aurélien LEGENDRE</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/73BED109BAEA7D6E5D3B299FDCBD1C5C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523062500 +0200" stop="20230523064100 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - L'info</title>
+<desc lang="fr">Le journal quotidien, en direct et en plateau, par les journalistes de la rédaction, avec l'invité du jour.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523064100 +0200" stop="20230523064400 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/442E663736324E837F6069C24A1DA1E0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523064400 +0200" stop="20230523065700 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - L'info</title>
+<desc lang="fr">Le journal quotidien, en direct et en plateau, par les journalistes de la rédaction, avec l'invité du jour.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523065700 +0200" stop="20230523070200 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DF89785BA21443E7F845327FB3B61F00.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523070200 +0200" stop="20230523071800 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - L'info</title>
+<desc lang="fr">Le journal quotidien, en direct et en plateau, par les journalistes de la rédaction, avec l'invité du jour.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523071800 +0200" stop="20230523072100 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4B078AD6958CAF08E9B2691603E9569E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523072100 +0200" stop="20230523073300 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - La suite</title>
+<sub-title lang="fr">Invité : Grégory Chaquin</sub-title>
+<desc lang="fr">Le rendez-vous quotidien des bons plans, des jeux et de la bonne humeur, animé par Aurélien LEGENDRE</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2000AFF1E1B42DBE0EA720398C0C32EF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523073300 +0200" stop="20230523073500 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Monsieur Programmes</title>
+<desc lang="fr">Pour s'y retrouver dans les programmes à venir, cette pastille présentée par Alexandre FAURE permet de connaître les thèmes et les invités du jour des programmes de la chaîne.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/07041D1B017C613AB25CC75874543187.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523073500 +0200" stop="20230523075000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - L'info</title>
+<desc lang="fr">Le journal quotidien, en direct et en plateau, par les journalistes de la rédaction, avec l'invité du jour.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523075000 +0200" stop="20230523075300 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4B078AD6958CAF08E9B2691603E9569E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523075300 +0200" stop="20230523080900 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - L'info</title>
+<desc lang="fr">Le journal quotidien, en direct et en plateau, par les journalistes de la rédaction, avec l'invité du jour.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523080900 +0200" stop="20230523081200 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/442E663736324E837F6069C24A1DA1E0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523081200 +0200" stop="20230523082700 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - L'info</title>
+<desc lang="fr">Le journal quotidien, en direct et en plateau, par les journalistes de la rédaction, avec l'invité du jour.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523082700 +0200" stop="20230523083000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/442E663736324E837F6069C24A1DA1E0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523083000 +0200" stop="20230523084200 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - La suite</title>
+<sub-title lang="fr">Invité : Grégory Chaquin</sub-title>
+<desc lang="fr">Le rendez-vous quotidien des bons plans, des jeux et de la bonne humeur, animé par Aurélien LEGENDRE</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/73BED109BAEA7D6E5D3B299FDCBD1C5C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523084200 +0200" stop="20230523090000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - L'info</title>
+<desc lang="fr">Le journal quotidien, en direct et en plateau, par les journalistes de la rédaction, avec l'invité du jour.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523090000 +0200" stop="20230523090300 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">20 ans déjà !</title>
+<desc lang="fr">Avec 20 ANS DEJA, on se plonge dans les archives de 4 SUR 8, le journal quotidien de l'ancêtre de LMtv, Canal 8. C'est l'occasion de voir l'évolution d'un lieu, d'un événement, d'une manière d'aborder une problématique, de se remémorer l'air du temps. Dans un reportage ou un sujet, on y retrouve quelquefois des personnes connues, ou moins, plus jeunes de 20 années, jour pour jour, ou presque !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A6E321144B6AAD9EAA62BBA18E84DCFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523090300 +0200" stop="20230523090800 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4B078AD6958CAF08E9B2691603E9569E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523090800 +0200" stop="20230523102500 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Découvertes</title>
+<sub-title lang="fr">Documentaire Faire Autrement : &quot;Le temps, la terre et nous&quot;</sub-title>
+<desc lang="fr">Une série documentaire des locales.tv : Partout sur nos territoires des chercheurs, des entrepreneurs, des inventeurs et des gens découvrent de nouvelles façons de faire, récupérer, restaurer, soigner, réparer…</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/13241C421B4951AEB86D088222985227.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523102500 +0200" stop="20230523102800 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Monsieur Programmes</title>
+<desc lang="fr">Pour s'y retrouver dans les programmes à venir, cette pastille présentée par Alexandre FAURE permet de connaître les thèmes et les invités du jour des programmes de la chaîne.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/08B38EA5E48D67962C9669F5AEF6AA58.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523102800 +0200" stop="20230523104400 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Les Sarthois(es) du web - Partie 1</title>
+<sub-title lang="fr">Cédric Forzain vulgarise la programmation sur sa chaîne Twitch</sub-title>
+<desc lang="fr">Aurélien CAILLOCE reçoit les Sarthois(es) présent(es) sur Internet dans leur domaine de prédilection : chant, comédie, pop-culture, culture geek, entrepreneuriat ou encore influenceurs.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sciences et technique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/13E57C7A5BA7748BBD72936ACC671713.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523104400 +0200" stop="20230523105800 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Les Sarthois(es) du web - Partie 2</title>
+<sub-title lang="fr">Marie-Jeanne crée des sacs cadeaux et lutte contre le gaspillage</sub-title>
+<desc lang="fr">Aurélien CAILLOCE reçoit les Sarthois(es) présent(es) sur Internet dans leur domaine de prédilection : chant, comédie, pop-culture, culture geek, entrepreneuriat ou encore influenceurs.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sciences et technique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/13E57C7A5BA7748BBD72936ACC671713.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523105800 +0200" stop="20230523111100 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Les Sarthois(es) du web - Partie 3</title>
+<sub-title lang="fr">DJ au Lodge</sub-title>
+<desc lang="fr">Aurélien CAILLOCE reçoit les Sarthois(es) présent(es) sur Internet dans leur domaine de prédilection : chant, comédie, pop-culture, culture geek, entrepreneuriat ou encore influenceurs.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sciences et technique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1875F3DABA3D80AB1071FEB0C10EDE02.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523111100 +0200" stop="20230523111500 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DF89785BA21443E7F845327FB3B61F00.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523111500 +0200" stop="20230523112800 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Les Sarthois(es) du web - Partie 4</title>
+<sub-title lang="fr">Les sorties d'EMY</sub-title>
+<desc lang="fr">Aurélien CAILLOCE reçoit les Sarthois(es) présent(es) sur Internet dans leur domaine de prédilection : chant, comédie, pop-culture, culture geek, entrepreneuriat ou encore influenceurs.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Sciences et technique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1875F3DABA3D80AB1071FEB0C10EDE02.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523112800 +0200" stop="20230523120000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Évasion</title>
+<sub-title lang="fr">Le Mans Afterwork</sub-title>
+<desc lang="fr">Évadez-vous à travers différents thêmes ! Chaque semaine, retrouvez un programme différent. &quot;Avec les yeux de Morgane&quot; en diffusion inédite le premier vendredi de chaque mois, &quot;Auto Legend&quot; le second, &quot;Le Mans Afterwork&quot; le troisième et &quot;Au bonheur de Nacre&quot; le dernier vendredi du mois.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Art de vivre</category>
+<icon src="https://img.bouygtel.fr/CMS/images/26551BB04601B4D70C5D471C963AD38A.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523120000 +0200" stop="20230523121600 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - L'info</title>
+<desc lang="fr">Le journal quotidien, en direct et en plateau, par les journalistes de la rédaction, avec l'invité du jour.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523121600 +0200" stop="20230523121800 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4B078AD6958CAF08E9B2691603E9569E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523121800 +0200" stop="20230523122900 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - La suite</title>
+<sub-title lang="fr">Invité : Grégory Chaquin</sub-title>
+<desc lang="fr">Le rendez-vous quotidien des bons plans, des jeux et de la bonne humeur, animé par Aurélien LEGENDRE</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/73BED109BAEA7D6E5D3B299FDCBD1C5C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523122900 +0200" stop="20230523124400 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">72 Sports partie 1</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports fun</category>
+<icon src="https://img.bouygtel.fr/CMS/images/132CA6C8AC6A84505F52DF5880BD155D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523124400 +0200" stop="20230523125700 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">72 Sports partie 2</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports fun</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8E5AAFAE0165A7D8208DCCA42FBFCD64.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523125700 +0200" stop="20230523131100 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">72 Sports partie 3</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports fun</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8E5AAFAE0165A7D8208DCCA42FBFCD64.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523131100 +0200" stop="20230523131300 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DF89785BA21443E7F845327FB3B61F00.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523131300 +0200" stop="20230523132500 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">72 Sports partie 4</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports fun</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8E5AAFAE0165A7D8208DCCA42FBFCD64.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523132500 +0200" stop="20230523135400 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">La santé d'abord</title>
+<desc lang="fr">Ce programme inédit a pour ambition de répondre aux attentes des Français, avec une promesse de santé &amp; de bien-être près de chez soi. L'animation est assurée par Véronique MONIER, docteure en pharmacie.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F6CE0F7E770A247483AF2E665152299C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523135400 +0200" stop="20230523140000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Monsieur Programmes</title>
+<desc lang="fr">Pour s'y retrouver dans les programmes à venir, cette pastille présentée par Alexandre FAURE permet de connaître les thèmes et les invités du jour des programmes de la chaîne.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/07041D1B017C613AB25CC75874543187.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523140000 +0200" stop="20230523143000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">1, 2, 3 musette</title>
+<desc lang="fr">Avec Pierre-Yves LOMBARD, les plus grands accordéonistes se produisent en public dans les Vosges pour un début d'après-midi festif.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1DBF23BA3519F589F3A4EF072B068216.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523143000 +0200" stop="20230523150000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">1, 2, 3 Dansez</title>
+<desc lang="fr">Émission jumelle de 1.2.3 Musette tout en variétés, animée par Pierre-Yves LOMBARD.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B2F255D1C531D3ABDD90AEDEA73CBB2B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523150000 +0200" stop="20230523150500 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">20 ans déjà !</title>
+<desc lang="fr">Avec 20 ANS DEJA, on se plonge dans les archives de 4 SUR 8, le journal quotidien de l'ancêtre de LMtv, Canal 8. C'est l'occasion de voir l'évolution d'un lieu, d'un événement, d'une manière d'aborder une problématique, de se remémorer l'air du temps. Dans un reportage ou un sujet, on y retrouve quelquefois des personnes connues, ou moins, plus jeunes de 20 années, jour pour jour, ou presque !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A6E321144B6AAD9EAA62BBA18E84DCFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523150500 +0200" stop="20230523150900 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/442E663736324E837F6069C24A1DA1E0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523150900 +0200" stop="20230523163000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Découvertes</title>
+<sub-title lang="fr">Documentaire Faire Autrement : &quot;Le temps, la terre et nous&quot;</sub-title>
+<desc lang="fr">Une série documentaire des locales.tv : Partout sur nos territoires des chercheurs, des entrepreneurs, des inventeurs et des gens découvrent de nouvelles façons de faire, récupérer, restaurer, soigner, réparer…</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/267C8EA88A7B775FDF4FF4480F8290C1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523163000 +0200" stop="20230523165700 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">ArtisaMag</title>
+<sub-title lang="fr">L'éco-responsabilité dans l'artisanat</sub-title>
+<desc lang="fr">Le magazine de l'artisanat et son actualité, présenté par la Présidente de la Chambre des Métiers de la Sarthe, Fabienne MALHAIRE-BOULANGER.</desc>
+<category lang="fr">Société</category>
+<category lang="fr">Emploi</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E4AAC78BA124E07FE3E9DD2FABEB2503.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523165700 +0200" stop="20230523171300 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Business club de France</title>
+<desc lang="fr">Depuis Troyes, Michel PICOT présente l'actu de TPE et PME de France, avec ses invités. L'émission fait la part belle aux innovations, tant technologique qu'en matière d'organisation du travail.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3C3C2376F6B54026BC6A02E2642FFF6B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523171300 +0200" stop="20230523171700 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DF89785BA21443E7F845327FB3B61F00.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523171700 +0200" stop="20230523173300 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Secrets d'entrepreneur-e</title>
+<sub-title lang="fr">Nathanaël Leroux, agent général d'assurance mandataire d'AXA</sub-title>
+<desc lang="fr">Patrice METAIS est coach de chef d'entreprise. Il passe sur le grill des entrepreneurs en évoquant avec eux leur parcours de créateur ou de repreneur, sans parler chiffres ni technique. Un exercice toujours riche d'enseignement.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EA3DC3C340EF3D12B20B9CE696C02B5E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523173300 +0200" stop="20230523182600 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Le Grand journal des Territoires</title>
+<desc lang="fr">Présenté par Cyril VIGUIER, Le Grand JT des Territoires mobilise 200 journalistes en proximité qui remontent des reportages de tous les territoires. Et il les diffuse dans le monde entier, via TV5 Monde.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/AD462E9867FD2C94B0685BC50BCF8E78.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523182600 +0200" stop="20230523183000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Monsieur Programmes</title>
+<desc lang="fr">Pour s'y retrouver dans les programmes à venir, cette pastille présentée par Alexandre FAURE permet de connaître les thèmes et les invités du jour des programmes de la chaîne.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/07041D1B017C613AB25CC75874543187.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523183000 +0200" stop="20230523184600 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - L'info</title>
+<desc lang="fr">Le journal quotidien, en direct et en plateau, par les journalistes de la rédaction, avec l'invité du jour.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523184600 +0200" stop="20230523184800 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4B078AD6958CAF08E9B2691603E9569E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523184800 +0200" stop="20230523190000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - La suite</title>
+<sub-title lang="fr">Invitée : Catherine Pauloin</sub-title>
+<desc lang="fr">Le rendez-vous quotidien des bons plans, des jeux et de la bonne humeur, animé par Aurélien LEGENDRE</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/73BED109BAEA7D6E5D3B299FDCBD1C5C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523190000 +0200" stop="20230523191400 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Sarthez-moi d'là - Partie 1</title>
+<sub-title lang="fr">Commune de la semaine : Saint-Michel-de-Chavaignes avec son maire Michel Froger</sub-title>
+<desc lang="fr">Chaque semaine, on fait connaissance avec un invité d'honneur, une commune et son maire, un patrimoine exceptionnel et les bons mots du patois sarthois. Sans se prendre au sérieux, Aurélien LEGENDRE et consorts rendent fier d'être Sarthois !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/275F0CCAE5D0D4B94A034ACEAD630EF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523191400 +0200" stop="20230523192900 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Sarthez-moi d'là - Partie 2</title>
+<sub-title lang="fr">Commune de la semaine : Saint-Michel-de-Chavaignes avec son maire Michel Froger</sub-title>
+<desc lang="fr">Chaque semaine, on fait connaissance avec un invité d'honneur, une commune et son maire, un patrimoine exceptionnel et les bons mots du patois sarthois. Sans se prendre au sérieux, Aurélien LEGENDRE et consorts rendent fier d'être Sarthois !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/275F0CCAE5D0D4B94A034ACEAD630EF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523192900 +0200" stop="20230523194400 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Sarthez-moi d'là - Partie 3</title>
+<sub-title lang="fr">Le patois de la semaine avec Serge Bertin</sub-title>
+<desc lang="fr">Chaque semaine, on fait connaissance avec un invité d'honneur, une commune et son maire, un patrimoine exceptionnel et les bons mots du patois sarthois. Sans se prendre au sérieux, Aurélien LEGENDRE et consorts rendent fier d'être Sarthois !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/275F0CCAE5D0D4B94A034ACEAD630EF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523194400 +0200" stop="20230523194600 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/442E663736324E837F6069C24A1DA1E0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523194600 +0200" stop="20230523200100 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Sarthez-moi d'là - Partie 4</title>
+<sub-title lang="fr">L'invité d'honneur : Steve Bellard, directeur de l'Alambik</sub-title>
+<desc lang="fr">Chaque semaine, on fait connaissance avec un invité d'honneur, une commune et son maire, un patrimoine exceptionnel et les bons mots du patois sarthois. Sans se prendre au sérieux, Aurélien LEGENDRE et consorts rendent fier d'être Sarthois !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/275F0CCAE5D0D4B94A034ACEAD630EF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523200100 +0200" stop="20230523201500 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Ci né ma</title>
+<desc lang="fr">L'actualité du cinéma chaque semaine est balayée en 13mn avec la diffusion d'extraits et la rencontre d'acteurs et de réalisateurs, un rendez-vous préparé par Jean RIMBAUD.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4C30682E5A1869600B89C37045848DDA.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523201500 +0200" stop="20230523201700 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Web TV Culture - Interview</title>
+<desc lang="fr">Philippe CHAUVEAU rencontre ceux qui font l'actualité littéraire du moment, dans un échange</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E3CFFEF679381935946C45BD3618395B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523201700 +0200" stop="20230523203000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Web TV Culture - Présentation</title>
+<desc lang="fr">Philippe CHAUVEAU rencontre ceux qui font l'actualité littéraire du moment, dans un échange</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E3CFFEF679381935946C45BD3618395B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523203000 +0200" stop="20230523204500 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - L'info</title>
+<desc lang="fr">Le journal quotidien, en direct et en plateau, par les journalistes de la rédaction, avec l'invité du jour.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523204500 +0200" stop="20230523204800 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/442E663736324E837F6069C24A1DA1E0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523204800 +0200" stop="20230523210000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - La suite</title>
+<sub-title lang="fr">Invitée : Catherine Pauloin</sub-title>
+<desc lang="fr">Le rendez-vous quotidien des bons plans, des jeux et de la bonne humeur, animé par Aurélien LEGENDRE</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2000AFF1E1B42DBE0EA720398C0C32EF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523210000 +0200" stop="20230523211500 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">72 Sports partie 1</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports fun</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E34103E955417391906B5C3AF3D09ACF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523211500 +0200" stop="20230523213000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">72 Sports partie 2</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports fun</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8E5AAFAE0165A7D8208DCCA42FBFCD64.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523213000 +0200" stop="20230523214200 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">72 Sports partie 3</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports fun</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E34103E955417391906B5C3AF3D09ACF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523214200 +0200" stop="20230523214600 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/442E663736324E837F6069C24A1DA1E0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523214600 +0200" stop="20230523220200 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">72 Sports partie 4</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports fun</category>
+<icon src="https://img.bouygtel.fr/CMS/images/132CA6C8AC6A84505F52DF5880BD155D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523220200 +0200" stop="20230523222800 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">La santé d'abord</title>
+<desc lang="fr">Ce programme inédit a pour ambition de répondre aux attentes des Français, avec une promesse de santé &amp; de bien-être près de chez soi. L'animation est assurée par Véronique MONIER, docteure en pharmacie.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F6CE0F7E770A247483AF2E665152299C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523222800 +0200" stop="20230523223000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Monsieur Programmes</title>
+<desc lang="fr">Pour s'y retrouver dans les programmes à venir, cette pastille présentée par Alexandre FAURE permet de connaître les thèmes et les invités du jour des programmes de la chaîne.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/07041D1B017C613AB25CC75874543187.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523223000 +0200" stop="20230523224600 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - L'info</title>
+<desc lang="fr">Le journal quotidien, en direct et en plateau, par les journalistes de la rédaction, avec l'invité du jour.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523224600 +0200" stop="20230523225100 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DF89785BA21443E7F845327FB3B61F00.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523225100 +0200" stop="20230523230100 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - La suite</title>
+<sub-title lang="fr">Invitée : Catherine Pauloin</sub-title>
+<desc lang="fr">Le rendez-vous quotidien des bons plans, des jeux et de la bonne humeur, animé par Aurélien LEGENDRE</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/73BED109BAEA7D6E5D3B299FDCBD1C5C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523230100 +0200" stop="20230523231500 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Sarthez-moi d'là - Partie 1</title>
+<sub-title lang="fr">Commune de la semaine : Saint-Michel-de-Chavaignes avec son maire Michel Froger</sub-title>
+<desc lang="fr">Chaque semaine, on fait connaissance avec un invité d'honneur, une commune et son maire, un patrimoine exceptionnel et les bons mots du patois sarthois. Sans se prendre au sérieux, Aurélien LEGENDRE et consorts rendent fier d'être Sarthois !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/275F0CCAE5D0D4B94A034ACEAD630EF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523231500 +0200" stop="20230523232900 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Sarthez-moi d'là - Partie 2</title>
+<sub-title lang="fr">Commune de la semaine : Saint-Michel-de-Chavaignes avec son maire Michel Froger</sub-title>
+<desc lang="fr">Chaque semaine, on fait connaissance avec un invité d'honneur, une commune et son maire, un patrimoine exceptionnel et les bons mots du patois sarthois. Sans se prendre au sérieux, Aurélien LEGENDRE et consorts rendent fier d'être Sarthois !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/275F0CCAE5D0D4B94A034ACEAD630EF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523232900 +0200" stop="20230523234300 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Sarthez-moi d'là - Partie 3</title>
+<sub-title lang="fr">Le patois de la semaine avec Serge Bertin</sub-title>
+<desc lang="fr">Chaque semaine, on fait connaissance avec un invité d'honneur, une commune et son maire, un patrimoine exceptionnel et les bons mots du patois sarthois. Sans se prendre au sérieux, Aurélien LEGENDRE et consorts rendent fier d'être Sarthois !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/275F0CCAE5D0D4B94A034ACEAD630EF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523234300 +0200" stop="20230523234800 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/442E663736324E837F6069C24A1DA1E0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523234800 +0200" stop="20230524000300 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Sarthez-moi d'là - Partie 4</title>
+<sub-title lang="fr">L'invité d'honneur : Belliard, directeur de l'Aambik</sub-title>
+<desc lang="fr">Chaque semaine, on fait connaissance avec un invité d'honneur, une commune et son maire, un patrimoine exceptionnel et les bons mots du patois sarthois. Sans se prendre au sérieux, Aurélien LEGENDRE et consorts rendent fier d'être Sarthois !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/275F0CCAE5D0D4B94A034ACEAD630EF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524000300 +0200" stop="20230524001900 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Ci né ma</title>
+<desc lang="fr">L'actualité du cinéma chaque semaine est balayée en 13mn avec la diffusion d'extraits et la rencontre d'acteurs et de réalisateurs, un rendez-vous préparé par Jean RIMBAUD.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4C30682E5A1869600B89C37045848DDA.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524001900 +0200" stop="20230524002100 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Web TV Culture - Interview</title>
+<desc lang="fr">Philippe CHAUVEAU rencontre ceux qui font l'actualité littéraire du moment, dans un échange</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/94B23F6994C29A5144D3C5291EC4DDB8.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524002100 +0200" stop="20230524003000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Web TV Culture - Présentation</title>
+<desc lang="fr">Philippe CHAUVEAU rencontre ceux qui font l'actualité littéraire du moment, dans un échange</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E3CFFEF679381935946C45BD3618395B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524003000 +0200" stop="20230524004500 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - L'info</title>
+<desc lang="fr">Le journal quotidien, en direct et en plateau, par les journalistes de la rédaction, avec l'invité du jour.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524004500 +0200" stop="20230524004700 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/442E663736324E837F6069C24A1DA1E0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524004700 +0200" stop="20230524010000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Au Quotidien - La suite</title>
+<sub-title lang="fr">Invitée : Catherine Pauloin</sub-title>
+<desc lang="fr">Le rendez-vous quotidien des bons plans, des jeux et de la bonne humeur, animé par Aurélien LEGENDRE</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/73BED109BAEA7D6E5D3B299FDCBD1C5C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524010000 +0200" stop="20230524011300 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Sarthez-moi d'là - Partie 1</title>
+<sub-title lang="fr">Commune de la semaine : Saint-Michel-de-Chavaignes avec son maire Michel Froger</sub-title>
+<desc lang="fr">Chaque semaine, on fait connaissance avec un invité d'honneur, une commune et son maire, un patrimoine exceptionnel et les bons mots du patois sarthois. Sans se prendre au sérieux, Aurélien LEGENDRE et consorts rendent fier d'être Sarthois !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/275F0CCAE5D0D4B94A034ACEAD630EF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524011300 +0200" stop="20230524012600 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Sarthez-moi d'là - Partie 2</title>
+<sub-title lang="fr">Commune de la semaine : Saint-Michel-de-Chavaignes avec son maire Michel Froger</sub-title>
+<desc lang="fr">Chaque semaine, on fait connaissance avec un invité d'honneur, une commune et son maire, un patrimoine exceptionnel et les bons mots du patois sarthois. Sans se prendre au sérieux, Aurélien LEGENDRE et consorts rendent fier d'être Sarthois !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CBDFD0C236094A8630393AED5ACF3F8B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524012600 +0200" stop="20230524013900 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Sarthez-moi d'là - Partie 3</title>
+<sub-title lang="fr">Le patois de la semaine avec Serge Bertin</sub-title>
+<desc lang="fr">Chaque semaine, on fait connaissance avec un invité d'honneur, une commune et son maire, un patrimoine exceptionnel et les bons mots du patois sarthois. Sans se prendre au sérieux, Aurélien LEGENDRE et consorts rendent fier d'être Sarthois !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/275F0CCAE5D0D4B94A034ACEAD630EF5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524013900 +0200" stop="20230524014100 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4B078AD6958CAF08E9B2691603E9569E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524014100 +0200" stop="20230524015400 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Sarthez-moi d'là - Partie 4</title>
+<sub-title lang="fr">L'invité d'honneur : L'invité d'honneur : Belliard, directeur de l'Aambik</sub-title>
+<desc lang="fr">Chaque semaine, on fait connaissance avec un invité d'honneur, une commune et son maire, un patrimoine exceptionnel et les bons mots du patois sarthois. Sans se prendre au sérieux, Aurélien LEGENDRE et consorts rendent fier d'être Sarthois !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CBDFD0C236094A8630393AED5ACF3F8B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524015400 +0200" stop="20230524020800 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Ci né ma</title>
+<desc lang="fr">L'actualité du cinéma chaque semaine est balayée en 13mn avec la diffusion d'extraits et la rencontre d'acteurs et de réalisateurs, un rendez-vous préparé par Jean RIMBAUD.</desc>
+<category lang="fr">Culture</category>
+<category lang="fr">Cinéma</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8E2CF9FAABD384BFE8357C5227107E3A.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524020800 +0200" stop="20230524021000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Web TV Culture - Interview</title>
+<desc lang="fr">Philippe CHAUVEAU rencontre ceux qui font l'actualité littéraire du moment, dans un échange</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/94B23F6994C29A5144D3C5291EC4DDB8.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524021000 +0200" stop="20230524022500 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Web TV Culture - Présentation</title>
+<desc lang="fr">Philippe CHAUVEAU rencontre ceux qui font l'actualité littéraire du moment, dans un échange</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E3CFFEF679381935946C45BD3618395B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524022500 +0200" stop="20230524023000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Monsieur Programmes</title>
+<desc lang="fr">Pour s'y retrouver dans les programmes à venir, cette pastille présentée par Alexandre FAURE permet de connaître les thèmes et les invités du jour des programmes de la chaîne.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/08B38EA5E48D67962C9669F5AEF6AA58.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524023000 +0200" stop="20230524024300 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">72 Sports partie 1</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports fun</category>
+<icon src="https://img.bouygtel.fr/CMS/images/8E5AAFAE0165A7D8208DCCA42FBFCD64.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524024300 +0200" stop="20230524025600 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">72 Sports partie 2</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports fun</category>
+<icon src="https://img.bouygtel.fr/CMS/images/132CA6C8AC6A84505F52DF5880BD155D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524025600 +0200" stop="20230524030900 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">72 Sports partie 3</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports fun</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E34103E955417391906B5C3AF3D09ACF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524030900 +0200" stop="20230524031100 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4B078AD6958CAF08E9B2691603E9569E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524031100 +0200" stop="20230524032400 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">72 Sports partie 4</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Sports fun</category>
+<icon src="https://img.bouygtel.fr/CMS/images/132CA6C8AC6A84505F52DF5880BD155D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524032400 +0200" stop="20230524035500 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">La santé d'abord</title>
+<desc lang="fr">Ce programme inédit a pour ambition de répondre aux attentes des Français, avec une promesse de santé &amp; de bien-être près de chez soi. L'animation est assurée par Véronique MONIER, docteure en pharmacie.</desc>
+<category lang="fr">Sciences et technique</category>
+<category lang="fr">Santé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F6CE0F7E770A247483AF2E665152299C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524035500 +0200" stop="20230524040000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Monsieur Programmes</title>
+<desc lang="fr">Pour s'y retrouver dans les programmes à venir, cette pastille présentée par Alexandre FAURE permet de connaître les thèmes et les invités du jour des programmes de la chaîne.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/07041D1B017C613AB25CC75874543187.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524040000 +0200" stop="20230524040300 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">20 ans déjà !</title>
+<desc lang="fr">Avec 20 ANS DEJA, on se plonge dans les archives de 4 SUR 8, le journal quotidien de l'ancêtre de LMtv, Canal 8. C'est l'occasion de voir l'évolution d'un lieu, d'un événement, d'une manière d'aborder une problématique, de se remémorer l'air du temps. Dans un reportage ou un sujet, on y retrouve quelquefois des personnes connues, ou moins, plus jeunes de 20 années, jour pour jour, ou presque !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9513C3BE393EB8C338FF9AF135805227.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524040300 +0200" stop="20230524040500 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Les prévisions de la météo pour la Sarthe et les territoires limitrophes, réalisées par Agate Météo.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DF89785BA21443E7F845327FB3B61F00.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524040500 +0200" stop="20230524052500 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Découvertes</title>
+<sub-title lang="fr">Documentaire Faire Autrement : &quot;Le temps, la terre et nous&quot;</sub-title>
+<desc lang="fr">Une série documentaire des locales.tv : Partout sur nos territoires des chercheurs, des entrepreneurs, des inventeurs et des gens découvrent de nouvelles façons de faire, récupérer, restaurer, soigner, réparer…</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/267C8EA88A7B775FDF4FF4480F8290C1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524052500 +0200" stop="20230524055200 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Monsieur Programmes</title>
+<desc lang="fr">Pour s'y retrouver dans les programmes à venir, cette pastille présentée par Alexandre FAURE permet de connaître les thèmes et les invités du jour des programmes de la chaîne.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/07041D1B017C613AB25CC75874543187.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230524055200 +0200" stop="20230524060000 +0200" channel="ViaLMTVSarthe.fr">
+<title lang="fr">Monsieur Programmes</title>
+<desc lang="fr">Pour s'y retrouver dans les programmes à venir, cette pastille présentée par Alexandre FAURE permet de connaître les thèmes et les invités du jour des programmes de la chaîne.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/07041D1B017C613AB25CC75874543187.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

@@ -1,0 +1,509 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230522234500 +0200" stop="20230523001000 +0200" channel="Mangas.fr">
+<title lang="fr">Bleach</title>
+<desc lang="fr">Ishida a découvert que son père était aussi un Quincy. Ichigo rentre chez lui et retrouve sa famille, mais il est plutôt d'humeur sombre...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23146191.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230523001000 +0200" stop="20230523003500 +0200" channel="Mangas.fr">
+<title lang="fr">Bleach</title>
+<desc lang="fr">Ichigo arrive à point nommé pour sauver Inoue, qui combattait un adversaire plus fort qu'elle, Yammi...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23146191.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230523003500 +0200" stop="20230523010000 +0200" channel="Mangas.fr">
+<title lang="fr">Cowboy Bebop</title>
+<sub-title lang="fr">Boogie-Woogie Feng Shui</sub-title>
+<desc lang="fr">Jet reçoit un mystérieux e-mail d'une vieille connaissance, Pao, maître de feng-shui. Ce message le met sur la piste d'un gang et d'une certaine Meifa, qui n'est autre que la fille de Pao...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23974853.jpg" />
+<episode-num system="xmltv_ns">0.20.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523010000 +0200" stop="20230523012500 +0200" channel="Mangas.fr">
+<title lang="fr">Cowboy Bebop</title>
+<sub-title lang="fr">Cowboy Funk</sub-title>
+<desc lang="fr">Alors qu'il traque un poseur de bombes, Spike tombe sur Andy, un authentique cow-boy et, surtout, son principal concurrent...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23974853.jpg" />
+<episode-num system="xmltv_ns">0.21.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523012500 +0200" stop="20230523013700 +0200" channel="Mangas.fr">
+<title lang="fr">Dofus : aux trésors de Kerubim</title>
+<sub-title lang="fr">Le sablier infernal</sub-title>
+<desc lang="fr">Lorsqu'il vient de rater une négociation, Kerubim s'offre une seconde chance en rembobinant le temps grâce à un sablier magique rapporté d'une mission de sauvetage.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_24474012.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523013700 +0200" stop="20230523015000 +0200" channel="Mangas.fr">
+<title lang="fr">Dofus : aux trésors de Kerubim</title>
+<sub-title lang="fr">Bienvenue chez l'Yech'ti</sub-title>
+<desc lang="fr">Un jour, Joris et Simone découvrent Kerubim en plein &quot;One-man-Show&quot; à la terrasse d'une taverne. Etrange : la moindre de ses paroles est immédiatement suivie de rires tonitruants.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_24474012.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523015000 +0200" stop="20230523021500 +0200" channel="Mangas.fr">
+<title lang="fr">Dofus : aux trésors de Kerubim</title>
+<sub-title lang="fr">Danse contre les mulous</sub-title>
+<desc lang="fr">Simone est invitée à un bal, mais elle ne sait absolument pas danser. Heureusement pour elle, Kerubim a la solution : une paire de ballerines magiques.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_24474012.jpg" />
+<episode-num system="xmltv_ns">0.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523021500 +0200" stop="20230523022100 +0200" channel="Mangas.fr">
+<title lang="fr">Actu Mangas</title>
+<desc lang="fr">Un magazine pour tout savoir de l'univers japanime (sorties DVD, mangas ou ciné). Au sommaire, des reportages, interviews et coups de c?ur?</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_15836919.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523022100 +0200" stop="20230523024500 +0200" channel="Mangas.fr">
+<title lang="fr">Les Minipouss</title>
+<desc lang="fr">Les Minipouss sont de petits êtres aux oreilles pointues et à la société bien organisée qui vivent entre les murs des maisons, comme des souris.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129697.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523024500 +0200" stop="20230523030800 +0200" channel="Mangas.fr">
+<title lang="fr">Les Minipouss</title>
+<desc lang="fr">Les Minipouss sont de petits êtres aux oreilles pointues et à la société bien organisée qui vivent entre les murs des maisons, comme des souris.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129697.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523030800 +0200" stop="20230523033100 +0200" channel="Mangas.fr">
+<title lang="fr">Les Minipouss</title>
+<desc lang="fr">Les Minipouss sont de petits êtres aux oreilles pointues et à la société bien organisée qui vivent entre les murs des maisons, comme des souris.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129697.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523033100 +0200" stop="20230523035500 +0200" channel="Mangas.fr">
+<title lang="fr">Les Minipouss</title>
+<desc lang="fr">Les Minipouss, de petits êtres aux oreilles pointues et à la société bien organisée, vivent entre les murs des maisons, comme des souris.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129692.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523035500 +0200" stop="20230523041800 +0200" channel="Mangas.fr">
+<title lang="fr">Les Minipouss</title>
+<desc lang="fr">Les Minipouss, de petits êtres aux oreilles pointues et à la société bien organisée, vivent entre les murs des maisons, comme des souris.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129692.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523041800 +0200" stop="20230523044100 +0200" channel="Mangas.fr">
+<title lang="fr">Les Minipouss</title>
+<desc lang="fr">Les Minipouss sont de petits êtres aux oreilles pointues et à la société bien organisée qui vivent entre les murs des maisons, comme des souris.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129692.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523044100 +0200" stop="20230523044800 +0200" channel="Mangas.fr">
+<title lang="fr">Actu Mangas</title>
+<desc lang="fr">Un magazine pour tout savoir de l'univers japanime (sorties DVD, mangas ou ciné). Au sommaire, des reportages, interviews et coups de c?ur?</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_15836919.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523044800 +0200" stop="20230523051200 +0200" channel="Mangas.fr">
+<title lang="fr">Les Minipouss</title>
+<desc lang="fr">Les Minipouss sont de petits êtres aux oreilles pointues et à la société bien organisée qui vivent entre les murs des maisons, comme des souris.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129692.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523051200 +0200" stop="20230523053500 +0200" channel="Mangas.fr">
+<title lang="fr">Les Minipouss</title>
+<desc lang="fr">Les Minipouss sont de petits êtres aux oreilles pointues et à la société bien organisée qui vivent entre les murs des maisons, comme des souris.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129692.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523053500 +0200" stop="20230523055800 +0200" channel="Mangas.fr">
+<title lang="fr">Les Minipouss</title>
+<desc lang="fr">Les Minipouss sont de petits êtres aux oreilles pointues et à la société bien organisée qui vivent entre les murs des maisons, comme des souris.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129692.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523055800 +0200" stop="20230523062200 +0200" channel="Mangas.fr">
+<title lang="fr">Les Minipouss</title>
+<desc lang="fr">Les Minipouss sont de petits êtres aux oreilles pointues et à la société bien organisée qui vivent entre les murs des maisons, comme des souris.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129692.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523062200 +0200" stop="20230523064400 +0200" channel="Mangas.fr">
+<title lang="fr">Les Minipouss</title>
+<desc lang="fr">Un homme veut capturer un Minipouss. Deux d'entre eux l'apprennent et décident de prévenir les autres. Le patron Minipouss d'un journal est mis au courant et en fait la une de son quotidien. Eric, un jeune garçon, montre aux Minipouss son nouveau jeu vidéo. Le professeur Chassard, le chasseur de...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129692.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523064400 +0200" stop="20230523071000 +0200" channel="Mangas.fr">
+<title lang="fr">Les Minipouss</title>
+<desc lang="fr">Une statue pourrait trahir l'existence des Minipouss. Le déblaiement d'un chantier fait apparaître une petite statue Minipouss. Elle se trouve à l'emplacement d'une ancienne cité Minipouss. Il faut la récupérer avant que le professeur Chassard ne prouve avec elle l'existence des Minipouss...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129692.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523071000 +0200" stop="20230523073500 +0200" channel="Mangas.fr">
+<title lang="fr">Tom Sawyer</title>
+<desc lang="fr">Une prime de 100 dollars est offerte à celui qui retrouvera Joe l'Indien. Le père de Huck est très intéressé. Tom, lui, s'en va pour l'Arkansas...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_31147907.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523073500 +0200" stop="20230523080000 +0200" channel="Mangas.fr">
+<title lang="fr">Tom Sawyer</title>
+<desc lang="fr">Tom a retrouvé son ami Huck sur le bateau. Les deux amis décident d'aller ensemble dans l'Arkansas. Quel bonheur de voyager aussi avec Becky...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23163488.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523080000 +0200" stop="20230523082500 +0200" channel="Mangas.fr">
+<title lang="fr">Princesse Sarah</title>
+<desc lang="fr">Un terrible incendie a ravagé l'étable. Mademoiselle Mangin accuse Sarah d'être à l'origine du sinistre. Après une discussion houleuse entre les deux jeunes femmes, Sarah décide de partir...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12128462.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523082500 +0200" stop="20230523085000 +0200" channel="Mangas.fr">
+<title lang="fr">Princesse Sarah</title>
+<desc lang="fr">Sarah est obligée de vendre des allumettes pour survivre. Au courant de sa situation, mademoiselle Amélia se rend chez Peter pour la ramener au pensionnat...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_12128462.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523085000 +0200" stop="20230523092000 +0200" channel="Mangas.fr">
+<title lang="fr">Sherlock Holmes</title>
+<desc lang="fr">Un monstre terrorise les plaisanciers de la Tamise. Tandis que la presse évoque un serpent de mer géant, Sherlock Holmes soupçonne Moriarty d'être à l'origine de ces remous. En effet, seuls les bateaux transportant d'importantes cargaisons sont attaqués. Pour le détective il ne fait aucun doute...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23130546.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523092000 +0200" stop="20230523094500 +0200" channel="Mangas.fr">
+<title lang="fr">Sherlock Holmes</title>
+<desc lang="fr">Depuis quelques temps, la vie est calme à Londres et Lestrade s'ennuie de ne pas avoir de bandits à pourchasser. Pendant ce temps, Sherlock Holmes s'intéresse à l'étrange disparition de trois étudiants des Beaux-Arts...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23130546.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523094500 +0200" stop="20230523101500 +0200" channel="Mangas.fr">
+<title lang="fr">Les aventures de Robin des Bois</title>
+<desc lang="fr">Dans la forêt, Robin et ses amis rencontrent Eric et Morse, à la recherche de charbon pour leur commerce. Ses derniers s'avèrent d'excellente compagnie. Toutefois, pendant leur court séjour dans la forêt, des choses étranges se produisent et Robin soupçonne ses nouveaux amis d'être des sorciers.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_17467371.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523101500 +0200" stop="20230523104500 +0200" channel="Mangas.fr">
+<title lang="fr">Robin des Bois *1990</title>
+<desc lang="fr">Robin des Bois, un adolescent, est contraint de vivre dans la clandestinité pour échapper au joug de la tyrannie. Une bande d'amis le rejoignent pour s'opposer aux traîtres du royaume et pour prêter main forte aux plus déshérités.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_12401025.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523104500 +0200" stop="20230523105700 +0200" channel="Mangas.fr">
+<title lang="fr">Dofus : aux trésors de Kerubim</title>
+<sub-title lang="fr">Le mélangeur de rêves</sub-title>
+<desc lang="fr">Kerubim se remémore une prestation musicale d'anthologie.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_24474012.jpg" />
+<episode-num system="xmltv_ns">0.42.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523105700 +0200" stop="20230523111000 +0200" channel="Mangas.fr">
+<title lang="fr">Dofus : aux trésors de Kerubim</title>
+<sub-title lang="fr">Mon papycha le brocanteur</sub-title>
+<desc lang="fr">Kerubim se remémore une prestation musicale d'anthologie.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_24474012.jpg" />
+<episode-num system="xmltv_ns">0.43.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523111000 +0200" stop="20230523114000 +0200" channel="Mangas.fr">
+<title lang="fr">Zorro, la légende continue</title>
+<desc lang="fr">Alors que Lolita et Diego font le marché, Lolita bouscule accidentellement un homme qui refuse ses excuses et la menace. Diego intervient rapidement, mais il perd la bagarre. Un inconnu arrive alors sur son cheval blanc pour secourir Lolita !</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_37914822.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523114000 +0200" stop="20230523120500 +0200" channel="Mangas.fr">
+<title lang="fr">Zorro, la légende continue</title>
+<desc lang="fr">La Compagnie des Indes fait appel à trois tueurs professionnels pour éliminer Zorro en leur promettant une belle récompense.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_37914822.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523120500 +0200" stop="20230523123000 +0200" channel="Mangas.fr">
+<title lang="fr">Tom Sawyer</title>
+<desc lang="fr">A la fin du XIXe siècle, Tom Sawyer, un jeune garçon devenu orphelin, est recueilli, avec son petit frère Sid, par leur tante Polly, qui habite la ville de Saint-Petersburg sur les rives du Mississippi. Préférant faire l'école buissonnière, Tom passe ses journées à jouer avec Huckleberry Finn, un...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_29408592.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523123000 +0200" stop="20230523125500 +0200" channel="Mangas.fr">
+<title lang="fr">Tom Sawyer</title>
+<desc lang="fr">Que pourra donc bien inventer Tom pour conquérir le coeur de la jolie Becky ? Peut-être qu'avec quelques tours de magie, il parviendra à retenir son attention ?</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23163488.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523125500 +0200" stop="20230523132500 +0200" channel="Mangas.fr">
+<title lang="fr">Les mystérieuses cités d'or</title>
+<desc lang="fr">L'Esperanza se prépare à affronter le terrible détroit de Magellan. Mendoza est le seul à pouvoir diriger le navire durant cette longue et difficile épreuve...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_17368890.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523132500 +0200" stop="20230523135500 +0200" channel="Mangas.fr">
+<title lang="fr">Les mystérieuses cités d'or</title>
+<desc lang="fr">Le bateau ne résiste pas à une énorme tempête. Tandis que le commandant et l'équipage s'enfuient, Mendoza, Sancho et Pedro tentent de libérer Esteban et Zia enfermés au fond de la cale...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_17368890.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523135500 +0200" stop="20230523142000 +0200" channel="Mangas.fr">
+<title lang="fr">Il était une fois... l'Espace</title>
+<desc lang="fr">Pierrot et Petit Gros finissent leurs études pour devenir membre de la police spatiale. Pour leurs derniers jours, ils rentrent sur la planète Oméga, siège de la Confédération. Dans le même temps, un vaisseau inconnu traverse l'espace de la Confédération. Le Conseil est réuni et des dirigeants...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_14431024.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523142000 +0200" stop="20230523144500 +0200" channel="Mangas.fr">
+<title lang="fr">Il était une fois... l'Espace</title>
+<desc lang="fr">Près des mondes du Pégase, un incident a lieu où un croiseur a, semble-t-il, été saboté alors qu'il s'approchait de la planète Lago. Le colonel Pierre charge le commandant Le Gros d'une mission afin d'explorer cette planète. Pierrot et Petit Gros font partie de l'équipage...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_14431064.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523144500 +0200" stop="20230523151000 +0200" channel="Mangas.fr">
+<title lang="fr">Les aventures de Robin des Bois</title>
+<desc lang="fr">Robin des Bois, un adolescent, est contraint de vivre dans la clandestinité pour échapper au joug de la tyrannie. Une bande d'amis le rejoignent pour s'opposer aux traîtres du royaume et pour prêter main forte aux plus déshérités.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_17467374.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523151000 +0200" stop="20230523153500 +0200" channel="Mangas.fr">
+<title lang="fr">Les aventures de Robin des Bois</title>
+<desc lang="fr">Robin des Bois est un adolescent qui est contraint de vivre dans la clandestinité pour échapper au joug de la tyrannie. Vite rejoint par une bande d'amis hauts en couleurs, il choisit de s'opposer aux traîtres du royaume et à prêter main forte aux plus déshérités... et à la jolie Marianne.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11301675.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523153500 +0200" stop="20230523154700 +0200" channel="Mangas.fr">
+<title lang="fr">Dofus : aux trésors de Kerubim</title>
+<sub-title lang="fr">Kerubim</sub-title>
+<desc lang="fr">A Astrub, Kerubim Crépin coule des jours paisibles dans sa brocante d'objets magiques, en compagnie de son fils Joris. Mais ce jour-là, rien ne se passe comme d'habitude.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_24474012.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523154700 +0200" stop="20230523160000 +0200" channel="Mangas.fr">
+<title lang="fr">Dofus : aux trésors de Kerubim</title>
+<sub-title lang="fr">Le blues de Luis</sub-title>
+<desc lang="fr">Kerubim et Joris sont mis à la porte par Luis, la maison vivante dans laquelle ils habitent. Luis est vexé de n'avoir pas été consulté sur l'embauche de la gouvernante.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_24474012.jpg" />
+<episode-num system="xmltv_ns">0.1.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523160000 +0200" stop="20230523162500 +0200" channel="Mangas.fr">
+<title lang="fr">Olive et Tom</title>
+<desc lang="fr">Le match est de plus en plus serré. Chacune des équipes utilise de ses plus belles techniques. Des acrobaties s'enchaînent, mais c'est toujours l'égalité entre nos deux champions.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129684.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523162500 +0200" stop="20230523165000 +0200" channel="Mangas.fr">
+<title lang="fr">Olive et Tom</title>
+<desc lang="fr">Olivier Atton, jeune prodige du football, s'installe avec sa mère à Fujisawa. Un des clubs de la ville possède l'un des meilleurs gardiens de but, Thomas Price.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129684.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523165000 +0200" stop="20230523171000 +0200" channel="Mangas.fr">
+<title lang="fr">Olive et Tom</title>
+<desc lang="fr">Le match est de plus en plus serré. Chacune des équipes use de ses plus belles techniques. Des acrobaties s'enchaînent, mais c'est toujours l'égalité entre les deux champions...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129684.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523171000 +0200" stop="20230523173500 +0200" channel="Mangas.fr">
+<title lang="fr">Olive et Tom</title>
+<desc lang="fr">Olivier Atton, jeune prodige du football, s'installe avec sa mère à Fujisawa. Un des clubs de la ville possède l'un des meilleurs gardiens de but, Thomas Price.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23129684.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523173500 +0200" stop="20230523180000 +0200" channel="Mangas.fr">
+<title lang="fr">Bleach</title>
+<desc lang="fr">L'ennemi d'Ichigo lui conseille d'uiliser son bankai, mais se moque de lui en le provoquant : Ichigo serait incapable de dominer son Hollow...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23146191.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230523180000 +0200" stop="20230523183500 +0200" channel="Mangas.fr">
+<title lang="fr">Bleach</title>
+<desc lang="fr">Ichigo combat contre son double blanc. Il est alors kidnappé par Byakuya, qui le provoque en duel dans une dimension parallèle...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23146191.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230523183500 +0200" stop="20230523190000 +0200" channel="Mangas.fr">
+<title lang="fr">Bleach</title>
+<desc lang="fr">Le plan d'Aizen est maintenant connu, notamment grâce aux recherches effectuées dans la bibliothèque. Aizen cherchait des documents relatifs au Hôgyoku...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23146191.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230523190000 +0200" stop="20230523192500 +0200" channel="Mangas.fr">
+<title lang="fr">Bleach</title>
+<desc lang="fr">Le capitaine Ichimaru, ou qui que ce soit, doit forcer le capitaine Aizen à faire quelque chose de très spécial pour éviter un drame...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23146191.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230523192500 +0200" stop="20230523195000 +0200" channel="Mangas.fr">
+<title lang="fr">Vision d'Escaflowne</title>
+<desc lang="fr">Alors qu'ils ont été séparés, Van et Hitomi errent dans la forêt aux confins du royaume d'Astria, une puissante nation voisine de Fanelia...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_34445383.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523195000 +0200" stop="20230523202000 +0200" channel="Mangas.fr">
+<title lang="fr">Vision d'Escaflowne</title>
+<desc lang="fr">Merle et Hitomi se remettent de leurs blessures tandis que les soldats d'Astria se demandent si Van et Merle ont bien dit la vérité...</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_34445383.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523202000 +0200" stop="20230523204500 +0200" channel="Mangas.fr">
+<title lang="fr">Nicky Larson</title>
+<desc lang="fr">Nicky mène la vie dure à Minnie, qui ne parvient absolument pas à le prendre par surprise...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_17318312.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523204500 +0200" stop="20230523211000 +0200" channel="Mangas.fr">
+<title lang="fr">Nicky Larson</title>
+<desc lang="fr">Nicky est chargé de protéger Carole, la petite fille unique d'un riche entrepreneur décédé récemment. Le détective privé accepte ce nouveau travail pour plaire à la jolie gouvernante de l'enfant qui l'accompagne partout. Carole, qui est dotée d'un étrange pouvoir qui lui permet de lire dans les...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_17318312.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523211000 +0200" stop="20230523213500 +0200" channel="Mangas.fr">
+<title lang="fr">Mob Psycho 100 *2016</title>
+<sub-title lang="fr">L'arbre sacré (P1) : L'entrée du gourou</sub-title>
+<desc lang="fr">La secte du Casque Psycho organise une audition pour recruter son nouveau guide spirituel. Alors que plusieurs personnes attendent que Mob y participe, quelqu'un semble déjà proclamer être le fondateur de la secte.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_34235629.jpg" />
+<episode-num system="xmltv_ns">2.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230523213500 +0200" stop="20230523220000 +0200" channel="Mangas.fr">
+<title lang="fr">Mob Psycho 100 *2016</title>
+<sub-title lang="fr">Mob Psycho 100 *2016</sub-title>
+<desc lang="fr">Mob se dirige vers l'arbre sacré pour en apprendre plus sur l'identité du fameux Casque Psycho. Une fois à l'intérieur, il se rend compte qu'il connaît très bien l'être qui se fait passer pour lui.</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_34235629.jpg" />
+<episode-num system="xmltv_ns">2.4.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230523220000 +0200" stop="20230523222500 +0200" channel="Mangas.fr">
+<title lang="fr">Mob Psycho 100 *2016</title>
+<sub-title lang="fr">Mob Psycho 100 *2016</sub-title>
+<desc lang="fr">Le combat entre les deux amis continue, mais Smile semble avoir touché la corde sensible avec sa dernière remarque. Comment Mob réagira-t-il après avoir atteint la barre des 100 % ?</desc>
+<category lang="fr">Jeunesse</category>
+<category lang="fr">Dessins Animés</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_34235629.jpg" />
+<episode-num system="xmltv_ns">2.5.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230523222500 +0200" stop="20230523225000 +0200" channel="Mangas.fr">
+<title lang="fr">Nicky Larson</title>
+<desc lang="fr">De nombreuses banques sont dévalisées les unes après les autres. A chaque fois, le vol est précédé d'une terrible explosion qui fait diversion. Durant l'une de ces opérations, la déflagration blesse grièvement une jeune enfant qu'Hélène Lamberti avait rencontrée quelques instants plus tôt. Pour...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_17318312.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523225000 +0200" stop="20230523231500 +0200" channel="Mangas.fr">
+<title lang="fr">Nicky Larson</title>
+<desc lang="fr">La princesse Angela a pris depuis peu la tête du royaume Felidan. Son pays en crise affronte une guerre civile qui n'en finit pas. Elle décide de se rendre au Japon pour discuter d'un accord de paix entre le gouvernement et les résistants. Seulement, son projet est saboté par des personnes qui...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_17318312.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230523231500 +0200" stop="20230523234500 +0200" channel="Mangas.fr">
+<title lang="fr">Bleach</title>
+<desc lang="fr">Ichigo s'est montré faible face à Yammi, qui a fini par prendre le dessus lors d'un combat épique. Ichigo se sent coupable d'avoir ainsi exposé ses amis...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23146191.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230523234500 +0200" stop="20230524001000 +0200" channel="Mangas.fr">
+<title lang="fr">Bleach</title>
+<desc lang="fr">Un groupe, envoyé par la Soul Society, prend contact avec Ichigo pour lui donner tous les renseignements nécessaires pour vaincre ses adversaires...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_23146191.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
