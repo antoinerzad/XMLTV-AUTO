@@ -1,0 +1,232 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230525222800 +0200" stop="20230526003100 +0200" channel="PolarPlus.fr">
+<title lang="fr">Hot Fuzz</title>
+<desc lang="fr">Un agent de police d'élite est muté dans une petite ville de la province anglaise. Il s'intéresse à plusieurs accidents qui pourraient être des meurtres.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_10007895.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230526003100 +0200" stop="20230526020700 +0200" channel="PolarPlus.fr">
+<title lang="fr">Vienna Blood - Les carnets de Max Liebermann</title>
+<sub-title lang="fr">Les pièges du crépuscule</sub-title>
+<desc lang="fr">Un moine a été retrouvé brutalement assassiné dans son monastère. Pour boucler cette enquête, Oskar et Max vont devoir comprendre le pouvoir de la foi.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_33414461.jpg" />
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526020700 +0200" stop="20230526030300 +0200" channel="PolarPlus.fr">
+<title lang="fr">P.J.</title>
+<sub-title lang="fr">Enlèvement</sub-title>
+<desc lang="fr">Agathe et Franck enquêtent sur l'enlèvement d'un nouveau-né dans une maternité ; très vite, leurs soupçons se portent sur une femme stérile.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_9430354.jpg" />
+<episode-num system="xmltv_ns">4.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526030300 +0200" stop="20230526035500 +0200" channel="PolarPlus.fr">
+<title lang="fr">P.J.</title>
+<sub-title lang="fr">Chantage</sub-title>
+<desc lang="fr">Bernard et Chloé semblent perdre leur temps sur leur enquête. Agathe et Franck, confrontés à une affaire de viol, doutent de la sincérité de la plaignante.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_11942732.jpg" />
+<episode-num system="xmltv_ns">4.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526035500 +0200" stop="20230526051900 +0200" channel="PolarPlus.fr">
+<title lang="fr">Interruption des programmes</title>
+<desc lang="fr">Autre.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_11041284.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526051900 +0200" stop="20230526061600 +0200" channel="PolarPlus.fr">
+<title lang="fr">P.J.</title>
+<sub-title lang="fr">Assaut</sub-title>
+<desc lang="fr">Un règlement de comptes entre bandes aboutit à l'arrestation d'un des meneurs tandis qu'Agathe trouve une vidéo amateur montrant les ébats de deux adolescents.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_9520644.jpg" />
+<episode-num system="xmltv_ns">6.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526061600 +0200" stop="20230526071400 +0200" channel="PolarPlus.fr">
+<title lang="fr">P.J.</title>
+<sub-title lang="fr">Violences conjuguées</sub-title>
+<desc lang="fr">Vincent et Agathe s'occupent d'une employée de la CAF, agressée par un inconnu. En même temps, Franck enquête sur un cambriolage commis chez une juge.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_9520645.jpg" />
+<episode-num system="xmltv_ns">6.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526071400 +0200" stop="20230526081300 +0200" channel="PolarPlus.fr">
+<title lang="fr">P.J.</title>
+<sub-title lang="fr">Marchand de sommeil</sub-title>
+<desc lang="fr">Bernard et Agathe doivent trancher dans une affaire compliquée : un propriétaire et une locataire s'accusent en effet mutuellement d'agression.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_9552424.jpg" />
+<episode-num system="xmltv_ns">7.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526081300 +0200" stop="20230526091500 +0200" channel="PolarPlus.fr">
+<title lang="fr">P.J.</title>
+<sub-title lang="fr">Violences</sub-title>
+<desc lang="fr">A la suite d'un vol, Bernard, Alain et Nadine enquêtent dans le milieu des &quot;hardgamers&quot;, ces accros aux jeux vidéo qui n'ont plus aucune prise sur la réalité.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_10364185.jpg" />
+<episode-num system="xmltv_ns">7.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526091500 +0200" stop="20230526100600 +0200" channel="PolarPlus.fr">
+<title lang="fr">Caïn</title>
+<sub-title lang="fr">Duels</sub-title>
+<desc lang="fr">Un chirurgien est retrouvé assassiné. Au cours de l'enquête, Caïn croise la route du neurologue à l'origine de son amputation, six ans plus tôt.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8097456.jpg" />
+<episode-num system="xmltv_ns">1.6.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230526100600 +0200" stop="20230526110600 +0200" channel="PolarPlus.fr">
+<title lang="fr">Caïn</title>
+<sub-title lang="fr">Réalités</sub-title>
+<desc lang="fr">Quand des employés sont prêts à tout pour sauvegarder leur emploi et à relancer l'activité de leur entreprise, Caïn se retrouve mêlé à une affaire délicate.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8122734.jpg" />
+<episode-num system="xmltv_ns">2.1.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230526110600 +0200" stop="20230526120100 +0200" channel="PolarPlus.fr">
+<title lang="fr">Caïn</title>
+<sub-title lang="fr">Miss Amore</sub-title>
+<desc lang="fr">Un homme qui succombe à son goût pour le sado-masochisme, une étudiante en criminologie qui collectionne les amants : l'amour peut avoir plusieurs visages.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8934039.jpg" />
+<episode-num system="xmltv_ns">2.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230526120100 +0200" stop="20230526125900 +0200" channel="PolarPlus.fr">
+<title lang="fr">Caïn</title>
+<sub-title lang="fr">Le fils de Caïn</sub-title>
+<desc lang="fr">Le fils de Caïn est accusé du meurtre de la mère de sa petite amie, retrouvée défenestrée. Il fournissait de la drogue à la famille de la jeune femme.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_9519777.jpg" />
+<episode-num system="xmltv_ns">2.6.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230526125900 +0200" stop="20230526140500 +0200" channel="PolarPlus.fr">
+<title lang="fr">Caïn</title>
+<sub-title lang="fr">Les prisonnières</sub-title>
+<desc lang="fr">Une mère et sa fille de 17 ans sont kidnappées un matin par un inconnu cagoulé. Le mari et père des disparues pourrait avoir commandité l'enlèvement.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_9535030.jpg" />
+<episode-num system="xmltv_ns">3.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230526140500 +0200" stop="20230526145500 +0200" channel="PolarPlus.fr">
+<title lang="fr">Les enquêtes de Murdoch</title>
+<sub-title lang="fr">Honneur et réputation</sub-title>
+<desc lang="fr">Lors d'un spectacle de cabaret, un client est abattu. L'homme vivait sous une fausse identité depuis qu'il avait accepté de témoigner contre un parrain.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_18477979.jpg" />
+<episode-num system="xmltv_ns">8.16.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526145500 +0200" stop="20230526154600 +0200" channel="PolarPlus.fr">
+<title lang="fr">Les enquêtes de Murdoch</title>
+<sub-title lang="fr">Un peu, beaucoup, à la folie...</sub-title>
+<desc lang="fr">Un inconnu tire sur Julia. Touchée à l'abdomen, elle sombre dans le coma. Grâce à une machine qui stimule le cerveau, Murdoch parvient à communiquer avec elle.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_27994045.jpg" />
+<episode-num system="xmltv_ns">8.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526154600 +0200" stop="20230526163100 +0200" channel="PolarPlus.fr">
+<title lang="fr">Les enquêtes de Murdoch</title>
+<sub-title lang="fr">Rouge à lèvres assassin</sub-title>
+<desc lang="fr">Deux hommes sont retrouvés morts, des traces de rouge à lèvres sur le visage. Une danseuse de la connaissance de Crabtree serait-elle impliquée ?</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12559387.jpg" />
+<episode-num system="xmltv_ns">9.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526163100 +0200" stop="20230526172400 +0200" channel="PolarPlus.fr">
+<title lang="fr">Les enquêtes de Murdoch</title>
+<sub-title lang="fr">Un témoin encombrant</sub-title>
+<desc lang="fr">Trois hommes, qui devaient témoigner dans un procès, sont tués. Murdoch décide de laisser croire que l'un d'eux s'en est sorti afin de tendre un piège au tueur.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12562172.jpg" />
+<episode-num system="xmltv_ns">9.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526172400 +0200" stop="20230526181700 +0200" channel="PolarPlus.fr">
+<title lang="fr">New York police judiciaire</title>
+<sub-title lang="fr">Un acte malheureux</sub-title>
+<desc lang="fr">Après une matinée de travail, une femme enceinte rentre chez elle à pied ; sauvagement agressée dans une ruelle, elle risque de perdre son bébé.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_22408072.jpg" />
+<episode-num system="xmltv_ns">1.5.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230526181700 +0200" stop="20230526190900 +0200" channel="PolarPlus.fr">
+<title lang="fr">New York police judiciaire</title>
+<sub-title lang="fr">Un incendie pas comme les autres</sub-title>
+<desc lang="fr">Un feu dans un centre d'accueil cause la mort d'une cinquantaine de personnes, toutes immigrées. L'enquête révèle qu'il s'agit d'un incendie criminel.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_30920452.jpg" />
+<episode-num system="xmltv_ns">1.9.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230526190900 +0200" stop="20230526200200 +0200" channel="PolarPlus.fr">
+<title lang="fr">New York police judiciaire</title>
+<sub-title lang="fr">Un sang révélateur</sub-title>
+<desc lang="fr">Le corps sans vie de Lois Ryder, dépouillée de ses bijoux mais pas de son porte-monnaie, est retrouvé sur un trottoir. L'autopsie révèle que Lois, qui a été battue à mort, avait une liaison extraconjugale. Lorsque celui-ci refuse de se soumettre à un examen sanguin, Logan et Cerreta deviennent...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6556452.jpg" />
+<episode-num system="xmltv_ns">1.13.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230526200200 +0200" stop="20230526205500 +0200" channel="PolarPlus.fr">
+<title lang="fr">New York police judiciaire</title>
+<sub-title lang="fr">Une soeur pas très catholique</sub-title>
+<desc lang="fr">Une adolescente refuse de réintégrer un centre pour toxicomanes, tenu par des religieuses : elle accuse une des soeurs de harcèlement sexuel.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6556452.jpg" />
+<episode-num system="xmltv_ns">1.16.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230526205500 +0200" stop="20230526223100 +0200" channel="PolarPlus.fr">
+<title lang="fr">Modern Murder : La maison vide</title>
+<desc lang="fr">L'épouse d'un homme politique en vue disparaît mystérieusement. L'enquête de Gorniak et Winkler met au jour les secrets bien gardés du couple.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_36040649.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230526223100 +0200" stop="20230527000500 +0200" channel="PolarPlus.fr">
+<title lang="fr">Modern Murder : Quand viendra l'heure</title>
+<desc lang="fr">Un ancien détenu, soupçonné du meurtre d'un policier, tente de prendre la fuite avec son épouse et leur fils, hébergé dans un foyer d'accueil.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_23856258.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>

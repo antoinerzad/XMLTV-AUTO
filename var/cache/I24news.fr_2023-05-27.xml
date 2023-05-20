@@ -1,0 +1,360 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230527000000 +0200" stop="20230527010000 +0200" channel="I24news.fr">
+<title lang="fr">Le Prime</title>
+<desc lang="fr">L'émission qui prend le temps de mieux comprendre et de passer au crible l'actualité politique, diplomatique et économique du Moyen-Orient.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778858.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527010000 +0200" stop="20230527013000 +0200" channel="I24news.fr">
+<title lang="fr">Défense</title>
+<desc lang="fr">Chaque semaine votre rendez-vous pour décrypter les enjeux des conflits actuels</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_15808899.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527013000 +0200" stop="20230527020000 +0200" channel="I24news.fr">
+<title lang="fr">Maghreb</title>
+<desc lang="fr">Votre nouveau magazine sur i24NEWS lié à l'actualité du Maghreb</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34955297.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527020000 +0200" stop="20230527023000 +0200" channel="I24news.fr">
+<title lang="fr">Conversations</title>
+<desc lang="fr">Anna Cabana vous donne rendez-vous pour un nouveau talk-show piquant et incisif du lundi au jeudi à 19h sur i24News.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200312.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527023000 +0200" stop="20230527030000 +0200" channel="I24news.fr">
+<title lang="fr">Best of english and arabic</title>
+<desc lang="fr">Les meilleurs moments des chaînes anglophone et arabophone d'i24NEWS</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778851.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527030000 +0200" stop="20230527033000 +0200" channel="I24news.fr">
+<title lang="fr">Histoires et découvertes</title>
+<desc lang="fr">Valerie Perez vous invite à revivre la Grande Histoire du monde. De l'antiquité à nos jours, vous allez suivre l'évolution des grandes civilisations, et découvrir les destins incroyables d'hommes et de femmes qui ont marqué histoire</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Histoire</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_7744236.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527033000 +0200" stop="20230527040000 +0200" channel="I24news.fr">
+<title lang="fr">Middel east now</title>
+<desc lang="fr">L'essentiel de l'actualité du Moyen-Orient</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34955353.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527040000 +0200" stop="20230527043000 +0200" channel="I24news.fr">
+<title lang="fr">Afrique</title>
+<desc lang="fr">Le Magazine AFRIQUE se propose chaque semaine sur i24 news de comprendre et de faire découvrir tout ce qui relie aujourd'hui l'Afrique a Israël dans des domaines aussi variés que l'éducation, l'agriculture, la diplomatie, le commerce ou encore la sécurité et la religion?. A travers des...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778872.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527043000 +0200" stop="20230527050000 +0200" channel="I24news.fr">
+<title lang="fr">Les grande gueules moyen</title>
+<desc lang="fr">Les Grandes Gueules Moyen-Orient débarquent sur i24news : une heure de débat autour de Benjamin Petrover entre Tel Aviv, Paris, New York et jusqu'à Dubaï pour débriefer sans langue de bois l'actu du jour avec ceux qui la vivent.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778873.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527050000 +0200" stop="20230527060000 +0200" channel="I24news.fr">
+<title lang="fr">Culture</title>
+<desc lang="fr">L'art, les livres, les spectacles, le cinéma et la mode... Ici ou la-bas. C'est le journal de la Culture. Pour savoir ce qui va se passer ou ce qui s'est passé. Des reportages, des invites, de l'humour et de la curiosité. Le meilleur de la Culture, c'est le week-end avec Valérie Abecassis sur...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778868.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527060000 +0200" stop="20230527070000 +0200" channel="I24news.fr">
+<title lang="fr">Le Prime</title>
+<desc lang="fr">L'émission qui prend le temps de mieux comprendre et de passer au crible l'actualité politique, diplomatique et économique du Moyen-Orient.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778858.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527070000 +0200" stop="20230527070500 +0200" channel="I24news.fr">
+<title lang="fr">News Flash</title>
+<desc lang="fr">News Flash</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7744278.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527070500 +0200" stop="20230527080000 +0200" channel="I24news.fr">
+<title lang="fr">Les grande gueules moyen</title>
+<desc lang="fr">Les Grandes Gueules Moyen-Orient débarquent sur i24news : une heure de débat autour de Benjamin Petrover entre Tel Aviv, Paris, New York et jusqu'à Dubaï pour débriefer sans langue de bois l'actu du jour avec ceux qui la vivent.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778873.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527080000 +0200" stop="20230527080500 +0200" channel="I24news.fr">
+<title lang="fr">News Flash</title>
+<desc lang="fr">News Flash</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7744278.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527080500 +0200" stop="20230527090000 +0200" channel="I24news.fr">
+<title lang="fr">Culture</title>
+<desc lang="fr">L'art, les livres, les spectacles, le cinéma et la mode... Ici ou la-bas. C'est le journal de la Culture. Pour savoir ce qui va se passer ou ce qui s'est passé. Des reportages, des invites, de l'humour et de la curiosité. Le meilleur de la Culture, c'est le week-end avec Valérie Abecassis sur...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778868.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527090000 +0200" stop="20230527093000 +0200" channel="I24news.fr">
+<title lang="fr">Conversations</title>
+<desc lang="fr">Anna Cabana vous donne rendez-vous pour un nouveau talk-show piquant et incisif du lundi au jeudi à 19h sur i24News.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11190350.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527093000 +0200" stop="20230527100000 +0200" channel="I24news.fr">
+<title lang="fr">Conversations</title>
+<desc lang="fr">Anna Cabana vous donne rendez-vous pour un nouveau talk-show piquant et incisif du lundi au jeudi à 19h sur i24News.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11338307.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527100000 +0200" stop="20230527100500 +0200" channel="I24news.fr">
+<title lang="fr">News Flash</title>
+<desc lang="fr">News Flash</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7744278.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527100500 +0200" stop="20230527110000 +0200" channel="I24news.fr">
+<title lang="fr">Le Prime</title>
+<desc lang="fr">L'émission qui prend le temps de mieux comprendre et de passer au crible l'actualité politique, diplomatique et économique du Moyen-Orient.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778858.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527110000 +0200" stop="20230527113000 +0200" channel="I24news.fr">
+<title lang="fr">Les grande gueules moyen</title>
+<desc lang="fr">Les Grandes Gueules Moyen-Orient débarquent sur i24news : une heure de débat autour de Benjamin Petrover entre Tel Aviv, Paris, New York et jusqu'à Dubaï pour débriefer sans langue de bois l'actu du jour avec ceux qui la vivent.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778873.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527113000 +0200" stop="20230527120000 +0200" channel="I24news.fr">
+<title lang="fr">Politique</title>
+<desc lang="fr">.Votre nouvelle émission dédiée à l'actualité politique. Tout ce que vous avez besoin de savoir sur une semaine de politique intérieure israélienne, un magazine présenté par Nathalie Nagar et animé les 4 analystes d'i24NEWS, Maurice Ifergan, Daniel Haïk, Dror Even Sapir et Jonathan Serero.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23776830.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527120000 +0200" stop="20230527120500 +0200" channel="I24news.fr">
+<title lang="fr">News Flash</title>
+<desc lang="fr">News Flash</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7744278.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527120500 +0200" stop="20230527130000 +0200" channel="I24news.fr">
+<title lang="fr">Culture</title>
+<desc lang="fr">L'art, les livres, les spectacles, le cinéma et la mode... Ici ou la-bas. C'est le journal de la Culture. Pour savoir ce qui va se passer ou ce qui s'est passé. Des reportages, des invites, de l'humour et de la curiosité. Le meilleur de la Culture, c'est le week-end avec Valérie Abecassis sur...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778868.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527130000 +0200" stop="20230527133000 +0200" channel="I24news.fr">
+<title lang="fr">Défense</title>
+<desc lang="fr">Chaque semaine votre rendez-vous pour décrypter les enjeux des conflits actuels</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_15808899.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527133000 +0200" stop="20230527140000 +0200" channel="I24news.fr">
+<title lang="fr">Best of english and arabic</title>
+<desc lang="fr">Les meilleurs moments des chaînes anglophone et arabophone d'i24NEWS</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778851.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527140000 +0200" stop="20230527140500 +0200" channel="I24news.fr">
+<title lang="fr">News Flash</title>
+<desc lang="fr">News Flash</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7744278.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527140500 +0200" stop="20230527150000 +0200" channel="I24news.fr">
+<title lang="fr">Le Prime</title>
+<desc lang="fr">L'émission qui prend le temps de mieux comprendre et de passer au crible l'actualité politique, diplomatique et économique du Moyen-Orient.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778858.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527150000 +0200" stop="20230527153000 +0200" channel="I24news.fr">
+<title lang="fr">Conversations</title>
+<desc lang="fr">Anna Cabana vous donne rendez-vous pour un nouveau talk-show piquant et incisif du lundi au jeudi à 19h sur i24News.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_28200312.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527153000 +0200" stop="20230527160000 +0200" channel="I24news.fr">
+<title lang="fr">Malard en liberté</title>
+<desc lang="fr">Malard en liberté</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_32083592.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527160000 +0200" stop="20230527160500 +0200" channel="I24news.fr">
+<title lang="fr">News Flash</title>
+<desc lang="fr">News Flash</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7744278.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527160500 +0200" stop="20230527170000 +0200" channel="I24news.fr">
+<title lang="fr">Les grande gueules moyen</title>
+<desc lang="fr">Les Grandes Gueules Moyen-Orient débarquent sur i24news : une heure de débat autour de Benjamin Petrover entre Tel Aviv, Paris, New York et jusqu'à Dubaï pour débriefer sans langue de bois l'actu du jour avec ceux qui la vivent.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778873.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527170000 +0200" stop="20230527173000 +0200" channel="I24news.fr">
+<title lang="fr">Middel east now</title>
+<desc lang="fr">L'essentiel de l'actualité du Moyen-Orient</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34955353.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527173000 +0200" stop="20230527180000 +0200" channel="I24news.fr">
+<title lang="fr">Histoires et découvertes</title>
+<desc lang="fr">Valerie Perez vous invite à revivre la Grande Histoire du monde. De l'antiquité à nos jours, vous allez suivre l'évolution des grandes civilisations, et découvrir les destins incroyables d'hommes et de femmes qui ont marqué histoire</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Histoire</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_7744253.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527180000 +0200" stop="20230527183000 +0200" channel="I24news.fr">
+<title lang="fr">I24 News Room</title>
+<desc lang="fr">L'information en continu et en direct sur i24news</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11237557.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527183000 +0200" stop="20230527190000 +0200" channel="I24news.fr">
+<title lang="fr">I24 News Room</title>
+<desc lang="fr">L'information en continu et en direct sur i24news</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_8086530.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527190000 +0200" stop="20230527190500 +0200" channel="I24news.fr">
+<title lang="fr">News Flash</title>
+<desc lang="fr">News Flash</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7744278.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527190500 +0200" stop="20230527193000 +0200" channel="I24news.fr">
+<title lang="fr">Voyage en Terre sainte</title>
+<desc lang="fr">Partez avec i24NEWS à la découverte d'Israël</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34955432.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527193000 +0200" stop="20230527200000 +0200" channel="I24news.fr">
+<title lang="fr">Les grande gueules moyen</title>
+<desc lang="fr">Les Grandes Gueules Moyen-Orient débarquent sur i24news : une heure de débat autour de Benjamin Petrover entre Tel Aviv, Paris, New York et jusqu'à Dubaï pour débriefer sans langue de bois l'actu du jour avec ceux qui la vivent.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778873.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527200000 +0200" stop="20230527200500 +0200" channel="I24news.fr">
+<title lang="fr">News Flash</title>
+<desc lang="fr">News Flash</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7744278.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527200500 +0200" stop="20230527210000 +0200" channel="I24news.fr">
+<title lang="fr">Le Prime</title>
+<desc lang="fr">L'émission qui prend le temps de mieux comprendre et de passer au crible l'actualité politique, diplomatique et économique du Moyen-Orient.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Politique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778858.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527210000 +0200" stop="20230527210500 +0200" channel="I24news.fr">
+<title lang="fr">News Flash</title>
+<desc lang="fr">News Flash</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_7744278.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527210500 +0200" stop="20230527220000 +0200" channel="I24news.fr">
+<title lang="fr">Culture</title>
+<desc lang="fr">L'art, les livres, les spectacles, le cinéma et la mode... Ici ou la-bas. C'est le journal de la Culture. Pour savoir ce qui va se passer ou ce qui s'est passé. Des reportages, des invites, de l'humour et de la curiosité. Le meilleur de la Culture, c'est le week-end avec Valérie Abecassis sur...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778868.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527220000 +0200" stop="20230527230000 +0200" channel="I24news.fr">
+<title lang="fr">Club des correspondants</title>
+<desc lang="fr">Chaque mois dans le club des correspondants, Michaël Darmon reçoit des journalistes étrangers en poste à Paris. Analyses, débats, le club des correspondants d'i24news offre une clef de compréhension et décryptage de l'actualité internationale pour ceux qui la vivent en 1ere ligne</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_37532121.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527230000 +0200" stop="20230527233000 +0200" channel="I24news.fr">
+<title lang="fr">Middel east now</title>
+<desc lang="fr">L'essentiel de l'actualité du Moyen-Orient</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_34955353.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527233000 +0200" stop="20230528000000 +0200" channel="I24news.fr">
+<title lang="fr">Best of english and arabic</title>
+<desc lang="fr">Les meilleurs moments des chaînes anglophone et arabophone d'i24NEWS</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_23778851.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

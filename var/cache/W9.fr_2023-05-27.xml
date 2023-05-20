@@ -1,0 +1,145 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230527000000 +0200" stop="20230527020000 +0200" channel="W9.fr">
+<title lang="fr">Enquête d'action</title>
+<desc lang="fr">Aubagne, à 15 km de Marseille et de la Méditerranée. Avec ses décors entre mer et collines, la ville compte désormais près de 50 000 habitants. Tout autour du centre historique et des zones résidentielles, des terrains escarpés et souvent propices aux chutes et aux départs de feu...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_11581055.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230527020000 +0200" stop="20230527030000 +0200" channel="W9.fr">
+<title lang="fr">Enquête d'action</title>
+<desc lang="fr">Entre mer et montagne, le département des Pyrénées-Orientales offre une grande diversité de paysages. Un panorama montagneux souvent synonyme d'accidents de la route. En 2020, les pompiers des 43 casernes que comptent les Pyrénées-Orientales, sont sortis près de 2000 fois pour venir en aide aux...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_11581055.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230527030000 +0200" stop="20230527060000 +0200" channel="W9.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22269110.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527060000 +0200" stop="20230527082000 +0200" channel="W9.fr">
+<title lang="fr">Wake Up</title>
+<desc lang="fr">Réveillez-vous de bon pied avec W9 ! Retrouvez une sélection des meilleurs tubes du moment pour un réveil vitaminé...</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_19451123.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527082000 +0200" stop="20230527093000 +0200" channel="W9.fr">
+<title lang="fr">W9 Boutique</title>
+<desc lang="fr">Retrouvez les dernières innovations et des offres exclusives en matière de bijoux, beauté, cuisine, maison.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. TV Achat</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_7973794.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527093000 +0200" stop="20230527104000 +0200" channel="W9.fr">
+<title lang="fr">W9 Hits</title>
+<desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_21782675.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527104000 +0200" stop="20230527114000 +0200" channel="W9.fr">
+<title lang="fr">Le hit W9</title>
+<desc lang="fr">L'émission musicale qui vous fait découvrir les cinquante chansons les plus écoutées sur le net chaque semaine.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_11274005.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527114000 +0200" stop="20230527124500 +0200" channel="W9.fr">
+<title lang="fr">Le hit W9</title>
+<desc lang="fr">L'émission musicale qui vous fait découvrir les cinquante chansons les plus écoutées sur le net chaque semaine.</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_11274005.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527124500 +0200" stop="20230527125000 +0200" channel="W9.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Bulletin météorologique.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_27479757.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527125000 +0200" stop="20230527134000 +0200" channel="W9.fr">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">La théorie du cactus</sub-title>
+<desc lang="fr">Pendant que Scorpion essaye de stopper un afflux de drogues convoyées par drones, Walter pose un ultimatum à Happy et Toby au sujet de leur relation.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8087951.jpg" />
+<episode-num system="xmltv_ns">1.17.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527134000 +0200" stop="20230527143000 +0200" channel="W9.fr">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Des vices et des vertus</sub-title>
+<desc lang="fr">Les membres de l'équipe infiltrent un réseau de contrebande de voitures de luxe. Or, une affaire de livraison d'armes biologiques complique la mission.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_11787255.jpg" />
+<episode-num system="xmltv_ns">1.18.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527143000 +0200" stop="20230527152000 +0200" channel="W9.fr">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Une nuit au musée</sub-title>
+<desc lang="fr">L'équipe intervient au musée d'histoire naturelle de Los Angeles au moment même où des voleurs tentent de s'emparer d'une pierre précieuse.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8044827.jpg" />
+<episode-num system="xmltv_ns">2.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527152000 +0200" stop="20230527162000 +0200" channel="W9.fr">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Chauve qui peut !</sub-title>
+<desc lang="fr">Toute l'équipe explore un vaste réseau souterrain pour localiser une espèce de chauve-souris qui menace la biodiversité en Amérique du Nord.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8044828.jpg" />
+<episode-num system="xmltv_ns">2.5.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527162000 +0200" stop="20230527170000 +0200" channel="W9.fr">
+<title lang="fr">Scorpion</title>
+<sub-title lang="fr">Votez Scorpion !</sub-title>
+<desc lang="fr">Le jour de l'élection présidentielle, les agents de Scorpion sont appelés à la rescousse : quelqu'un tente de se servir du scrutin pour déstabiliser le pays.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_8064834.jpg" />
+<episode-num system="xmltv_ns">2.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527170000 +0200" stop="20230527210500 +0200" channel="W9.fr">
+<title lang="fr">La petite histoire de France</title>
+<desc lang="fr">Les cousins oubliés de la grande Histoire sont de retour et une toute nouvelle époque fait son apparition : la civilisation gallo-romaine ! En l'an 1, qu'on s'en accommode ou qu'on la combatte, la civilisation gallo-romaine est là pour durer ! Que reste-t-il des grands idéaux de la révolte...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_14378894.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527210500 +0200" stop="20230527230000 +0200" channel="W9.fr">
+<title lang="fr">La petite histoire de France</title>
+<desc lang="fr">Les cousins oubliés de la grande Histoire sont de retour et une toute nouvelle époque fait son apparition : la civilisation gallo-romaine ! En l'an 1, qu'on s'en accommode ou qu'on la combatte, la civilisation gallo-romaine est là pour durer ! Que reste-t-il des grands idéaux de la révolte...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_27142336.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230527230000 +0200" stop="20230528014500 +0200" channel="W9.fr">
+<title lang="fr">La petite histoire de France</title>
+<desc lang="fr">Les cousins oubliés de la grande Histoire sont de retour et une toute nouvelle époque fait son apparition : la civilisation gallo-romaine ! En l'an 1, qu'on s'en accommode ou qu'on la combatte, la civilisation gallo-romaine est là pour durer ! Que reste-t-il des grands idéaux de la révolte...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Rires</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_14181281.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

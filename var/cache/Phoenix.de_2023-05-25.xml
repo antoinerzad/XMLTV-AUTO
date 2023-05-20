@@ -1,0 +1,169 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230525053000 +0200" stop="20230525083000 +0200" channel="Phoenix.de">
+<title lang="fr">ARD-Morgenmagazin</title>
+<desc lang="fr">Die morgendliche Nachrichten- und Informationssendung existiert seit 1992. Im Vordergrund stehen Berichte und Reportagen über tagesaktuelle Themen aus den Bereichen nationale und internationale Politik, Wirtschaft, Kultur und Gesellschaft. Natürlich wird auch über &quot;bunte&quot; Themen berichtet. Auch die Sportberichterstattung hat ihren festen Platz in der Sendung.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Services</category>
+<icon src="https://img.bouygtel.fr/CMS/images/457F9351043C98EC918512C97AF8A1CB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230525083000 +0200" stop="20230525173000 +0200" channel="Phoenix.de">
+<title lang="fr">phoenix vor ort</title>
+<desc lang="fr">Ob Parlamentsdebatten oder Staatsbesuche, bedeutende politische Entscheidungen, gesellschafsrelevante Großereignisse oder wichtige Aktionärsversammlungen – Reporter und Korrespondenten berichten vor Ort über aktuelle Geschehnisse in Deutschland, Europa und der Welt. Sie erläutern Hintergründe, interviewen kompetente Gesprächspartner und fassen die wichtigsten Entscheidungen zusammen.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/35CB8A3FC4B4B2E20DE62DE173F26C37.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230525173000 +0200" stop="20230525180000 +0200" channel="Phoenix.de">
+<title lang="fr">phoenix der tag</title>
+<desc lang="fr">Was war am heutigen Tag wichtig? Welche Ereignisse und Diskussionen bestimmten das politische Geschehen? Täglich um 17.30 Uhr in 30 Minuten und um 23.00 Uhr in 60 Minuten fassen die Moderatoren und Moderatorinnen zusammen, was am Tag von Bedeutung war. Expertinnen und Experten im Studio und Gespräche mit Korrespondenten sorgen für die nötigen Hintergrundinformationen und Einschätzungen.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F9CBFFA2E439390248B115A888384C79.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230525180000 +0200" stop="20230525183000 +0200" channel="Phoenix.de">
+<title lang="fr">Aktuelle Reportage</title>
+<desc lang="fr">Dokumentationen und Reportagen - rund sechs Stunden wochentags und am Wochenende nahezu ganztägig sendet Phoenix das Beste von ARD und ZDF zu allen Facetten der politischen und gesellschaftlichen Wirklichkeit.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Programme indéterminé</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230525183000 +0200" stop="20230525191500 +0200" channel="Phoenix.de">
+<title lang="fr">Wir Geiseln der SS</title>
+<sub-title lang="fr">Entre espoir et désarroi</sub-title>
+<desc lang="fr">Im April 1945 verschleppten SS-Angehörige eine Gruppe von 141 prominenten Häftlingen aus dem KZ Dachau in die Alpen. Die Gefangenen sollten bei Verhandlungen mit den Alliierten als Faustpfand dienen.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Histoire</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9C2A5FF1E5B99C48EBA39925C1BC7838.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230525191500 +0200" stop="20230525200000 +0200" channel="Phoenix.de">
+<title lang="fr">Wir Geiseln der SS</title>
+<sub-title lang="fr">Sur le fil du rasoir</sub-title>
+<desc lang="fr">Die Fahrt über den Brenner überstehen Geiseln und SS-Schergen unbeschadet. Am 28. April 1945 hält der Konvoi kurz vor dem Ort Niederdorf. Die SS-Sturmführer Stiller und Bader versuchen, Kontakt zu ihren Vorgesetzten aufzunehmen. Schließlich erzwingen die Häftlinge einen Aufenthalt in Niederdorf, indem sie eigenmächtig die Busse verlassen und sich unter das Volk mischen. Dadurch ist es für die SS unmöglich geworden, die Gefangenen gegebenenfalls unauffällig zu liquidieren.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Histoire</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230525200000 +0200" stop="20230525201500 +0200" channel="Phoenix.de">
+<title lang="fr">Tagesschau</title>
+<desc lang="fr">Die Tagesschau ist eine Institution in der deutschen Fernsehlandschaft. Seit 1952 wird kurz und bündig von aktuellen Geschehnissen in Deutschland und der Welt berichtet. Bis heute ist die Redaktion der sachlichen Berichterstattung treu geblieben und distanziert sich vom Trend in Richtung Boulevard-News. Mit mehr als 9 Millionen Zuschauern ist es Deutschlands beliebteste Nachrichtensendung.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5B16776242C32BEFDBC6204B16973A88.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230525201500 +0200" stop="20230525210000 +0200" channel="Phoenix.de">
+<title lang="fr">Die China-Falle</title>
+<desc lang="fr">Trotz aller Warnungen wollte man es lange nicht wahrhaben: Deutschland hat sich in extreme Abhängigkeit von Pekings Gnaden manövriert und wird nun zunehmend erpressbar. Seit dem Angriff Russlands auf die Ukraine nimmt auch die Bundesregierung das volle Risiko wahr. Denn in Ostasien schwelt zwischen China und Taiwan ein weiterer Konflikt mit geopolitischer Sprengkraft. &quot;Wenn der von heute auf morgen eskaliert, wäre das für uns der GAU&quot;, sagt Peter Bachmann von der Photovoltaikfirma Solarwatt. Deutschland braucht eine neue China-Strategie, das ist jetzt allen klar. Doch wie soll die aussehen? Und was würde sie kosten?</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/24CEBA053FB651B53B215D954F260CE4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230525210000 +0200" stop="20230525214500 +0200" channel="Phoenix.de">
+<title lang="fr">Lieblingspartner in Europa</title>
+<sub-title lang="fr">La Chine en Serbie, porte d'entrée du marché européen</sub-title>
+<desc lang="fr">China streckt seine Fühler - auch in Form der Neuen Seidenstraße - immer stärker nach Europa aus. Serbien ist eines der Länder, das ein besonders enges Verhältnis zu China pflegt. Seit 2010 haben die Chinesen rund 8,5 Milliarden Dollar im Land investiert. Doch wer sind die Menschen, die diese gigantische Maschinerie am Laufen halten?</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/AB167686A3805F6D747BCA423530547F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230525214500 +0200" stop="20230525230000 +0200" channel="Phoenix.de">
+<title lang="fr">heute journal</title>
+<sub-title lang="fr">Wetter</sub-title>
+<desc lang="fr">Das Nachrichtenmagazin des Zweiten Deutschen Fernsehens liefert tagesaktuelle Nachrichten, gut recherchierte Hintergrundberichte und Interviews mit Politikern und Entscheidungsträgern aus Wirtschaft, Gesellschaft, Sport und Kultur. Die Sendung wird jeweils von einem zweiköpfigen Team vor der Kamera präsentiert: einer Person die moderiert und einer die Nachrichten vorträgt.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230525230000 +0200" stop="20230526000000 +0200" channel="Phoenix.de">
+<title lang="fr">phoenix der tag</title>
+<desc lang="fr">Was war am heutigen Tag wichtig? Welche Ereignisse und Diskussionen bestimmten das politische Geschehen? Täglich um 17.30 Uhr in 30 Minuten und um 23.00 Uhr in 60 Minuten fassen die Moderatoren und Moderatorinnen zusammen, was am Tag von Bedeutung war. Expertinnen und Experten im Studio und Gespräche mit Korrespondenten sorgen für die nötigen Hintergrundinformationen und Einschätzungen.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/487740A63AF6EDA22164B70C58BB6E11.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526000000 +0200" stop="20230526004500 +0200" channel="Phoenix.de">
+<title lang="fr">phoenix runde</title>
+<desc lang="fr">Vier Gäste, vier Meinungen, engagiert im Austausch, respektvoll im Umgang: Die &quot;phoenix runde&quot; ist der Ort für aktuelle politische und gesellschaftliche Debatten. Egal, ob es um Politik, Wirtschaft, Wissenschaft oder Gesellschaft geht – die &quot;phoenix runde&quot; ist immer nah dran an der Lebenswirklichkeit. An drei Abenden in der Woche begrüßen abwechselnd die Moderatoren Alexander Kähler und Anke Plättner Gäste aus Politik, Wirtschaft, Medien, Wissenschaft und Kultur oder Akteure aus dem öffentlichen Leben, die ihren Standpunkt vertreten. Zuschauerinnen und Zuschauer der &quot;phoenix runde&quot; erleben engagierte Wortgefechte in angemessenem Ton und gewinnen neue Erkenntnisse. In der Spezialausgabe #phoenixrunde sind Sie mehrmals im Jahr herzlich eingeladen, sich via Facebook und Twitter an der Diskussion zu beteiligen.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6D4EF33AC27D31F5D491FC110A72BEA5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526004500 +0200" stop="20230526013000 +0200" channel="Phoenix.de">
+<title lang="fr">Die China-Falle</title>
+<desc lang="fr">Trotz aller Warnungen wollte man es lange nicht wahrhaben: Deutschland hat sich in extreme Abhängigkeit von Pekings Gnaden manövriert und wird nun zunehmend erpressbar. Seit dem Angriff Russlands auf die Ukraine nimmt auch die Bundesregierung das volle Risiko wahr. Denn in Ostasien schwelt zwischen China und Taiwan ein weiterer Konflikt mit geopolitischer Sprengkraft. &quot;Wenn der von heute auf morgen eskaliert, wäre das für uns der GAU&quot;, sagt Peter Bachmann von der Photovoltaikfirma Solarwatt. Deutschland braucht eine neue China-Strategie, das ist jetzt allen klar. Doch wie soll die aussehen? Und was würde sie kosten?</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A4AB956DB686D292CAD1EAD68B3BF4E8.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526013000 +0200" stop="20230526021500 +0200" channel="Phoenix.de">
+<title lang="fr">Lieblingspartner in Europa</title>
+<sub-title lang="fr">La Chine en Serbie, porte d'entrée du marché européen</sub-title>
+<desc lang="fr">China streckt seine Fühler - auch in Form der Neuen Seidenstraße - immer stärker nach Europa aus. Serbien ist eines der Länder, das ein besonders enges Verhältnis zu China pflegt. Seit 2010 haben die Chinesen rund 8,5 Milliarden Dollar im Land investiert. Doch wer sind die Menschen, die diese gigantische Maschinerie am Laufen halten?</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B65E9E3425252A0ACD95E9EAE4FBAABE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526021500 +0200" stop="20230526030000 +0200" channel="Phoenix.de">
+<title lang="fr">Maritimes Erbe</title>
+<sub-title lang="fr">La côte allemande de la Baltique</sub-title>
+<desc lang="fr">Von Wismar bis zur Insel Usedom erstreckt sich eine Landschaft voller Schönheit und reichem maritimem Erbe. Wilde Strände und Steilküsten, die ihr Gesicht jedes Jahr verändern. Ein langer Reigen von Marschwiesen, Haff- und Boddengewässer mit Schilfbuchten und Vogelkolonien machen das Besondere dieser Region aus. Die Hansestädte der Ostseeküste stehen für eine jahrhundertealte Tradition von Überseehandel und Schiffbau.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526030000 +0200" stop="20230526034500 +0200" channel="Phoenix.de">
+<title lang="fr">Maritimes Erbe</title>
+<sub-title lang="fr">La côte bretonne</sub-title>
+<desc lang="fr">Die Bretagne ganz im Westen Frankreichs ist ein Sehnsuchtsort. Die riesige Halbinsel, die sich weit in den Atlantik dehnt, ist mit 2.700 Kilometer Küstenlinie eine Region voller Gegensätze. Im Süden lieblich und fast schon mediterran, sind Meer und Land durch die Gezeiten im steten Wechselspiel. Davon profitieren seit tausend Jahren die Salzbauern und -bäuerinnen, die mit uralter Technik feinstes Meersalz gewinnen. Hier treffen Tradition und Moderne unmittelbar aufeinander. Weiter im Norden liegt raues Land, das fest im Griff der ewigen Gezeiten ist.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1AC10006B4F7DA0DE0131EAFF721474E.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526034500 +0200" stop="20230526043000 +0200" channel="Phoenix.de">
+<title lang="fr">Maritimes Erbe</title>
+<sub-title lang="fr">La côte de Galice</sub-title>
+<desc lang="fr">Galicien ist die nordwestlichste Region Spaniens. Vom Rest des Landes durch das gebirgige Hinterland getrennt und umgeben vom wilden Atlantik, hat sich hier eine ganz besondere maritime Ursprünglichkeit bewahrt. Im Nordosten lädt der zerklüftete Kathedralenstrand zum Staunen ein, das felsige Kap Estaca de Bares markiert den nördlichsten Punkt Spaniens, und im Südwesten grenzt Galicien an Portugal. Das Kap Finisterre hielten die alten Römer für das Ende der Welt. Heute kommen vor allem Jakobspilgerinnen und -pilger zur Landzunge, um beim Sonnenuntergang ihre ausgetretenen Wanderschuhe abzulegen.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526043000 +0200" stop="20230526051500 +0200" channel="Phoenix.de">
+<title lang="fr">Maritimes Erbe</title>
+<sub-title lang="fr">La côte de Ligurie</sub-title>
+<desc lang="fr">Die Küste Liguriens an der Italienischen Riviera ist eines der schönsten und abwechslungsreichsten Meeresufer Europas. Es ist die Region der Segelschiffe, Jachten und Ruderboote - diese Tradition verbindet die Menschen und das Meer. Auf der Westseite, der Ponente, erstreckt sich die Küste von San Remo, Imperia und Finale Ligure bis zur alten Hafenstadt Genua. Die Ostseite, die Levante, wo die Dörfer an den Steilhängen der Cinque Terre liegen, endet am Golf von La Spezia.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<icon src="https://img.bouygtel.fr/CMS/images/89790CDCDCEDE7DAC8D7B7149064108E.jpg" />
+<episode-num system="xmltv_ns">0.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526051500 +0200" stop="20230526053000 +0200" channel="Phoenix.de">
+<title lang="fr">Dokumentation</title>
+<desc lang="fr">Die über 2500 Dokumentationen im Jahr sollen den Zuschauern Gelegenheit bieten, sich eine fundierte Meinung zu bilden. Die Filme beleuchten politische und gesellschaftliche Entwicklungen in Deutschland, Europa und der Welt.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A62B5188D1D151BF215DAF55E0DB439C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230526053000 +0200" stop="20230526083000 +0200" channel="Phoenix.de">
+<title lang="fr">ARD-Morgenmagazin</title>
+<desc lang="fr">Das Erste am Morgen</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Services</category>
+<icon src="https://img.bouygtel.fr/CMS/images/890F43E5446185E1BEB9280FBEE2FFF2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
