@@ -1,0 +1,133 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230528070000 +0200" stop="20230528080000 +0200" channel="RTSDeux.ch">
+<title lang="fr">RTS Info</title>
+<desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/c42790f544e4b6d31861509eaa523c87541059fe.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230528080000 +0200" stop="20230528083500 +0200" channel="RTSDeux.ch">
+<title lang="fr">Sport dernière</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Multisports</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/95b8817884ce52055fe2fcaf21eb2fb115be2d34.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230528083500 +0200" stop="20230528092500 +0200" channel="RTSDeux.ch">
+<title lang="fr">Bye bye la Suisse</title>
+<sub-title lang="fr">Les soucis du quotidien</sub-title>
+<desc lang="fr">Saison 5 Episode 4
+En Haute-Garonne, Justine et Benoît ont démonté leur yourte ; au Costa Rica, les enfants bernois vont à l'école ; en Crète, Marcel rénove son bar.
+Année de réalisation : 2015</desc>
+<category lang="fr">Documentaire découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/e1faefde1443a25f094e32e3ca5aebdbee3368e0.jpg" />
+<episode-num system="xmltv_ns">4.3.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230528092500 +0200" stop="20230528101000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Bye bye la Suisse</title>
+<sub-title lang="fr">Objectif en vue</sub-title>
+<desc lang="fr">Saison 5 Episode 5
+En France, les Romands vivent dans leur yourte ; au Costa Rica, la petite Joseline a la nostalgie de la Suisse ; en Crète, l'ouverture du bar est pour bientôt.
+Année de réalisation : 2015</desc>
+<category lang="fr">Documentaire découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/e1faefde1443a25f094e32e3ca5aebdbee3368e0.jpg" />
+<episode-num system="xmltv_ns">4.4.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230528101000 +0200" stop="20230528110000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Bye bye la Suisse</title>
+<sub-title lang="fr">Contre vents et marées</sub-title>
+<desc lang="fr">Saison 5 Episode 6
+Au Costa Rica, Nicole et Mike rencontrent une famille qui habite sur leur terrain ; en Crète la saison d'été débute ; en Haute-Garonne, les Leibzig cultivent leurs terres.
+Année de réalisation : 2015</desc>
+<category lang="fr">Documentaire découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/e1faefde1443a25f094e32e3ca5aebdbee3368e0.jpg" />
+<episode-num system="xmltv_ns">4.5.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230528110000 +0200" stop="20230528122500 +0200" channel="RTSDeux.ch">
+<title lang="fr">Les beaux parleurs</title>
+<desc lang="fr">Jonas Schneiter anime cette émission aux côtés de trois chroniqueurs et un humoriste qui revisitent l'actualité de la semaine écoulée sur le ton d'une dispute intelligente et spirituelle. (Suisse Romande-2023)</desc>
+<category lang="fr">Talk-show</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/3293118bf7db59bc381307a53b0012ec5751b031_B4C1038E21C33EAC3BF3E8092FB04561.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230528122500 +0200" stop="20230528124000 +0200" channel="RTSDeux.ch">
+<title lang="fr">RTS Info</title>
+<desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/c42790f544e4b6d31861509eaa523c87541059fe.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230528124000 +0200" stop="20230528130000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Adrénaline</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Sports extrêmes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/09/cf682ba26feeda3e1400f15750518aaa2e254a2a.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230528130000 +0200" stop="20230528191000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Tennis : Roland-Garros</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Tennis</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/05/13/c85d18de0ceea80debf1a8aea7a92fd618191fa6.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230528191000 +0200" stop="20230528220000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Hockey sur glace : Championnat du monde</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Hockey sur glace</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/05/02/3f03d813a07331c200cfd7623bc57d7437a8d3bf.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230528220000 +0200" stop="20230528230000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Hebron, laboratoire de l'occupation</title>
+<desc lang="fr">Composé d'images d'archives de la télévision israélienne, d'interviews avec des officiels israéliens et d'entretiens avec deux Palestiniens, ce documentaire raconte comment, depuis 1967, la ville palestinienne d'Hébron a servi de laboratoire politique à l'occupation militaire israélienne. Entre cooptation au sein de l'élite palestinienne, expulsion de leaders nationalistes, et autorités militaires empêchant le jeu démocratique, le film insiste sur les conséquences de la colonisation.</desc>
+<category lang="fr">Documentaire géopolitique</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/7076b414fd04dfbec6b37898d7663d1ee6adf1c0_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230528230000 +0200" stop="20230529003500 +0200" channel="RTSDeux.ch">
+<title lang="fr">Ardente·x·s</title>
+<desc lang="fr">Ce premier long métrage (audacieux !) de Patrick Muroni brosse le portrait d'un collectif queer, créateur de films pornographiques, qui accompagne l'avènement d'une libération sexuelle non-genrée en Suisse. A Lausanne, un groupe de femmes et de personnes queers d'une vingtaine d'années se lance dans la réalisation de films pornographiques éthiques et dissidents : le collectif OIL Production est né. Engagée·x·s dans une démarche artistique et politique, iels créent des films X visant à représenter de manière positive des sexualités et des corps dans toute leur diversité. Ardente·x·s suit l'aventure du collectif, les coulisses des productions, les prises de parole dans les médias, les manifestations et les moments plus intimistes pendant lesquels iels nous invitent à découvrir leur quotidien.
+Année de réalisation : 2022</desc>
+<category lang="fr">Film documentaire</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/05/15/0a5d30531004f34ddf46c46a82297d1176b414fe_65FA4D4C3859FDD0C214F39FA438B30F.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230529003500 +0200" stop="20230529011000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/18/59dda809b02648f35eb849940def237ccff6b555_0B6E8CAADCD72313852141747079476B.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230529011000 +0200" stop="20230529013500 +0200" channel="RTSDeux.ch">
+<title lang="fr">Géopolitis</title>
+<desc lang="fr">Pour mieux comprendre les grands enjeux internationaux, ce magazine de géopolitique décode les dessous de l'actualité politique.</desc>
+<category lang="fr">Magazine de géopolitique</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/16/61bf9ea77fc93f2c91cc70f562e31baac7713063.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230529013500 +0200" stop="20230529021000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Mise au point</title>
+<desc lang="fr">&quot;Mise au Point&quot; propose des enquêtes, des reportages et des interviews portant sur différents thèmes d'actualité au niveau national et international.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/16/d6e7fbc421253b054d6ff87859f595d26aa15719.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230529021000 +0200" stop="20230529024000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/18/59dda809b02648f35eb849940def237ccff6b555_0B6E8CAADCD72313852141747079476B.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230529024000 +0200" stop="20230529055500 +0200" channel="RTSDeux.ch">
+<title lang="fr">Sport dimanche</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Multisports</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/d8659acaa21c8c5a66c4f04899e82972fa099b93.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>

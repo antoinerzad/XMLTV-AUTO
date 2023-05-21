@@ -1,0 +1,49 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230527223000 +0200" stop="20230528090000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Villejuif Boxing Show</title>
+<desc lang="fr">Kick-boxing.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_15014006.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230528090000 +0200" stop="20230528110000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Sport planète</title>
+<desc lang="fr">Magazine sportif.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_7687723.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230528110000 +0200" stop="20230528160000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Le club Sport en France</title>
+<desc lang="fr">Le CSF, c'est le rendez-vous incontournable de Sport en France, le lieu de passage de tous les athlètes et de découverte de toutes les disciplines.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_12638411.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230528160000 +0200" stop="20230528180000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Cyclisme : Championnats de France</title>
+<desc lang="fr">Suivez des Championnats de France de cyclisme sur route. Depuis 1907, le champion et la championne de France sont déterminés dans une course dans les Championnats de France de cyclisme sur route. Un titre de champion de France du contre-la-montre est aussi attribué depuis 1995.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Cyclisme</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_10927348.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230528180000 +0200" stop="20230528200000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Rugby à XIII : Championnat de France</title>
+<desc lang="fr">Retransmission de matchs du Championnat de France de rugby à XIII. Cette compétition créée en 1934 réunit les meilleurs clubs hexagonaux dans cette discipline du rugby à XIII si spectaculaire. Organisé par la FFR XIII, ce championnat disputé tous les ans à l'automne regroupe aujourd'hui dix...</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_17214617.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230528200000 +0200" stop="20230529090000 +0200" channel="SportEnFrance.fr">
+<title lang="fr">Rugby à XIII féminin : Championnat de France</title>
+<desc lang="fr">Rugby à XIII.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Rugby</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_GEP_15402566.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
