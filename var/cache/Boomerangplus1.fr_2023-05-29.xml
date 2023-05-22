@@ -1,0 +1,11 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230529055500 +0200" stop="20230529062000 +0200" channel="Boomerangplus1.fr">
+<title lang="fr">Looney Tunes Show</title>
+<sub-title lang="fr">Bugs met la sourdine</sub-title>
+<desc lang="fr">Daffy manque de s'étouffer en se goinfrant de pizza. Il prend conscience que sa vie ne tient qu'à un fil et décide de réaliser son rêve : prendre des leçons de piano. Il vend la télé de Bugs pour s'acheter son instrument...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/35F581E7C65F553698E6F9252B9BBE95.jpg" />
+<episode-num system="xmltv_ns">3.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

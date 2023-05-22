@@ -1,0 +1,306 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230528224000 +0200" stop="20230529001500 +0200" channel="France2.fr">
+<title lang="fr">La saga Rassam-Berri, le cinéma dans les veines</title>
+<desc lang="fr">Les Rassam-Berri forment l'un des clans les plus romanesques du cinéma français. Ces deux familles entremêlées ont fabriqué un demi-siècle de cinéma.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_38313247.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529001500 +0200" stop="20230529002000 +0200" channel="France2.fr">
+<title lang="fr">Le pitch cinéma</title>
+<desc lang="fr">Les films de cinéma vus par ceux qui ne les ont pas vus.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_8052563.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529002000 +0200" stop="20230529013000 +0200" channel="France2.fr">
+<title lang="fr">Histoires courtes</title>
+<desc lang="fr">Une sélection de courts métrages français et internationaux liés par un thème.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_11176888.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529013000 +0200" stop="20230529013500 +0200" channel="France2.fr">
+<title lang="fr">Météo 2</title>
+<desc lang="fr">Le point, plusieurs fois par jour, sur l'évolution de la météo, grâce à des cartes et des explications.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15824412.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529013500 +0200" stop="20230529022000 +0200" channel="France2.fr">
+<title lang="fr">Lucky Man</title>
+<sub-title lang="fr">Derrière les mensonges</sub-title>
+<desc lang="fr">Harry et son équipe enquêtent sur une série de noyades le long des canaux de Londres. Derrière ces événements se cache un homme suffisant, qui ne croit pas aux secondes chances...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12549160.jpg" />
+<episode-num system="xmltv_ns">1.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529022000 +0200" stop="20230529030500 +0200" channel="France2.fr">
+<title lang="fr">Lucky Man</title>
+<sub-title lang="fr">Le point de non-retour</sub-title>
+<desc lang="fr">Un redoutable assassin élimine tout un avion, mais pour Harry et son équipe, ses motivations restent mystérieuse. Quelle sera sa prochaine cible ?</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_16786062.jpg" />
+<episode-num system="xmltv_ns">1.5.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230529030500 +0200" stop="20230529035000 +0200" channel="France2.fr">
+<title lang="fr">Lucky Man</title>
+<sub-title lang="fr">Nouveau départ</sub-title>
+<desc lang="fr">Après le meurtre brutal d'un promotteur immobilier de Soho, une preuve clé disparaît de la scène du crime. Winter s'interroge sur le rôle de ses hommes.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Action</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_12549160.jpg" />
+<episode-num system="xmltv_ns">1.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529035000 +0200" stop="20230529042000 +0200" channel="France2.fr">
+<title lang="fr">13h15, le samedi...</title>
+<desc lang="fr">Sur un ton dynamique et décalé, un regard sur l'actualité, l'air du temps et la politique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13312308.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529042000 +0200" stop="20230529043000 +0200" channel="France2.fr">
+<title lang="fr">Courant d'art</title>
+<desc lang="fr">A la découverte de l'univers artistique original d'Antoine Correia, dont les oeuvres, souvent radicales, ne laissent aucun amateur sans avis.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_6364513.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529043000 +0200" stop="20230529043500 +0200" channel="France2.fr">
+<title lang="fr">Pays et marchés du monde</title>
+<desc lang="fr">Zoom sur les spécialités emblématiques de la cuisine cubaine, à travers les allées du marché Ferreiro, où s'étalent épices et herbes.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_24683507.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529043500 +0200" stop="20230529044000 +0200" channel="France2.fr">
+<title lang="fr">Pays et marchés du monde</title>
+<desc lang="fr">Un tour d'horizon des étals présents sur les marchés de Bangkok, regorgeant des produits qui font la spécificité de la gastronomie thaïlandaise.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Découverte</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_23441823.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529044000 +0200" stop="20230529053500 +0200" channel="France2.fr">
+<title lang="fr">Tout le monde veut prendre sa place</title>
+<desc lang="fr">Un quiz, six candidats et, bien calé dans son fauteuil, un champion que tous rêvent de déloger. : chaque jour, un seul pourra se mesurer à lui et espérer devenir le nouveau champion en titre.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22993380.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529053500 +0200" stop="20230529060000 +0200" channel="France2.fr">
+<title lang="fr">Un si grand soleil</title>
+<desc lang="fr">A la galerie, Alix conseille à Hélène de prendre quelques jours de vacances pour l'éloigner de Christian. Hélène écoutera-t-elle cette recommandation ?</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_37486421.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529060000 +0200" stop="20230529063000 +0200" channel="France2.fr">
+<title lang="fr">Le 6h info</title>
+<desc lang="fr">Un rendez-vous réveil-matin, avec un point sur l'actualité assorti de différentes rubriques qui permettent d'en explorer certains aspects plus en profondeur.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_14834878.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529063000 +0200" stop="20230529080000 +0200" channel="France2.fr">
+<title lang="fr">Télématin</title>
+<desc lang="fr">Du lundi au jeudi, rendez-vous, dès 6h30 avec Thomas Sotto et Julia Vignali. Et du vendredi au dimanche, c'est au tour de Damien Thévenot et Maya Lauqué de dynamiser le réveil.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23393901.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529080000 +0200" stop="20230529081500 +0200" channel="France2.fr">
+<title lang="fr">Journal 08h00</title>
+<desc lang="fr">Pour bien démarrer la journée, la rédaction de France 2 propose un point sur l'actualité. Les principales informations nationales et internationales sont passées en revue.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_31378912.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529081500 +0200" stop="20230529093000 +0200" channel="France2.fr">
+<title lang="fr">Télématin</title>
+<desc lang="fr">Du lundi au jeudi, rendez-vous, dès 6h30 avec Thomas Sotto et Julia Vignali. Et du vendredi au dimanche, c'est au tour de Damien Thévenot et Maya Lauqué de dynamiser le réveil.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23393901.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529093000 +0200" stop="20230529095500 +0200" channel="France2.fr">
+<title lang="fr">La maison des Maternelles</title>
+<desc lang="fr">Entourée de chroniqueurs, Agathe Lecaron répond aux nombreuses interrogations des parents. L'émission s'enrichit de rubriques, de reportages et de tutos pour permettre d'en savoir plus sur le monde de l'enfance.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23639778.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529095500 +0200" stop="20230529103500 +0200" channel="France2.fr">
+<title lang="fr">La maison des Maternelles</title>
+<desc lang="fr">Entourée de chroniqueurs, Agathe Lecaron répond aux nombreuses interrogations des parents. L'émission s'enrichit de rubriques, de reportages et de tutos pour permettre d'en savoir plus sur le monde de l'enfance.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_23639778.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529103500 +0200" stop="20230529104000 +0200" channel="France2.fr">
+<title lang="fr">Consomag</title>
+<desc lang="fr">Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Service</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_9289511.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529104000 +0200" stop="20230529105000 +0200" channel="France2.fr">
+<title lang="fr">Météo Outre-mer</title>
+<desc lang="fr">Le point sur l'évolution de la météo dans les Outre-mers, grâce à des cartes et des explications.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13130577.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529105000 +0200" stop="20230529112000 +0200" channel="France2.fr">
+<title lang="fr">Tout le monde a son mot à dire</title>
+<desc lang="fr">Une gymnastique quotidienne de l'esprit pour s'amuser avec la langue française et enrichir sa culture générale.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_13422002.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529112000 +0200" stop="20230529115500 +0200" channel="France2.fr">
+<title lang="fr">Chacun son Tour</title>
+<desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir d'être qualifié pour la deuxième épreuve?: le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale...</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22987329.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529115500 +0200" stop="20230529125000 +0200" channel="France2.fr">
+<title lang="fr">Tout le monde veut prendre sa place</title>
+<desc lang="fr">Un quiz, six candidats et, bien calé dans son fauteuil, un champion que tous rêvent de déloger. : chaque jour, un seul pourra se mesurer à lui et espérer devenir le nouveau champion en titre.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22993380.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529125000 +0200" stop="20230529130000 +0200" channel="France2.fr">
+<title lang="fr">Météo 2</title>
+<desc lang="fr">Le point, plusieurs fois par jour, sur l'évolution de la météo, grâce à des cartes et des explications.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15824412.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529130000 +0200" stop="20230529134000 +0200" channel="France2.fr">
+<title lang="fr">Journal 13h00</title>
+<desc lang="fr">Tous les jours, à 13h, la rédaction de France 2 propose un point sur l'actualité. Les informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_19299955.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529134000 +0200" stop="20230529134500 +0200" channel="France2.fr">
+<title lang="fr">Météo 2</title>
+<desc lang="fr">Le point, plusieurs fois par jour, sur l'évolution de la météo, grâce à des cartes et des explications.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_15824412.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529134500 +0200" stop="20230529135000 +0200" channel="France2.fr">
+<title lang="fr">C'est bon à savoir</title>
+<desc lang="fr">&quot;C'est bon à savoir&quot; décrypte les bénéfices pour la santé de la consommation des fruits et légumes et analyse leur mode de culture, sans oublier de parler d'environnement. Avec la complicité d'experts, ce programme revient quelques idées reçues.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_25827458.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529135000 +0200" stop="20230529135500 +0200" channel="France2.fr">
+<title lang="fr">La p'tite librairie</title>
+<desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Culture</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_12608951.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529135500 +0200" stop="20230529170000 +0200" channel="France2.fr">
+<title lang="fr">Tennis : Roland-Garros - Partie 2</title>
+<desc lang="fr">Comme chaque année, les Français veulent briller à Roland-Garros mais la concurrence est rude. Jessika Ponchet, Arthur Fils, Clara Burel et Hugo Gaston ont reçu une invitation, les fameuses wild cards, et seront donc dans le tableau principal sans passer par les qualifications. Ces quatre joueurs...</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Tennis</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_38347662.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529170000 +0200" stop="20230529200000 +0200" channel="France2.fr">
+<title lang="fr">Tennis : Roland-Garros - Partie 3</title>
+<desc lang="fr">Benoît Paire voulait bénéficier d'une wild card mais la FFT avait réduit la voilure. Mais voilà que le tennisman tricolore a obtenu gain de cause et finalement le joueur participera bien au tableau principal de Roland-Garros 2023, sans en passer par la semaine de qualifications.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Tennis</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_38347662.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529200000 +0200" stop="20230529204000 +0200" channel="France2.fr">
+<title lang="fr">Journal 20h00</title>
+<desc lang="fr">Les principales informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
+<category lang="fr">Info-Météo</category>
+<category lang="fr">Information</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_18572059.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529204000 +0200" stop="20230529204400 +0200" channel="France2.fr">
+<title lang="fr">Journal Météo climat</title>
+<desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
+<category lang="fr">Info-Météo</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_37611254.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529204400 +0200" stop="20230529204500 +0200" channel="France2.fr">
+<title lang="fr">Basique, l'essentiel de la musique</title>
+<desc lang="fr">Une pastille consacrée à l'actualité musicale, qui braque les projecteurs sur un ou une artiste.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Musique</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_10871641.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529204500 +0200" stop="20230529205000 +0200" channel="France2.fr">
+<title lang="fr">Quand le tennis change la vie</title>
+<desc lang="fr">Tennis.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Sport</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_33745801.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529205000 +0200" stop="20230529211000 +0200" channel="France2.fr">
+<title lang="fr">Un si grand soleil</title>
+<desc lang="fr">Thaïs et Kira vont être interrogées par la police, et elles pourraient bien découvrir le vrai visage de Jules. Quant à Evan, il est soutenu par son ancien ennemi.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_37486421.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230529211000 +0200" stop="20230529225500 +0200" channel="France2.fr">
+<title lang="fr">Les enfants des Justes</title>
+<desc lang="fr">En 1942, en Dordogne, deux fermiers bravent tous les dangers pour tenter de sauver les enfants juifs qu'on leur a confié des griffes des nazis.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_33766645.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230529225500 +0200" stop="20230530004000 +0200" channel="France2.fr">
+<title lang="fr">La rafle du Vel d'Hiv, la honte et les larmes</title>
+<desc lang="fr">En 1942, plus de 8 000 Juifs, arrêtés les 16 et 17 juillet, furent envoyés vers le palais des sports du Vélodrome d'Hiver, dans le XVe arrondissement, à deux pas de la tour Eiffel, avant d'être déportés. L'expression &quot;rafle du Vel d'Hiv&quot; s'est imposée dans la mémoire collective, au point de...</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Histoire</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_31865947.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

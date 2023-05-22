@@ -1,0 +1,10 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230529045700 +0200" stop="20230529070100 +0200" channel="LCP100.fr">
+<title lang="fr">Questions au gouvernement</title>
+<desc lang="fr">L'émission se déroule en deux étapes : une interview politique précède la diffusion des questions des groupes parlementaires et des réponses des membres du gouvernement.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Débat parlementaire</category>
+<icon src="https://img.bouygtel.fr/CMS/images/953879B1350BF624479AD2A8B6C47AB8.jpg" />
+<episode-num system="xmltv_ns">0.32.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
