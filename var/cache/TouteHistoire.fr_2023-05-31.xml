@@ -1,0 +1,11 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230531053000 +0200" stop="20230531061800 +0200" channel="TouteHistoire.fr">
+<title lang="fr">L'histoire de l'Amérique en couleur</title>
+<sub-title lang="fr">L'Amérique s'amuse</sub-title>
+<desc lang="fr">Entre 1919 et 1963, les criminels américains construisent un empire, trouvant des occasions de faire de l'argent, avec de l'alcool en contrebande, notamment.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Histoire</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7EDE60B854A7FBD9F4CA5AD06332DF21.jpg" />
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

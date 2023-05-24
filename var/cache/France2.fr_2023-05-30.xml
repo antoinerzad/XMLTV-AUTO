@@ -1,0 +1,286 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230530060000 +0200" stop="20230530063000 +0200" channel="France2.fr">
+<title lang="fr">Le 6h info</title>
+<desc lang="fr">Un rendez-vous réveil-matin, avec un point sur l'actualité assorti de différentes rubriques qui permettent d'en explorer certains aspects plus en profondeur.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/697833CA485B2C8E95D589A8B2805DE0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530063000 +0200" stop="20230530080000 +0200" channel="France2.fr">
+<title lang="fr">Télématin</title>
+<desc lang="fr">Du lundi au jeudi, rendez-vous, dès 6h30 avec Thomas Sotto et Julia Vignali. Et du vendredi au dimanche, c'est au tour de Damien Thévenot et Maya Lauqué de dynamiser le réveil.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Services</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3610BCCDA0D7A0515F84EF11CE577BCF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530080000 +0200" stop="20230530081500 +0200" channel="France2.fr">
+<title lang="fr">Journal 08h00</title>
+<desc lang="fr">Pour bien démarrer la journée, la rédaction de France 2 propose un point sur l'actualité. Les principales informations nationales et internationales sont passées en revue.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7054D164DD2D470BFA9C464507255C26.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530081500 +0200" stop="20230530093000 +0200" channel="France2.fr">
+<title lang="fr">Télématin</title>
+<desc lang="fr">Du lundi au jeudi, rendez-vous, dès 6h30 avec Thomas Sotto et Julia Vignali. Et du vendredi au dimanche, c'est au tour de Damien Thévenot et Maya Lauqué de dynamiser le réveil.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Services</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FC184C501C36EFD98D57B3005E2AF3FE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530093000 +0200" stop="20230530095500 +0200" channel="France2.fr">
+<title lang="fr">La maison des Maternelles</title>
+<desc lang="fr">Entourée de chroniqueurs, Agathe Lecaron répond aux nombreuses interrogations des parents. L'émission s'enrichit de rubriques, de reportages et de tutos pour permettre d'en savoir plus sur le monde de l'enfance.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5B07875A11C1AF2B5CAD55DCE3C10740.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530095500 +0200" stop="20230530103500 +0200" channel="France2.fr">
+<title lang="fr">La maison des Maternelles</title>
+<sub-title lang="fr">La maison des Maternelles, à votre service</sub-title>
+<desc lang="fr">Entourée de chroniqueurs, Agathe Lecaron répond aux nombreuses interrogations des parents. L'émission s'enrichit de rubriques, de reportages et de tutos pour permettre d'en savoir plus sur le monde de l'enfance.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Société</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5B07875A11C1AF2B5CAD55DCE3C10740.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530103500 +0200" stop="20230530104000 +0200" channel="France2.fr">
+<title lang="fr">Consomag</title>
+<sub-title lang="fr">Les bons gestes pour surveiller les enfants lors d'une baignade</sub-title>
+<desc lang="fr">Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Consommation</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F1F37FA731312CF7F1ECCC3E51E83A4F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530104000 +0200" stop="20230530105000 +0200" channel="France2.fr">
+<title lang="fr">Météo Outre-mer</title>
+<desc lang="fr">Le point sur l'évolution de la météo dans les Outre-mers, grâce à des cartes et des explications.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1E40DB320DE4F0A9F0125EAD61587F88.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530105000 +0200" stop="20230530112000 +0200" channel="France2.fr">
+<title lang="fr">Tout le monde a son mot à dire</title>
+<desc lang="fr">Une gymnastique quotidienne de l'esprit pour s'amuser avec la langue française et enrichir sa culture générale.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/11988314E6996A7955064712C7AF92F1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530112000 +0200" stop="20230530115500 +0200" channel="France2.fr">
+<title lang="fr">Chacun son tour</title>
+<desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir d'être qualifié pour la deuxième épreuve : le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale réintègrent le public et peuvent donc être à nouveau tirés au sort, afin de retenter leur chance et accumuler les gains. Les candidats quitteront le jeu lorsqu'ils réussissent à remporter la cagnotte en fin d'émission.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D8C8B3230C30542256658CF2B12B8355.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530115500 +0200" stop="20230530125000 +0200" channel="France2.fr">
+<title lang="fr">Tout le monde veut prendre sa place</title>
+<desc lang="fr">Un quiz, six candidats et, bien calé dans son fauteuil, un champion que tous rêvent de déloger. : chaque jour, un seul pourra se mesurer à lui et espérer devenir le nouveau champion en titre.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FD35F4577C75842064D34F7832B81C5D.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530125000 +0200" stop="20230530130000 +0200" channel="France2.fr">
+<title lang="fr">Météo 2</title>
+<desc lang="fr">Le point, plusieurs fois par jour, sur l'évolution de la météo, grâce à des cartes et des explications.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BEF66A1A9A4B4B958A30A83F407A123A.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530130000 +0200" stop="20230530134000 +0200" channel="France2.fr">
+<title lang="fr">Journal 13h00</title>
+<desc lang="fr">Tous les jours, à 13h, la rédaction de France 2 propose un point sur l'actualité. Les informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/78F0867C3006C94DE7A2CEE980DBDC77.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530134000 +0200" stop="20230530134500 +0200" channel="France2.fr">
+<title lang="fr">Météo 2</title>
+<desc lang="fr">Le point, plusieurs fois par jour, sur l'évolution de la météo, grâce à des cartes et des explications.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BEF66A1A9A4B4B958A30A83F407A123A.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530134500 +0200" stop="20230530134900 +0200" channel="France2.fr">
+<title lang="fr">C'est bon à savoir</title>
+<sub-title lang="fr">Crus ou cuits</sub-title>
+<desc lang="fr">C'est bon à savoir décrypte les bénéfices pour la santé de la consommation des fruits et légumes et analyse leur mode de culture, sans oublier de parler d'environnement. Avec la complicité d'experts, ce programme revient quelques idées reçues.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/385FB16BD29C84911DABC79B75B44B42.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530134900 +0200" stop="20230530135000 +0200" channel="France2.fr">
+<title lang="fr">Expression directe</title>
+<sub-title lang="fr">FNSEA</sub-title>
+<desc lang="fr"> Organisations syndicales, partis politiques, mais aussi mouvements d'entrepreneurs prennent la parole.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/9E502B7D4F11A1B473E1A71229A6BE8B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530135000 +0200" stop="20230530140000 +0200" channel="France2.fr">
+<title lang="fr">La p'tite librairie</title>
+<desc lang="fr">François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D3A50BA9E4A81C2F346DACF8A4CC1705.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530140000 +0200" stop="20230530170000 +0200" channel="France2.fr">
+<title lang="fr">Tennis : Roland-Garros - Partie 2</title>
+<desc lang="fr">Roland-Garros 2023. 1er tour.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Tennis</category>
+<icon src="https://img.bouygtel.fr/CMS/images/A505DBBBCA55E0D236E5DECA443FCED0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530170000 +0200" stop="20230530200000 +0200" channel="France2.fr">
+<title lang="fr">Tennis : Roland-Garros - Partie 3</title>
+<desc lang="fr">Roland-Garros 2023. 1er tour.</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Tennis</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F0A4167E40A745A9AD1D6DE1169ED4FF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530200000 +0200" stop="20230530204000 +0200" channel="France2.fr">
+<title lang="fr">Journal 20h00</title>
+<desc lang="fr">Les principales informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4B1B12887614AB47E1A1B272FF647BC4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530204000 +0200" stop="20230530204400 +0200" channel="France2.fr">
+<title lang="fr">Journal Météo Climat</title>
+<desc lang="fr">Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts. </desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/545E8B83F609F9119722EDA0519A2ABA.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530204400 +0200" stop="20230530204500 +0200" channel="France2.fr">
+<title lang="fr">Basique, l'essentiel de la musique</title>
+<desc lang="fr">Une pastille consacrée à l'actualité musicale, qui braque les projecteurs sur un ou une artiste.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Musique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4F0682B19875C46448E0D12A39340AA9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530204500 +0200" stop="20230530205000 +0200" channel="France2.fr">
+<title lang="fr">Quand le tennis change la vie</title>
+<sub-title lang="fr">Kevin</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Tennis</category>
+<icon src="https://img.bouygtel.fr/CMS/images/901D2C90922243B52233B18E288EB460.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530205000 +0200" stop="20230530211000 +0200" channel="France2.fr">
+<title lang="fr">Un si grand soleil</title>
+<desc lang="fr">Evan est convoqué par la police. Comment réagira-il quand il découvrira que sa propre femme a porté plainte contre lui ? De son côté, Kira va faire un aveu à Louis qui pourrait bien mettre en péril leur couple.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D6F883F60445841144CC78551E613827.jpg" />
+<episode-num system="xmltv_ns">4.1156.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530211000 +0200" stop="20230530232500 +0200" channel="France2.fr">
+<title lang="fr">Les Grosses Têtes</title>
+<desc lang="fr">Laurent Ruquier et ses Grosses Têtes passent le bac et retournent sur les bancs de l'école pour prouver qu'on peut apprendre en s'amusant, en répondant à des questions de culture générale sans antisèche. Happenings et surprises se succèderont au rythme de l'orchestre de Laurent Ruquier. Anne Roumanoff, Isabelle Mergault, Fabrice, Max Boublil, aux côtés de Caroline Diament, Roselyne Bachelot, Rachel Khan et Valérie Mairesse, affrontant Az, Jérémy Ferrari, Paul El Kharrat, et Sébastien Thoen - deux équipes emmenées par Joyce Jonathan pour les garçons et Florian Gazan pour les filles. Un bon moment d'humour et de dérision à partager avec toute la famille.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Humour</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BE14F66FE760B76B357B1CBBB6746F01.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530232500 +0200" stop="20230531014500 +0200" channel="France2.fr">
+<title lang="fr">Les enfants de la télé, la grande soirée</title>
+<desc lang="fr">A l'occasion de ce prime exceptionnel, Laurent Ruquier met tout en oeuvre pour surprendre ses invités. Patrick Bruel, Elie Semoun, Matt Pokora, Hélène Darroze, Christine Bravo et Dave n'échappent pas aux célèbres casseroles dénichées dans les archives de la télévision. Des moments cultes ou oubliés de leurs carrières, des émissions emblématiques auxquelles ils ont participé, des invités surprises ou encore des happenings : Laurent Ruquier promet des séquences mémorables pour rythmer une soirée pleine de rebondissements, de fous rires et d'émotion. Un rendez-vous extra-large à apprécier en famille.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/94294ED2B3C8C107FE4C86974450BF59.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531014500 +0200" stop="20230531022500 +0200" channel="France2.fr">
+<title lang="fr">Eyewitness</title>
+<sub-title lang="fr">Bella, Bella, Bella</sub-title>
+<desc lang="fr">Helen demande de l'aide à l'agent Kamilah Davis pour suivre un témoin potentiel dans l'affaire. Pendant ce temps, les garçons sèchent les cours pour se rendre dans un club à New York...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/593832BC043F39D8CF66A73F7E60A989.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230531022500 +0200" stop="20230531030500 +0200" channel="France2.fr">
+<title lang="fr">Eyewitness</title>
+<sub-title lang="fr">Mise en scène</sub-title>
+<desc lang="fr">Alors que Ryan tente de clôturer son affaire, le mariage de Helen et Gabe est mis à rude épreuve quand ses soupçons conduisent Philip à révéler un secret enfoui...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/0B265D312D35EBC8FA73E35750E6E9DB.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230531030500 +0200" stop="20230531034400 +0200" channel="France2.fr">
+<title lang="fr">Eyewitness</title>
+<sub-title lang="fr">L'autopsie</sub-title>
+<desc lang="fr">Ryan est obligé d'intervenir dans une autopsie alors qu'Helen se rapproche de la vérité. Philip doit faire face à une visite surprise de sa mère, et Lukas lutte contre l'anxiété liée aux meurtres de la cabane...</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CBA447EEC6B90EF08ED93F826A5DAB6F.jpg" />
+<episode-num system="xmltv_ns">0.4.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531034400 +0200" stop="20230531034500 +0200" channel="France2.fr">
+<title lang="fr">Météo Outre-mer</title>
+<desc lang="fr">Le point sur l'évolution de la météo dans les Outre-mers, grâce à des cartes et des explications.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1E40DB320DE4F0A9F0125EAD61587F88.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531034500 +0200" stop="20230531041500 +0200" channel="France2.fr">
+<title lang="fr">Florence dans le regard des Médicis</title>
+<desc lang="fr">Berceau de la Renaissance, Florence a vu naître des artistes qui façonneront l'art, l'architecture et la littérature à partir du 13e siècle jusqu'à nos jours. Ces génies de l'humanité réunis en un même lieu et à la même époque ont un dénominateur commun, une même clé : Les Médicis... </desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/061B634D972F916253CC0A0A8E6D549F.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531041500 +0200" stop="20230531050000 +0200" channel="France2.fr">
+<title lang="fr">Tout le monde veut prendre sa place</title>
+<desc lang="fr">Un quiz, six candidats et, bien calé dans son fauteuil, un champion que tous rêvent de déloger. : chaque jour, un seul pourra se mesurer à lui et espérer devenir le nouveau champion en titre.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B20003DC164AF1684E4808B8A6B0200A.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531050000 +0200" stop="20230531053500 +0200" channel="France2.fr">
+<title lang="fr">Chacun son tour</title>
+<desc lang="fr">Des participants tirés au sort parmi le public doivent répondre à des questions de culture générale dans l'espoir d'être qualifié pour la deuxième épreuve : le billard japonais, un jeu d'adresse qui peut rapporter cadeaux et argent. Les candidats qui perdent leur duel de culture générale réintègrent le public et peuvent donc être à nouveau tirés au sort, afin de retenter leur chance et accumuler les gains. Les candidats quitteront le jeu lorsqu'ils réussissent à remporter la cagnotte en fin d'émission.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D8C8B3230C30542256658CF2B12B8355.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531053500 +0200" stop="20230531060000 +0200" channel="France2.fr">
+<title lang="fr">Un si grand soleil</title>
+<desc lang="fr">Evan est convoqué par la police. Comment réagira-il quand il découvrira que sa propre femme a porté plainte contre lui ? De son côté, Kira va faire un aveu à Louis qui pourrait bien mettre en péril leur couple.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Policier</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5F74ACFB38B926F93462E96CFD6066CB.jpg" />
+<episode-num system="xmltv_ns">4.1156.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

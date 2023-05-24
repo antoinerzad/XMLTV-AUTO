@@ -1,0 +1,44 @@
+<!-- racacax\XmlTv\Component\Provider\TeleLoisirs -->
+<programme start="20230530012000 +0200" stop="20230530012500 +0200" channel="DasErste.de">
+<title lang="fr">Tagesschau</title>
+<sub-title lang="fr">Azra</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Autre</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~74b3e1cdc0f8aee1.jpg/640x360/quality/80/tagesschau.jpg" />
+</programme>
+<programme start="20230530090500 +0200" stop="20230530095500 +0200" channel="DasErste.de">
+<title lang="fr">Live nach Neun</title>
+<sub-title lang="fr">Raus ins Leben</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Culture Infos</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~317ba2c4f91d4176.jpg/640x360/quality/80/live-nach-neun.jpg" />
+</programme>
+<programme start="20230530141000 +0200" stop="20230530150000 +0200" channel="DasErste.de">
+<title lang="fr">Rote Rosen</title>
+<sub-title lang="fr">Episode 42</sub-title>
+<desc lang="fr">Ce n'est pas parce qu'on atteint un âge mûre que la vie devient nécessairement monotone. Les femmes de Luneburg l'ont bien compris, ces quadragénaires au tempérament flamboyant vivent les moments les plus animés de leur vie, entre histoires d'amour passionnées et carrière, la vie leur réserve encore bien des surprises.
+Avec :
+Sarah Masuch (Anette Roth), Hardy Krüger jr. (Ralf Sobotta), Marcus Bluhm (Malte Neumann), Remo Schulze (Jorik Eilers), Hermann Toelcke (Gunter Flickenschild), Theresa Hübchen (Sandra Reichard), Renan Demirkan (Ceyda Kilic), Maria Fuchs (Carla Saravakos)</desc>
+<category lang="fr">Série TV</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~2bd4df2c74d4e099.jpg/640x360/quality/80/rote-rosen.jpg" />
+<episode-num system="xmltv_ns">20.41.</episode-num>
+</programme>
+<programme start="20230530185000 +0200" stop="20230530194500 +0200" channel="DasErste.de">
+<title lang="fr">WaPo Duisburg</title>
+<sub-title lang="fr">Flitterwochen</sub-title>
+<desc lang="fr">
+Avec :
+Markus John (Gerhard Jäger), Yasemin Cetinkaya (Arda Turan), Niklas Osterloh (Frank van Dijk), Romy Vreden (Lena Preser), Karen Böhne (Maria Kruppka), Stefko Hanushevsky (Carsten Heinrich), Karen Dahmen (Nadine Jäger), Marla Fee Lux (Mira Jäger)</desc>
+<category lang="fr">Série TV</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~ccd0aff00cb5f8bb.jpg/640x360/quality/80/wapo-duisburg.jpg" />
+<episode-num system="xmltv_ns">1.6.</episode-num>
+</programme>
+<programme start="20230530221500 +0200" stop="20230530225000 +0200" channel="DasErste.de">
+<title lang="fr">Tagesthemen</title>
+<sub-title lang="fr">Mit Wetter</sub-title>
+<desc lang="fr">
+Avec :
+Daniel Pokraka (Invité), Helge Fuhst (Présentateur)</desc>
+<category lang="fr">Autre</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~dcb26377ad7db128.jpg/640x360/quality/80/tagesthemen.jpg" />
+</programme>

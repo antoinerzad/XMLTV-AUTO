@@ -1,0 +1,488 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230530055800 +0200" stop="20230530084900 +0200" channel="CNews.fr">
+<title lang="fr">La matinale</title>
+<sub-title lang="fr">La Matinale</sub-title>
+<desc lang="fr">Tous les matins, Romain Desarbres, ses chroniqueurs et ses invités vous informent dans #LaMatinale de 6h à 9h du lundi au vendredi</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/54E76002CC6A6D9FFB1966B742BEAE34.jpg" />
+<episode-num system="xmltv_ns">0.156.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530084900 +0200" stop="20230530085700 +0200" channel="CNews.fr">
+<title lang="fr">Météo 9h-11h</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BAD2FE44E2D4C8B9E89D22A8BF96465C.jpg" />
+<episode-num system="xmltv_ns">0.224.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530085700 +0200" stop="20230530103700 +0200" channel="CNews.fr">
+<title lang="fr">L'heure des pros</title>
+<sub-title lang="fr">L'Heure des Pros</sub-title>
+<desc lang="fr">Pascal Praud et ses invités débattent des grands thèmes de l'actualité dans #HDPros de 9h à 10h30 du lundi au vendredi.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3AE90705CA073C688A69238D771F90D0.jpg" />
+<episode-num system="xmltv_ns">0.96.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530103700 +0200" stop="20230530115600 +0200" channel="CNews.fr">
+<title lang="fr">Morandini Live</title>
+<sub-title lang="fr">Morandini Live</sub-title>
+<desc lang="fr">Jean-Marc Morandini et ses chroniqueurs décryptent l'actualité des médias dans #MorandiniLive de 10h30 à 12h du lundi au vendredi </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7E1DA960189DB5D9B95DBFE3963FAF88.jpg" />
+<episode-num system="xmltv_ns">0.96.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530115600 +0200" stop="20230530115800 +0200" channel="CNews.fr">
+<title lang="fr">Météo 12h</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BAD2FE44E2D4C8B9E89D22A8BF96465C.jpg" />
+<episode-num system="xmltv_ns">0.218.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530115800 +0200" stop="20230530135200 +0200" channel="CNews.fr">
+<title lang="fr">Midi News</title>
+<desc lang="fr">Sonia Mabrouk reçoit les acteurs de l'info du jour, des experts et nos journalistes dans #MidiNews.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/679E78AB2A34DABAA696A3688ABE6AD5.jpg" />
+<episode-num system="xmltv_ns">0.96.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530135200 +0200" stop="20230530135700 +0200" channel="CNews.fr">
+<title lang="fr">L'éphéméride</title>
+<desc lang="fr">Une courte présentation de l'histoire du saint du jour qui se conclut par un dicton.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Découvertes</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DB0441885AA37AF7D0FEFFEF17D20B4E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530135700 +0200" stop="20230530135800 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<sub-title lang="fr">Prévisions pour les prochains jours</sub-title>
+<desc lang="fr">Les prévisions météo pour les prochains jours</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BAD2FE44E2D4C8B9E89D22A8BF96465C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530135800 +0200" stop="20230530151400 +0200" channel="CNews.fr">
+<title lang="fr">La parole aux Français</title>
+<desc lang="fr">L'actualité vue par les témoins du quotidien, présenté par Clélie Mathias dans #LaParoleAuxFrancais.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<episode-num system="xmltv_ns">0.96.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530151400 +0200" stop="20230530152200 +0200" channel="CNews.fr">
+<title lang="fr">L'heure des livres</title>
+<desc lang="fr">Anne Fulda vous présente chaque jour l'actualité littéraire en recevant un invité dans #HDLivres.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/B8C79287E7A7D64D3650D3FD0EE8D93B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530152200 +0200" stop="20230530152700 +0200" channel="CNews.fr">
+<title lang="fr">La sélection</title>
+<desc lang="fr">Bienvenue dans La Sélection CNEWS, l'agenda des événements du moment à ne pas manquer : culture, cinéma, théâtre, spectacle, exposition, festival, concert…</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1B726DE7B50723950E88FFD362CBA710.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530152700 +0200" stop="20230530152800 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Suivez le bulletin météorologique pour découvrir quel temps il fera en France durant les jours à venir.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5FF78D03CA603B7FAA78BBF91CBE6C34.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530152800 +0200" stop="20230530165700 +0200" channel="CNews.fr">
+<title lang="fr">90 Minutes Info</title>
+<sub-title lang="fr">90 Minutes Info</sub-title>
+<desc lang="fr">L'actualité du jour décryptée avec les journalistes et les invités de CNEWS. </desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/41285CA2A33C40A49242E9BC18760AAD.jpg" />
+<episode-num system="xmltv_ns">0.96.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530165700 +0200" stop="20230530165800 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<sub-title lang="fr">Prévisions pour les prochains jours</sub-title>
+<desc lang="fr">Les prévisions météo pour les prochains jours</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BAD2FE44E2D4C8B9E89D22A8BF96465C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530165800 +0200" stop="20230530190000 +0200" channel="CNews.fr">
+<title lang="fr">Punchline</title>
+<sub-title lang="fr">Punchline</sub-title>
+<desc lang="fr">Les invités de Laurence Ferrari débattent de l'actualité dans #Punchline du lundi au jeudi de 17h à 19h.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Politique</category>
+<icon src="https://img.bouygtel.fr/CMS/images/67019E81F83C661E594804C669394D9E.jpg" />
+<episode-num system="xmltv_ns">0.77.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530190000 +0200" stop="20230530200400 +0200" channel="CNews.fr">
+<title lang="fr">Face à l'info</title>
+<sub-title lang="fr">Face à l'Info</sub-title>
+<desc lang="fr">Christine Kelly et ses chroniqueurs débattent de l'actualité dans #Facealinfo.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/15230C1B56B41B5221AB8CC9665C30AB.jpg" />
+<episode-num system="xmltv_ns">0.77.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530200400 +0200" stop="20230530205900 +0200" channel="CNews.fr">
+<title lang="fr">L'heure des Pros 2</title>
+<sub-title lang="fr">L'Heure des Pros 2</sub-title>
+<desc lang="fr">Les invités de #HDPros2 débattent des grands thèmes de l'actualité. Présenté par Pascal Praud du lundi au jeudi et Julien Pasquet le vendredi.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/52BF0F3D36931CFA484185921344D29C.jpg" />
+<episode-num system="xmltv_ns">0.658.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530205900 +0200" stop="20230530215700 +0200" channel="CNews.fr">
+<title lang="fr">Le meilleur de l'info</title>
+<desc lang="fr">Olivier Benkemoun revient sur la journée d'infos et de débats traités sur l'antenne de CNEWS </desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/51D0583B69DD5EE73A37865CA892AD1D.jpg" />
+<episode-num system="xmltv_ns">0.185.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530215700 +0200" stop="20230530215900 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<sub-title lang="fr">Prévisions pour le lendemain</sub-title>
+<desc lang="fr">Les prévisions météo pour le lendemain </desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BAD2FE44E2D4C8B9E89D22A8BF96465C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530215900 +0200" stop="20230530234800 +0200" channel="CNews.fr">
+<title lang="fr">Soir Info</title>
+<sub-title lang="fr">Soir Info</sub-title>
+<desc lang="fr">Julien Pasquet et ses invités débattent des grands thèmes de l'actualité de la journée dans #SoirInfo</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/EF144D82768211E69FEF1B452FD164C3.jpg" />
+<episode-num system="xmltv_ns">0.91.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530234800 +0200" stop="20230530235600 +0200" channel="CNews.fr">
+<title lang="fr">La sélection</title>
+<desc lang="fr">Bienvenue dans La Sélection CNEWS, l'agenda des événements du moment à ne pas manquer : culture, cinéma, théâtre, spectacle, exposition, festival, concert…</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1B726DE7B50723950E88FFD362CBA710.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530235600 +0200" stop="20230530235700 +0200" channel="CNews.fr">
+<title lang="fr">Météo du soir</title>
+<desc lang="fr">Découvrez les prévisions météorologiques du lendemain présentées par l'équipe de CNews qui suit pour vous les dernières informations de Météo France.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5FF78D03CA603B7FAA78BBF91CBE6C34.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530235700 +0200" stop="20230531001900 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée </desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7BE5F64BF80D1B54936D85B7028FB1AB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531001900 +0200" stop="20230531003100 +0200" channel="CNews.fr">
+<title lang="fr">L'heure des livres</title>
+<desc lang="fr">Anne Fulda vous présente chaque jour l'actualité littéraire en recevant un invité dans #HDLivres.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/10717F02B5D64945E5525BFC4D777251.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531003100 +0200" stop="20230531003200 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<sub-title lang="fr">Prévisions pour le lendemain</sub-title>
+<desc lang="fr">Les prévisions météo pour le lendemain </desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BAD2FE44E2D4C8B9E89D22A8BF96465C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531003200 +0200" stop="20230531010000 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée </desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/41A26AAEDEDC15D2516CD85BBB541046.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531010000 +0200" stop="20230531010100 +0200" channel="CNews.fr">
+<title lang="fr">Météo du soir</title>
+<desc lang="fr">Découvrez les prévisions météorologiques du lendemain présentées par l'équipe de CNews qui suit pour vous les dernières informations de Météo France.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5FF78D03CA603B7FAA78BBF91CBE6C34.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531010100 +0200" stop="20230531012900 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée </desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7BE5F64BF80D1B54936D85B7028FB1AB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531012900 +0200" stop="20230531013100 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<sub-title lang="fr">Prévisions pour le lendemain</sub-title>
+<desc lang="fr">Les prévisions météo pour le lendemain </desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BAD2FE44E2D4C8B9E89D22A8BF96465C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531013100 +0200" stop="20230531015200 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée </desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/41A26AAEDEDC15D2516CD85BBB541046.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531015200 +0200" stop="20230531015800 +0200" channel="CNews.fr">
+<title lang="fr">L'heure des livres</title>
+<desc lang="fr">Anne Fulda vous présente chaque jour l'actualité littéraire en recevant un invité dans #HDLivres.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Culture</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D7AD0BD764B2DDB15FB8FEE4B37C06BA.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531015800 +0200" stop="20230531015900 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<sub-title lang="fr">Prévisions pour le lendemain</sub-title>
+<desc lang="fr">Les prévisions météo pour le lendemain </desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BAD2FE44E2D4C8B9E89D22A8BF96465C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531015900 +0200" stop="20230531022100 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée </desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7BE5F64BF80D1B54936D85B7028FB1AB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531022100 +0200" stop="20230531022600 +0200" channel="CNews.fr">
+<title lang="fr">L'hebdo de l'éco</title>
+<desc lang="fr">Le magazine économique qui traite de tous les sujets importants financiers et qui vous donne les actualités sur l'économie française et étrangère, les marchés, les bourses, les entreprises, la crise etc. en vous offrant des analyses exclusives de la part d'invités, des experts du monde économique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/17C5DAD0F01D8BF7D9F5460D6817A5FB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531022600 +0200" stop="20230531022700 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<sub-title lang="fr">Prévisions pour le lendemain</sub-title>
+<desc lang="fr">Les prévisions météo pour le lendemain </desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5FF78D03CA603B7FAA78BBF91CBE6C34.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531022700 +0200" stop="20230531024900 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée </desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7BE5F64BF80D1B54936D85B7028FB1AB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531024900 +0200" stop="20230531025000 +0200" channel="CNews.fr">
+<title lang="fr">La sélection</title>
+<desc lang="fr">Bienvenue dans La Sélection CNEWS, l'agenda des événements du moment à ne pas manquer : culture, cinéma, théâtre, spectacle, exposition, festival, concert…</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3624AD450413A68D6FBEC27B991C8451.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531025000 +0200" stop="20230531025200 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<sub-title lang="fr">Prévisions pour le lendemain</sub-title>
+<desc lang="fr">Les prévisions météo pour le lendemain </desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BAD2FE44E2D4C8B9E89D22A8BF96465C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531025200 +0200" stop="20230531031300 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée </desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7BE5F64BF80D1B54936D85B7028FB1AB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531031300 +0200" stop="20230531031900 +0200" channel="CNews.fr">
+<title lang="fr">L'hebdo de l'éco</title>
+<desc lang="fr">Le magazine économique qui traite de tous les sujets importants financiers et qui vous donne les actualités sur l'économie française et étrangère, les marchés, les bourses, les entreprises, la crise etc. en vous offrant des analyses exclusives de la part d'invités, des experts du monde économique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4DF57AAEE073D5697B5313180E3B804C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531031900 +0200" stop="20230531032000 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<sub-title lang="fr">Prévisions pour le lendemain</sub-title>
+<desc lang="fr">Les prévisions météo pour le lendemain </desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BAD2FE44E2D4C8B9E89D22A8BF96465C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531032000 +0200" stop="20230531034200 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée </desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/41A26AAEDEDC15D2516CD85BBB541046.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531034200 +0200" stop="20230531034700 +0200" channel="CNews.fr">
+<title lang="fr">L'hebdo de l'éco</title>
+<desc lang="fr">Le magazine économique qui traite de tous les sujets importants financiers et qui vous donne les actualités sur l'économie française et étrangère, les marchés, les bourses, les entreprises, la crise etc. en vous offrant des analyses exclusives de la part d'invités, des experts du monde économique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/4DF57AAEE073D5697B5313180E3B804C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531034700 +0200" stop="20230531034800 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<sub-title lang="fr">Prévisions pour le lendemain</sub-title>
+<desc lang="fr">Les prévisions météo pour le lendemain </desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BAD2FE44E2D4C8B9E89D22A8BF96465C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531034800 +0200" stop="20230531041000 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée </desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7BE5F64BF80D1B54936D85B7028FB1AB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531041000 +0200" stop="20230531041100 +0200" channel="CNews.fr">
+<title lang="fr">La sélection</title>
+<desc lang="fr">Bienvenue dans La Sélection CNEWS, l'agenda des événements du moment à ne pas manquer : culture, cinéma, théâtre, spectacle, exposition, festival, concert…</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1B726DE7B50723950E88FFD362CBA710.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531041100 +0200" stop="20230531041300 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<sub-title lang="fr">Prévisions pour le lendemain</sub-title>
+<desc lang="fr">Les prévisions météo pour le lendemain </desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5FF78D03CA603B7FAA78BBF91CBE6C34.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531041300 +0200" stop="20230531043400 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée </desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7BE5F64BF80D1B54936D85B7028FB1AB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531043400 +0200" stop="20230531045800 +0200" channel="CNews.fr">
+<title lang="fr">L'hebdo de l'éco</title>
+<desc lang="fr">Le magazine économique qui traite de tous les sujets importants financiers et qui vous donne les actualités sur l'économie française et étrangère, les marchés, les bourses, les entreprises, la crise etc. en vous offrant des analyses exclusives de la part d'invités, des experts du monde économique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Information</category>
+<icon src="https://img.bouygtel.fr/CMS/images/67C1060952F10248CA8C2CA35FBC2AEF.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531045800 +0200" stop="20230531045900 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<sub-title lang="fr">Prévisions pour le lendemain</sub-title>
+<desc lang="fr">Les prévisions météo pour le lendemain </desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BAD2FE44E2D4C8B9E89D22A8BF96465C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531045900 +0200" stop="20230531052700 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée </desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7BE5F64BF80D1B54936D85B7028FB1AB.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531052700 +0200" stop="20230531052800 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<sub-title lang="fr">Prévisions pour le lendemain</sub-title>
+<desc lang="fr">Les prévisions météo pour le lendemain </desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BAD2FE44E2D4C8B9E89D22A8BF96465C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531052800 +0200" stop="20230531055400 +0200" channel="CNews.fr">
+<title lang="fr">Edition de la nuit</title>
+<desc lang="fr">Un journal télévisé complet qui revient en détails sur toute l'actualité et les faits marquants de la journée </desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/41A26AAEDEDC15D2516CD85BBB541046.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531055400 +0200" stop="20230531055700 +0200" channel="CNews.fr">
+<title lang="fr">La matinale</title>
+<sub-title lang="fr">La Matinale</sub-title>
+<desc lang="fr">Tous les matins, Romain Desarbres, ses chroniqueurs et ses invités vous informent dans #LaMatinale de 6h à 9h du lundi au vendredi</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/54E76002CC6A6D9FFB1966B742BEAE34.jpg" />
+<episode-num system="xmltv_ns">0.42.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531055700 +0200" stop="20230531055800 +0200" channel="CNews.fr">
+<title lang="fr">Météo</title>
+<sub-title lang="fr">Prévisions pour la journée</sub-title>
+<desc lang="fr">Les prévisions météo pour la journée</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5FF78D03CA603B7FAA78BBF91CBE6C34.jpg" />
+<episode-num system="xmltv_ns">0.714.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531055800 +0200" stop="20230531084900 +0200" channel="CNews.fr">
+<title lang="fr">La matinale</title>
+<sub-title lang="fr">La Matinale</sub-title>
+<desc lang="fr">Tous les matins, Romain Desarbres, ses chroniqueurs et ses invités vous informent dans #LaMatinale de 6h à 9h du lundi au vendredi</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/2DF00810B588617BEEA2068F2AB61E5A.jpg" />
+<episode-num system="xmltv_ns">0.157.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

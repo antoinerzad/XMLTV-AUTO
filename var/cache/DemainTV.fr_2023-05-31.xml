@@ -1,0 +1,778 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230531060000 +0200" stop="20230531080000 +0200" channel="DemainTV.fr">
+<title lang="fr">Cinaps TV</title>
+<desc lang="fr">Un magazine culture dont l'objectif est de transmettre du savoir et de cultiver la curiosité.</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/5bdd2daaba85e61cf664e943f94f1404bf2402eb.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531080000 +0200" stop="20230531080500 +0200" channel="DemainTV.fr">
+<title lang="fr">Le journal de l'emploi</title>
+<desc lang="fr">Magazine consacré au monde du travail où vous vous informez sur les offres d'emploi, les stages et les formations, les entreprises, les codes, les droits et les lois en vigueur.</desc>
+<category lang="fr">Magazine de l'emploi</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/6fc5e28f52e783d0a04cfa3a0d2f1585883c4652.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531080500 +0200" stop="20230531081000 +0200" channel="DemainTV.fr">
+<title lang="fr">Parole de...</title>
+<desc lang="fr">&quot;Paroles de...&quot; propose la découverte d'une société exemplaire. Ce reportage permet d'illustrer les solutions apportées par des chefs d'entreprise à la gestion au quotidien des problématiques qu'ils rencontrent.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/5bdd2daaba85e61cf664e943f94f1404bf2402eb.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531081000 +0200" stop="20230531082500 +0200" channel="DemainTV.fr">
+<title lang="fr">Business Women</title>
+<desc lang="fr">Place aux femmes sur Demain TV ! Cette émission animée par Linda Labidi est entièrement dédiée à celles qui entreprennent. Ont-elles une vision différente du business, de la gouvernance d'entreprise ? Plus de créativité ou plus de finesse ? Au-delà des femmes, des projets porteurs à découvrir chaque semaine sur Demain !</desc>
+<category lang="fr">Magazine de la femme</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/07fdc78206ae4442fc480c6218235543e7488c19.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531082500 +0200" stop="20230531083000 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531083000 +0200" stop="20230531085500 +0200" channel="DemainTV.fr">
+<title lang="fr">Le grand débat du web</title>
+<desc lang="fr">Le Grand Débat du Web (#LGDW), est une émission hebdomadaire de 26 minutes, réalisée par Digital Business News, pour débattre de l'actualité connectée avec de grandes voix du web. Chaque semaine, des personnalités de l'Internet français échangent sur 3 questions qui font l'actualité, sans langue de bois.</desc>
+<category lang="fr">Débat</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/f854f6254b467e0c03f554a57351b98c9d85b14c.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531085500 +0200" stop="20230531090000 +0200" channel="DemainTV.fr">
+<title lang="fr">Entrepreneurs des quartiers</title>
+<desc lang="fr">&quot;Entrepreneurs des quartiers&quot; vous propose de partager le parcours de citoyens qui ont décidé d'entreprendre dans les quartiers. Leur activité, leur volonté de créer leur entreprise dans les quartiers et nul part ailleurs, la place du numérique… voici quelques thèmes abordés dans cette émission. Leurs témoignages sont vraiment l'occasion de porter un autre regard sur les quartiers.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/05/22/8511259ee8d9316bfb289947ea98298787b28500_A58B0113F2912A0E701B132EB497FAC7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531090000 +0200" stop="20230531091500 +0200" channel="DemainTV.fr">
+<title lang="fr">Employeur de marque OU L'invité</title>
+<desc lang="fr">Deux émissions diffusées en alternance: &quot;Employeur de marque&quot; ou &quot;L'invité&quot;.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/06/a2b80047ac89858a1911cb7a80d6d6863eee6e0f_F0BA6FA6C9582B87E1E16C30867939A0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531091500 +0200" stop="20230531093000 +0200" channel="DemainTV.fr">
+<title lang="fr">Val hebdo</title>
+<desc lang="fr">Demain TV vous propose de découvrir l'actualité du Val de Marne avec le Val'Hebdo, une émission hebdomadaire de 15 minutes.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/73985c59126da9f0b277119abe1e8e323f0bf368.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531093000 +0200" stop="20230531095500 +0200" channel="DemainTV.fr">
+<title lang="fr">Demain la cité OU Atout santé OU Formation mode d'emploi</title>
+<desc lang="fr">Trois émissions diffusées en alternance: Demain la cité, Atout santé, Formation mode d'emploi.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/1e4d7371c29c36c415c901fa1fc3299463d77620.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531095500 +0200" stop="20230531100000 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531100000 +0200" stop="20230531100500 +0200" channel="DemainTV.fr">
+<title lang="fr">Le journal de l'emploi</title>
+<desc lang="fr">Magazine consacré au monde du travail où vous vous informez sur les offres d'emploi, les stages et les formations, les entreprises, les codes, les droits et les lois en vigueur.</desc>
+<category lang="fr">Magazine de l'emploi</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/c1a5dd4e79550a646a944be10cd87194359166d1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531100500 +0200" stop="20230531101000 +0200" channel="DemainTV.fr">
+<title lang="fr">Parole de...</title>
+<desc lang="fr">&quot;Paroles de...&quot; propose la découverte d'une société exemplaire. Ce reportage permet d'illustrer les solutions apportées par des chefs d'entreprise à la gestion au quotidien des problématiques qu'ils rencontrent.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/5bdd2daaba85e61cf664e943f94f1404bf2402eb.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531101000 +0200" stop="20230531102500 +0200" channel="DemainTV.fr">
+<title lang="fr">Business Women</title>
+<desc lang="fr">Place aux femmes sur Demain TV ! Cette émission animée par Linda Labidi est entièrement dédiée à celles qui entreprennent. Ont-elles une vision différente du business, de la gouvernance d'entreprise ? Plus de créativité ou plus de finesse ? Au-delà des femmes, des projets porteurs à découvrir chaque semaine sur Demain !</desc>
+<category lang="fr">Magazine de la femme</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/07fdc78206ae4442fc480c6218235543e7488c19.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531102500 +0200" stop="20230531103000 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531103000 +0200" stop="20230531105500 +0200" channel="DemainTV.fr">
+<title lang="fr">Le grand débat du web</title>
+<desc lang="fr">Le Grand Débat du Web (#LGDW), est une émission hebdomadaire de 26 minutes, réalisée par Digital Business News, pour débattre de l'actualité connectée avec de grandes voix du web. Chaque semaine, des personnalités de l'Internet français échangent sur 3 questions qui font l'actualité, sans langue de bois.</desc>
+<category lang="fr">Débat</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/08/8a559c91dafcd9b0c4398bed8a817114c6a05e36.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531105500 +0200" stop="20230531110000 +0200" channel="DemainTV.fr">
+<title lang="fr">Entrepreneurs des quartiers</title>
+<desc lang="fr">&quot;Entrepreneurs des quartiers&quot; vous propose de partager le parcours de citoyens qui ont décidé d'entreprendre dans les quartiers. Leur activité, leur volonté de créer leur entreprise dans les quartiers et nul part ailleurs, la place du numérique… voici quelques thèmes abordés dans cette émission. Leurs témoignages sont vraiment l'occasion de porter un autre regard sur les quartiers.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/05/22/8511259ee8d9316bfb289947ea98298787b28500_A58B0113F2912A0E701B132EB497FAC7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531110000 +0200" stop="20230531111500 +0200" channel="DemainTV.fr">
+<title lang="fr">Employeur de marque OU L'invité</title>
+<desc lang="fr">Deux émissions diffusées en alternance: &quot;Employeur de marque&quot; ou &quot;L'invité&quot;.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/06/a2b80047ac89858a1911cb7a80d6d6863eee6e0f_F0BA6FA6C9582B87E1E16C30867939A0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531111500 +0200" stop="20230531113000 +0200" channel="DemainTV.fr">
+<title lang="fr">Val hebdo</title>
+<desc lang="fr">Demain TV vous propose de découvrir l'actualité du Val de Marne avec le Val'Hebdo, une émission hebdomadaire de 15 minutes.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/73985c59126da9f0b277119abe1e8e323f0bf368.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531113000 +0200" stop="20230531115500 +0200" channel="DemainTV.fr">
+<title lang="fr">Demain la cité OU Atout santé OU Formation mode d'emploi</title>
+<desc lang="fr">Trois émissions diffusées en alternance: Demain la cité, Atout santé, Formation mode d'emploi.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/1e4d7371c29c36c415c901fa1fc3299463d77620.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531115500 +0200" stop="20230531120000 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531120000 +0200" stop="20230531120500 +0200" channel="DemainTV.fr">
+<title lang="fr">Le journal de l'emploi</title>
+<desc lang="fr">Magazine consacré au monde du travail où vous vous informez sur les offres d'emploi, les stages et les formations, les entreprises, les codes, les droits et les lois en vigueur.</desc>
+<category lang="fr">Magazine de l'emploi</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/c1a5dd4e79550a646a944be10cd87194359166d1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531120500 +0200" stop="20230531121500 +0200" channel="DemainTV.fr">
+<title lang="fr">ZikSpotting</title>
+<desc lang="fr">Emission musicale divertissante.</desc>
+<category lang="fr">Variétés</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/01/f6e90cb183f88fab7144cff2c1dec453e2d9ae02.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531121500 +0200" stop="20230531122000 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531122000 +0200" stop="20230531123000 +0200" channel="DemainTV.fr">
+<title lang="fr">Ci né ma</title>
+<desc lang="fr">Un magazine qui présente l'actualité de vos sorties ciné: bandes annonces, interviews, infos,...</desc>
+<category lang="fr">Magazine du cinéma</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/45955b0179fa64064035ef5f4395a1a3c4884485.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531123000 +0200" stop="20230531130000 +0200" channel="DemainTV.fr">
+<title lang="fr">Playlist Session</title>
+<desc lang="fr">&quot;Playlist Session&quot;, c'est l'émission musicale tout en confidences, en musique et en playlist. Emeric Berco (Skyrock) reçoit en tête à tête un artiste émergeant ou confirmé de la scène française. Ils nous font découvrir leurs morceaux préférés, leurs influences musicales, le tout entrecoupé d'anecdotes sur leur vie d'artiste.</desc>
+<category lang="fr">Magazine musical</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/01/87c5d122e46b4e84aac9a4c76be83e97d55aa1df.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531130000 +0200" stop="20230531130500 +0200" channel="DemainTV.fr">
+<title lang="fr">Le journal de l'emploi</title>
+<desc lang="fr">Magazine consacré au monde du travail où vous vous informez sur les offres d'emploi, les stages et les formations, les entreprises, les codes, les droits et les lois en vigueur.</desc>
+<category lang="fr">Magazine de l'emploi</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/9d73fe1003ddf64bba34dc1e6825433407b09e6e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531130500 +0200" stop="20230531132000 +0200" channel="DemainTV.fr">
+<title lang="fr">Label entreprise</title>
+<desc lang="fr">Label Entreprise est une émission entièrement dédiée à la création et la reprise d'entreprise. Présentée par Jérôme Caltran, Label Entreprise vous dit tout sur ce que vous avez toujours voulu savoir sur la création d'entreprise, les différents statuts, l'implantation géographique, les réseaux d'accompagnements, les créneaux porteurs, etc.</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/c1a5dd4e79550a646a944be10cd87194359166d1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531132000 +0200" stop="20230531132500 +0200" channel="DemainTV.fr">
+<title lang="fr">Parole de...</title>
+<desc lang="fr">&quot;Paroles de...&quot; propose la découverte d'une société exemplaire. Ce reportage permet d'illustrer les solutions apportées par des chefs d'entreprise à la gestion au quotidien des problématiques qu'ils rencontrent.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/5bdd2daaba85e61cf664e943f94f1404bf2402eb.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531132500 +0200" stop="20230531133000 +0200" channel="DemainTV.fr">
+<title lang="fr">Entrepreneurs des quartiers</title>
+<desc lang="fr">&quot;Entrepreneurs des quartiers&quot; vous propose de partager le parcours de citoyens qui ont décidé d'entreprendre dans les quartiers. Leur activité, leur volonté de créer leur entreprise dans les quartiers et nul part ailleurs, la place du numérique… voici quelques thèmes abordés dans cette émission. Leurs témoignages sont vraiment l'occasion de porter un autre regard sur les quartiers.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/05/22/8511259ee8d9316bfb289947ea98298787b28500_A58B0113F2912A0E701B132EB497FAC7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531133000 +0200" stop="20230531135500 +0200" channel="DemainTV.fr">
+<title lang="fr">Demain la cité OU Atout santé OU Formation mode d'emploi</title>
+<desc lang="fr">Trois émissions diffusées en alternance: Demain la cité, Atout santé, Formation mode d'emploi.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/1e4d7371c29c36c415c901fa1fc3299463d77620.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531135500 +0200" stop="20230531140000 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531140000 +0200" stop="20230531145500 +0200" channel="DemainTV.fr">
+<title lang="fr">Terres de France</title>
+<desc lang="fr">Chaque semaine, Jacques Legros part découvrir en Terres de France des visages, des paysages et des histoires, montrant ainsi la richesse des régions.</desc>
+<category lang="fr">Magazine régional</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/ffce7fc160c58f1e89f9ea9e0fccaa65f664e0e4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531145500 +0200" stop="20230531150000 +0200" channel="DemainTV.fr">
+<title lang="fr">Parole de...</title>
+<desc lang="fr">&quot;Paroles de...&quot; propose la découverte d'une société exemplaire. Ce reportage permet d'illustrer les solutions apportées par des chefs d'entreprise à la gestion au quotidien des problématiques qu'ils rencontrent.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/5bdd2daaba85e61cf664e943f94f1404bf2402eb.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531150000 +0200" stop="20230531151500 +0200" channel="DemainTV.fr">
+<title lang="fr">Business Women</title>
+<desc lang="fr">Place aux femmes sur Demain TV ! Cette émission animée par Linda Labidi est entièrement dédiée à celles qui entreprennent. Ont-elles une vision différente du business, de la gouvernance d'entreprise ? Plus de créativité ou plus de finesse ? Au-delà des femmes, des projets porteurs à découvrir chaque semaine sur Demain !</desc>
+<category lang="fr">Magazine de la femme</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/07fdc78206ae4442fc480c6218235543e7488c19.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531151500 +0200" stop="20230531153000 +0200" channel="DemainTV.fr">
+<title lang="fr">Employeur de marque OU L'invité</title>
+<desc lang="fr">Deux émissions diffusées en alternance: &quot;Employeur de marque&quot; ou &quot;L'invité&quot;.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/06/a2b80047ac89858a1911cb7a80d6d6863eee6e0f_F0BA6FA6C9582B87E1E16C30867939A0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531153000 +0200" stop="20230531155500 +0200" channel="DemainTV.fr">
+<title lang="fr">Le grand débat du web</title>
+<desc lang="fr">Le Grand Débat du Web (#LGDW), est une émission hebdomadaire de 26 minutes, réalisée par Digital Business News, pour débattre de l'actualité connectée avec de grandes voix du web. Chaque semaine, des personnalités de l'Internet français échangent sur 3 questions qui font l'actualité, sans langue de bois.</desc>
+<category lang="fr">Débat</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/03/08/7b40309936178ee8c9f175e094a2c7c119b180e0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531155500 +0200" stop="20230531160000 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531160000 +0200" stop="20230531160500 +0200" channel="DemainTV.fr">
+<title lang="fr">Le journal de l'emploi</title>
+<desc lang="fr">Magazine consacré au monde du travail où vous vous informez sur les offres d'emploi, les stages et les formations, les entreprises, les codes, les droits et les lois en vigueur.</desc>
+<category lang="fr">Magazine de l'emploi</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/c1a5dd4e79550a646a944be10cd87194359166d1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531160500 +0200" stop="20230531161500 +0200" channel="DemainTV.fr">
+<title lang="fr">ZikSpotting</title>
+<desc lang="fr">Emission musicale divertissante.</desc>
+<category lang="fr">Variétés</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/01/f6e90cb183f88fab7144cff2c1dec453e2d9ae02.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531161500 +0200" stop="20230531162000 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531162000 +0200" stop="20230531163000 +0200" channel="DemainTV.fr">
+<title lang="fr">Ci né ma</title>
+<desc lang="fr">Un magazine qui présente l'actualité de vos sorties ciné: bandes annonces, interviews, infos,...</desc>
+<category lang="fr">Magazine du cinéma</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/45955b0179fa64064035ef5f4395a1a3c4884485.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531163000 +0200" stop="20230531170000 +0200" channel="DemainTV.fr">
+<title lang="fr">Playlist Session</title>
+<desc lang="fr">&quot;Playlist Session&quot;, c'est l'émission musicale tout en confidences, en musique et en playlist. Emeric Berco (Skyrock) reçoit en tête à tête un artiste émergeant ou confirmé de la scène française. Ils nous font découvrir leurs morceaux préférés, leurs influences musicales, le tout entrecoupé d'anecdotes sur leur vie d'artiste.</desc>
+<category lang="fr">Magazine musical</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/01/87c5d122e46b4e84aac9a4c76be83e97d55aa1df.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531170000 +0200" stop="20230531171500 +0200" channel="DemainTV.fr">
+<title lang="fr">Label entreprise</title>
+<desc lang="fr">Label Entreprise est une émission entièrement dédiée à la création et la reprise d'entreprise. Présentée par Jérôme Caltran, Label Entreprise vous dit tout sur ce que vous avez toujours voulu savoir sur la création d'entreprise, les différents statuts, l'implantation géographique, les réseaux d'accompagnements, les créneaux porteurs, etc.</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/9d73fe1003ddf64bba34dc1e6825433407b09e6e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531171500 +0200" stop="20230531172000 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531172000 +0200" stop="20230531173000 +0200" channel="DemainTV.fr">
+<title lang="fr">Business Women</title>
+<desc lang="fr">Place aux femmes sur Demain TV ! Cette émission animée par Linda Labidi est entièrement dédiée à celles qui entreprennent. Ont-elles une vision différente du business, de la gouvernance d'entreprise ? Plus de créativité ou plus de finesse ? Au-delà des femmes, des projets porteurs à découvrir chaque semaine sur Demain !</desc>
+<category lang="fr">Magazine de la femme</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/07fdc78206ae4442fc480c6218235543e7488c19.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531173000 +0200" stop="20230531174500 +0200" channel="DemainTV.fr">
+<title lang="fr">Employeur de marque OU L'invité</title>
+<desc lang="fr">Deux émissions diffusées en alternance: &quot;Employeur de marque&quot; ou &quot;L'invité&quot;.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/06/a2b80047ac89858a1911cb7a80d6d6863eee6e0f_F0BA6FA6C9582B87E1E16C30867939A0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531174500 +0200" stop="20230531175100 +0200" channel="DemainTV.fr">
+<title lang="fr">Parole de...</title>
+<desc lang="fr">&quot;Paroles de...&quot; propose la découverte d'une société exemplaire. Ce reportage permet d'illustrer les solutions apportées par des chefs d'entreprise à la gestion au quotidien des problématiques qu'ils rencontrent.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/5bdd2daaba85e61cf664e943f94f1404bf2402eb.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531175100 +0200" stop="20230531175500 +0200" channel="DemainTV.fr">
+<title lang="fr">News Art Today</title>
+<desc lang="fr">Demain TV et News Art Today vous proposent de découvrir toute l'actualité de l'art contemporain.</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/87e8137945a3baecd5592ff85ffc225192274aca.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531175500 +0200" stop="20230531180000 +0200" channel="DemainTV.fr">
+<title lang="fr">Le journal de l'emploi</title>
+<desc lang="fr">Magazine consacré au monde du travail où vous vous informez sur les offres d'emploi, les stages et les formations, les entreprises, les codes, les droits et les lois en vigueur.</desc>
+<category lang="fr">Magazine de l'emploi</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/9d73fe1003ddf64bba34dc1e6825433407b09e6e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531180000 +0200" stop="20230531181000 +0200" channel="DemainTV.fr">
+<title lang="fr">Demain en Limousin</title>
+<desc lang="fr">Un magazine qui vous présente la région Limousin en vous accompagnant dans sa vie quotidienne.</desc>
+<category lang="fr">Magazine régional</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/c2c3a0e502eb2aef151f7ea96640687d2c34b95e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531181000 +0200" stop="20230531182500 +0200" channel="DemainTV.fr">
+<title lang="fr">360 degrés</title>
+<desc lang="fr">Cette émission de 13 minutes vous propose de découvrir le secteur des services à la personne, de la &quot;silver&quot; économie et de l'emploi à domicile. Avec nos invités, professionnels et experts, vous apprendrez tout de ce secteur en plein développement. </desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531182500 +0200" stop="20230531183000 +0200" channel="DemainTV.fr">
+<title lang="fr">C'est quoi un ingénieur ?</title>
+<desc lang="fr">En 6 minutes, Guillaume Ouattara répond à la question &quot;c'est quoi un ingénieur ?&quot; avec un ingénieur. L'objectif est de vous faire découvrir les différentes facettes de ce métier.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/5bdd2daaba85e61cf664e943f94f1404bf2402eb.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531183000 +0200" stop="20230531184500 +0200" channel="DemainTV.fr">
+<title lang="fr">Employeur de marque OU L'invité</title>
+<desc lang="fr">Deux émissions diffusées en alternance: &quot;Employeur de marque&quot; ou &quot;L'invité&quot;.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/06/a2b80047ac89858a1911cb7a80d6d6863eee6e0f_F0BA6FA6C9582B87E1E16C30867939A0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531184500 +0200" stop="20230531190000 +0200" channel="DemainTV.fr">
+<title lang="fr">Val hebdo</title>
+<desc lang="fr">Demain TV vous propose de découvrir l'actualité du Val de Marne avec le Val'Hebdo, une émission hebdomadaire de 15 minutes.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/73985c59126da9f0b277119abe1e8e323f0bf368.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531190000 +0200" stop="20230531192500 +0200" channel="DemainTV.fr">
+<title lang="fr">Demain la cité OU Atout santé OU Formation mode d'emploi</title>
+<desc lang="fr">Trois émissions diffusées en alternance: Demain la cité, Atout santé, Formation mode d'emploi.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/1e4d7371c29c36c415c901fa1fc3299463d77620.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531192500 +0200" stop="20230531193000 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531193000 +0200" stop="20230531194100 +0200" channel="DemainTV.fr">
+<title lang="fr">Label entreprise</title>
+<desc lang="fr">Label Entreprise est une émission entièrement dédiée à la création et la reprise d'entreprise. Présentée par Jérôme Caltran, Label Entreprise vous dit tout sur ce que vous avez toujours voulu savoir sur la création d'entreprise, les différents statuts, l'implantation géographique, les réseaux d'accompagnements, les créneaux porteurs, etc.</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/6fc5e28f52e783d0a04cfa3a0d2f1585883c4652.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531194100 +0200" stop="20230531194500 +0200" channel="DemainTV.fr">
+<title lang="fr">Place à la santé</title>
+<desc lang="fr">Place à la santé est un programme d'éducation à la santé par l'information, il aborde, chaque semaine, un thème different. Des personnalités reconnues du monde médical participent au serieux de l'émission.</desc>
+<category lang="fr">Magazine médical</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/26/cffe2cfdb86862c8de8899180fe26576fe84ded5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531194500 +0200" stop="20230531195000 +0200" channel="DemainTV.fr">
+<title lang="fr">Le journal de l'emploi</title>
+<desc lang="fr">Magazine consacré au monde du travail où vous vous informez sur les offres d'emploi, les stages et les formations, les entreprises, les codes, les droits et les lois en vigueur.</desc>
+<category lang="fr">Magazine de l'emploi</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/6fc5e28f52e783d0a04cfa3a0d2f1585883c4652.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531195000 +0200" stop="20230531200500 +0200" channel="DemainTV.fr">
+<title lang="fr">Ci né ma</title>
+<desc lang="fr">Un magazine qui présente l'actualité de vos sorties ciné: bandes annonces, interviews, infos,...</desc>
+<category lang="fr">Magazine du cinéma</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/45955b0179fa64064035ef5f4395a1a3c4884485.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531200500 +0200" stop="20230531201000 +0200" channel="DemainTV.fr">
+<title lang="fr">L'assiette Normande</title>
+<desc lang="fr">Une émission culinaire qui vous propose des recettes délicieuses de Normandie. </desc>
+<category lang="fr">Magazine culinaire</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/3a7b1f37de9a10731ca8dd4d34ccb1769dd54003.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531201000 +0200" stop="20230531201500 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531201500 +0200" stop="20230531203000 +0200" channel="DemainTV.fr">
+<title lang="fr">Expertises</title>
+<desc lang="fr">Cette émission vous propose des informations concrètes et des solutions pratiques pour créer, gérer et développer votre entreprise. Présentés par Jérome Joinet et Jérome Caltran, entrepreneurs, experts et blogueurs viennent partagés leurs expériences de l'entrepreneuriat !</desc>
+<category lang="fr">Magazine de l'emploi</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/9d73fe1003ddf64bba34dc1e6825433407b09e6e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531203000 +0200" stop="20230531203500 +0200" channel="DemainTV.fr">
+<title lang="fr">C'est quoi un ingénieur ?</title>
+<desc lang="fr">En 6 minutes, Guillaume Ouattara répond à la question &quot;c'est quoi un ingénieur ?&quot; avec un ingénieur. L'objectif est de vous faire découvrir les différentes facettes de ce métier.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/11/5bdd2daaba85e61cf664e943f94f1404bf2402eb.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531203500 +0200" stop="20230531204000 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531204000 +0200" stop="20230531205500 +0200" channel="DemainTV.fr">
+<title lang="fr">Business Women</title>
+<desc lang="fr">Place aux femmes sur Demain TV ! Cette émission animée par Linda Labidi est entièrement dédiée à celles qui entreprennent. Ont-elles une vision différente du business, de la gouvernance d'entreprise ? Plus de créativité ou plus de finesse ? Au-delà des femmes, des projets porteurs à découvrir chaque semaine sur Demain !</desc>
+<category lang="fr">Magazine de la femme</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/07fdc78206ae4442fc480c6218235543e7488c19.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531205500 +0200" stop="20230531210000 +0200" channel="DemainTV.fr">
+<title lang="fr">On a testé pour vous</title>
+<desc lang="fr">Demain TV vous propose l'émission &quot; On a testé pour vous &quot;. Vous pourrez y découvrir des bons plans, des endroits insolites, des bonnes adresses, etc testées et approuvées !</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/73985c59126da9f0b277119abe1e8e323f0bf368.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531220000 +0200" stop="20230531220500 +0200" channel="DemainTV.fr">
+<title lang="fr">Le journal de l'emploi</title>
+<desc lang="fr">Magazine consacré au monde du travail où vous vous informez sur les offres d'emploi, les stages et les formations, les entreprises, les codes, les droits et les lois en vigueur.</desc>
+<category lang="fr">Magazine de l'emploi</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/6fc5e28f52e783d0a04cfa3a0d2f1585883c4652.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531220500 +0200" stop="20230531222000 +0200" channel="DemainTV.fr">
+<title lang="fr">Ci né ma</title>
+<desc lang="fr">Un magazine qui présente l'actualité de vos sorties ciné: bandes annonces, interviews, infos,...</desc>
+<category lang="fr">Magazine du cinéma</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/45955b0179fa64064035ef5f4395a1a3c4884485.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531222000 +0200" stop="20230531223500 +0200" channel="DemainTV.fr">
+<title lang="fr">Expertises</title>
+<desc lang="fr">Cette émission vous propose des informations concrètes et des solutions pratiques pour créer, gérer et développer votre entreprise. Présentés par Jérome Joinet et Jérome Caltran, entrepreneurs, experts et blogueurs viennent partagés leurs expériences de l'entrepreneuriat !</desc>
+<category lang="fr">Magazine de l'emploi</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/c1a5dd4e79550a646a944be10cd87194359166d1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531223500 +0200" stop="20230531224000 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531224000 +0200" stop="20230531224500 +0200" channel="DemainTV.fr">
+<title lang="fr">Fenêtre sur Yvelines</title>
+<desc lang="fr">L'émission vous propose de découvrir le département des Yvelines : actualités, rencontres, initiatives, découvertes… Vous en saurez plus sur le quotidien des Yvelinois, le territoire, l'action des élus et des services du département.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/17/99e7de060185d45cf4e490abf2fc49fdf650ac27.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531224500 +0200" stop="20230531230000 +0200" channel="DemainTV.fr">
+<title lang="fr">Business Women</title>
+<desc lang="fr">Place aux femmes sur Demain TV ! Cette émission animée par Linda Labidi est entièrement dédiée à celles qui entreprennent. Ont-elles une vision différente du business, de la gouvernance d'entreprise ? Plus de créativité ou plus de finesse ? Au-delà des femmes, des projets porteurs à découvrir chaque semaine sur Demain !</desc>
+<category lang="fr">Magazine de la femme</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/07fdc78206ae4442fc480c6218235543e7488c19.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531230000 +0200" stop="20230531230500 +0200" channel="DemainTV.fr">
+<title lang="fr">Le journal de l'emploi</title>
+<desc lang="fr">Magazine consacré au monde du travail où vous vous informez sur les offres d'emploi, les stages et les formations, les entreprises, les codes, les droits et les lois en vigueur.</desc>
+<category lang="fr">Magazine de l'emploi</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/c1a5dd4e79550a646a944be10cd87194359166d1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531230500 +0200" stop="20230531232000 +0200" channel="DemainTV.fr">
+<title lang="fr">Ci né ma</title>
+<desc lang="fr">Un magazine qui présente l'actualité de vos sorties ciné: bandes annonces, interviews, infos,...</desc>
+<category lang="fr">Magazine du cinéma</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/45955b0179fa64064035ef5f4395a1a3c4884485.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531232000 +0200" stop="20230531234500 +0200" channel="DemainTV.fr">
+<title lang="fr">Ciné Vintage OU Demain la cité OU Monographie Bâtiments</title>
+<desc lang="fr">Trois émissions diffusées en alternance: &quot;Ciné Vintage&quot;, &quot;Demain la cité&quot; ou &quot;Monographie Bâtiments&quot;.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/5dc3016a9cd67e0bc3406f02ebcf3fda8bb87636.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531234500 +0200" stop="20230601000000 +0200" channel="DemainTV.fr">
+<title lang="fr">Business Women</title>
+<desc lang="fr">Place aux femmes sur Demain TV ! Cette émission animée par Linda Labidi est entièrement dédiée à celles qui entreprennent. Ont-elles une vision différente du business, de la gouvernance d'entreprise ? Plus de créativité ou plus de finesse ? Au-delà des femmes, des projets porteurs à découvrir chaque semaine sur Demain !</desc>
+<category lang="fr">Magazine de la femme</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/07fdc78206ae4442fc480c6218235543e7488c19.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601000000 +0200" stop="20230601000500 +0200" channel="DemainTV.fr">
+<title lang="fr">Le journal de l'emploi</title>
+<desc lang="fr">Magazine consacré au monde du travail où vous vous informez sur les offres d'emploi, les stages et les formations, les entreprises, les codes, les droits et les lois en vigueur.</desc>
+<category lang="fr">Magazine de l'emploi</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/9d73fe1003ddf64bba34dc1e6825433407b09e6e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601000500 +0200" stop="20230601003000 +0200" channel="DemainTV.fr">
+<title lang="fr">Ciné Vintage OU Demain la cité OU Monographie Bâtiments</title>
+<desc lang="fr">Trois émissions diffusées en alternance: &quot;Ciné Vintage&quot;, &quot;Demain la cité&quot; ou &quot;Monographie Bâtiments&quot;.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/5dc3016a9cd67e0bc3406f02ebcf3fda8bb87636.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601003000 +0200" stop="20230601004500 +0200" channel="DemainTV.fr">
+<title lang="fr">L'interview campus</title>
+<desc lang="fr">Cette émission vous propose de revenir sur l'actualité des étudiants à travers les interviews de ceux qui la font. Comprendre, expliquer et analyser le quotidien de la vie des jeunes en formation sont les mots d'ordre de cette émission.</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/24/1247d63fb90ed2900a734b915be0e62ffb690b8e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601004500 +0200" stop="20230601005000 +0200" channel="DemainTV.fr">
+<title lang="fr">Entrepreneurs des quartiers</title>
+<desc lang="fr">&quot;Entrepreneurs des quartiers&quot; vous propose de partager le parcours de citoyens qui ont décidé d'entreprendre dans les quartiers. Leur activité, leur volonté de créer leur entreprise dans les quartiers et nul part ailleurs, la place du numérique… voici quelques thèmes abordés dans cette émission. Leurs témoignages sont vraiment l'occasion de porter un autre regard sur les quartiers.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/05/22/8511259ee8d9316bfb289947ea98298787b28500_A58B0113F2912A0E701B132EB497FAC7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601005000 +0200" stop="20230601005500 +0200" channel="DemainTV.fr">
+<title lang="fr">L'assiette Normande</title>
+<desc lang="fr">Une émission culinaire qui vous propose des recettes délicieuses de Normandie. </desc>
+<category lang="fr">Magazine culinaire</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/3a7b1f37de9a10731ca8dd4d34ccb1769dd54003.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601005500 +0200" stop="20230601010000 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601010000 +0200" stop="20230601011000 +0200" channel="DemainTV.fr">
+<title lang="fr">ZikSpotting</title>
+<desc lang="fr">Emission musicale divertissante.</desc>
+<category lang="fr">Variétés</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/01/f6e90cb183f88fab7144cff2c1dec453e2d9ae02.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601011000 +0200" stop="20230601011500 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601011500 +0200" stop="20230601013000 +0200" channel="DemainTV.fr">
+<title lang="fr">Ci né ma</title>
+<desc lang="fr">Un magazine qui présente l'actualité de vos sorties ciné: bandes annonces, interviews, infos,...</desc>
+<category lang="fr">Magazine du cinéma</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/45955b0179fa64064035ef5f4395a1a3c4884485.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601013000 +0200" stop="20230601014500 +0200" channel="DemainTV.fr">
+<title lang="fr">Business Women</title>
+<desc lang="fr">Place aux femmes sur Demain TV ! Cette émission animée par Linda Labidi est entièrement dédiée à celles qui entreprennent. Ont-elles une vision différente du business, de la gouvernance d'entreprise ? Plus de créativité ou plus de finesse ? Au-delà des femmes, des projets porteurs à découvrir chaque semaine sur Demain !</desc>
+<category lang="fr">Magazine de la femme</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/07fdc78206ae4442fc480c6218235543e7488c19.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601014500 +0200" stop="20230601020000 +0200" channel="DemainTV.fr">
+<title lang="fr">Label entreprise</title>
+<desc lang="fr">Label Entreprise est une émission entièrement dédiée à la création et la reprise d'entreprise. Présentée par Jérôme Caltran, Label Entreprise vous dit tout sur ce que vous avez toujours voulu savoir sur la création d'entreprise, les différents statuts, l'implantation géographique, les réseaux d'accompagnements, les créneaux porteurs, etc.</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/9d73fe1003ddf64bba34dc1e6825433407b09e6e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601020000 +0200" stop="20230601020500 +0200" channel="DemainTV.fr">
+<title lang="fr">Le journal de l'emploi</title>
+<desc lang="fr">Magazine consacré au monde du travail où vous vous informez sur les offres d'emploi, les stages et les formations, les entreprises, les codes, les droits et les lois en vigueur.</desc>
+<category lang="fr">Magazine de l'emploi</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/6fc5e28f52e783d0a04cfa3a0d2f1585883c4652.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601020500 +0200" stop="20230601023000 +0200" channel="DemainTV.fr">
+<title lang="fr">Ciné Vintage OU Demain la cité OU Monographie Bâtiments</title>
+<desc lang="fr">Trois émissions diffusées en alternance: &quot;Ciné Vintage&quot;, &quot;Demain la cité&quot; ou &quot;Monographie Bâtiments&quot;.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/5dc3016a9cd67e0bc3406f02ebcf3fda8bb87636.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601023000 +0200" stop="20230601024500 +0200" channel="DemainTV.fr">
+<title lang="fr">L'interview campus</title>
+<desc lang="fr">Cette émission vous propose de revenir sur l'actualité des étudiants à travers les interviews de ceux qui la font. Comprendre, expliquer et analyser le quotidien de la vie des jeunes en formation sont les mots d'ordre de cette émission.</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/24/1247d63fb90ed2900a734b915be0e62ffb690b8e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601024500 +0200" stop="20230601025000 +0200" channel="DemainTV.fr">
+<title lang="fr">Entrepreneurs des quartiers</title>
+<desc lang="fr">&quot;Entrepreneurs des quartiers&quot; vous propose de partager le parcours de citoyens qui ont décidé d'entreprendre dans les quartiers. Leur activité, leur volonté de créer leur entreprise dans les quartiers et nul part ailleurs, la place du numérique… voici quelques thèmes abordés dans cette émission. Leurs témoignages sont vraiment l'occasion de porter un autre regard sur les quartiers.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/05/22/8511259ee8d9316bfb289947ea98298787b28500_A58B0113F2912A0E701B132EB497FAC7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601025000 +0200" stop="20230601025500 +0200" channel="DemainTV.fr">
+<title lang="fr">L'assiette Normande</title>
+<desc lang="fr">Une émission culinaire qui vous propose des recettes délicieuses de Normandie. </desc>
+<category lang="fr">Magazine culinaire</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/3a7b1f37de9a10731ca8dd4d34ccb1769dd54003.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601025500 +0200" stop="20230601030000 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601030000 +0200" stop="20230601031000 +0200" channel="DemainTV.fr">
+<title lang="fr">ZikSpotting</title>
+<desc lang="fr">Emission musicale divertissante.</desc>
+<category lang="fr">Variétés</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/01/f6e90cb183f88fab7144cff2c1dec453e2d9ae02.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601031000 +0200" stop="20230601031500 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601031500 +0200" stop="20230601033000 +0200" channel="DemainTV.fr">
+<title lang="fr">Ci né ma</title>
+<desc lang="fr">Un magazine qui présente l'actualité de vos sorties ciné: bandes annonces, interviews, infos,...</desc>
+<category lang="fr">Magazine du cinéma</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/45955b0179fa64064035ef5f4395a1a3c4884485.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601033000 +0200" stop="20230601034500 +0200" channel="DemainTV.fr">
+<title lang="fr">Business Women</title>
+<desc lang="fr">Place aux femmes sur Demain TV ! Cette émission animée par Linda Labidi est entièrement dédiée à celles qui entreprennent. Ont-elles une vision différente du business, de la gouvernance d'entreprise ? Plus de créativité ou plus de finesse ? Au-delà des femmes, des projets porteurs à découvrir chaque semaine sur Demain !</desc>
+<category lang="fr">Magazine de la femme</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/07fdc78206ae4442fc480c6218235543e7488c19.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601034500 +0200" stop="20230601040000 +0200" channel="DemainTV.fr">
+<title lang="fr">Label entreprise</title>
+<desc lang="fr">Label Entreprise est une émission entièrement dédiée à la création et la reprise d'entreprise. Présentée par Jérôme Caltran, Label Entreprise vous dit tout sur ce que vous avez toujours voulu savoir sur la création d'entreprise, les différents statuts, l'implantation géographique, les réseaux d'accompagnements, les créneaux porteurs, etc.</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/6fc5e28f52e783d0a04cfa3a0d2f1585883c4652.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601040000 +0200" stop="20230601040500 +0200" channel="DemainTV.fr">
+<title lang="fr">Le journal de l'emploi</title>
+<desc lang="fr">Magazine consacré au monde du travail où vous vous informez sur les offres d'emploi, les stages et les formations, les entreprises, les codes, les droits et les lois en vigueur.</desc>
+<category lang="fr">Magazine de l'emploi</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/9d73fe1003ddf64bba34dc1e6825433407b09e6e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601040500 +0200" stop="20230601043000 +0200" channel="DemainTV.fr">
+<title lang="fr">Ciné Vintage OU Demain la cité OU Monographie Bâtiments</title>
+<desc lang="fr">Trois émissions diffusées en alternance: &quot;Ciné Vintage&quot;, &quot;Demain la cité&quot; ou &quot;Monographie Bâtiments&quot;.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/5dc3016a9cd67e0bc3406f02ebcf3fda8bb87636.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601043000 +0200" stop="20230601044500 +0200" channel="DemainTV.fr">
+<title lang="fr">L'interview campus</title>
+<desc lang="fr">Cette émission vous propose de revenir sur l'actualité des étudiants à travers les interviews de ceux qui la font. Comprendre, expliquer et analyser le quotidien de la vie des jeunes en formation sont les mots d'ordre de cette émission.</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/24/1247d63fb90ed2900a734b915be0e62ffb690b8e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601044500 +0200" stop="20230601045000 +0200" channel="DemainTV.fr">
+<title lang="fr">Entrepreneurs des quartiers</title>
+<desc lang="fr">&quot;Entrepreneurs des quartiers&quot; vous propose de partager le parcours de citoyens qui ont décidé d'entreprendre dans les quartiers. Leur activité, leur volonté de créer leur entreprise dans les quartiers et nul part ailleurs, la place du numérique… voici quelques thèmes abordés dans cette émission. Leurs témoignages sont vraiment l'occasion de porter un autre regard sur les quartiers.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/05/22/8511259ee8d9316bfb289947ea98298787b28500_A58B0113F2912A0E701B132EB497FAC7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601045000 +0200" stop="20230601045500 +0200" channel="DemainTV.fr">
+<title lang="fr">L'assiette Normande</title>
+<desc lang="fr">Une émission culinaire qui vous propose des recettes délicieuses de Normandie. </desc>
+<category lang="fr">Magazine culinaire</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/3a7b1f37de9a10731ca8dd4d34ccb1769dd54003.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601045500 +0200" stop="20230601050000 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601050000 +0200" stop="20230601051000 +0200" channel="DemainTV.fr">
+<title lang="fr">ZikSpotting</title>
+<desc lang="fr">Emission musicale divertissante.</desc>
+<category lang="fr">Variétés</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/10/01/f6e90cb183f88fab7144cff2c1dec453e2d9ae02.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601051000 +0200" stop="20230601051500 +0200" channel="DemainTV.fr">
+<title lang="fr">Programmes courts</title>
+<desc lang="fr">Programme de courte durée entre deux émissions.</desc>
+<category lang="fr">Magazine de découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/20/aaef63334f9676f4739aee70f07a18d6b350f2d7_D07A7C68F70912BCFE995709F7CA1FFE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601051500 +0200" stop="20230601053000 +0200" channel="DemainTV.fr">
+<title lang="fr">Ci né ma</title>
+<desc lang="fr">Un magazine qui présente l'actualité de vos sorties ciné: bandes annonces, interviews, infos,...</desc>
+<category lang="fr">Magazine du cinéma</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/20/45955b0179fa64064035ef5f4395a1a3c4884485.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601053000 +0200" stop="20230601054500 +0200" channel="DemainTV.fr">
+<title lang="fr">Business Women</title>
+<desc lang="fr">Place aux femmes sur Demain TV ! Cette émission animée par Linda Labidi est entièrement dédiée à celles qui entreprennent. Ont-elles une vision différente du business, de la gouvernance d'entreprise ? Plus de créativité ou plus de finesse ? Au-delà des femmes, des projets porteurs à découvrir chaque semaine sur Demain !</desc>
+<category lang="fr">Magazine de la femme</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/07fdc78206ae4442fc480c6218235543e7488c19.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601054500 +0200" stop="20230601060000 +0200" channel="DemainTV.fr">
+<title lang="fr">Label entreprise</title>
+<desc lang="fr">Label Entreprise est une émission entièrement dédiée à la création et la reprise d'entreprise. Présentée par Jérôme Caltran, Label Entreprise vous dit tout sur ce que vous avez toujours voulu savoir sur la création d'entreprise, les différents statuts, l'implantation géographique, les réseaux d'accompagnements, les créneaux porteurs, etc.</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/c1a5dd4e79550a646a944be10cd87194359166d1.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

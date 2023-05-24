@@ -1,0 +1,253 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230530034000 +0200" stop="20230530073000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/899927464ADF8422D3962A7951B4C7D8.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530073000 +0200" stop="20230530092500 +0200" channel="TF1plus1.fr">
+<title lang="fr">TFou</title>
+<desc lang="fr">MolangBarbapapa en Famille (ST)Thomas et ses amis (ST)Alice et Lewis (ST)Paw Patrol, la Pat'Patrouille (ST)La tribu Monchhichi (ST)</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/30E042B64DB5C50E5B2A3AEE8D672FFA.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530092500 +0200" stop="20230530093000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/362B5EF9903CFC54EDAF2EC655C44FB2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530093000 +0200" stop="20230530102000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Téléshopping</title>
+<desc lang="fr">Le magazine de la consommation et des conseils d'achat, coaché par Marie-Ange Nardi et Alexandre Devoise.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Télé-achat</category>
+<icon src="https://img.bouygtel.fr/CMS/images/FC70CA952E251644B2BACA9D01E2FD0C.jpg" />
+<episode-num system="xmltv_ns">0.106.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530102000 +0200" stop="20230530102500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3368F259E8276FAA554294ED5124EFAE.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530102500 +0200" stop="20230530105500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Familles nombreuses : la vie en XXL</title>
+<desc lang="fr">Ce docu-réalité suit le quotidien exceptionnel de plusieurs familles nombreuses.Avec ces familles tout est XXL !Partagez le quotidien de ces familles nombreuses où tout se vit en plus grand !</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Téléréalité</category>
+<icon src="https://img.bouygtel.fr/CMS/images/74B9A00F0AEA81AC82D7D99B27E707B0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530105500 +0200" stop="20230530113000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Familles nombreuses : la vie en XXL</title>
+<desc lang="fr">Ce docu-réalité suit le quotidien exceptionnel de plusieurs familles nombreuses.Avec ces familles tout est XXL !Partagez le quotidien de ces familles nombreuses où tout se vit en plus grand !</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Téléréalité</category>
+<icon src="https://img.bouygtel.fr/CMS/images/3BCCAB2921C914BF3D3797944F4762F4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530113000 +0200" stop="20230530120000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Amour, gloire et beauté</title>
+<desc lang="fr">Wyatt rend visite à sa mère et lui demande ce qui ne va pas. Cette dernière lui dit être inquiète pour Carter qui commet une erreur en épousant Paris.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/5EB11022FB95FC48EF2F78AAAAB087A7.jpg" />
+<episode-num system="xmltv_ns">0.8793.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530120000 +0200" stop="20230530124500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Les Feux de l'amour</title>
+<desc lang="fr">Chelsea croise Adam devant le Society. Très agité, il lui confie que Chance ne veut plus le voir et que William lui a quasiment avoué avoir voulu le tuer.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/C9945195A6AD294E162B16F58402813A.jpg" />
+<episode-num system="xmltv_ns">0.8728.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530124500 +0200" stop="20230530125000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Petits plats en équilibre</title>
+<desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CA8A78821327C25C337095A1303E9CE7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530125000 +0200" stop="20230530135500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Les douze coups de midi</title>
+<desc lang="fr">Qui sera le calife à la place du calife ? Chaque jour, à midi tapante, quatre candidats s'affrontent pour empocher les 30 000 euros de la cagnotte et décrocher l'étoile mystérieuse et ses cadeaux. Seule condition, bien répondre aux questions de culture générale.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Jeu</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6DFF045B5F027F90C65D449C2A63C37C.jpg" />
+<episode-num system="xmltv_ns">0.272.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530135500 +0200" stop="20230530140000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Petits plats en équilibre</title>
+<desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CA8A78821327C25C337095A1303E9CE7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530140000 +0200" stop="20230530144000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Journal</title>
+<desc lang="fr">Journal télévisé de TF1 qui revient sur les faits marquants et les événements essentiels qui ont fait de cette journée une journée différente de toutes les autres.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/97AABD8BD65AFD0D1AE8D054A426B6D5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530144000 +0200" stop="20230530144500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Petits plats en équilibre</title>
+<desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.</desc>
+<category lang="fr">Art de vivre</category>
+<category lang="fr">Gastronomie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CA8A78821327C25C337095A1303E9CE7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530144500 +0200" stop="20230530145500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/D4DC7DB6A7C2D9E3E4107DDE07C9B35E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530145500 +0200" stop="20230530164000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Permis de tromper</title>
+<desc lang="fr">Carrie se rend à un séminaire avec ses deux collègues et amies, Lexi et Beth. Ces dernières conseillent à Carrie de profiter d'un soir de &quot;liberté&quot; ou plutôt d'une espèce de &quot;permis&quot; de tromper son mari. A les entendre, cela pourrait résoudre leur problème de couple...</desc>
+<category lang="fr">Action</category>
+<category lang="fr">Suspense</category>
+<icon src="https://img.bouygtel.fr/CMS/images/6AAD1F0933524FBC15BFD8B57E86AD99.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230530164000 +0200" stop="20230530183000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Face aux mensonges de ma soeur</title>
+<desc lang="fr">Nick et Haley attendent un bébé quand le père de Nick meurt tragiquement dans un accident de chantier. Le jour des funérailles arrive Zara, la demi-soeur de Nick qu'il n'a plus revue depuis qu'elle était enfant. Ils restent tous dans la maison familiale où vit Callie, la fiancée du père. A la lecture du testament, Zara et elle reçoivent une somme d'argent et Nick, tout le reste de la succession, y compris la maison. Zara semble se méfier de Callie, qu'elle accuse d'agir par intérêt. Elle semble également mal supporter que ce soit la marraine du futur enfant. Quand l'avocat de la famille est tué, elle accuse immédiatement Callie qui aurait tout manigancé pour s'accaparer l'héritage. Peu de temps après, Nick est blessé sur un chantier et Haley est agressée chez eux...</desc>
+<category lang="fr">Action</category>
+<category lang="fr">Suspense</category>
+<icon src="https://img.bouygtel.fr/CMS/images/22114236E13D54ED3C518493A285BC40.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230530183000 +0200" stop="20230530193000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Familles nombreuses : la vie en XXL</title>
+<desc lang="fr">Ce docu-réalité suit le quotidien exceptionnel de plusieurs familles nombreuses.Avec ces familles tout est XXL !Partagez le quotidien de ces familles nombreuses où tout se vit en plus grand !</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Téléréalité</category>
+<icon src="https://img.bouygtel.fr/CMS/images/7C76592F19710D18A84305ECACF29679.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530193000 +0200" stop="20230530201000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Ici tout commence</title>
+<desc lang="fr">A l'Institut, Hortense s'enfonce dans le mensonge. Lisandro a une surprise inattendue pour David et Deva. Samia fait ses adieux à l'Institut.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F750CB8E69226DBECDC73E1CDC2C1FD1.jpg" />
+<episode-num system="xmltv_ns">2.199.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530201000 +0200" stop="20230530205500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Demain nous appartient</title>
+<desc lang="fr">Bart ne peut pas contenir sa rage face à Vanessa. François craint pour la vie d'Adam. L'intimité de Nordine s'ébruite au sein du commissariat.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Drame</category>
+<icon src="https://img.bouygtel.fr/CMS/images/AB9E12988575D3885D4AF26E61B1E18D.jpg" />
+<episode-num system="xmltv_ns">5.1436.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530205500 +0200" stop="20230530210000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/362B5EF9903CFC54EDAF2EC655C44FB2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530210000 +0200" stop="20230530214500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Journal</title>
+<desc lang="fr">Journal télévisé de TF1 qui revient sur les faits marquants et les événements essentiels qui ont fait de cette journée une journée différente de toutes les autres.</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/BE66E6E9046C2B5CF74DB799A890B131.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530214500 +0200" stop="20230530215000 +0200" channel="TF1plus1.fr">
+<title lang="fr">My Million</title>
+<desc lang="fr">Consultez les derniers résultats d'EuroMillions ainsi que les codes gagnants My Million. Tous les mardi et vendredi, Elsa fayer ou Karine Ferri vous présentent les résultats des tirages officiels de My Million vers 20h50 puis EuroMillions vers 21h50. Découvrez les 5 numéros gagnants et les 2 bonnes étoiles d'EuroMillions mais aussi les codes gagnants My Million des derniers tirages !</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Services</category>
+<icon src="https://img.bouygtel.fr/CMS/images/15F1895C71D7F029A7541AD4B44C293D.jpg" />
+<episode-num system="xmltv_ns">0.42.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530215000 +0200" stop="20230530220000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Météo</title>
+<desc lang="fr">Prévisions météorologiques en France par le service de TF1.</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Météo</category>
+<icon src="https://img.bouygtel.fr/CMS/images/362B5EF9903CFC54EDAF2EC655C44FB2.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530220000 +0200" stop="20230530221000 +0200" channel="TF1plus1.fr">
+<title lang="fr">C'est Canteloup</title>
+<desc lang="fr">Détournements d'images d'actualité, parodies, interviews décalées, Nicolas Canteloup propose une satire des faits marquants de la journée avec, pour signature, ses imitations des personnages qui font l'événement dans le monde de la politique, du spectacle et des médias.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Humour</category>
+<icon src="https://img.bouygtel.fr/CMS/images/28CE030DEA79B758B66BCBCE6DCC5269.jpg" />
+<episode-num system="xmltv_ns">0.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230530221000 +0200" stop="20230531002000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Koh-Lanta</title>
+<desc lang="fr">C'est la dernière ligne droite pour les candidats présents aux Philippines où l'étau se resserre au fil des heures. L'épreuve de l'orientation se profile et les aventuriers vont enfin savoir lesquels d'entre eux peuvent y accéder. C'est pour cette raison que le totem de la dernière épreuve d'immunité n'a pas de prix : il offre un accès direct à la grande Finale. Le tout est maintenant de savoir qui des aventuriers remportera le totem ? Mais ce n'est pas le seul enjeu puisqu'il s'agit également de connaître l'identité des candidats faisant les frais du dernier conseil éliminatoire. Rien n'est sûr à l'entame du money time.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Téléréalité</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1F1982C12B72E4BEE8A7097B6818B5A9.jpg" />
+<episode-num system="xmltv_ns">23.14.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531002000 +0200" stop="20230531011500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Une famille en or</title>
+<sub-title lang="fr">Mirafiore / Smadja</sub-title>
+<desc lang="fr">Camille Combal prend les commandes d'&quot;Une famille en or&quot;. Nouveau décor, nouvel animateur ou nouvelles questions, la seule chose qui ne change pas, c'est le titre ! Humour, magnétos, sketchs, questions parfois insolites, Camille Combal et ses équipes ont repensé intégralement l'émission. L'animateur reçoit deux familles, les Mirafiore et les Smadja, qui vont tout tenter pour repartir avec la cagnotte. 100 000 euros sont à gagner, en tentant de deviner ce que les Français ont répondu aux questions &quot;combalesques&quot; de Camille.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/DA8D7856EDE653FD1F79EC889999A73E.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531011500 +0200" stop="20230531022000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Une famille en or</title>
+<sub-title lang="fr">Gana / Musso</sub-title>
+<desc lang="fr">Camille Combal prend les commandes d'&quot;Une famille en or&quot;. Nouveau décor, nouvel animateur ou nouvelles questions, la seule chose qui ne change pas, c'est le titre ! Humour, magnétos sketchs, questions parfois insolites, Camille Combal et ses équipes ont repensé intégralement l'émission. L'animateur reçoit deux familles, les Gana et les Musso, qui vont tout tenter pour repartir avec la cagnotte. 100 000 euros sont à gagner, en tentant de deviner ce que les Français ont répondu aux questions &quot;combalesques&quot; de Camille.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Divertissement</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F2797C3E2606170D9BAE4F08576C1596.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531022000 +0200" stop="20230531022500 +0200" channel="TF1plus1.fr">
+<title lang="fr">Tirage de l'Euro Millions</title>
+<desc lang="fr">Consultez les derniers résultats d'EuroMillions ainsi que les codes gagnants My Million. Tous les mardi et vendredi, Elsa fayer ou Karine Ferri vous présentent les résultats des tirages officiels de My Million vers 20h50 puis EuroMillions vers 21h50. Découvrez les 5 numéros gagnants et les 2 bonnes étoiles d'EuroMillions mais aussi les codes gagnants My Million des derniers tirages !</desc>
+<category lang="fr">Services</category>
+<category lang="fr">Loterie</category>
+<icon src="https://img.bouygtel.fr/CMS/images/020DABF462199D4A9B02842852F2AF07.jpg" />
+<episode-num system="xmltv_ns">0.42.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531022500 +0200" stop="20230531073000 +0200" channel="TF1plus1.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+<category lang="fr">Programme</category>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://img.bouygtel.fr/CMS/images/1D4D2EE73E0F6C9C479079C3B9870C07.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

@@ -1,0 +1,11 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230531054700 +0200" stop="20230531060100 +0200" channel="ChasseEtPeche.fr">
+<title lang="fr">Les tutos</title>
+<sub-title lang="fr">Tuto pêche : Pêche aux petits aux appâts naturels</sub-title>
+<desc lang="fr">Retrouvez vos animatrices Malaurie Dumontet, Nikita Prieur et pour la première fois notre vétérinaire Juliette Pêtrès. De l'action, des conseils et de nombreux détails pour pratiquer vos passions et préserver vos animaux de compagnies.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Nature</category>
+<icon src="https://img.bouygtel.fr/CMS/images/CAB5D00DFB78FC11249580ADEB9BB67C.jpg" />
+<episode-num system="xmltv_ns">2.0.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

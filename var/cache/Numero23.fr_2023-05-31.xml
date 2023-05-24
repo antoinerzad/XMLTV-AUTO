@@ -1,0 +1,113 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230531060000 +0200" stop="20230531063000 +0200" channel="Numero23.fr">
+<title lang="fr">Charles matin</title>
+<desc lang="fr">Aux côtés de son équipe de journalistes, Apolline de Malherbe apporte son regard quotidien sur l'actualité. La matinale place l'information au centre de ses débats pour répondre, chaque jour, aux préoccupations des Français.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/04/04/5a044613ffe55e3ee4a26c63081e3416f55b0d76.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531063000 +0200" stop="20230531090000 +0200" channel="Numero23.fr">
+<title lang="fr">Apolline matin</title>
+<desc lang="fr">Aux côtés de son équipe de journalistes, Apolline de Malherbe apporte son regard quotidien sur l'actualité. La matinale place l'information au centre de ses débats pour répondre, chaque jour, aux préoccupations des Français.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/30/84d16391757204c590024d0426611d67037d9c8c.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531090000 +0200" stop="20230531120000 +0200" channel="Numero23.fr">
+<title lang="fr">Les grandes gueules</title>
+<sub-title lang="fr">Débat, société, diversité</sub-title>
+<desc lang="fr">Autour d'Alain Marschall et d'Olivier Truchot, la bande des grandes gueules accueille tout au long de l'année des nouveaux intervenants représentatifs de la diversité de la société française et aborde sans tabou tous les sujets de société qui font l'actualité.</desc>
+<category lang="fr">Talk-show</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/11/b05a19a090a5292d0fb4eb1d4860a246bd9f3302_ECFA5E89065A552E5D8EFD6086E7F473.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531120000 +0200" stop="20230531150000 +0200" channel="Numero23.fr">
+<title lang="fr">Estelle midi : on ne va pas se mentir</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Talk-show</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/11/12/fa14170839f3e974a73864d018fd95772e78856e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531150000 +0200" stop="20230531163000 +0200" channel="Numero23.fr">
+<title lang="fr">Mission protection</title>
+<sub-title lang="fr">Patrouilles de nuit et interventions chocs : pompiers et gendarmes à l'heure du crime</sub-title>
+<desc lang="fr">Saison 13 Episode 3
+D'après une étude de 2019, les violences aux personnes connaîtraient deux pics dans la journée : l'un à l'heure de la sortie du travail entre 18 et 19h et l'autre à celle de la fermeture des bars et restaurants entre minuit et 2 heures du matin. La consommation d'alcool, le trafic de drogues mais aussi l'obscurité qui génère une sensation d'anonymat et d'impunité chez certains seraient en cause. Les automobilistes font aussi face à une dangerosité accrue lors de leurs déplacements.
+Année de réalisation : 2023</desc>
+<category lang="fr">Documentaire découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/05/7156bc1f45cf67b181ba73e4ca514313f062e198.jpg" />
+<episode-num system="xmltv_ns">12.2.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230531163000 +0200" stop="20230531182500 +0200" channel="Numero23.fr">
+<title lang="fr">Enquête prioritaire</title>
+<sub-title lang="fr">Radars, motards, chauffards : zéro de conduite</sub-title>
+<desc lang="fr">Vitesse excessive, conduite sous l'emprise de drogues, comportements dangereux, les automobilistes prennent tous les risques. Pendant des semaines, les caméras ont filmé ceux qui mettent tout en oeuvre pour faire de la route un endroit sûr.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/01/13/34f16651b3659c9eada999fcc922159a6a235f66.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230531182500 +0200" stop="20230531192000 +0200" channel="Numero23.fr">
+<title lang="fr">Retour à l'instinct primaire</title>
+<sub-title lang="fr">Jusqu'au bout</sub-title>
+<desc lang="fr">Dans une jungle maya hantée, une blessure douloureuse à la jambe met à l'épreuve la détermination des survivants Leah Chandler et Cesar Aliva. Survivre est pour eux une véritable lutte car ils sont confrontés à l'humidité suffocante de cet environnement, à des prédateurs affamés, des pluies torrentielles, des insectes envahissants et des fruits empoisonnés.</desc>
+<category lang="fr">Documentaire aventures</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/12/26/6e277ba1d0a00d94d23836dee2719fcdfa7ee7cb.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531192000 +0200" stop="20230531201500 +0200" channel="Numero23.fr">
+<title lang="fr">Retour à l'instinct primaire</title>
+<sub-title lang="fr">Moustiques et marécages</sub-title>
+<desc lang="fr">Dans les marécages du Mississipi, Gabrielle et Brian doivent faire face à un essaim de moustiques et à de dangereux prédateurs. Ils devront également affronter un orage qui leur semble interminable. L'épuisement est proche pour les deux malheureux concurrents.</desc>
+<category lang="fr">Documentaire aventures</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/05/27/1018cb1cb0772fa6a203bf29ff4b48ecee6aa353_C88BD8721FF7CAC7045740A06AE079E5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531201500 +0200" stop="20230531211000 +0200" channel="Numero23.fr">
+<title lang="fr">Retour à l'instinct primaire</title>
+<sub-title lang="fr">Danger mortel</sub-title>
+<desc lang="fr">Anthony et Suzanne sont au nord-est du Brésil, connu pour son relief accidenté. Ils devront affronter des animaux dangereux ainsi que des températures extrêmes. Pour les deux concurrents, habitués à des climats plus doux, c'est une rude épreuve.</desc>
+<category lang="fr">Documentaire aventures</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/12/26/6e277ba1d0a00d94d23836dee2719fcdfa7ee7cb.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531211000 +0200" stop="20230531223500 +0200" channel="Numero23.fr">
+<title lang="fr">100 jours avec la police des Ardennes</title>
+<sub-title lang="fr">Alcool, tapage nocturne, incivilités : tensions près de la frontière belge</sub-title>
+<desc lang="fr">Saison 1 Episode 4
+Pendant plusieurs semaines, les caméras ont suivi les agents de la police municipale de Charleville-Mézières dans leurs activités quotidiennes.
+Année de réalisation : 2023</desc>
+<category lang="fr">Documentaire société</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/23/2494e97909aad483b559b0d443d594a475d4070b.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230531223500 +0200" stop="20230601000000 +0200" channel="Numero23.fr">
+<title lang="fr">100 jours avec la police des Ardennes</title>
+<sub-title lang="fr">Rodéos urbains, ivresse, stupéfiants : la police sous haute tension</sub-title>
+<desc lang="fr">Saison 1 Episode 3
+Dans les Ardennes, à 10 kilomètres de la frontière belge, la ville de Charleville-Mézières est un carrefour où se côtoie une population éclectique. Au coeur de la ville, sur les routes, à pied ou en voiture, les policiers doivent sans cesse faire du rappel à l'ordre et sévir en cas d'infractions auprès d'automobilistes qui prennent tous les risques en conduisant sous emprise d'alcool ou au contact de jeunes qui ne supportent pas que ces professionnels de la sécurité essaient par tous les moyens de sanctionner leur lucratif trafic de drogue. Pour les aider dans leurs missions, les policiers s'appuient sur leur Centre de Supervision urbain : 106 caméras de vidéosurveillance qui filment 24h/24 les moindres tentatives de vols, d'agressions ou de délits routiers.
+Année de réalisation : 2023</desc>
+<category lang="fr">Documentaire société</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/23/2494e97909aad483b559b0d443d594a475d4070b.jpg" />
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230601000000 +0200" stop="20230601010500 +0200" channel="Numero23.fr">
+<title lang="fr">100 jours avec les gendarmes des Alpes</title>
+<sub-title lang="fr">Bagarre, chauffard, dispute conjugale : les gendarmes sur tous les fronts</sub-title>
+<desc lang="fr">Saison 1 Episode 4
+Située dans le département de la Haute-Savoie, Annecy est une ville importante de plus de 125 000 habitants. Pour veiller sur la population, la compagnie de gendarmerie est répartie en plusieurs unités sur tout le territoire. Sur les routes, les gendarmes veillent pour la sécurité de tous. Alcoolémie, excès de vitesse ou téléphone au volant, quelle que soit l'infraction, elle est verbalisée. 
+Année de réalisation : 2023</desc>
+<category lang="fr">Documentaire société</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/05/04/7577506b74415242a2f481396c25614ce7520af9_A5CDD99583211462D31B5CB590BDED1A.jpg" />
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230601010500 +0200" stop="20230601060000 +0200" channel="Numero23.fr">
+<title lang="fr">Pause</title>
+<desc lang="fr">Une sélection des meilleurs reportages de DIRECT AUTO, magazine de l'automobile.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
