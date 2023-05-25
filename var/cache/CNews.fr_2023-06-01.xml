@@ -1,0 +1,11 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230601055800 +0200" stop="20230601084900 +0200" channel="CNews.fr">
+<title lang="fr">La matinale</title>
+<sub-title lang="fr">La Matinale</sub-title>
+<desc lang="fr">Tous les matins, Romain Desarbres, ses chroniqueurs et ses invités vous informent dans #LaMatinale de 6h à 9h du lundi au vendredi</desc>
+<category lang="fr">Information</category>
+<category lang="fr">Journal</category>
+<icon src="https://img.bouygtel.fr/CMS/images/675C58CD0311BC8BB4CD0A3F822301AA.jpg" />
+<episode-num system="xmltv_ns">0.158.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

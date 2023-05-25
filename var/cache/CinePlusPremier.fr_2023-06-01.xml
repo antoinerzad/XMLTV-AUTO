@@ -1,0 +1,51 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230531231400 +0200" stop="20230601010500 +0200" channel="CinePlusPremier.fr">
+<title lang="fr">Night Run</title>
+<desc lang="fr">Un tueur quinquagénaire et fatigué abat le fils de son patron pour protéger son propre fils. Il dispose d'une seule nuit pour se mettre en règle avec lui-même.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_11940275.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230601010500 +0200" stop="20230601015800 +0200" channel="CinePlusPremier.fr">
+<title lang="fr">Baron Noir</title>
+<sub-title lang="fr">Bruder</sub-title>
+<desc lang="fr">Philippe poursuit ses ambitions politiques et espère bien être nommé Premier ministre par Amélie, mais un tsunami politique va redistribuer toutes les cartes.</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_14237028.jpg" />
+<episode-num system="xmltv_ns">2.6.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601015800 +0200" stop="20230601025800 +0200" channel="CinePlusPremier.fr">
+<title lang="fr">Baron Noir</title>
+<sub-title lang="fr">Ahou !</sub-title>
+<desc lang="fr">Le Conseil constitutionnel annonce l'annulation inédite de l'élection présidentielle et l'organisation d'un nouveau scrutin. Philippe se relance dans la course.</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_14264332.jpg" />
+<episode-num system="xmltv_ns">2.7.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230601025800 +0200" stop="20230601034100 +0200" channel="CinePlusPremier.fr">
+<title lang="fr">Tchi tcha</title>
+<desc lang="fr">Magazine cinéma au coeur de l'actualité culturelle, Tchi Tcha traite tous les genres cinématographiques, des plus pointus aux plus populaires, des blockbusters aux découvertes. Laurie Cholewa, avec la complicité de Perrine Quennesson et Renan Cros, donne rendez-vous chaque vendredi à 19H45 et...</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_33605907.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230601034100 +0200" stop="20230601060800 +0200" channel="CinePlusPremier.fr">
+<title lang="fr">Red Rocket</title>
+<desc lang="fr">Blasé, un acteur pornographique choisit de revenir vivre dans la bourgade du Texas dont il est originaire, un endroit où il n'est plus le bienvenu.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_27300617.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230601060800 +0200" stop="20230601070300 +0200" channel="CinePlusPremier.fr">
+<title lang="fr">Génération Spielberg</title>
+<desc lang="fr">Rencontre du Steven Spielberg cinéphile et amoureux du cinéma de François Truffaut, un passionné de cinéma français ouvert sur le monde et curieux des autres.</desc>
+<category lang="fr">Documentaire</category>
+<category lang="fr">Doc. Cinéma</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_38165384.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

@@ -1,0 +1,202 @@
+<!-- racacax\XmlTv\Component\Provider\SFR -->
+<programme start="20230531021500 +0200" stop="20230531022000 +0200" channel="KabelEins.de">
+<title lang="fr">Kabel Eins Late News</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/8/7/5392787.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531022000 +0200" stop="20230531035000 +0200" channel="KabelEins.de">
+<title lang="fr">The Visit</title>
+<desc lang="fr">Alors qu'ils passent quelques jours chez leurs grands-parents à la campagne, des adolescents voient ces derniers se comporter bizarrement et prennent peur.</desc>
+<category lang="fr">Film d'horreur</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/0/5/5849502.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230531035000 +0200" stop="20230531035500 +0200" channel="KabelEins.de">
+<title lang="fr">Kabel Eins Late News</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/8/7/5392787.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531035500 +0200" stop="20230531054500 +0200" channel="KabelEins.de">
+<title lang="fr">Super 8</title>
+<desc lang="fr">En 1979, une petite ville de l'Ohio est touchée par des événements mystérieux. Un groupe d'adolescents, témoin d'un accident, tente de percer le mystère.</desc>
+<category lang="fr">Film de science fiction</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/3/3/5850334.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531054500 +0200" stop="20230531063000 +0200" channel="KabelEins.de">
+<title lang="fr">NCIS</title>
+<sub-title lang="fr">Super soldat</sub-title>
+<desc lang="fr">Un marine qui a perdu tout discernement multiplie les méfaits. Le NCIS est chargé de retrouver sa piste. Gibbs comprend que l'homme se croit toujours en Irak.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/9/6447938.jpg" />
+<episode-num system="xmltv_ns">4.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531063000 +0200" stop="20230531072500 +0200" channel="KabelEins.de">
+<title lang="fr">NCIS</title>
+<sub-title lang="fr">Un homme de foi</sub-title>
+<desc lang="fr">Pour respecter les croyances religieuses du défunt, Ducky refuse de pratiquer une autopsie sur le corps d'un jeune marine musulman, tué près d'une mosquée.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/9/6447938.jpg" />
+<episode-num system="xmltv_ns">4.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531072500 +0200" stop="20230531082000 +0200" channel="KabelEins.de">
+<title lang="fr">NCIS</title>
+<sub-title lang="fr">Étroite surveillance</sub-title>
+<desc lang="fr">Un entrepôt a été placé sous surveillance par l'équipe de Gibbs. En effet, un individu pourrait y avoir dissimulé un radar naval, qu'il aurait volé à la Marine.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/9/6447938.jpg" />
+<episode-num system="xmltv_ns">4.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531082000 +0200" stop="20230531091500 +0200" channel="KabelEins.de">
+<title lang="fr">NCIS</title>
+<sub-title lang="fr">Le meilleur ami de l'homme</sub-title>
+<desc lang="fr">Dépêché sur une base navale où un maître-chien a trouvé la mort, le NCIS doit déterminer si l'animal est responsable du décès du marin. Abby prend sa défense.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/9/6447938.jpg" />
+<episode-num system="xmltv_ns">4.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531091500 +0200" stop="20230531101000 +0200" channel="KabelEins.de">
+<title lang="fr">NCIS</title>
+<sub-title lang="fr">Affaires internes</sub-title>
+<desc lang="fr">La dépouille de La Grenouille a finalement été retrouvée. Mais le FBI dépêche l'agent spécial Wentworth pour enquêter aux côtés du NCIS. Gibbs est furieux.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/9/6447938.jpg" />
+<episode-num system="xmltv_ns">4.13.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531101000 +0200" stop="20230531110500 +0200" channel="KabelEins.de">
+<title lang="fr">NCIS : Nouvelle-Orléans</title>
+<sub-title lang="fr">L'ordre de la Mangouste</sub-title>
+<desc lang="fr">Sebastian était chargé de protéger le fils d'un dignitaire. Mais le jeune homme disparaît lors d'un concert. L'agent Lund décide alors de faire appel au NCIS.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/5/6622573.jpg" />
+<episode-num system="xmltv_ns">5.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531110500 +0200" stop="20230531120500 +0200" channel="KabelEins.de">
+<title lang="fr">NCIS : Nouvelle-Orléans</title>
+<sub-title lang="fr">Coûte que coûte</sub-title>
+<desc lang="fr">Après que le suspect numéro un du meurtre de l'agent LaSalle a fourni un témoin comme alibi, Pride et son équipe sont encore plus déterminés à venger leur ami.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/5/6622573.jpg" />
+<episode-num system="xmltv_ns">5.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531120500 +0200" stop="20230531130000 +0200" channel="KabelEins.de">
+<title lang="fr">NCIS : Nouvelle-Orléans</title>
+<sub-title lang="fr">La récompense</sub-title>
+<desc lang="fr">Après l'affaire Eddie Barrett, Pride est mis à pied. L'enquête avait révélé un complot malveillant. Le hasard va alors rassembler les deux hommes.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/5/6622573.jpg" />
+<episode-num system="xmltv_ns">5.9.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531130000 +0200" stop="20230531135500 +0200" channel="KabelEins.de">
+<title lang="fr">NCIS : Nouvelle-Orléans</title>
+<sub-title lang="fr">Mauvaise lune</sub-title>
+<desc lang="fr">Sebastian part en mission sous couverture dans une organisation terroriste. Lorsque, du jour au lendemain, il devient injoignable, l'équipe s'inquiète.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/5/6622573.jpg" />
+<episode-num system="xmltv_ns">5.10.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531135500 +0200" stop="20230531145000 +0200" channel="KabelEins.de">
+<title lang="fr">NCIS : Nouvelle-Orléans</title>
+<sub-title lang="fr">En attendant Monroe</sub-title>
+<desc lang="fr">L'équipe doit retrouver une mystérieuse meurtrière. Pendant ce temps, le fils de Wade la supplie de lui permettre de faire un tour avec la police.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/5/6622573.jpg" />
+<episode-num system="xmltv_ns">5.11.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531145000 +0200" stop="20230531155000 +0200" channel="KabelEins.de">
+<title lang="fr">Castle</title>
+<sub-title lang="fr">Mode opératoire</sub-title>
+<desc lang="fr">Pendant la Fashion Week, grand rendez-vous de la mode internationale, Richard Castle et Kate Beckett enquêtent sur le meurtre d'une top-model.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/4/6526471.jpg" />
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531155000 +0200" stop="20230531160000 +0200" channel="KabelEins.de">
+<title lang="fr">News</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/4/9/6679941.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531160000 +0200" stop="20230531165500 +0200" channel="KabelEins.de">
+<title lang="fr">Castle</title>
+<sub-title lang="fr">Arnaques</sub-title>
+<desc lang="fr">Richard Castle et Kate Beckett sont chargés d'enquêter sur la mort mystérieuse d'un explorateur de l'Arctique au cours d'une prétendue expédition.</desc>
+<category lang="fr">Série</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/4/6526471.jpg" />
+<episode-num system="xmltv_ns">1.3.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531165500 +0200" stop="20230531175500 +0200" channel="KabelEins.de">
+<title lang="fr">Abenteuer Leben täglich</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de l'art de vivre</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/5/6/5800654.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531175500 +0200" stop="20230531185500 +0200" channel="KabelEins.de">
+<title lang="fr">Mein Lokal, Dein Lokal - Der Profi kommt</title>
+<sub-title lang="fr">&quot;Burghotel Pass&quot;, Südlohn</sub-title>
+<desc lang="fr">In den urigen Räumlichkeiten im historischen Teil des traditionsreichen Burghotels &quot;Pass&quot; empfängt Theodor Pass seine Gäste. Er ist Burgherr in Oeding, im Ortsteil der Gemeinde Südlohn an der Grenze zwischen Nordrhein-Westfalen und den Niederlanden. Theodor und sein Team möchten mit ihren Speisen aus der historischen Burgküche den Profikoch Mike Süsser und die Kandidaten überzeugen.</desc>
+<category lang="fr">Documentaire</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/7364008.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531185500 +0200" stop="20230531201500 +0200" channel="KabelEins.de">
+<title lang="fr">Achtung Kontrolle! Wir kümmern uns drum</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/6/8/5800862.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531201500 +0200" stop="20230531224500 +0200" channel="KabelEins.de">
+<title lang="fr">Prometheus</title>
+<desc lang="fr">Des scientifiques voyagent vers un univers sombre pour découvrir l'origine de l'humanité. Avec leurs explorations, le sort des humains est en jeu.</desc>
+<category lang="fr">Film de science fiction</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/3/2/5814233.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230531224500 +0200" stop="20230601010000 +0200" channel="KabelEins.de">
+<title lang="fr">Pandorum</title>
+<desc lang="fr">A des millions de kilomètres de la Terre. Deux hommes se réveillent d'un séjour en hyper-sommeil dans un gigantesque vaisseau peuplé d'effrayantes créatures.</desc>
+<category lang="fr">Film de science fiction</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/5/5899580.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601010000 +0200" stop="20230601011000 +0200" channel="KabelEins.de">
+<title lang="fr">Watch Me - das Kinomagazin</title>
+<sub-title lang="fr">das Kinomagazin</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/7/7/2459775.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601011000 +0200" stop="20230601011500 +0200" channel="KabelEins.de">
+<title lang="fr">Kabel Eins Late News</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Journal</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/8/1/2456182.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601011500 +0200" stop="20230601031500 +0200" channel="KabelEins.de">
+<title lang="fr">Prometheus</title>
+<desc lang="fr">Des scientifiques voyagent vers un univers sombre pour découvrir l'origine de l'humanité. Avec leurs explorations, le sort des humains est en jeu.</desc>
+<category lang="fr">Film de science fiction</category>
+<icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/3/2/5814233.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

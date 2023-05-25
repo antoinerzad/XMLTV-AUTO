@@ -1,0 +1,117 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230601060000 +0200" stop="20230601063000 +0200" channel="Numero23.fr">
+<title lang="fr">Charles matin</title>
+<desc lang="fr">Aux côtés de son équipe de journalistes, Apolline de Malherbe apporte son regard quotidien sur l'actualité. La matinale place l'information au centre de ses débats pour répondre, chaque jour, aux préoccupations des Français.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/04/04/5a044613ffe55e3ee4a26c63081e3416f55b0d76.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601063000 +0200" stop="20230601090000 +0200" channel="Numero23.fr">
+<title lang="fr">Apolline matin</title>
+<desc lang="fr">Aux côtés de son équipe de journalistes, Apolline de Malherbe apporte son regard quotidien sur l'actualité. La matinale place l'information au centre de ses débats pour répondre, chaque jour, aux préoccupations des Français.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/30/84d16391757204c590024d0426611d67037d9c8c.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601090000 +0200" stop="20230601120000 +0200" channel="Numero23.fr">
+<title lang="fr">Les grandes gueules</title>
+<desc lang="fr">Autour d'Alain Marschall et d'Olivier Truchot, la bande des grandes gueules accueille tout au long de l'année des nouveaux intervenants représentatifs de la diversité de la société française et aborde sans tabou tous les sujets de société qui font l'actualité.</desc>
+<category lang="fr">Talk-show</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/11/b05a19a090a5292d0fb4eb1d4860a246bd9f3302_ECFA5E89065A552E5D8EFD6086E7F473.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601120000 +0200" stop="20230601150000 +0200" channel="Numero23.fr">
+<title lang="fr">Estelle midi : on ne va pas se mentir</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Talk-show</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/11/12/fa14170839f3e974a73864d018fd95772e78856e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601150000 +0200" stop="20230601163000 +0200" channel="Numero23.fr">
+<title lang="fr">Mission protection</title>
+<sub-title lang="fr">Bagarres et cambriolages : la police de Paris en alerte</sub-title>
+<desc lang="fr">Saison 12 Episode 4
+Avec ses deux millions d'habitants, Paris connaît chaque nuit son lot de drames et de violences : agressions, cambriolages et autres accidents.
+Année de réalisation : 2022</desc>
+<category lang="fr">Documentaire découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/05/7156bc1f45cf67b181ba73e4ca514313f062e198.jpg" />
+<episode-num system="xmltv_ns">11.3.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230601163000 +0200" stop="20230601182500 +0200" channel="Numero23.fr">
+<title lang="fr">Enquête prioritaire</title>
+<sub-title lang="fr">Marseille : caïds contre forces de l'ordre</sub-title>
+<desc lang="fr">Marseille défraie la chronique avec ses trafics et règlements de comptes à répétition. Pour endiguer la violence, policiers et gendarmes multiplient les opérations. Les effectifs de police ont été renforcés et de nouvelles stratégies de reconquête des cités ont été mises en place.</desc>
+<category lang="fr">Magazine de société</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/01/13/34f16651b3659c9eada999fcc922159a6a235f66.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230601182500 +0200" stop="20230601192000 +0200" channel="Numero23.fr">
+<title lang="fr">Retour à l'instinct primaire</title>
+<sub-title lang="fr">Danger mortel</sub-title>
+<desc lang="fr">Anthony et Suzanne sont au nord-est du Brésil, connu pour son relief accidenté. Ils devront affronter des animaux dangereux ainsi que des températures extrêmes. Pour les deux concurrents, habitués à des climats plus doux, c'est une rude épreuve.</desc>
+<category lang="fr">Documentaire aventures</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/12/26/6e277ba1d0a00d94d23836dee2719fcdfa7ee7cb.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601192000 +0200" stop="20230601201500 +0200" channel="Numero23.fr">
+<title lang="fr">Retour à l'instinct primaire</title>
+<sub-title lang="fr">Dans la brume</sub-title>
+<desc lang="fr">Dans les forêts denses des Smoky Mountains, dans le Tennessee, Jermaine et Teal luttent pour leur survie en plein milieu du territoire de nombreux ours bruns. Les deux survivants doivent rivaliser avec les prédateurs afin de trouver des ressources, mais également s'adapter aux températures glaciales et éviter les serpents à sonnettes venimeux qui grouillent partout dans cet environnement.</desc>
+<category lang="fr">Documentaire aventures</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/09/13/1aac59208d1496145b0813caa500f970cf4a6eaf.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601201500 +0200" stop="20230601211000 +0200" channel="Numero23.fr">
+<title lang="fr">Retour à l'instinct primaire</title>
+<sub-title lang="fr">Nus dans l'ouragan</sub-title>
+<desc lang="fr">Un ouragan de catégorie cinq ravage les marécages de Floride. Amal et Duke ne s'attendaient pas à une partie de plaisir, mais ils étaient loin d'imaginer le danger. Supporteront-ils ce climat extrême ?</desc>
+<category lang="fr">Documentaire aventures</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/03/20/84d1391e827eb4f8db34b151d01b0eeeee1a0070.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601211000 +0200" stop="20230601221000 +0200" channel="Numero23.fr">
+<title lang="fr">L'enfer des prisons</title>
+<sub-title lang="fr">La guerre des gangs à Salinas Valley</sub-title>
+<desc lang="fr">Saison 4 Episode 1
+Les détenus incarcérés dans la prison de Salinas Valley, en Californie, font partie des criminels les plus dangereux de l'Etat. De nombreux prisonniers appartiennent à des gangs, qui opèrent au sein même de la prison. La rivalité opposant ces différents groupes a progressivement plongé le pénitencier dans le chaos. Après les meurtres de deux surveillants, poignardés par des prisonniers, la situation peut basculer à tout moment dans la violence.
+Année de réalisation : 2007</desc>
+<category lang="fr">Documentaire société</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/04/28/934ed2a30b8b70dd1a67abc382367648383f0188.jpg" />
+<episode-num system="xmltv_ns">3.0.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230601221000 +0200" stop="20230601231000 +0200" channel="Numero23.fr">
+<title lang="fr">L'enfer des prisons</title>
+<sub-title lang="fr">Gangs en prison</sub-title>
+<desc lang="fr">Aux Etats-Unis, plus de deux millions de personnes sont enfermées derrière les barreaux. Assassins, violeurs, membres de gangs, tueurs en série... Plongez au coeur des plus terribles prisons américaines</desc>
+<category lang="fr">Documentaire société</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/12/15/7ca5f8fa7011e0e72a8962f67a6cfd48311c7278.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230601231000 +0200" stop="20230602001000 +0200" channel="Numero23.fr">
+<title lang="fr">L'enfer des prisons</title>
+<sub-title lang="fr">Prédateurs derrière les barreau</sub-title>
+<desc lang="fr">La prison d'Etat de Pelican Bay, en Californie, fait partie des établissements pénitentiaires de très haute sécurité. Depuis près de vingt ans, les membres des gangs les plus violents y sont enfermés. Mais progressivement, la forteresse s'est transformée en une sorte de quartier général du crime. En effet, bien qu'incarcérés, la plupart des détenus continuent à veiller sur leurs trafics depuis leurs cellules, et les gangs rivaux s'affrontent quotidiennement. Parmi eux se trouvent des chefs de gangs tels que la Nustra Familia, la mafia mexicaine, la Fraternité aryenne, les Black Guerillas ou encore les Nazi Low Riders.</desc>
+<category lang="fr">Documentaire société</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/07/28/5b46458adff1e4c948a8ccb2532c2b1ee1a1abeb.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230602001000 +0200" stop="20230602010000 +0200" channel="Numero23.fr">
+<title lang="fr">L'enfer des prisons</title>
+<sub-title lang="fr">Pénitencier de Caroline du Nord</sub-title>
+<desc lang="fr">Saison 4 Episode 3
+En compagnie de Christophe Rocancourt, visite du centre pénitentiaire d'Alexander, une véritable forteresse située à proximité de la commune de Taylorsville, en Caroline du Nord. Dotée de plus de 1000 cellules, la prison peut compter sur une escouade de 500 surveillants qui veille sur ses pensionnaires, dont beaucoup sont classés parmi les plus violents des Etats-Unis. Les règles très strictes qui sont appliquées provoquent la crainte de tous les détenus américains.
+Année de réalisation : 2007</desc>
+<category lang="fr">Documentaire société</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/07/28/5b46458adff1e4c948a8ccb2532c2b1ee1a1abeb.jpg" />
+<episode-num system="xmltv_ns">3.2.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230602010000 +0200" stop="20230602060000 +0200" channel="Numero23.fr">
+<title lang="fr">Pause</title>
+<desc lang="fr">Une sélection des meilleurs reportages de DIRECT AUTO, magazine de l'automobile.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

@@ -1,0 +1,64 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230601141000 +0200" stop="20230601162000 +0200" channel="VOOSportWorld2.be">
+<title lang="fr">VOOsport en résumés</title>
+<desc lang="fr">Toutes les images des événements sportifs qui ont marqué l'antenne de VOOsport durant la semaine écoulée. Football, tennis, hockey sur gazon, basket, sports mécaniques, golf ou encore rugby à XV sont au menu du magazine VOOsport en résumés.</desc>
+<category lang="fr">JT sport</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/a5008d38385da105847f9018f81ded9da3e53eb7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601162000 +0200" stop="20230601180500 +0200" channel="VOOSportWorld2.be">
+<title lang="fr">Hockey sur gazon : FIH Pro League (messieurs)</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Hockey sur gazon</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/04/24/19a73197733629e1a11cf910cddc6f2da861f716_630E60B5D3527AD938C9A7475B12B06C.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601180500 +0200" stop="20230601185000 +0200" channel="VOOSportWorld2.be">
+<title lang="fr">VOO SportClub</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Multisports</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/c3a7f6f21d90aac0de30a31b01226f9c8d565664.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601185000 +0200" stop="20230601194000 +0200" channel="VOOSportWorld2.be">
+<title lang="fr">Football : Premier League</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Football</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/16/43af0f7aa0a57851afdecab21399782b922c56c4.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601194000 +0200" stop="20230601201500 +0200" channel="VOOSportWorld2.be">
+<title lang="fr">Football : Ligue Europa</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Football</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/05/15/733ae9be682cef88686648a173ad4bbb79dc3a81_18E67052085A49DA08467DB6097CC34B.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601201500 +0200" stop="20230601222000 +0200" channel="VOOSportWorld2.be">
+<title lang="fr">Basket : BNXT League</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Basket-ball</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/04/04/53c4b5a762f233e0dbdd107253c931a25d8f1d55.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601222000 +0200" stop="20230601230500 +0200" channel="VOOSportWorld2.be">
+<title lang="fr">PL Club</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Football</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/bafcbaecfc225d945682d5bd39af8c74ebeb457e.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601230500 +0200" stop="20230601233100 +0200" channel="VOOSportWorld2.be">
+<title lang="fr">ATP Magazine</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Tennis</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/8c8c2b7c4fe8fa675743c1412081c6c5daad6cc5.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601233100 +0200" stop="20230602150000 +0200" channel="VOOSportWorld2.be">
+<title lang="fr">Pause</title>
+<desc lang="fr">Une sélection des meilleurs reportages de DIRECT AUTO, magazine de l'automobile.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

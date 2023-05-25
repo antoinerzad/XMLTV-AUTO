@@ -1,0 +1,42 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230531233000 +0200" stop="20230601002500 +0200" channel="TF1SeriesFilms.fr">
+<title lang="fr">New York, section criminelle</title>
+<sub-title lang="fr">Malgré lui</sub-title>
+<desc lang="fr">Un inspecteur du département de la Santé est retrouvé mort par sa fiancée. Or l'homme faisait chanter deux médecins hospitaliers, coupables de surfacturations.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_12336812.jpg" />
+<episode-num system="xmltv_ns">8.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601002500 +0200" stop="20230601011000 +0200" channel="TF1SeriesFilms.fr">
+<title lang="fr">New York, section criminelle</title>
+<sub-title lang="fr">Tableau de chasse</sub-title>
+<desc lang="fr">Une jeune provinciale est retrouvée morte dans une ruelle, vêtue comme une prostituée. Nichols et Stevens tentent de confondre son meurtrier.</desc>
+<category lang="fr">Série</category>
+<category lang="fr">Série Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_11505856.jpg" />
+<episode-num system="xmltv_ns">8.6.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230601011000 +0200" stop="20230601062500 +0200" channel="TF1SeriesFilms.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_10572422.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601062500 +0200" stop="20230601065000 +0200" channel="TF1SeriesFilms.fr">
+<title lang="fr">Petits secrets entre voisins</title>
+<desc lang="fr">Chaque épisode raconte une incroyable histoire de voisins : conflits de voisinage, amours interdits, secrets, jalousies... Nous les fréquentons chaque jour. Nous échangeons avec eux des politesses dans la cour d'immeuble ou par-dessus la haie. Nous imaginons leur intimité en les regardant par la...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_17261278.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601065000 +0200" stop="20230601071500 +0200" channel="TF1SeriesFilms.fr">
+<title lang="fr">Petits secrets entre voisins</title>
+<desc lang="fr">Petits secrets entre voisins est une fiction quotidienne de 26 minutes.Chaque épisode raconte une incroyable histoire de voisins : conflits de voisinage, amours interdits, secrets, jalousies... Nous les fréquentons chaque jour. Nous échangeons avec eux des politesses dans la cour d'immeuble ou...</desc>
+<category lang="fr">Série</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_17261278.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

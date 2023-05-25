@@ -1,0 +1,11 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230601055400 +0200" stop="20230601061600 +0200" channel="Mangas.fr">
+<title lang="fr">Les Minipouss</title>
+<sub-title lang="fr">Les pizzas de Charlie</sub-title>
+<desc lang="fr">Charlie Mini a un accident d'avion alors qu'il livrait des pizzas. Pendant ce temps, le professeur Chassard capture les Minipouss et crée un zoo pour montrer sa découverte au monde entier...</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/E2C86966961DAC3926545A6A5C448DF7.jpg" />
+<episode-num system="xmltv_ns">0.12.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

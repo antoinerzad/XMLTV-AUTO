@@ -1,0 +1,32 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230531231200 +0200" stop="20230601005000 +0200" channel="CanalPlusGrandEcran.fr">
+<title lang="fr">Drive</title>
+<desc lang="fr">Un homme, cascadeur le jour et chauffeur sur des braquages la nuit, se retrouve plongé dans une escalade de violence en acceptant d'aider le mari de sa voisine.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Suspense</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_9331155.jpg" />
+<rating system="CSA"><value>-16</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" /></rating>
+</programme>
+<programme start="20230601005000 +0200" stop="20230601030900 +0200" channel="CanalPlusGrandEcran.fr">
+<title lang="fr">Douleur et gloire</title>
+<desc lang="fr">Un réalisateur mélancolique et tourmenté est confronté à la difficulté de créer et aux souvenirs de sa jeunesse à la suite d'une série de retrouvailles.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_12727190.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601030900 +0200" stop="20230601062200 +0200" channel="CanalPlusGrandEcran.fr">
+<title lang="fr">Fin des programmes</title>
+<desc lang="fr">Autre.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_GEP_11083147.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601062200 +0200" stop="20230601075000 +0200" channel="CanalPlusGrandEcran.fr">
+<title lang="fr">Toto le héros</title>
+<desc lang="fr">Un vieil homme, convaincu qu'on lui a jadis volé sa véritable identité, se remémore les événements marquants de sa vie pour découvrir la vérité.</desc>
+<category lang="fr">Film</category>
+<category lang="fr">Film Passion</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_EMI_8118382.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

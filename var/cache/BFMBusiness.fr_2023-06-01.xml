@@ -1,0 +1,16 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230601000000 +0200" stop="20230601060000 +0200" channel="BFMBusiness.fr">
+<title lang="fr">Programme de la nuit BFM Business</title>
+<desc lang="fr">A travers différentes émissions, plongez dans le monde de l'économie et du business.</desc>
+<category lang="fr">Evénement</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_14771867.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601060000 +0200" stop="20230601090000 +0200" channel="BFMBusiness.fr">
+<title lang="fr">Good Morning Business</title>
+<desc lang="fr">Magazine de l'actualité économique.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Economie</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/43_COL_33208469.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

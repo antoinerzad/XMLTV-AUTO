@@ -1,0 +1,32 @@
+<!-- racacax\XmlTv\Component\Provider\Orange -->
+<programme start="20230531232000 +0200" stop="20230601012500 +0200" channel="W9.fr">
+<title lang="fr">Enquêtes criminelles</title>
+<desc lang="fr">En 2016, Raynald Barguet, un membre de la communauté des gens du voyage, est assassiné en pleine nuit par un rival amoureux : retour sur cette affaire compliquée.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_EMI_24634703.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230601012500 +0200" stop="20230601033000 +0200" channel="W9.fr">
+<title lang="fr">Enquêtes criminelles</title>
+<desc lang="fr">Mystérieusement disparus fin novembre 2022 près de Niort, Leslie et Kévin ont été retrouvés sans vie début mars 2023. Enquêtes criminelles s'intéresse ensuite au meurtre d'Aurélie Vaquier, en 2021 à Bédarieux.</desc>
+<category lang="fr">Magazine</category>
+<category lang="fr">Mag. Société</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_10356816.jpg" />
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>
+<programme start="20230601033000 +0200" stop="20230601060000 +0200" channel="W9.fr">
+<title lang="fr">Programmes de la nuit</title>
+<desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+<category lang="fr">Autre</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_22269110.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230601060000 +0200" stop="20230601070000 +0200" channel="W9.fr">
+<title lang="fr">Wake Up</title>
+<desc lang="fr">Réveillez-vous de bon pied avec W9 ! Retrouvez une sélection des meilleurs tubes du moment pour un réveil vitaminé...</desc>
+<category lang="fr">Musique</category>
+<category lang="fr">Clips</category>
+<icon src="https://proxymedia.woopic.com/api/v1/images/340%2F/169_COL_19451123.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
