@@ -1,0 +1,190 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230603070000 +0200" stop="20230603081000 +0200" channel="RTSDeux.ch">
+<title lang="fr">RTS Info</title>
+<desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/c42790f544e4b6d31861509eaa523c87541059fe.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603081000 +0200" stop="20230603084000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Forum</title>
+<desc lang="fr">Magazine de décryptage, de débat et d'échange d'idées: l'actualité du jour; grand débat d'approfondissement; séquence initiative citoyenne. Une émission diffusée en tri-média - radio, tv et web.</desc>
+<category lang="fr">Magazine d'information</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/02/07/72f03ec4e85b8daabca4494a28f4f06c767db6a1.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603084000 +0200" stop="20230603093000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Bye bye la Suisse</title>
+<sub-title lang="fr">Mille et un rêves</sub-title>
+<desc lang="fr">Saison 6 Episode 1
+C'est une nouvelle vie pour un Vaudois qui va rejoindre sa fiancée au Caire. Un Saint-Gallois part en Allemagne où vit sa compagne. Enfin, un couple de Bernois met le cap sur l'Andalousie.
+Année de réalisation : 2016</desc>
+<category lang="fr">Documentaire découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/e1faefde1443a25f094e32e3ca5aebdbee3368e0.jpg" />
+<episode-num system="xmltv_ns">5.0.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603093000 +0200" stop="20230603102000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Bye bye la Suisse</title>
+<sub-title lang="fr">Une nouvelle étape</sub-title>
+<desc lang="fr">Jean-Luc commence à tisser son réseau professionnel au Caire pour développer un prototype de lampe ; Remo arrive en Allemagne avec ses quatre tigres sibériens.</desc>
+<category lang="fr">Documentaire découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/e1faefde1443a25f094e32e3ca5aebdbee3368e0.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603102000 +0200" stop="20230603110500 +0200" channel="RTSDeux.ch">
+<title lang="fr">Bye bye la Suisse</title>
+<sub-title lang="fr">Petit à petit</sub-title>
+<desc lang="fr">Saison 6 Episode 3
+Myriam rejoint son compagnon en Andalousie : au ranch, son plus grand défi est de faire sa place ; le zoo en Allemagne est un grand chantier, un mois avant l'ouverture.
+Année de réalisation : 2016</desc>
+<category lang="fr">Documentaire découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/e1faefde1443a25f094e32e3ca5aebdbee3368e0.jpg" />
+<episode-num system="xmltv_ns">5.2.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603110500 +0200" stop="20230603115500 +0200" channel="RTSDeux.ch">
+<title lang="fr">Bye bye la Suisse</title>
+<sub-title lang="fr">Ciel clair et nuages</sub-title>
+<desc lang="fr">Saison 6 Episode 4
+Au Caire, Jean-Luc multiplie les contacts professionnels et s'intéresse au savoir-faire des artisans ; en Allemagne, Remo descend dans l'arène avec ses tigres.
+Année de réalisation : 2016</desc>
+<category lang="fr">Documentaire découvertes</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/e1faefde1443a25f094e32e3ca5aebdbee3368e0.jpg" />
+<episode-num system="xmltv_ns">5.3.</episode-num>
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603115500 +0200" stop="20230603121500 +0200" channel="RTSDeux.ch">
+<title lang="fr">RTS Info</title>
+<desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/c42790f544e4b6d31861509eaa523c87541059fe.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603121500 +0200" stop="20230603124000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Svizra Rumantscha</title>
+<desc lang="fr">Le magazine régional présenté par la rédaction de Svizra rumantscha.</desc>
+<category lang="fr">Magazine régional</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/46903d74ba2201f49523fc1b9748c44c12d03825.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603124000 +0200" stop="20230603130000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Adrénaline</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Sports extrêmes</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/08/09/cf682ba26feeda3e1400f15750518aaa2e254a2a.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603130000 +0200" stop="20230603155000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Tennis : Roland-Garros</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Tennis</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/05/13/c85d18de0ceea80debf1a8aea7a92fd618191fa6.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603155000 +0200" stop="20230603170500 +0200" channel="RTSDeux.ch">
+<title lang="fr">Formule 1 : Grand Prix d'Espagne</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Formule 1</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/12/08/65b0d40d1eeb7ac6415d8d503ac131887f2e885d.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603170500 +0200" stop="20230603172000 +0200" channel="RTSDeux.ch">
+<title lang="fr">RTS Info</title>
+<desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/c42790f544e4b6d31861509eaa523c87541059fe.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603172000 +0200" stop="20230603191500 +0200" channel="RTSDeux.ch">
+<title lang="fr">Basket-ball : Championnat de Suisse</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Basket-ball</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/11/25/8239223fea8ab89b74ee80693e5ba19a3a1f7a50.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603191500 +0200" stop="20230603193000 +0200" channel="RTSDeux.ch">
+<title lang="fr">RTS Info</title>
+<desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/c42790f544e4b6d31861509eaa523c87541059fe.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603193000 +0200" stop="20230603200800 +0200" channel="RTSDeux.ch">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/18/59dda809b02648f35eb849940def237ccff6b555_0B6E8CAADCD72313852141747079476B.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603200800 +0200" stop="20230603201000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Trio Magic, Magic 4 &amp; Banco</title>
+<desc lang="fr">Résultats du Trio Magic, Magic 4 et Banco. Trio Magic et Banco sont des jeux de tirage proposés par la Loterie Romande.</desc>
+<category lang="fr">Loterie</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/05/31/d6cc50f4676ab44c3f39f0b7b8e4a3266fbd24b1.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603201000 +0200" stop="20230603204500 +0200" channel="RTSDeux.ch">
+<title lang="fr">Tennis : Roland-Garros</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Tennis</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/05/13/c85d18de0ceea80debf1a8aea7a92fd618191fa6.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603204500 +0200" stop="20230603221500 +0200" channel="RTSDeux.ch">
+<title lang="fr">RTT</title>
+<desc lang="fr">Gérant d'un magasin de sport, Arthur vit depuis cinq ans avec Florence et pense avoir trouvé le bonheur. Tout s'effondre quand Florence lui annonce qu'elle le quitte pour aller se marier avec un autre à Miami. Choqué mais pas abattu pour autant, Arthur est persuadé qu'il peut la reconquérir et s'envole pour les Etats-Unis afin d'empêcher la cérémonie. A l'aéroport de Paris, il croise Emilie, une cambrioleuse qui vient de dérober une toile de maître qu'elle doit livrer à Miami au commanditaire du vol. Pour échapper à la police, Emilie glisse le tableau dans les bagages d'Arthur. Désormais, Arthur et elle ne vont plus se quitter. Ils se retrouvent embarqués dans une folle aventure...
+Année de réalisation : 2009</desc>
+<category lang="fr">Comédie</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/03/29/166d90ef-bb2c-42c7-834c-914bd53e77f7.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603221500 +0200" stop="20230603224900 +0200" channel="RTSDeux.ch">
+<title lang="fr">Sport dernière</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Multisports</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/95b8817884ce52055fe2fcaf21eb2fb115be2d34.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603224900 +0200" stop="20230603225000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Zap RTS Sport</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Multisports</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/27/e97d259c5bd8084bef5129dd84121ee517f512a0.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230603225000 +0200" stop="20230604001000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Ingrid Chauvin : notre combat pour adopter</title>
+<desc lang="fr">La comédienne Ingrid Chauvin (&quot;Demain nous appartient&quot;) a dû faire face au décès de sa fille, alors âgée de 5 mois. Après ce drame et après avoir fait une demande d'agrément pour une adoption, Ingrid Chauvin a réussi à donner naissance à un deuxième enfant, Tom, âgé de 3 ans en 2019. Mais elle n'a pas abandonné ce rêve qu'elle porte en elle depuis toujours : accueillir un enfant abandonné. Après 9 mois d'attente et d'étude de leur dossier, la comédienne et son mari ont obtenu, il y a 4 ans, l'agrément qui leur permet de pouvoir adopter. L'actrice a accepté d'ouvrir les portes de son univers et d'être accompagnée, avec son mari, par une équipe de tournage, dans leur quotidien tout au long de leur dernière année d'agrément.</desc>
+<category lang="fr">Documentaire société</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/05/22/fd08e115383441452674c3b87edd3b2a92a4992e_29CDDE216364D937E39C532050D7FC2E.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230604001000 +0200" stop="20230604013000 +0200" channel="RTSDeux.ch">
+<title lang="fr">Héros Ordinaires Neuchâtel</title>
+<desc lang="fr">Le documentaire donne la parole à dix-sept personnes du canton de Neuchâtel qui abordent chacune, un ou plusieurs objectifs du développement durable édictés par l'ONU pour 2030. Les réalisatrices ont ajustés les ODD à la Suisse actuelle et les ont réinterprétés à l'échelle locale.</desc>
+<category lang="fr">Documentaire société</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/06/20/1e4f0ec8f17a61fc9cf6f06fad4cb40c7fb4c0b6.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230604013000 +0200" stop="20230604020500 +0200" channel="RTSDeux.ch">
+<title lang="fr">Le 19h30</title>
+<desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/03/18/59dda809b02648f35eb849940def237ccff6b555_0B6E8CAADCD72313852141747079476B.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230604020500 +0200" stop="20230604055500 +0200" channel="RTSDeux.ch">
+<title lang="fr">Sport dernière</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Multisports</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/95b8817884ce52055fe2fcaf21eb2fb115be2d34.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>
+<programme start="20230604055500 +0200" stop="20230604070000 +0200" channel="RTSDeux.ch">
+<title lang="fr">RTS Info</title>
+<desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/c42790f544e4b6d31861509eaa523c87541059fe.jpg" />
+<rating system="CSA"><value>-12</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" /></rating>
+</programme>

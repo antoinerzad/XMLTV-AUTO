@@ -1,0 +1,10 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230603055800 +0200" stop="20230603062600 +0200" channel="CanalPlusSeries.fr">
+<title lang="fr">Groland le replait</title>
+<desc lang="fr">Retrouvez les meilleurs moments des 7 Jours au Groland, et un résumé des dernières péripéties vécues par les habitants de la célèbre présipauté.</desc>
+<category lang="fr">Divertissement</category>
+<category lang="fr">Humour</category>
+<icon src="https://img.bouygtel.fr/CMS/images/F7ECF1E7BF66D04B58EA6BC0D8779BDF.jpg" />
+<episode-num system="xmltv_ns">0.24.</episode-num>
+<rating system="CSA"><value>-10</value><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" /></rating>
+</programme>

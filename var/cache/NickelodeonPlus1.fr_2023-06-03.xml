@@ -1,0 +1,11 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230603055100 +0200" stop="20230603060200 +0200" channel="NickelodeonPlus1.fr">
+<title lang="fr">Bob l'éponge</title>
+<sub-title lang="fr">La liste de courses</sub-title>
+<desc lang="fr">Bob et Sandy doivent trouver tous les ingrédients du pâté de crabe, mais Plancton les suit à la trace.</desc>
+<category lang="fr">Dessin animé</category>
+<category lang="fr">Jeunesse</category>
+<icon src="https://img.bouygtel.fr/CMS/images/06B51A2AACD9FD4AE4CECFB6813AE9B2.jpg" />
+<episode-num system="xmltv_ns">10.7.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

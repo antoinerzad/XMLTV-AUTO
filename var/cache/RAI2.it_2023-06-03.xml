@@ -1,0 +1,225 @@
+<!-- racacax\XmlTv\Component\Provider\Telerama -->
+<programme start="20230603060000 +0200" stop="20230603063000 +0200" channel="RAI2.it">
+<title lang="fr">RAInews24</title>
+<desc lang="fr">Il programma presenta le ultime notizie in tempo reale. News attualità e aggiornamenti su politica, cronaca, esteri, economia, sport e attualità.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/04/24/1d73ddbd0ea75c4f6a1232a4014745c4492ece59_0FC6EE7B7AAE84D5575076D526A5C0C3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603063000 +0200" stop="20230603070000 +0200" channel="RAI2.it">
+<title lang="fr">Il Confronto</title>
+<desc lang="fr">Una rubrica dedicata alle attualità politiche in Italia. </desc>
+<category lang="fr">Magazine politique</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/09/362f62111c19b1fccb3a3d1b23d962086f71c348.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603070000 +0200" stop="20230603084000 +0200" channel="RAI2.it">
+<title lang="fr">Paradise</title>
+<sub-title lang="fr">La finestra sullo showbiz</sub-title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/04/04/7c999348a3fe38458b82c7aba4ce3ad9ab7825cd.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603084000 +0200" stop="20230603093000 +0200" channel="RAI2.it">
+<title lang="fr">Radio Due Social Club</title>
+<desc lang="fr">Versione televisiva della trasmissione radiofonica di Rai Radio 2, condotta da Luca Barbarossa e Andrea Perroni.</desc>
+<category lang="fr">Talk-show</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/78d6f25ff28e221509bf0e270e85fccbe43f4fc8.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603093000 +0200" stop="20230603101000 +0200" channel="RAI2.it">
+<title lang="fr">Per me</title>
+<desc lang="fr">Samanta Togni e Filippo Magnini ci daranno consigli su come trascorrere del tempo di qualità. Un invito per le persone di tutte le età a prendersi cura di se stessi e fare tutte quelle attività che ci fanno star bene.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/3144f5bfadd0701b4a52dfb4f41bed475517214f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603101000 +0200" stop="20230603105500 +0200" channel="RAI2.it">
+<title lang="fr">I mestieri di Mirko</title>
+<desc lang="fr">Accompagnati da una guida d'eccezione, come Mirko Matteucci, riscopriamo i mestieri che hanno reso l'Italia il paese della grande tradizione artigianale, riconosciuta in tutto il mondo. </desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/18/b247ba2bc56c0a9756b73edadc7b42df58a4e433.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603105500 +0200" stop="20230603110000 +0200" channel="RAI2.it">
+<title lang="fr">Meteo 2</title>
+<desc lang="fr">Il meteo di Rai 2 su informazioni del Servizio Meteorologico dell'Aeronautica Militare.</desc>
+<category lang="fr">Météo</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/13/384523db7a1e96d3a702154a2315c8bb36cf94a6.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603110000 +0200" stop="20230603111500 +0200" channel="RAI2.it">
+<title lang="fr">Rai TG Sport Giorno</title>
+<desc lang="fr">Notiziario sportivo che và in onda ogni giorno su Rai 2 alle 11:00.</desc>
+<category lang="fr">JT sport</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/a5008d38385da105847f9018f81ded9da3e53eb7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603111500 +0200" stop="20230603120500 +0200" channel="RAI2.it">
+<title lang="fr">Pizza Doc</title>
+<desc lang="fr">Il nuovo programma di cucina e territorio in compagnia di Tinto e Monica Caradonna. Una serie di dodici appuntamenti dedicati alla pizza, la regina della tavola italiana. </desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/7a7012e23c5d53e6e452964208781d56983acd55.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603120500 +0200" stop="20230603130000 +0200" channel="RAI2.it">
+<title lang="fr">Fatto da mamma e da papà</title>
+<desc lang="fr">Flora Canto accoglie nella sua cucina una mamma VIP che deve preparare un piatto tra quelli consumati di solito in famigl ia. Oltre a ricette gustose e veloci, non mancano spassosi aneddoti familiari.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/01/31/6b416c8eb142bb491bdeaaead1ccda0ea2999d61.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603130000 +0200" stop="20230603133000 +0200" channel="RAI2.it">
+<title lang="fr">TG2 Giorno</title>
+<desc lang="fr">Il quotidiano appuntamento con l'informazione, l'attualità dell'ultimo minuto, gli approfondimenti, i fatti di cronaca, di politica, di cultura e le ultime notizie dal mondo.
+</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/13/6538fb3aa960d2393ca525457494c1ca2ddcd995.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603133000 +0200" stop="20230603140000 +0200" channel="RAI2.it">
+<title lang="fr">TG 2 Week-End</title>
+<desc lang="fr">Rubrica del Tg2 dedicata al tempo libero nel fine settimana. A cura di Francesca Nocerino.</desc>
+<category lang="fr">Magazine d'actualité</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/f854f6254b467e0c03f554a57351b98c9d85b14c.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603140000 +0200" stop="20230603144500 +0200" channel="RAI2.it">
+<title lang="fr">Non Stop...I Know</title>
+<desc lang="fr">Pas de description</desc>
+<category lang="fr">Documentaire autre</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/16/0e2cb915d71894af9602989257abb46e39614e32.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603144500 +0200" stop="20230603153000 +0200" channel="RAI2.it">
+<title lang="fr">Bellissima Italia</title>
+<sub-title lang="fr">A caccia di sapori</sub-title>
+<desc lang="fr">Saison 2 Episode 9
+Tartufi e tradizioni: sono queste le parole d'ordine che caratterizzano il viaggio di Fabrizio Rocca nel cuore del Monferrato. Il percorso prende il via da Asti, una delle capitali del gusto italiane, città di origini antiche, ricca di storia, tradizioni e sapori. - Condotto da Fabrizio Rocca Scritto da Carmine Gazzanni e Flavia Piccinni Con Alessia Crocini e Isabella Perugini A cura di Gian Luca Baldini, Marco Scalisi, Rosella Soprani Delegato Rai Alessandra Badioli Produttore esecutivo per Alter Ego Cinzia Serputi Produttore esecutivo per E.G.E. Produzioni Sara De Michelis Regia di Pietro Giampietro Una produzione realizzata da Raidue in collaborazione con Alter Ego, E.G.E. Produzioni
+Année de réalisation : 2021</desc>
+<category lang="fr">Documentaire téléréalité</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/03/07/d8b2f4b85479c5f162eb2cbdeefa0f401aad777c.jpg" />
+<episode-num system="xmltv_ns">1.8.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603153000 +0200" stop="20230603172000 +0200" channel="RAI2.it">
+<title lang="fr">Film non communiqué</title>
+<desc lang="fr">Sherlock Holmes e Watsan sono chiamati a indagare sulla misteriosa morte del principe d'Austria. Le prime prove raccolte indicano come causa della morte il suicidio. Eppure Holmes deduce che il principe è stato vittima di un omicidio e riconosce i segni concepiti del professor Moriarty. Ma questo è solo il primo pezzo di un puzzle...</desc>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/02a28e0e3d00c2f697c3c4c964f633e3c9fdb4e3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603172000 +0200" stop="20230603181000 +0200" channel="RAI2.it">
+<title lang="fr">Programme non communiqué</title>
+<desc lang="fr">Malheureusement, aucune information sur les programmes n'était disponible auprès de la chaîne au moment de la mise sous presse. Pour savoir ce qui est diffusé, nous vous recommandons de consulter le site web de la chaîne de télévision.</desc>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/eaca5b81c2c95dd146c74f567f5b45f93bf9bcb0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603181000 +0200" stop="20230603181500 +0200" channel="RAI2.it">
+<title lang="fr">Gli Imperdibili</title>
+<desc lang="fr">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="https://focus.telerama.fr/1111x625/2022/12/05/c4bb47d6acac57805bc0660ab61def7e165070ac_DF766C36DDA4585E6DBBFB87DA4F96CC.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603181500 +0200" stop="20230603182000 +0200" channel="RAI2.it">
+<title lang="fr">TG 2 L.I.S.</title>
+<desc lang="fr">L'aggiornamento quotidiano sulle notizie dell'ultima ora dall'Italia e dall'estero dedicato ai non udenti.
+</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/19/e2f9785926c871b25587482ae57941675f562248.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603182000 +0200" stop="20230603190000 +0200" channel="RAI2.it">
+<title lang="fr">Rai TG Sport Sera</title>
+<desc lang="fr">Le principali notizie di sport dall'Italia e dal mondo, a cura della redazione giornalistica del Tg 2. </desc>
+<category lang="fr">JT sport</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/22/a5008d38385da105847f9018f81ded9da3e53eb7.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603203000 +0200" stop="20230603210000 +0200" channel="RAI2.it">
+<title lang="fr">TG 2</title>
+<desc lang="fr">Il Tg2. Un appuntamento con l'attualità dell'ultimo minuto, gli approfondimenti, la cronaca.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/13/6538fb3aa960d2393ca525457494c1ca2ddcd995.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603210000 +0200" stop="20230603212000 +0200" channel="RAI2.it">
+<title lang="fr">TG2 Post</title>
+<desc lang="fr">Il format che ha come obiettivo di raccontare le notizie e poi approfondirle.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/13/1209248dfd72f4dd96b6d0e3a53b558da45233bd.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603212000 +0200" stop="20230603230000 +0200" channel="RAI2.it">
+<title lang="fr">Programme non communiqué</title>
+<desc lang="fr">Malheureusement, aucune information sur les programmes n'était disponible auprès de la chaîne au moment de la mise sous presse. Pour savoir ce qui est diffusé, nous vous recommandons de consulter le site web de la chaîne de télévision.</desc>
+<category lang="fr">Programme indéterminé</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/06/15/eaca5b81c2c95dd146c74f567f5b45f93bf9bcb0.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603230000 +0200" stop="20230603235000 +0200" channel="RAI2.it">
+<title lang="fr">TG2 Dossier</title>
+<desc lang="fr">Rubrica di approfondimento a cura del TG2.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/13/b146a762e5717667c10125770d4bbaf5aa7b2eda.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230603235000 +0200" stop="20230604003000 +0200" channel="RAI2.it">
+<title lang="fr">TG2 Storie</title>
+<desc lang="fr">&quot;Tg2 storie&quot;è un  programma di approfondimento che ripercorre i principali avvenimenti della settimana.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/07/08/8a559c91dafcd9b0c4398bed8a817114c6a05e36.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230604003000 +0200" stop="20230604005500 +0200" channel="RAI2.it">
+<title lang="fr">TG 2 - Mizar</title>
+<desc lang="fr">Rubrica settimanale di approfondimento culturale del Tg2 che si propone di offrire ai telespettatori un'ampia panoramica di quanto avviene nel nostro tempo...</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/13/244b25fe5e4d841de0a9997d185ecf7820b8bf6f.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230604005500 +0200" stop="20230604010000 +0200" channel="RAI2.it">
+<title lang="fr">TG 2 Cinematineé</title>
+<desc lang="fr">I film della settimana, i consigli, le classifiche i protagonisti dello spettacolo si presentano al pubblico della notte.</desc>
+<category lang="fr">Magazine du cinéma</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/13/cb757342b07810bb4a5443986e1f4534813e9809.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230604010000 +0200" stop="20230604010500 +0200" channel="RAI2.it">
+<title lang="fr">Achab</title>
+<desc lang="fr">Rubrica culturale all'interno di un telegiornale Rai, che si occupa di libri. Per voi tutte le novità editoriali, le classifiche e le segnalazioni per una buona lettura, approfondimenti ed interviste sull'argomento.</desc>
+<category lang="fr">Magazine culturel</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/13/11c83e8ef6371d7e51726b5591a55f8a1dee88bf.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230604010500 +0200" stop="20230604011500 +0200" channel="RAI2.it">
+<title lang="fr">TG2 - Sì, viaggiare</title>
+<desc lang="fr">La rubrica del Tg 2 che si occupa di viaggi e turismo. Alla scoperta anche di mete poco conosciute e meno frequentate in Italia e all'estero. Con notizie consigli e un'attenzione particolare ai prezzi dei viaggi.</desc>
+<category lang="fr">Magazine du tourisme</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/13/66e35845dbe4bc4669bdcc69ad2842c6b966d9fd.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230604011500 +0200" stop="20230604013000 +0200" channel="RAI2.it">
+<title lang="fr">TG 2 Eat Parade</title>
+<desc lang="fr">Bere bene, mangiare sano. Un viaggio in un mondo, come quello gastronomico del nostro Paese, ricco di prodotti e vini tipici. Ottimi consigli sui migliori locali gastronomici e ristoranti di Italia ma non solo.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/13/1d9df052f3729394ef55967878ac96294cac0524.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230604013000 +0200" stop="20230604013500 +0200" channel="RAI2.it">
+<title lang="fr">Appuntamento al cinema</title>
+<desc lang="fr">Appuntamento al cinema. Approfondimenti sul mondo del cinema, interviste agli autori ed attori dei film in uscita. Rubrica di promozione della cultura cinematografica in Italia a cura dell'Anicagis.</desc>
+<category lang="fr">Divertissement</category>
+<icon src="https://focus.telerama.fr/1111x625/2021/12/13/98068f64760267b14ddb477ee80b92d62d6d32d9.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>
+<programme start="20230604013500 +0200" stop="20230604060000 +0200" channel="RAI2.it">
+<title lang="fr">RAInews24</title>
+<desc lang="fr">Il programma presenta le ultime notizie in tempo reale. News attualità e aggiornamenti su politica, cronaca, esteri, economia, sport e attualità.</desc>
+<category lang="fr">Journal</category>
+<icon src="https://focus.telerama.fr/1111x625/2023/04/24/1d73ddbd0ea75c4f6a1232a4014745c4492ece59_0FC6EE7B7AAE84D5575076D526A5C0C3.jpg" />
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

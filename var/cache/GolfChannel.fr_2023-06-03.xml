@@ -1,0 +1,10 @@
+<!-- racacax\XmlTv\Component\Provider\Bouygues -->
+<programme start="20230603053000 +0200" stop="20230603070000 +0200" channel="GolfChannel.fr">
+<title lang="fr">Golf Central 2023</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Sport</category>
+<category lang="fr">Golf</category>
+<icon src="https://img.bouygtel.fr/CMS/images/94CCD203F1AC50F4CD2E1E197B30CDE6.jpg" />
+<episode-num system="xmltv_ns">0.42.</episode-num>
+<rating system="CSA"><value>Tout public</value></rating>
+</programme>

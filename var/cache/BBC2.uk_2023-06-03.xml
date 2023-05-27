@@ -1,0 +1,37 @@
+<!-- racacax\XmlTv\Component\Provider\TeleLoisirs -->
+<programme start="20230603000500 +0200" stop="20230603003500 +0200" channel="BBC2.uk">
+<title lang="fr">MOTDx</title>
+<sub-title lang="fr">Episode 2</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Culture Infos</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~cead936ee48086d8.jpg/640x360/quality/80/motdx.jpg" />
+</programme>
+<programme start="20230603075500 +0200" stop="20230603080000 +0200" channel="BBC2.uk">
+<title lang="fr">Supertato</title>
+<sub-title lang="fr">The Chilli Rocket</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Série TV</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~07419b70791d217c.jpg/640x360/quality/80/supertato.jpg" />
+<episode-num system="xmltv_ns">0.20.</episode-num>
+</programme>
+<programme start="20230603095500 +0200" stop="20230603100000 +0200" channel="BBC2.uk">
+<title lang="fr">Newsround</title>
+<sub-title lang="fr">Saving Sea Turtles and Spongebob Musical</sub-title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Autre</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~028630527d66847e.jpg/640x360/quality/80/newsround.jpg" />
+</programme>
+<programme start="20230603172000 +0200" stop="20230603181000 +0200" channel="BBC2.uk">
+<title lang="fr">Flog It !</title>
+<sub-title lang="fr">Muncaster Castle 29</sub-title>
+<desc lang="fr">
+Avec :
+Paul Martin (Présentateur)</desc>
+<category lang="fr">Autre</category>
+<icon src="https://www.programme-tv.net/imgre/fit/~2~program~945106084ce6227b.jpg/640x360/quality/80/flog-it.jpg" />
+</programme>
+<programme start="20230603235500 +0200" stop="20230604011500 +0200" channel="BBC2.uk">
+<title lang="fr">Prince and the Revolution</title>
+<desc lang="fr">Aucune description</desc>
+<category lang="fr">Culture Infos</category>
+</programme>
